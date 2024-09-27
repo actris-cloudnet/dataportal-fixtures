@@ -1,0 +1,925 @@
+[
+  {
+    "id": "radar-Zh",
+    "humanReadableName": "Radar reflectivity factor",
+    "order": 0,
+    "product": "radar",
+    "actrisName": null
+  },
+  {
+    "id": "radar-v",
+    "humanReadableName": "Doppler velocity",
+    "order": 1,
+    "product": "radar",
+    "actrisName": null
+  },
+  {
+    "id": "radar-width",
+    "humanReadableName": "Spectral width",
+    "order": 2,
+    "product": "radar",
+    "actrisName": null
+  },
+  {
+    "id": "radar-ldr",
+    "humanReadableName": "Linear depolarisation ratio",
+    "order": 3,
+    "product": "radar",
+    "actrisName": null
+  },
+  {
+    "id": "radar-zdr",
+    "humanReadableName": "Differential reflectivity",
+    "order": 4,
+    "product": "radar",
+    "actrisName": null
+  },
+  {
+    "id": "radar-sldr",
+    "humanReadableName": "Slanted linear depolarisation ratio",
+    "order": 5,
+    "product": "radar",
+    "actrisName": null
+  },
+  {
+    "id": "radar-rho_hv",
+    "humanReadableName": "Correlation coefficient",
+    "order": 6,
+    "product": "radar",
+    "actrisName": null
+  },
+  {
+    "id": "radar-srho_hv",
+    "humanReadableName": "Slanted correlation coefficient",
+    "order": 7,
+    "product": "radar",
+    "actrisName": null
+  },
+  {
+    "id": "radar-rho_cx",
+    "humanReadableName": "Co-cross-channel correlation coefficient",
+    "order": 8,
+    "product": "radar",
+    "actrisName": null
+  },
+  {
+    "id": "radar-lwp",
+    "humanReadableName": "Liquid water path",
+    "order": 9,
+    "product": "radar",
+    "actrisName": "liquid droplet total column mass content"
+  },
+  {
+    "id": "radar-rainfall_rate",
+    "humanReadableName": "Rainfall rate",
+    "order": 10,
+    "product": "radar",
+    "actrisName": null
+  },
+  {
+    "id": "lidar-beta",
+    "humanReadableName": "Attenuated backscatter coefficient",
+    "order": 0,
+    "product": "lidar",
+    "actrisName": "atmosphere calibrated attenuated backscattered lidar signal"
+  },
+  {
+    "id": "lidar-beta_raw",
+    "humanReadableName": "Non-screened attenuated backscatter coefficient",
+    "order": 1,
+    "product": "lidar",
+    "actrisName": null
+  },
+  {
+    "id": "lidar-depolarisation",
+    "humanReadableName": "Uncalibrated lidar volume linear depolarisation ratio",
+    "order": 2,
+    "product": "lidar",
+    "actrisName": null
+  },
+  {
+    "id": "lidar-depolarisation_raw",
+    "humanReadableName": "Non-screened uncalibrated lidar volume linear depolarisation ratio",
+    "order": 3,
+    "product": "lidar",
+    "actrisName": null
+  },
+  {
+    "id": "lidar-beta_1064",
+    "humanReadableName": "Attenuated backscatter coefficient at 1064 nm",
+    "order": 4,
+    "product": "lidar",
+    "actrisName": null
+  },
+  {
+    "id": "lidar-beta_532",
+    "humanReadableName": "Attenuated backscatter coefficient at 532 nm",
+    "order": 5,
+    "product": "lidar",
+    "actrisName": null
+  },
+  {
+    "id": "lidar-beta_355",
+    "humanReadableName": "Attenuated backscatter coefficient at 355 nm",
+    "order": 6,
+    "product": "lidar",
+    "actrisName": null
+  },
+  {
+    "id": "lidar-depolarisation_532",
+    "humanReadableName": "Lidar volume linear depolarisation ratio at 532 nm",
+    "order": 7,
+    "product": "lidar",
+    "actrisName": null
+  },
+  {
+    "id": "lidar-depolarisation_355",
+    "humanReadableName": "Lidar volume linear depolarisation ratio at 355 nm",
+    "order": 8,
+    "product": "lidar",
+    "actrisName": null
+  },
+  {
+    "id": "doppler-lidar-beta",
+    "humanReadableName": "Attenuated backscatter coefficient",
+    "order": 0,
+    "product": "doppler-lidar",
+    "actrisName": "atmosphere calibrated attenuated backscattered lidar signal"
+  },
+  {
+    "id": "doppler-lidar-beta_raw",
+    "humanReadableName": "Non-screened attenuated backscatter coefficient",
+    "order": 1,
+    "product": "doppler-lidar",
+    "actrisName": null
+  },
+  {
+    "id": "doppler-lidar-depolarisation",
+    "humanReadableName": "Uncalibrated lidar volume linear depolarisation ratio",
+    "order": 2,
+    "product": "doppler-lidar",
+    "actrisName": null
+  },
+  {
+    "id": "doppler-lidar-depolarisation_raw",
+    "humanReadableName": "Non-screened uncalibrated lidar volume linear depolarisation ratio",
+    "order": 3,
+    "product": "doppler-lidar",
+    "actrisName": null
+  },
+  {
+    "id": "doppler-lidar-v",
+    "humanReadableName": "Doppler velocity",
+    "order": 4,
+    "product": "doppler-lidar",
+    "actrisName": null
+  },
+  {
+    "id": "doppler-lidar-wind-uwind",
+    "humanReadableName": "Zonal wind",
+    "order": 0,
+    "product": "doppler-lidar-wind",
+    "actrisName": null
+  },
+  {
+    "id": "doppler-lidar-wind-vwind",
+    "humanReadableName": "Meridional wind",
+    "order": 1,
+    "product": "doppler-lidar-wind",
+    "actrisName": null
+  },
+  {
+    "id": "doppler-lidar-wind-uwind_raw",
+    "humanReadableName": "Non-screened zonal wind",
+    "order": 2,
+    "product": "doppler-lidar-wind",
+    "actrisName": null
+  },
+  {
+    "id": "doppler-lidar-wind-vwind_raw",
+    "humanReadableName": "Non-screened meridional wind",
+    "order": 3,
+    "product": "doppler-lidar-wind",
+    "actrisName": null
+  },
+  {
+    "id": "categorize-voodoo-v",
+    "humanReadableName": "Doppler velocity",
+    "order": 0,
+    "product": "categorize-voodoo",
+    "actrisName": null
+  },
+  {
+    "id": "categorize-voodoo-liquid_prob",
+    "humanReadableName": "Probability of mixed-phase cloud",
+    "order": 1,
+    "product": "categorize-voodoo",
+    "actrisName": null
+  },
+  {
+    "id": "categorize-Z",
+    "humanReadableName": "Radar reflectivity factor",
+    "order": 0,
+    "product": "categorize",
+    "actrisName": null
+  },
+  {
+    "id": "categorize-v",
+    "humanReadableName": "Doppler velocity",
+    "order": 1,
+    "product": "categorize",
+    "actrisName": null
+  },
+  {
+    "id": "categorize-width",
+    "humanReadableName": "Spectral width",
+    "order": 2,
+    "product": "categorize",
+    "actrisName": null
+  },
+  {
+    "id": "categorize-ldr",
+    "humanReadableName": "Linear depolarisation ratio",
+    "order": 3,
+    "product": "categorize",
+    "actrisName": null
+  },
+  {
+    "id": "categorize-sldr",
+    "humanReadableName": "Slanted linear depolarisation ratio",
+    "order": 4,
+    "product": "categorize",
+    "actrisName": null
+  },
+  {
+    "id": "categorize-v_sigma",
+    "humanReadableName": "Standard deviation of mean velocity",
+    "order": 5,
+    "product": "categorize",
+    "actrisName": null
+  },
+  {
+    "id": "categorize-Z_error",
+    "humanReadableName": "Radar reflectivity factor error",
+    "order": 6,
+    "product": "categorize",
+    "actrisName": null
+  },
+  {
+    "id": "categorize-beta",
+    "humanReadableName": "Attenuated backscatter coefficient",
+    "order": 7,
+    "product": "categorize",
+    "actrisName": "atmosphere calibrated attenuated backscattered lidar signal"
+  },
+  {
+    "id": "categorize-Tw",
+    "humanReadableName": "Wet-bulb temperature",
+    "order": 8,
+    "product": "categorize",
+    "actrisName": null
+  },
+  {
+    "id": "categorize-lwp",
+    "humanReadableName": "Liquid water path",
+    "order": 9,
+    "product": "categorize",
+    "actrisName": "liquid droplet total column mass content"
+  },
+  {
+    "id": "categorize-rainfall_rate",
+    "humanReadableName": "Rainfall rate",
+    "order": 10,
+    "product": "categorize",
+    "actrisName": null
+  },
+  {
+    "id": "categorize-radar_gas_atten",
+    "humanReadableName": "Two-way radar attenuation due to atmospheric gases",
+    "order": 11,
+    "product": "categorize",
+    "actrisName": null
+  },
+  {
+    "id": "categorize-radar_liquid_atten",
+    "humanReadableName": "Approximate two-way radar attenuation due to liquid water",
+    "order": 12,
+    "product": "categorize",
+    "actrisName": null
+  },
+  {
+    "id": "categorize-radar_rain_atten",
+    "humanReadableName": "Approximate two-way radar attenuation due to rain",
+    "order": 13,
+    "product": "categorize",
+    "actrisName": null
+  },
+  {
+    "id": "categorize-radar_melting_atten",
+    "humanReadableName": "Approximate two-way radar attenuation due to melting layer",
+    "order": 14,
+    "product": "categorize",
+    "actrisName": null
+  },
+  {
+    "id": "classification-target_classification",
+    "humanReadableName": "Target classification",
+    "order": 0,
+    "product": "classification",
+    "actrisName": "hydrometeor type classification"
+  },
+  {
+    "id": "classification-detection_status",
+    "humanReadableName": "Radar and lidar detection status",
+    "order": 1,
+    "product": "classification",
+    "actrisName": null
+  },
+  {
+    "id": "classification-voodoo-target_classification",
+    "humanReadableName": "Target classification",
+    "order": 0,
+    "product": "classification-voodoo",
+    "actrisName": "hydrometeor type classification"
+  },
+  {
+    "id": "classification-voodoo-detection_status",
+    "humanReadableName": "Radar and lidar detection status",
+    "order": 1,
+    "product": "classification-voodoo",
+    "actrisName": null
+  },
+  {
+    "id": "iwc-iwc",
+    "humanReadableName": "Ice water content",
+    "order": 0,
+    "product": "iwc",
+    "actrisName": "ice particle mass concentration"
+  },
+  {
+    "id": "iwc-iwc_retrieval_status",
+    "humanReadableName": "Ice water content retrieval status",
+    "order": 1,
+    "product": "iwc",
+    "actrisName": null
+  },
+  {
+    "id": "iwc-iwc_error",
+    "humanReadableName": "Ice water content error",
+    "order": 2,
+    "product": "iwc",
+    "actrisName": null
+  },
+  {
+    "id": "lwc-lwc",
+    "humanReadableName": "Liquid water content",
+    "order": 0,
+    "product": "lwc",
+    "actrisName": "liquid droplet mass concentration"
+  },
+  {
+    "id": "lwc-lwc_retrieval_status",
+    "humanReadableName": "Liquid water content retrieval status",
+    "order": 1,
+    "product": "lwc",
+    "actrisName": null
+  },
+  {
+    "id": "lwc-lwc_error",
+    "humanReadableName": "Liquid water content error",
+    "order": 2,
+    "product": "lwc",
+    "actrisName": null
+  },
+  {
+    "id": "drizzle-Do",
+    "humanReadableName": "Drizzle median diameter",
+    "order": 0,
+    "product": "drizzle",
+    "actrisName": "drizzle droplet equivolumetric median diameter"
+  },
+  {
+    "id": "drizzle-mu",
+    "humanReadableName": "Drizzle droplet size distribution shape parameter",
+    "order": "1",
+    "product": "drizzle",
+    "actrisName": null
+  },
+  {
+    "id": "drizzle-drizzle_N",
+    "humanReadableName": "Drizzle number concentration",
+    "order": 2,
+    "product": "drizzle",
+    "actrisName": "drizzle droplet number concentration"
+  },
+  {
+    "id": "drizzle-S",
+    "humanReadableName": "Backscatter-to-extinction ratio",
+    "order": "3",
+    "product": "drizzle",
+    "actrisName": null
+  },
+  {
+    "id": "drizzle-drizzle_lwc",
+    "humanReadableName": "Drizzle liquid water content",
+    "order": "4",
+    "product": "drizzle",
+    "actrisName": "drizzle droplet mass concentration"
+  },
+  {
+    "id": "drizzle-drizzle_lwf",
+    "humanReadableName": "Drizzle liquid water flux",
+    "order": "5",
+    "product": "drizzle",
+    "actrisName": "drizzle droplet mass vertical flux"
+  },
+  {
+    "id": "drizzle-v_drizzle",
+    "humanReadableName": "Drizzle droplet fall velocity",
+    "order": "6",
+    "product": "drizzle",
+    "actrisName": null
+  },
+  {
+    "id": "drizzle-v_air",
+    "humanReadableName": "Vertical air velocity",
+    "order": "7",
+    "product": "drizzle",
+    "actrisName": "air vertical velocity"
+  },
+  {
+    "id": "ier-ier",
+    "humanReadableName": "Ice effective radius",
+    "order": 0,
+    "product": "ier",
+    "actrisName": null
+  },
+  {
+    "id": "ier-ier_retrieval_status",
+    "humanReadableName": "Ice effective radius retrieval status",
+    "order": 1,
+    "product": "ier",
+    "actrisName": null
+  },
+  {
+    "id": "ier-ier_error",
+    "humanReadableName": "Ice effective radius error",
+    "order": 2,
+    "product": "ier",
+    "actrisName": null
+  },
+  {
+    "id": "der-der",
+    "humanReadableName": "Droplet effective radius",
+    "order": 0,
+    "product": "der",
+    "actrisName": null
+  },
+  {
+    "id": "der-der_retrieval_status",
+    "humanReadableName": "Droplet effective radius retrieval status",
+    "order": 1,
+    "product": "der",
+    "actrisName": null
+  },
+  {
+    "id": "der-der_error",
+    "humanReadableName": "Droplet effective radius error",
+    "order": 2,
+    "product": "der",
+    "actrisName": null
+  },
+  {
+    "id": "model-cloud_fraction",
+    "humanReadableName": "Cloud fraction",
+    "order": 0,
+    "product": "model",
+    "actrisName": "cloud area fraction"
+  },
+  {
+    "id": "model-uwind",
+    "humanReadableName": "Model zonal wind",
+    "order": 1,
+    "product": "model",
+    "actrisName": "air horizontal eastward velocity"
+  },
+  {
+    "id": "model-vwind",
+    "humanReadableName": "Model meridional wind",
+    "order": 2,
+    "product": "model",
+    "actrisName": "air horizontal northward velocity"
+  },
+  {
+    "id": "model-temperature",
+    "humanReadableName": "Model temperature",
+    "order": 3,
+    "product": "model",
+    "actrisName": "air temperature"
+  },
+  {
+    "id": "model-q",
+    "humanReadableName": "Model specific humidity",
+    "order": 4,
+    "product": "model",
+    "actrisName": "air humidity"
+  },
+  {
+    "id": "model-pressure",
+    "humanReadableName": "Model pressure",
+    "order": 5,
+    "product": "model",
+    "actrisName": "air pressure"
+  },
+  {
+    "id": "mwr-lwp",
+    "humanReadableName": "Liquid water path",
+    "order": 0,
+    "product": "mwr",
+    "actrisName": "liquid droplet total column mass content"
+  },
+  {
+    "id": "mwr-iwv",
+    "humanReadableName": "Integrated water vapour",
+    "order": 1,
+    "product": "mwr",
+    "actrisName": "water vapour total column content"
+  },
+  {
+    "id": "mwr-multi-relative_humidity",
+    "humanReadableName": "Relative humidity",
+    "order": 0,
+    "product": "mwr-multi"
+  },
+  {
+    "id": "mwr-multi-temperature",
+    "humanReadableName": "Air temperature",
+    "order": 1,
+    "product": "mwr-multi",
+    "actrisName": "air temperature"
+  },
+  {
+    "id": "mwr-multi-potential_temperature",
+    "humanReadableName": "Potential temperature",
+    "order": 2,
+    "product": "mwr-multi",
+    "actrisName": null
+  },
+  {
+    "id": "mwr-multi-equivalent_potential_temperature",
+    "humanReadableName": "Equivalent potential temperature",
+    "order": 3,
+    "product": "mwr-multi"
+  },
+  {
+    "id": "mwr-single-lwp",
+    "humanReadableName": "Liquid water path",
+    "order": 0,
+    "product": "mwr-single",
+    "actrisName": "liquid droplet total column mass content"
+  },
+  {
+    "id": "mwr-single-iwv",
+    "humanReadableName": "Integrated water vapour",
+    "order": 1,
+    "product": "mwr-single",
+    "actrisName": "water vapour total column content"
+  },
+  {
+    "id": "mwr-single-relative_humidity",
+    "humanReadableName": "Relative humidity",
+    "order": 2,
+    "product": "mwr-single"
+  },
+  {
+    "id": "mwr-single-absolute_humidity",
+    "humanReadableName": "Absolute humidity",
+    "order": 3,
+    "product": "mwr-single"
+  },
+  {
+    "id": "mwr-single-temperature",
+    "humanReadableName": "Air temperature",
+    "order": 4,
+    "product": "mwr-single",
+    "actrisName": "air temperature"
+  },
+  {
+    "id": "mwr-single-potential_temperature",
+    "humanReadableName": "Potential temperature",
+    "order": 5,
+    "product": "mwr-single"
+  },
+  {
+    "id": "mwr-single-equivalent_potential_temperature",
+    "humanReadableName": "Equivalent potential temperature",
+    "order": 6,
+    "product": "mwr-single"
+  },
+  {
+    "id": "mwr-l1c-tb_0",
+    "humanReadableName": "Brightness temperature (channel 1)",
+    "order": 0,
+    "product": "mwr-l1c"
+  },
+  {
+    "id": "mwr-l1c-tb_01",
+    "humanReadableName": "Brightness temperature (channel 2)",
+    "order": 1,
+    "product": "mwr-l1c"
+  },
+  {
+    "id": "mwr-l1c-tb_02",
+    "humanReadableName": "Brightness temperature (channel 3)",
+    "order": 2,
+    "product": "mwr-l1c"
+  },
+  {
+    "id": "mwr-l1c-tb_03",
+    "humanReadableName": "Brightness temperature (channel 4)",
+    "order": 3,
+    "product": "mwr-l1c"
+  },
+  {
+    "id": "mwr-l1c-tb_04",
+    "humanReadableName": "Brightness temperature (channel 5)",
+    "order": 4,
+    "product": "mwr-l1c"
+  },
+  {
+    "id": "mwr-l1c-tb_05",
+    "humanReadableName": "Brightness temperature (channel 6)",
+    "order": 5,
+    "product": "mwr-l1c"
+  },
+  {
+    "id": "mwr-l1c-tb_06",
+    "humanReadableName": "Brightness temperature (channel 7)",
+    "order": 6,
+    "product": "mwr-l1c"
+  },
+  {
+    "id": "mwr-l1c-tb_07",
+    "humanReadableName": "Brightness temperature (channel 8)",
+    "order": 7,
+    "product": "mwr-l1c"
+  },
+  {
+    "id": "mwr-l1c-tb_08",
+    "humanReadableName": "Brightness temperature (channel 9)",
+    "order": 8,
+    "product": "mwr-l1c"
+  },
+  {
+    "id": "mwr-l1c-tb_09",
+    "humanReadableName": "Brightness temperature (channel 10)",
+    "order": 9,
+    "product": "mwr-l1c"
+  },
+  {
+    "id": "mwr-l1c-tb_10",
+    "humanReadableName": "Brightness temperature (channel 11)",
+    "order": 10,
+    "product": "mwr-l1c"
+  },
+  {
+    "id": "mwr-l1c-tb_11",
+    "humanReadableName": "Brightness temperature (channel 12)",
+    "order": 11,
+    "product": "mwr-l1c"
+  },
+  {
+    "id": "mwr-l1c-tb_12",
+    "humanReadableName": "Brightness temperature (channel 13)",
+    "order": 12,
+    "product": "mwr-l1c"
+  },
+  {
+    "id": "mwr-l1c-tb_13",
+    "humanReadableName": "Brightness temperature (channel 14)",
+    "order": 13,
+    "product": "mwr-l1c"
+  },
+  {
+    "id": "mwr-l1c-irt_0",
+    "humanReadableName": "Infrared brightness temperature (channel 1)",
+    "order": 14,
+    "product": "mwr-l1c"
+  },
+  {
+    "id": "mwr-l1c-irt_01",
+    "humanReadableName": "Infrared brightness temperature (channel 2)",
+    "order": 15,
+    "product": "mwr-l1c"
+  },
+  {
+    "id": "disdrometer-rainfall_rate",
+    "humanReadableName": "Rainfall rate",
+    "order": 0,
+    "product": "disdrometer",
+    "actrisName": null
+  },
+  {
+    "id": "disdrometer-snowfall_rate",
+    "humanReadableName": "Snowfall rate",
+    "order": 1,
+    "product": "disdrometer",
+    "actrisName": null
+  },
+  {
+    "id": "disdrometer-n_particles",
+    "humanReadableName": "Number of particles",
+    "order": 2,
+    "product": "disdrometer",
+    "actrisName": null
+  },
+  {
+    "id": "disdrometer-number_concentration",
+    "humanReadableName": "Number of particles per diameter class",
+    "order": 3,
+    "product": "disdrometer",
+    "actrisName": "raindrop number size distribution"
+  },
+  {
+    "id": "disdrometer-fall_velocity",
+    "humanReadableName": "Average velocity of each diameter class",
+    "order": 4,
+    "product": "disdrometer",
+    "actrisName": null
+  },
+  {
+    "id": "weather-station-air_temperature",
+    "humanReadableName": "Air temperature",
+    "order": 0,
+    "product": "weather-station",
+    "actrisName": "air temperature"
+  },
+  {
+    "id": "weather-station-air_pressure",
+    "humanReadableName": "Air pressure",
+    "order": 1,
+    "product": "weather-station",
+    "actrisName": "air pressure"
+  },
+  {
+    "id": "weather-station-relative_humidity",
+    "humanReadableName": "Relative humidity",
+    "order": 2,
+    "product": "weather-station",
+    "actrisName": null
+  },
+  {
+    "id": "weather-station-wind_speed",
+    "humanReadableName": "Wind speed",
+    "order": 3,
+    "product": "weather-station",
+    "actrisName": null
+  },
+  {
+    "id": "weather-station-wind_direction",
+    "humanReadableName": "Wind direction",
+    "order": 4,
+    "product": "weather-station",
+    "actrisName": null
+  },
+  {
+    "id": "weather-station-rainfall_rate",
+    "humanReadableName": "Rainfall rate",
+    "order": 5,
+    "product": "weather-station",
+    "actrisName": null
+  },
+  {
+    "id": "weather-station-rainfall_amount",
+    "humanReadableName": "Rainfall amount",
+    "order": 6,
+    "product": "weather-station",
+    "actrisName": null
+  },
+  {
+    "id": "rain-radar-Zh",
+    "humanReadableName": "Radar reflectivity factor",
+    "order": 0,
+    "product": "rain-radar",
+    "actrisName": null
+  },
+  {
+    "id": "rain-radar-v",
+    "humanReadableName": "Doppler velocity",
+    "order": 1,
+    "product": "rain-radar",
+    "actrisName": null
+  },
+  {
+    "id": "rain-radar-width",
+    "humanReadableName": "Spectral width",
+    "order": 2,
+    "product": "rain-radar",
+    "actrisName": null
+  },
+  {
+    "id": "rain-radar-pia",
+    "humanReadableName": "Path integrated rain attenuation",
+    "order": 3,
+    "product": "rain-radar",
+    "actrisName": null
+  },
+  {
+    "id": "rain-radar-lwc",
+    "humanReadableName": "Liquid water content",
+    "order": 4,
+    "product": "rain-radar",
+    "actrisName": null
+  },
+  {
+    "id": "rain-radar-rainfall_rate",
+    "humanReadableName": "Rainfall rate",
+    "order": 5,
+    "product": "rain-radar",
+    "actrisName": null
+  },
+  {
+    "id": "l3-cf-ecmwf_cf",
+    "humanReadableName": "Cloud fraction: ECMWF",
+    "order": 2,
+    "product": "l3-cf",
+    "actrisName": "cloud volume fraction"
+  },
+  {
+    "id": "l3-cf-cf_V_ecmwf",
+    "humanReadableName": "Cloud fraction: Obs",
+    "order": 3,
+    "product": "l3-cf",
+    "actrisName": "cloud volume fraction"
+  },
+  {
+    "id": "l3-iwc-ecmwf_iwc",
+    "humanReadableName": "Ice water content: ECMWF",
+    "order": 2,
+    "product": "l3-iwc",
+    "actrisName": "ice particle mass concentration"
+  },
+  {
+    "id": "l3-iwc-iwc_ecmwf",
+    "humanReadableName": "Ice water content: Obs",
+    "order": 3,
+    "product": "l3-iwc",
+    "actrisName": "ice particle mass concentration"
+  },
+  {
+    "id": "l3-lwc-ecmwf_lwc",
+    "humanReadableName": "Liquid water content: ECMWF",
+    "order": 2,
+    "product": "l3-lwc",
+    "actrisName": "liquid droplet mass concentration"
+  },
+  {
+    "id": "l3-lwc-lwc_ecmwf",
+    "humanReadableName": "Liquid water content: Obs",
+    "order": 3,
+    "product": "l3-lwc",
+    "actrisName": "liquid droplet mass concentration"
+  },
+  {
+    "id": "l3-cf-area",
+    "humanReadableName": "Cloud fraction: Obs vs ECMWF",
+    "order": 0,
+    "product": "l3-cf",
+    "actrisName": "cloud volume fraction"
+  },
+  {
+    "id": "l3-iwc-area",
+    "humanReadableName": "Ice cloud: Obs vs ECMWF",
+    "order": 0,
+    "product": "l3-iwc",
+    "actrisName": null
+  },
+  {
+    "id": "l3-lwc-area",
+    "humanReadableName": "Liquid cloud: Obs vs ECMWF",
+    "order": 0,
+    "product": "l3-lwc",
+    "actrisName": null
+  },
+  {
+    "id": "l3-cf-error",
+    "humanReadableName": "Cloud fraction: Obs vs ECMWF - difference",
+    "order": 1,
+    "product": "l3-cf",
+    "actrisName": null
+  },
+  {
+    "id": "l3-iwc-error",
+    "humanReadableName": "Ice cloud: Obs vs ECMWF - difference",
+    "order": 1,
+    "product": "l3-iwc",
+    "actrisName": null
+  },
+  {
+    "id": "l3-lwc-error",
+    "humanReadableName": "Liquid cloud: Obs vs ECMWF - difference",
+    "order": 1,
+    "product": "l3-lwc",
+    "actrisName": null
+  }
+]

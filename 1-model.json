@@ -1,0 +1,92 @@
+[
+  {
+    "id": "ecmwf",
+    "humanReadableName": "ECMWF IFS forecast",
+    "optimumOrder": 0,
+    "citations": [{ "id": "ecmwf_cite" }]
+  },
+  {
+    "id": "era5-1-12",
+    "humanReadableName": "ERA5 (1h-12h forecast)",
+    "optimumOrder": 1,
+    "citations": [{ "id": "ecmwf-era5_cite" }]
+  },
+  {
+    "id": "era5-7-18",
+    "humanReadableName": "ERA5 (7h-18h forecast)",
+    "optimumOrder": 2,
+    "citations": [{ "id": "ecmwf-era5_cite" }]
+  },
+  {
+    "id": "era5-analysis",
+    "humanReadableName": "ERA5 analysis",
+    "optimumOrder": 2,
+    "citations": [{ "id": "ecmwf-era5_cite" }]
+  },
+  {
+    "id": "icon-iglo-0-11",
+    "humanReadableName": "ICON-IGLO (0h-11h forecast)",
+    "optimumOrder": 2,
+    "citations": [{ "id": "dwd_cite" }]
+  },
+  {
+    "id": "icon-iglo-12-23",
+    "humanReadableName": "ICON-IGLO (12h-23h forecast)",
+    "optimumOrder": 1,
+    "citations": [{ "id": "dwd_cite" }]
+  },
+  {
+    "id": "icon-iglo-24-35",
+    "humanReadableName": "ICON-IGLO (24h-35h forecast)",
+    "optimumOrder": 2,
+    "citations": [{ "id": "dwd_cite" }]
+  },
+  {
+    "id": "icon-iglo-36-47",
+    "humanReadableName": "ICON-IGLO (36h-47h forecast)",
+    "optimumOrder": 2,
+    "citations": [{ "id": "dwd_cite" }]
+  },
+  {
+    "id": "icon-iglo-48-59",
+    "humanReadableName": "ICON-IGLO (48h-59h forecast)",
+    "optimumOrder": 2,
+    "citations": [{ "id": "dwd_cite" }]
+  },
+  {
+    "id": "icon-iglo-60-71",
+    "humanReadableName": "ICON-IGLO (60h-71h forecast)",
+    "optimumOrder": 2,
+    "citations": [{ "id": "dwd_cite" }]
+  },
+  {
+    "id": "harmonie-fmi-0-5",
+    "humanReadableName": "HARMONIE-AROME (0h-5h forecast)",
+    "optimumOrder": 2,
+    "citations": [{ "id": "fmi_cite" }]
+  },
+  {
+    "id": "harmonie-fmi-6-11",
+    "humanReadableName": "HARMONIE-AROME (6h-11h forecast)",
+    "optimumOrder": 1,
+    "citations": [{ "id": "fmi_cite" }]
+  },
+  {
+    "id": "harmonie-fmi-12-17",
+    "humanReadableName": "HARMONIE-AROME (12h-17h forecast)",
+    "optimumOrder": 2,
+    "citations": [{ "id": "fmi_cite" }]
+  },
+  {
+    "id": "harmonie-fmi-18-23",
+    "humanReadableName": "HARMONIE-AROME (18h-23h forecast)",
+    "optimumOrder": 2,
+    "citations": [{ "id": "fmi_cite" }]
+  },
+  {
+    "id": "gdas1",
+    "humanReadableName": "Global Data Assimilation System (GDAS1)",
+    "optimumOrder": 3,
+    "citations": [{ "id": "gdas_cite" }]
+  }
+]

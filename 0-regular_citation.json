@@ -1,0 +1,54 @@
+[
+  {
+    "id": "norunda_cite",
+    "acknowledgements": "The measurements at Norunda were also supported by ICOS Sweden."
+  },
+  {
+    "id": "ny-alesund_cite",
+    "acknowledgements": "The cloud radar data for Ny-Ålesund was provided by the University of Cologne, the ceilometer and microwave radiometer data by the Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research. We thank the staff of AWIPEV research base in Ny-Ålesund for technical support of the measurements. We gratefully acknowledge the funding by the Deutsche Forschungsgemeinschaft DFG (German Research Foundation) - project number 268020496 - TRR 172, within the \"Transregional Collaborative Research Center 'ArctiC Amplification: Climate Relevant Atmospheric and SurfaCe Processes, and Feedback Mechanisms (AC)3'\"."
+  },
+  {
+    "id": "punta-arenas_cite",
+    "acknowledgements": "The measurements from Punta Arenas were produced by the Leibniz Institute for Tropospheric Research using resources provided by the Finnish Meteorological Institute and acquired in the framework of the field experiment Dynamics, Aerosol, Clouds and Precipitation Observations in the Pristine Environment of the Southern Ocean (DACAPO-PESO), a research initiative from the Leibniz Institute for Tropospheric Research, Leipzig, Germany, in joint collaboration with the University of Magallanes, Punta Arenas, Chile, and the University of Leipzig, Leipzig, Germany."
+  },
+  {
+    "id": "esa_cite",
+    "acknowledgements": "Measurements were supported by the European Space Agency through the FRM4RADAR project (ESA Contract No. 4000122916/17/I-EF)."
+  },
+  {
+    "id": "arm_cite",
+    "acknowledgements": "The measurements from the ARM sites were obtained from the Atmospheric Radiation Measurement (ARM) user facility, managed by the Office of Biological and Environmental Research for the U.S. Department of Energy Office of Science."
+  },
+  {
+    "id": "eureka_cite",
+    "acknowledgements": "The measurements at Eureka were obtained from NOAA Earth System Research Laboratory and the Canadian Network for the Detection of Arctic Change (CANDAC)."
+  },
+  {
+    "id": "oden_cite",
+    "acknowledgements": "We are grateful to the Swedish Polar Research Secretariat and to the two captains and crews of Oden for logistics support. The radiosounding system, Halo lidar, and HATPRO radiometer were supplied by the National Centre for Atmospheric Science (NCAS) Atmospheric Measurement Facility."
+  },
+  {
+    "id": "summit_cite",
+    "acknowledgements": "The measurements for the Summit Station were obtained from NOAA; overall programmatical and logistical support were provided by the US National Science Foundation, with additional instrumental support provided by the NOAA Earth System Research Laboratories, the DOE Atmospheric Radiation Measurement Program, and Environment Canada."
+  },
+  {
+    "id": "uae_cite",
+    "acknowledgements": "The measurements at Al Dhaid were supported by the National Center of Meteorology, Abu Dhabi, UAE, under the UAE Research Program for Rain Enhancement Science."
+  },
+  {
+    "id": "rv-polarstern_cite",
+    "acknowledgements": ""
+  },
+  {
+    "id": "neumayer_cite",
+    "acknowledgements": ""
+  },
+  {
+    "id": "warsaw_cite",
+    "acknowledgements": ""
+  },
+  {
+    "id": "galati_cite",
+    "acknowledgements": ""
+  }
+]

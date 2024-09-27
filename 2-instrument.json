@@ -1,0 +1,242 @@
+[
+  {
+    "id": "mira-10",
+    "type": "radar",
+    "humanReadableName": "METEK MIRA-10 cloud radar",
+    "shortName": "MIRA-10 cloud radar",
+    "derivedProducts": [{ "id": "radar" }]
+  },
+  {
+    "id": "mira-35",
+    "type": "radar",
+    "humanReadableName": "METEK MIRA-35 cloud radar",
+    "shortName": "MIRA-35 cloud radar",
+    "derivedProducts": [{ "id": "radar" }]
+  },
+  {
+    "id": "rpg-fmcw-94",
+    "type": "radar",
+    "humanReadableName": "RPG-Radiometer Physics RPG-FMCW-94 cloud radar",
+    "shortName": "RPG-FMCW-94 cloud radar",
+    "derivedProducts": [{ "id": "radar" }]
+  },
+  {
+    "id": "rpg-fmcw-35",
+    "type": "radar",
+    "humanReadableName": "RPG-Radiometer Physics RPG-FMCW-35 cloud radar",
+    "shortName": "RPG-FMCW-35 cloud radar",
+    "derivedProducts": [{ "id": "radar" }]
+  },
+  {
+    "id": "ld40",
+    "type": "lidar",
+    "humanReadableName": "Vaisala LD40 ceilometer",
+    "shortName": "LD40 ceilometer",
+    "derivedProducts": [{ "id": "lidar" }]
+  },
+  {
+    "id": "ct25k",
+    "type": "lidar",
+    "humanReadableName": "Vaisala CT25K ceilometer",
+    "shortName": "CT25K ceilometer",
+    "derivedProducts": [{ "id": "lidar" }]
+  },
+  {
+    "id": "cl31",
+    "type": "lidar",
+    "humanReadableName": "Vaisala CL31 ceilometer",
+    "shortName": "CL31 ceilometer",
+    "derivedProducts": [{ "id": "lidar" }]
+  },
+  {
+    "id": "cl51",
+    "type": "lidar",
+    "humanReadableName": "Vaisala CL51 ceilometer",
+    "shortName": "CL51 ceilometer",
+    "derivedProducts": [{ "id": "lidar" }]
+  },
+  {
+    "id": "cl61d",
+    "type": "lidar",
+    "humanReadableName": "Vaisala CL61 ceilometer",
+    "shortName": "CL61 ceilometer",
+    "derivedProducts": [{ "id": "lidar" }]
+  },
+  {
+    "id": "chm15k",
+    "type": "lidar",
+    "humanReadableName": "Lufft CHM 15k ceilometer",
+    "shortName": "CHM 15k ceilometer",
+    "derivedProducts": [{ "id": "lidar" }]
+  },
+  {
+    "id": "chm15kx",
+    "type": "lidar",
+    "humanReadableName": "Lufft CHM 15k-x ceilometer",
+    "shortName": "CHM 15k-x ceilometer",
+    "derivedProducts": [{ "id": "lidar" }]
+  },
+  {
+    "id": "hatpro",
+    "type": "mwr",
+    "humanReadableName": "RPG-Radiometer Physics HATPRO microwave radiometer",
+    "shortName": "HATPRO microwave radiometer",
+    "derivedProducts": [{ "id": "mwr" }, { "id": "mwr-l1c" }]
+  },
+  {
+    "id": "radiometrics",
+    "type": "mwr",
+    "humanReadableName": "Radiometrics microwave radiometer",
+    "shortName": "Radiometrics microwave radiometer",
+    "derivedProducts": [{ "id": "mwr" }]
+  },
+  {
+    "id": "copernicus",
+    "type": "radar",
+    "humanReadableName": "RAL Copernicus 35-GHz cloud radar",
+    "shortName": "Copernicus cloud radar",
+    "derivedProducts": [{ "id": "radar" }]
+  },
+  {
+    "id": "galileo",
+    "type": "radar",
+    "humanReadableName": "RAL Galileo 94-GHz cloud radar",
+    "shortName": "Galileo cloud radar",
+    "derivedProducts": [{ "id": "radar" }]
+  },
+  {
+    "id": "basta",
+    "type": "radar",
+    "humanReadableName": "BASTA 95-GHz cloud radar",
+    "shortName": "BASTA cloud radar",
+    "derivedProducts": [{ "id": "radar" }]
+  },
+  {
+    "id": "rasta",
+    "type": "radar",
+    "humanReadableName": "RASTA 95-GHz cloud radar",
+    "shortName": "RASTA cloud radar",
+    "derivedProducts": [{ "id": "radar" }]
+  },
+  {
+    "id": "halo-doppler-lidar",
+    "type": "doppler-lidar",
+    "humanReadableName": "HALO Photonics StreamLine Doppler lidar",
+    "shortName": "HALO Doppler lidar",
+    "allowedTags": ["co", "cross"],
+    "derivedProducts": [
+      { "id": "doppler-lidar" },
+      { "id": "doppler-lidar-wind" }
+    ]
+  },
+  {
+    "id": "halo-doppler-lidar-calibrated",
+    "type": "lidar",
+    "humanReadableName": "HALO Photonics StreamLine Doppler lidar",
+    "shortName": "HALO Doppler lidar (calibrated)",
+    "derivedProducts": [{ "id": "lidar" }]
+  },
+  {
+    "id": "pollyxt",
+    "type": "lidar",
+    "humanReadableName": "PollyXT Raman lidar",
+    "shortName": "PollyXT Raman lidar",
+    "derivedProducts": [{ "id": "lidar" }]
+  },
+  {
+    "id": "rain-e-h3",
+    "type": "rain-gauge",
+    "humanReadableName": "LAMBRECHT rain[e]H3 rain gauge",
+    "shortName": "rain[e]H3 rain gauge",
+    "derivedProducts": []
+  },
+  {
+    "id": "parsivel",
+    "type": "disdrometer",
+    "humanReadableName": "OTT Parsivel² disdrometer",
+    "shortName": "Parsivel² disdrometer",
+    "derivedProducts": [{ "id": "disdrometer" }]
+  },
+  {
+    "id": "thies-lnm",
+    "type": "disdrometer",
+    "humanReadableName": "Thies LPM disdrometer",
+    "shortName": "LPM disdrometer",
+    "derivedProducts": [{ "id": "disdrometer" }]
+  },
+  {
+    "id": "wls70",
+    "type": "doppler-lidar",
+    "humanReadableName": "Leosphere WLS70 WindCube Doppler lidar",
+    "shortName": "WLS70 Doppler lidar",
+    "derivedProducts": [
+      { "id": "doppler-lidar" },
+      { "id": "doppler-lidar-wind" }
+    ]
+  },
+  {
+    "id": "wls100s",
+    "type": "doppler-lidar",
+    "humanReadableName": "Vaisala WLS100S WindCube Doppler lidar",
+    "shortName": "WLS100S Doppler lidar",
+    "derivedProducts": [
+      { "id": "doppler-lidar" },
+      { "id": "doppler-lidar-wind" }
+    ]
+  },
+  {
+    "id": "wls200s",
+    "type": "doppler-lidar",
+    "humanReadableName": "Vaisala WLS200S WindCube Doppler lidar",
+    "shortName": "WLS200S Doppler lidar",
+    "derivedProducts": [
+      { "id": "doppler-lidar" },
+      { "id": "doppler-lidar-wind" }
+    ]
+  },
+  {
+    "id": "wls400s",
+    "type": "doppler-lidar",
+    "humanReadableName": "Vaisala WLS400s WindCube Doppler lidar",
+    "shortName": "WLS400s Doppler lidar",
+    "derivedProducts": [
+      { "id": "doppler-lidar" },
+      { "id": "doppler-lidar-wind" }
+    ]
+  },
+  {
+    "id": "weather-station",
+    "type": "weather-station",
+    "humanReadableName": "Weather station",
+    "shortName": "Weather station",
+    "derivedProducts": [{ "id": "weather-station" }]
+  },
+  {
+    "id": "cs135",
+    "type": "lidar",
+    "humanReadableName": "Campbell Scientific CS135 ceilometer",
+    "shortName": "CS135 ceilometer",
+    "derivedProducts": [{ "id": "lidar" }]
+  },
+  {
+    "id": "minimpl",
+    "type": "lidar",
+    "humanReadableName": "Droplet MiniMPL lidar",
+    "shortName": "MiniMPL lidar",
+    "derivedProducts": []
+  },
+  {
+    "id": "mrr-pro",
+    "type": "rain-radar",
+    "humanReadableName": "METEK MRR-PRO",
+    "shortName": "METEK MRR-PRO",
+    "derivedProducts": [{ "id": "rain-radar" }]
+  },
+  {
+    "id": "pluvio",
+    "type": "rain-gauge",
+    "humanReadableName": "OTT Pluvio² rain gauge",
+    "shortName": "OTT Pluvio²",
+    "derivedProducts": []
+  }
+]

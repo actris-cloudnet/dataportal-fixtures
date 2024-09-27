@@ -1,0 +1,2026 @@
+[
+  {
+    "uuid": "002a1af1-dbc1-43b5-8eab-097018c7fb15",
+    "pid": "https://hdl.handle.net/21.12132/3.002a1af1dbc143b5",
+    "name": "LMU MRR-PRO",
+    "serialNumber": "516109455",
+    "model": "METEK MRR-PRO",
+    "type": "micro rain radar",
+    "owners": ["Ludwig-Maximilians-Universität München (LMU)"],
+    "instrument": "mrr-pro"
+  },
+  {
+    "uuid": "01211540-d781-4299-bc21-16845aea010c",
+    "pid": "https://hdl.handle.net/21.12132/3.01211540d7814299",
+    "name": "UGR CHM 15k",
+    "serialNumber": "CHMstddrd",
+    "model": "Lufft CHM 15k",
+    "type": "lidar ceilometer",
+    "owners": ["University of Granada (UGR)"],
+    "instrument": "chm15k"
+  },
+  {
+    "uuid": "028adedd-35a4-4733-ad7b-78fdf9555a02",
+    "pid": "https://hdl.handle.net/21.12132/3.028adedd35a44733",
+    "name": "UBB HATPRO-G5",
+    "serialNumber": "0030256",
+    "model": "RPG-HATPRO-G5",
+    "type": "scanning microwave radiometer",
+    "owners": ["Babeș-Bolyai University (UBB)"],
+    "instrument": "hatpro"
+  },
+  {
+    "uuid": "0366fa69-504f-4bd6-b833-3977c15e8bdc",
+    "pid": "https://hdl.handle.net/21.12132/3.0366fa69504f4bd6",
+    "name": "Uni Köln MIRA-35S",
+    "serialNumber": null,
+    "model": "METEK MIRA-35S",
+    "type": "Doppler scanning cloud radar",
+    "owners": ["University of Cologne"],
+    "instrument": "mira-35"
+  },
+  {
+    "uuid": "03b269e6-e784-439c-9a26-003fea5f2a62",
+    "pid": "https://hdl.handle.net/21.12132/3.03b269e6e784439c",
+    "name": "LIM LPM",
+    "serialNumber": "0747",
+    "model": "Thies Clima Laser Precipitation Monitor",
+    "type": "disdrometer",
+    "owners": ["Leipzig Institute for Meteorology (LIM)"],
+    "instrument": "thies-lnm"
+  },
+  {
+    "uuid": "04e6aea4-5d5f-44df-9331-1dd1be9cd135",
+    "pid": "https://hdl.handle.net/21.12132/3.04e6aea45d5f44df",
+    "name": "TU Delft HATPRO-G5 (LARIO)",
+    "serialNumber": "0030168",
+    "model": "RPG-HATPRO-G5",
+    "type": "scanning microwave radiometer",
+    "owners": ["Delft University of Technology (TU Delft)"],
+    "instrument": "hatpro"
+  },
+  {
+    "uuid": "055aa99b-d53c-4163-95f2-54d8539cfe6f",
+    "pid": "https://hdl.handle.net/21.12132/3.055aa99bd53c4163",
+    "name": "ECoE PollyXT-CYP",
+    "serialNumber": null,
+    "model": "PollyXT",
+    "type": "multiwavelength Raman polarization lidar",
+    "owners": ["ERATOSTHENES Centre of Excellence (ECoE)"],
+    "instrument": "pollyxt"
+  },
+  {
+    "uuid": "070929c5-5027-47f6-92f4-4cc8bb35c585",
+    "pid": "https://hdl.handle.net/21.12132/3.070929c5502747f6",
+    "name": "DJUG Parsivel²",
+    "serialNumber": "451078",
+    "model": "OTT Parsivel²",
+    "type": "disdrometer",
+    "owners": ["\"Dunarea de Jos\" University of Galati (DJUG)"],
+    "instrument": "parsivel"
+  },
+  {
+    "uuid": "079cdfce-d7a7-438e-9f26-b98d0e4e0e6c",
+    "pid": "https://hdl.handle.net/21.12132/3.079cdfced7a7438e",
+    "name": "DJUG CHM 15k",
+    "serialNumber": "CHM210108",
+    "model": "Lufft CHM 15k",
+    "type": "lidar ceilometer",
+    "owners": ["\"Dunarea de Jos\" University of Galati (DJUG)"],
+    "instrument": "chm15k"
+  },
+  {
+    "uuid": "07c51213-51fc-4370-b7b1-2e55dc6efd6f",
+    "pid": "https://hdl.handle.net/21.12132/3.07c5121351fc4370",
+    "name": "FMI weather station",
+    "serialNumber": null,
+    "model": "Unknown",
+    "type": "weather station",
+    "owners": ["Finnish Meteorological Institute (FMI)"],
+    "instrument": "weather-station"
+  },
+  {
+    "uuid": "0b2be52e-459c-4285-96a1-233954c7be3f",
+    "pid": "https://hdl.handle.net/21.12132/3.0b2be52e459c4285",
+    "name": "Uni Köln Parsivel²",
+    "serialNumber": "413258",
+    "model": "OTT Parsivel²",
+    "type": "disdrometer",
+    "owners": ["University of Cologne"],
+    "instrument": "parsivel"
+  },
+  {
+    "uuid": "0b458d39-45e1-46cc-9d51-971df1e4bb73",
+    "pid": "https://hdl.handle.net/21.12132/3.0b458d3945e146cc",
+    "name": "UBB RPG-FMCW-94-DP",
+    "serialNumber": "4010032",
+    "model": "RPG-FMCW-94-DP",
+    "type": "Doppler non-scanning cloud radar",
+    "owners": ["Babeș-Bolyai University (UBB)"],
+    "instrument": "rpg-fmcw-94"
+  },
+  {
+    "uuid": "0b70b7b7-38cb-4593-8a91-85c8bacacaa6",
+    "pid": "https://hdl.handle.net/21.12132/3.0b70b7b738cb4593",
+    "name": "UW Parsivel²",
+    "serialNumber": null,
+    "model": "OTT Parsivel²",
+    "type": "disdrometer",
+    "owners": ["University of Warsaw (UW)"],
+    "instrument": "parsivel"
+  },
+  {
+    "uuid": "11d32178-6747-4e22-8976-12fa361d365d",
+    "pid": "https://hdl.handle.net/21.12132/3.11d3217867474e22",
+    "name": "IPSL/CNRS LPM",
+    "serialNumber": "3678",
+    "model": "Thies Clima Laser Precipitation Monitor",
+    "type": "disdrometer",
+    "owners": [
+      "French National Centre for Scientific Research (CNRS)",
+      "Institut Pierre-Simon Laplace (IPSL)"
+    ],
+    "instrument": "thies-lnm"
+  },
+  {
+    "uuid": "140918e8-99a6-47f3-bc24-67b086d81038",
+    "pid": "https://hdl.handle.net/21.12132/3.140918e899a647f3",
+    "name": "UGR weather station",
+    "serialNumber": null,
+    "model": "Unknown",
+    "type": "weather station",
+    "owners": ["University of Granada (UGR)"],
+    "instrument": "weather-station"
+  },
+  {
+    "uuid": "156843cc-b60a-4a92-825a-23171ba94eae",
+    "pid": "https://hdl.handle.net/21.12132/3.156843ccb60a4a92",
+    "name": "LIM MRR-PRO (LIMRAD24)",
+    "serialNumber": "0511107367",
+    "model": "METEK MRR-PRO",
+    "type": "micro rain radar",
+    "owners": ["Leipzig Institute for Meteorology (LIM)"],
+    "instrument": "mrr-pro"
+  },
+  {
+    "uuid": "1615a6ed-824c-4556-b006-8b51e556d30e",
+    "pid": "https://hdl.handle.net/21.12132/3.1615a6ed824c4556",
+    "name": "ESA Parsivel²",
+    "serialNumber": "450416",
+    "model": "OTT Parsivel²",
+    "type": "disdrometer",
+    "owners": ["European Space Agency (ESA)"],
+    "instrument": "parsivel"
+  },
+  {
+    "uuid": "1668271e-8d36-4263-a3ae-3d12e398b769",
+    "pid": "https://hdl.handle.net/21.12132/3.1668271e8d364263",
+    "name": "Uni Köln HATPRO-G5 (TOPHAT)",
+    "serialNumber": null,
+    "model": "RPG-HATPRO-G5",
+    "type": "scanning microwave radiometer",
+    "owners": ["University of Cologne"],
+    "instrument": "hatpro"
+  },
+  {
+    "uuid": "1827e888-60ee-4512-a370-d7d498cf3b51",
+    "pid": "https://hdl.handle.net/21.12132/3.1827e88860ee4512",
+    "name": "CNR AWS310",
+    "serialNumber": "S2330566",
+    "model": "Vaisala AWS310",
+    "type": "weather station",
+    "owners": ["Consiglio Nazionale delle Ricerche (CNR)"],
+    "instrument": "weather-station"
+  },
+  {
+    "uuid": "19156417-0f8a-4686-ac5d-9d51f62229d7",
+    "pid": "https://hdl.handle.net/21.12132/3.191564170f8a4686",
+    "name": "UH RPG-FMCW-94",
+    "serialNumber": "RPG-FMCW-17-002",
+    "model": "RPG-FMCW-94-DP",
+    "type": "Doppler non-scanning cloud radar",
+    "owners": ["University of Helsinki (UH)"],
+    "instrument": "rpg-fmcw-94"
+  },
+  {
+    "uuid": "1b0966f6-3b2d-41f2-a82c-fecc58bab864",
+    "pid": "https://hdl.handle.net/21.12132/3.1b0966f63b2d41f2",
+    "name": "DWD Parsivel²",
+    "serialNumber": null,
+    "model": "OTT Parsivel²",
+    "type": "disdrometer",
+    "owners": ["German Meteorological Service (DWD)"],
+    "instrument": "parsivel"
+  },
+  {
+    "uuid": "1ca2b7d6-323f-486b-9853-e16460ec59d3",
+    "pid": "https://hdl.handle.net/21.12132/3.1ca2b7d6323f486b",
+    "name": "UKRI CL51",
+    "serialNumber": "K0150001",
+    "model": "Vaisala CL51",
+    "type": "lidar ceilometer",
+    "owners": ["UK Research and Innovation (UKRI)"],
+    "instrument": "cl51"
+  },
+  {
+    "uuid": "1d227f1b-12b0-4efc-ae36-4270b22e1c39",
+    "pid": "https://hdl.handle.net/21.12132/3.1d227f1b12b04efc",
+    "name": "UGR HALO 258 (Siroco)",
+    "serialNumber": "1122-258",
+    "model": "StreamLine XR+",
+    "type": "Doppler lidar",
+    "owners": ["University of Granada (UGR)"],
+    "instrument": "halo-doppler-lidar"
+  },
+  {
+    "uuid": "1e2e7dde-eda6-41e5-a946-751ce78262dd",
+    "pid": "https://hdl.handle.net/21.12132/3.1e2e7ddeeda641e5",
+    "name": "UL HALO",
+    "serialNumber": "0616-118",
+    "model": "StreamLine Pro",
+    "type": "Doppler lidar",
+    "owners": ["University of Leeds"],
+    "instrument": "halo-doppler-lidar"
+  },
+  {
+    "uuid": "1e67e6c2-34d8-4b19-b6be-3eb17d20d297",
+    "pid": "https://hdl.handle.net/21.12132/3.1e67e6c234d84b19",
+    "name": "UGR RPG-FMCW-94-DP",
+    "serialNumber": "4010006",
+    "model": "RPG-FMCW-94-DP-S",
+    "type": "Doppler scanning cloud radar",
+    "owners": ["University of Granada (UGR)"],
+    "instrument": "rpg-fmcw-94"
+  },
+  {
+    "uuid": "20570e63-f7b1-496c-9ac6-12c3db46820a",
+    "pid": "https://hdl.handle.net/21.12132/3.20570e63f7b1496c",
+    "name": "UGR RPG-FMCW-94-DP",
+    "serialNumber": "4010031",
+    "model": "RPG-FMCW-94-DP-S",
+    "type": "Doppler scanning cloud radar",
+    "owners": ["University of Granada (UGR)"],
+    "instrument": "rpg-fmcw-94"
+  },
+  {
+    "uuid": "20e6ed2d-17f6-469a-8ec0-93277c159e5e",
+    "pid": "https://hdl.handle.net/21.12132/3.20e6ed2d17f6469a",
+    "name": "UL CS135",
+    "serialNumber": "E1037",
+    "model": "Campbell Scientific CS135",
+    "type": "lidar ceilometer",
+    "owners": ["University of Leeds"],
+    "instrument": "cs135"
+  },
+  {
+    "uuid": "23dcf19f-232b-46a5-8604-1e180e155d6a",
+    "pid": "https://hdl.handle.net/21.12132/3.23dcf19f232b46a5",
+    "name": "UW PollyXT",
+    "serialNumber": "pollyxt_uw",
+    "model": "PollyXT",
+    "type": "multiwavelength Raman polarization lidar",
+    "owners": ["University of Warsaw (UW)"],
+    "instrument": "pollyxt"
+  },
+  {
+    "uuid": "241bda14-2975-460b-95ce-11de53810357",
+    "pid": "https://hdl.handle.net/21.12132/3.241bda142975460b",
+    "name": "UH CL61",
+    "serialNumber": "T2011180",
+    "model": "Vaisala CL61",
+    "type": "depolarisation lidar ceilometer",
+    "owners": ["University of Helsinki (UH)"],
+    "instrument": "cl61d"
+  },
+  {
+    "uuid": "254922f7-f5f8-4424-8eac-be0661ec99c5",
+    "pid": "https://hdl.handle.net/21.12132/3.254922f7f5f84424",
+    "name": "FMI CL51-B",
+    "serialNumber": "G1230008",
+    "model": "Vaisala CL51",
+    "type": "lidar ceilometer",
+    "owners": ["Finnish Meteorological Institute (FMI)"],
+    "instrument": "cl51"
+  },
+  {
+    "uuid": "254f8c96-614f-4738-9139-8b2a530ac75c",
+    "pid": "https://hdl.handle.net/21.12132/3.254f8c96614f4738",
+    "name": "CNR MP3014",
+    "serialNumber": null,
+    "model": "Radiometrics MP3014",
+    "type": "non-scanning microwave radiometer",
+    "owners": ["Consiglio Nazionale delle Ricerche (CNR)"],
+    "instrument": "radiometrics"
+  },
+  {
+    "uuid": "27a4f4aa-4143-4b5a-a8eb-f8f748279bff",
+    "pid": "https://hdl.handle.net/21.12132/3.27a4f4aa41434b5a",
+    "name": "FMI CT25K",
+    "serialNumber": null,
+    "model": "Vaisala CT25K",
+    "type": "ceilometer",
+    "owners": ["Finnish Meteorological Institute (FMI)"],
+    "instrument": "ct25k"
+  },
+  {
+    "uuid": "289f5d0e-2aaa-466f-8d6c-3593f196df24",
+    "pid": "https://hdl.handle.net/21.12132/3.289f5d0e2aaa466f",
+    "name": "CNR MRR-PRO",
+    "serialNumber": "0514108770",
+    "model": "METEK MRR-PRO",
+    "type": "micro rain radar",
+    "owners": ["Consiglio Nazionale delle Ricerche (CNR)"],
+    "instrument": "mrr-pro"
+  },
+  {
+    "uuid": "2a1ca46e-d70c-4929-b1c2-3ca847243405",
+    "pid": "https://hdl.handle.net/21.12132/3.2a1ca46ed70c4929",
+    "name": "Uni Köln Parsivel²",
+    "serialNumber": "403479",
+    "model": "OTT Parsivel²",
+    "type": "disdrometer",
+    "owners": ["University of Cologne"],
+    "instrument": "parsivel"
+  },
+  {
+    "uuid": "2a7c4f8b-6c13-44f3-85fe-29a15934f3a0",
+    "pid": "https://hdl.handle.net/21.12132/3.2a7c4f8b6c1344f3",
+    "name": "FMI CL31",
+    "serialNumber": "M4850810",
+    "model": "Vaisala CL31",
+    "type": "lidar ceilometer",
+    "owners": ["Finnish Meteorological Institute (FMI)"],
+    "instrument": "cl31"
+  },
+  {
+    "uuid": "30d4d1ff-4bb8-43ca-97a0-f794195030e1",
+    "pid": "https://hdl.handle.net/21.12132/3.30d4d1ff4bb843ca",
+    "name": "Uni Köln HATPRO-G1 (SUNHAT)",
+    "serialNumber": null,
+    "model": "RPG-HATPRO-G1",
+    "type": "scanning microwave radiometer",
+    "owners": ["University of Cologne"],
+    "instrument": "hatpro"
+  },
+  {
+    "uuid": "31a1d1e9-694f-47bd-b6aa-9bc620673971",
+    "pid": "https://hdl.handle.net/21.12132/3.31a1d1e9694f47bd",
+    "name": "CNR HALO",
+    "serialNumber": "194",
+    "model": "StreamLine XR",
+    "type": "Doppler lidar",
+    "owners": ["Consiglio Nazionale delle Ricerche (CNR)"],
+    "instrument": "halo-doppler-lidar"
+  },
+  {
+    "uuid": "31c4f71c-f1a7-4e03-a66d-ecdbcaab0253",
+    "pid": "https://hdl.handle.net/21.12132/3.31c4f71cf1a74e03",
+    "name": "TROPOS PollyXT (Arielle)",
+    "serialNumber": "arielle",
+    "model": "PollyXT",
+    "type": "multiwavelength Raman polarization lidar",
+    "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
+    "instrument": "pollyxt"
+  },
+  {
+    "uuid": "324507c6-ce8e-489c-9e62-01926a6b1d63",
+    "pid": "https://hdl.handle.net/21.12132/3.324507c6ce8e489c",
+    "name": "Uni Köln CHM 15k",
+    "serialNumber": "CHM120109",
+    "model": "Lufft CHM 15k",
+    "type": "lidar ceilometer",
+    "owners": ["University of Cologne"],
+    "instrument": "chm15k"
+  },
+  {
+    "uuid": "3292ee29-e461-405a-86a0-da2946b06495",
+    "pid": "https://hdl.handle.net/21.12132/3.3292ee29e461405a",
+    "name": "DWD rain[e]H3",
+    "serialNumber": "850383.0067",
+    "model": "rain[e]H3",
+    "type": "weighing rain gauge",
+    "owners": ["German Meteorological Service (DWD)"],
+    "instrument": "rain-e-h3"
+  },
+  {
+    "uuid": "33ef1f08-4a96-4bff-a30f-936b82b3d973",
+    "pid": "https://hdl.handle.net/21.12132/3.33ef1f084a964bff",
+    "name": "ECoE HATPRO-G5",
+    "serialNumber": "0030242",
+    "model": "RPG-HATPRO-G5",
+    "type": "scanning microwave radiometer",
+    "owners": ["ERATOSTHENES Centre of Excellence (ECoE)"],
+    "instrument": "hatpro"
+  },
+  {
+    "uuid": "3809aae6-fdb2-4f61-b887-4cebb17380ef",
+    "pid": "https://hdl.handle.net/21.12132/3.3809aae6fdb24f61",
+    "name": "TROPOS RPG-FMCW-94-DP (Melpitz)",
+    "serialNumber": null,
+    "model": "RPG-FMCW-94-DP",
+    "type": "Doppler non-scanning cloud radar",
+    "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
+    "instrument": "rpg-fmcw-94"
+  },
+  {
+    "uuid": "38c84797-7e76-4f16-96cf-6bc31142ac71",
+    "pid": "https://hdl.handle.net/21.12132/3.38c847977e764f16",
+    "name": "AWI CL51",
+    "serialNumber": "F0520002",
+    "model": "Vaisala CL51",
+    "type": "lidar ceilometer",
+    "owners": ["Alfred Wegener Institute for Polar and Marine Research (AWI)"],
+    "instrument": "cl51"
+  },
+  {
+    "uuid": "38f97c8d-ce06-4e02-9a67-65a7a7e967c5",
+    "pid": "https://hdl.handle.net/21.12132/3.38f97c8dce064e02",
+    "name": "DJUG HATPRO-G5",
+    "serialNumber": null,
+    "model": "RPG-HATPRO-G5",
+    "type": "scanning microwave radiometer",
+    "owners": ["\"Dunarea de Jos\" University of Galati (DJUG)"],
+    "instrument": "hatpro"
+  },
+  {
+    "uuid": "3aec68d7-dac3-4471-8a29-1c0305efe2b4",
+    "pid": "https://hdl.handle.net/21.12132/3.3aec68d7dac34471",
+    "name": "TROPOS HATPRO-G1 (OCEANET)",
+    "serialNumber": null,
+    "model": "RPG-HATPRO-G1",
+    "type": "scanning microwave radiometer",
+    "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
+    "instrument": "hatpro"
+  },
+  {
+    "uuid": "3b159f9e-e295-44e9-9b21-5bbdbd04232f",
+    "pid": "https://hdl.handle.net/21.12132/3.3b159f9ee29544e9",
+    "name": "LMU HATPRO-G4",
+    "serialNumber": "R-DPR-07/007",
+    "model": "RPG-HATPRO-G4",
+    "type": "scanning microwave radiometer",
+    "owners": ["Ludwig-Maximilians-Universität München (LMU)"],
+    "instrument": "hatpro"
+  },
+  {
+    "uuid": "3b8d6fb7-e7e2-4f1d-89c9-f81f9de1b1b6",
+    "pid": "https://hdl.handle.net/21.12132/3.3b8d6fb7e7e24f1d",
+    "name": "TROPOS PollyXT (cpv)",
+    "serialNumber": "pollyxt_cpv",
+    "model": "PollyXT",
+    "type": "multiwavelength Raman polarization lidar",
+    "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
+    "instrument": "pollyxt"
+  },
+  {
+    "uuid": "3bfbb6e3-7acc-41a3-8901-3cb50ccddb69",
+    "pid": "https://hdl.handle.net/21.12132/3.3bfbb6e37acc41a3",
+    "name": "FMI MIRA-35S",
+    "serialNumber": null,
+    "model": "METEK MIRA-35S",
+    "type": "Doppler scanning cloud radar",
+    "owners": ["Finnish Meteorological Institute (FMI)"],
+    "instrument": "mira-35"
+  },
+  {
+    "uuid": "3e013ad1-63c5-451d-bde0-ce5543c484bf",
+    "pid": "https://hdl.handle.net/21.12132/3.3e013ad163c5451d",
+    "name": "LIM HATPRO-G5 (LIMHAT)",
+    "serialNumber": null,
+    "model": "RPG-HATPRO-G5",
+    "type": "scanning microwave radiometer",
+    "owners": ["Leipzig Institute for Meteorology (LIM)"],
+    "instrument": "hatpro"
+  },
+  {
+    "uuid": "41582c49-57f4-44b3-b253-ef9e00763c67",
+    "pid": "https://hdl.handle.net/21.12132/3.41582c4957f444b3",
+    "name": "ECoE Parsivel²",
+    "serialNumber": "451980",
+    "model": "OTT Parsivel²",
+    "type": "disdrometer",
+    "owners": ["ERATOSTHENES Centre of Excellence (ECoE)"],
+    "instrument": "parsivel"
+  },
+  {
+    "uuid": "4200c7f9-76c4-4b17-9315-ead2b8ffca52",
+    "pid": "https://hdl.handle.net/21.12132/3.4200c7f976c44b17",
+    "name": "UH Pluvio200",
+    "serialNumber": "263692",
+    "model": "OTT Pluvio²",
+    "type": "weighing rain gauge",
+    "owners": ["University of Helsinki (UH)"],
+    "instrument": "pluvio"
+  },
+  {
+    "uuid": "421272f2-19be-4f97-ac9d-d4d1479759d4",
+    "pid": "https://hdl.handle.net/21.12132/3.421272f219be4f97",
+    "name": "FMI / UH HALO 46",
+    "serialNumber": "46",
+    "model": "StreamLine",
+    "type": "Doppler lidar",
+    "owners": ["Finnish Meteorological Institute (FMI)"],
+    "instrument": "halo-doppler-lidar"
+  },
+  {
+    "uuid": "423d89c1-b511-4af7-ae15-7766f2076a66",
+    "pid": "https://hdl.handle.net/21.12132/3.423d89c1b5114af7",
+    "name": "DWD HALO",
+    "serialNumber": "44",
+    "model": "StreamLine XR",
+    "type": "Doppler lidar",
+    "owners": ["German Meteorological Service (DWD)"],
+    "instrument": "halo-doppler-lidar"
+  },
+  {
+    "uuid": "442ec2ea-9a24-440e-959a-709f487732ae",
+    "pid": "https://hdl.handle.net/21.12132/3.442ec2ea9a24440e",
+    "name": "DWD HATPRO-G5",
+    "serialNumber": "0030193",
+    "model": "RPG-HATPRO-G5",
+    "type": "scanning microwave radiometer",
+    "owners": ["German Meteorological Service (DWD)"],
+    "instrument": "hatpro"
+  },
+  {
+    "uuid": "45ee9a92-825c-447a-b6b8-2a1d87e477bf",
+    "pid": "https://hdl.handle.net/21.12132/3.45ee9a92825c447a",
+    "name": "UGR RPG-FMCW-35-DP",
+    "serialNumber": "6010004",
+    "model": "RPG-FMCW-35-DP-S",
+    "type": "Doppler scanning cloud radar",
+    "owners": ["University of Granada (UGR)"],
+    "instrument": "rpg-fmcw-35"
+  },
+  {
+    "uuid": "46797fd6-140c-4249-87ed-6bca26a615f8",
+    "pid": "https://hdl.handle.net/21.12132/3.46797fd6140c4249",
+    "name": "TU Delft HATPRO-G5 (MARIO)",
+    "serialNumber": "003 0139",
+    "model": "RPG-HATPRO-G5",
+    "type": "scanning microwave radiometer",
+    "owners": ["Delft University of Technology (TU Delft)"],
+    "instrument": "hatpro"
+  },
+  {
+    "uuid": "48bd7da0-35b9-4ffd-90d8-7a4de55b8fa6",
+    "pid": "https://hdl.handle.net/21.12132/3.48bd7da035b94ffd",
+    "name": "Uni Köln HALO",
+    "serialNumber": "17",
+    "model": "StreamLine XR",
+    "type": "Doppler lidar",
+    "owners": ["University of Cologne"],
+    "instrument": "halo-doppler-lidar"
+  },
+  {
+    "uuid": "49884fea-4fde-4ddd-8add-d07bf9f58cbe",
+    "pid": "https://hdl.handle.net/21.12132/3.49884fea4fde4ddd",
+    "name": "ENEA MIRA-35C",
+    "serialNumber": "008MBC8",
+    "model": "METEK MIRA-35C",
+    "type": "Doppler non-scanning cloud radar",
+    "owners": [
+      "National Agency for New Technologies, Energy and Sustainable Economic Development (ENEA)"
+    ],
+    "instrument": "mira-35"
+  },
+  {
+    "uuid": "49ca09de-ca9a-4e3e-9258-9c91ed5683f8",
+    "pid": "https://hdl.handle.net/21.12132/3.49ca09deca9a4e3e",
+    "name": "Uni Köln Pluvio²",
+    "serialNumber": null,
+    "model": "OTT Pluvio²",
+    "type": "weighing rain gauge",
+    "owners": ["University of Cologne"],
+    "instrument": "pluvio"
+  },
+  {
+    "uuid": "49dbab9e-3dbc-4bd1-8cba-97cb81654222",
+    "pid": "https://hdl.handle.net/21.12132/3.49dbab9e3dbc4bd1",
+    "name": "TU Delft MRR-PRO (MRR002)",
+    "serialNumber": "0512067699",
+    "model": "METEK MRR-PRO",
+    "type": "micro rain radar",
+    "owners": ["Delft University of Technology (TU Delft)"],
+    "instrument": "mrr-pro"
+  },
+  {
+    "uuid": "4b31c245-e3b1-43f0-8584-606cfae58556",
+    "pid": "https://hdl.handle.net/21.12132/3.4b31c245e3b143f0",
+    "name": "AWI HALO (288)",
+    "serialNumber": "288",
+    "model": "StreamLine XR+",
+    "type": "Doppler lidar",
+    "owners": ["Alfred Wegener Institute for Polar and Marine Research (AWI)"],
+    "instrument": "halo-doppler-lidar"
+  },
+  {
+    "uuid": "4c28f7a6-b7fc-4d15-878c-677f07aae6d1",
+    "pid": "https://hdl.handle.net/21.12132/3.4c28f7a6b7fc4d15",
+    "name": "TU Delft RPG-FMCW-94-DP (MARA-94)",
+    "serialNumber": "RPG-FMCW-19-004",
+    "model": "RPG-FMCW-94-DP-S",
+    "type": "Doppler scanning cloud radar",
+    "owners": ["Delft University of Technology (TU Delft)"],
+    "instrument": "rpg-fmcw-94"
+  },
+  {
+    "uuid": "4e7765c0-c8bd-4d1d-b60f-ce14b4335ee5",
+    "pid": "https://hdl.handle.net/21.12132/3.4e7765c0c8bd4d1d",
+    "name": "ENEA LPM",
+    "serialNumber": "2965",
+    "model": "Thies Clima Laser Precipitation Monitor",
+    "type": "disdrometer",
+    "owners": [
+      "National Agency for New Technologies, Energy and Sustainable Economic Development (ENEA)"
+    ],
+    "instrument": "thies-lnm"
+  },
+  {
+    "uuid": "54b50a0c-58c2-4a78-b965-9b4826af6ea3",
+    "pid": "https://hdl.handle.net/21.12132/3.54b50a0c58c24a78",
+    "name": "UH Pluvio400",
+    "serialNumber": "267651",
+    "model": "OTT Pluvio²",
+    "type": "weighing rain gauge",
+    "owners": ["University of Helsinki (UH)"],
+    "instrument": "pluvio"
+  },
+  {
+    "uuid": "56a7a31f-620d-44bb-b0ef-246e7f26c6ae",
+    "pid": "https://hdl.handle.net/21.12132/3.56a7a31f620d44bb",
+    "name": "UGR CHM 15k",
+    "serialNumber": "CHM130102",
+    "model": "Lufft CHM 15k",
+    "type": "lidar ceilometer",
+    "owners": ["University of Granada (UGR)"],
+    "instrument": "chm15k"
+  },
+  {
+    "uuid": "5791f98b-2a73-48ce-9776-ea252d617b7b",
+    "pid": "https://hdl.handle.net/21.12132/3.5791f98b2a7348ce",
+    "name": "CNR MIRA-35C",
+    "serialNumber": null,
+    "model": "METEK MIRA-35C",
+    "type": "Doppler non-scanning cloud radar",
+    "owners": ["Consiglio Nazionale delle Ricerche (CNR)"],
+    "instrument": "mira-35"
+  },
+  {
+    "uuid": "5881321c-3c49-48ca-a66b-e6ba41be5683",
+    "pid": "https://hdl.handle.net/21.12132/3.5881321c3c4948ca",
+    "name": "ENEA AWS310",
+    "serialNumber": "T4640164",
+    "model": "Vaisala AWS310",
+    "type": "weather station",
+    "owners": [
+      "National Agency for New Technologies, Energy and Sustainable Economic Development (ENEA)"
+    ],
+    "instrument": "weather-station"
+  },
+  {
+    "uuid": "58d89298-bc63-446c-8cf7-3f2f6f56cf94",
+    "pid": "https://hdl.handle.net/21.12132/3.58d89298bc63446c",
+    "name": "DWD LD40",
+    "serialNumber": null,
+    "model": "Vaisala LD40",
+    "type": "ceilometer",
+    "owners": ["German Meteorological Service (DWD)"],
+    "instrument": "ld40"
+  },
+  {
+    "uuid": "5a1e499b-9a0d-4333-9117-1697b0e237c8",
+    "pid": "https://hdl.handle.net/21.12132/3.5a1e499b9a0d4333",
+    "name": "Lund CL51",
+    "serialNumber": null,
+    "model": "Vaisala CL51",
+    "type": "lidar ceilometer",
+    "owners": ["Lund University"],
+    "instrument": "cl51"
+  },
+  {
+    "uuid": "5a6e24d0-ff90-42b1-9051-44de0f45928c",
+    "pid": "https://hdl.handle.net/21.12132/3.5a6e24d0ff9042b1",
+    "name": "UBB Parsivel²",
+    "serialNumber": "451768",
+    "model": "OTT Parsivel²",
+    "type": "disdrometer",
+    "owners": ["Babeș-Bolyai University (UBB)"],
+    "instrument": "parsivel"
+  },
+  {
+    "uuid": "5c0b56e4-5213-440f-a38c-dcc2a69ba9e8",
+    "pid": "https://hdl.handle.net/21.12132/3.5c0b56e45213440f",
+    "name": "UÉ HATPRO-G4",
+    "serialNumber": "30038",
+    "model": "RPG-HATPRO-G4",
+    "type": "scanning microwave radiometer",
+    "owners": ["University of Évora (UÉ)"],
+    "instrument": "hatpro"
+  },
+  {
+    "uuid": "5c5d0a39-d2cd-403d-a8d1-080c0d151cd3",
+    "pid": "https://hdl.handle.net/21.12132/3.5c5d0a39d2cd403d",
+    "name": "NUIG CMH 15k",
+    "serialNumber": "CHM190159",
+    "model": "Lufft CHM 15k",
+    "type": "lidar ceilometer",
+    "owners": ["University of Galway (NUIG)"],
+    "instrument": "chm15k"
+  },
+  {
+    "uuid": "5c5f8816-d683-4041-8d41-1d6c5592c855",
+    "pid": "https://hdl.handle.net/21.12132/3.5c5f8816d6834041",
+    "name": "NUIG HATPRO-G1",
+    "serialNumber": "R-DPR-08/012",
+    "model": "RPG-HATPRO-G1",
+    "type": "scanning microwave radiometer",
+    "owners": ["University of Galway (NUIG)"],
+    "instrument": "hatpro"
+  },
+  {
+    "uuid": "5d15cd3c-e9c5-4139-ba23-9d07e222fb41",
+    "pid": "https://hdl.handle.net/21.12132/3.5d15cd3ce9c54139",
+    "name": "UBB HALO",
+    "serialNumber": "L-0523-0001",
+    "model": "StreamLine XR",
+    "type": "Doppler lidar",
+    "owners": ["Babeș-Bolyai University (UBB)"],
+    "instrument": "halo-doppler-lidar"
+  },
+  {
+    "uuid": "5f33c2fe-bc65-4f4b-8798-aaea0abd70bb",
+    "pid": "https://hdl.handle.net/21.12132/3.5f33c2febc654f4b",
+    "name": "CNR HATPRO-G5",
+    "serialNumber": "30163",
+    "model": "RPG-HATPRO-G5",
+    "type": "scanning microwave radiometer",
+    "owners": ["Consiglio Nazionale delle Ricerche (CNR)"],
+    "instrument": "hatpro"
+  },
+  {
+    "uuid": "5f5640d6-deb6-491d-99da-d58a0661c766",
+    "pid": "https://hdl.handle.net/21.12132/3.5f5640d6deb6491d",
+    "name": "UL HATPRO-G5",
+    "serialNumber": "30136",
+    "model": "RPG-HATPRO-G5",
+    "type": "scanning microwave radiometer",
+    "owners": ["University of Leeds"],
+    "instrument": "hatpro"
+  },
+  {
+    "uuid": "5ffe1a5d-f371-45cc-8f17-6473b03c5c2d",
+    "pid": "https://hdl.handle.net/21.12132/3.5ffe1a5df37145cc",
+    "name": "MeteoSwiss CHM 15k",
+    "serialNumber": "CHM200110",
+    "model": "Lufft CHM 15k",
+    "type": "lidar ceilometer",
+    "owners": ["Federal Office of Meteorology and Climatology MeteoSwiss"],
+    "instrument": "chm15k"
+  },
+  {
+    "uuid": "60eef0a4-4a75-42a0-aca0-3f59cfd266dc",
+    "pid": "https://hdl.handle.net/21.12132/3.60eef0a44a7542a0",
+    "name": "LMU CHM 15k",
+    "serialNumber": "CHX090103",
+    "model": "Lufft CHM 15k",
+    "type": "lidar ceilometer",
+    "owners": ["Ludwig-Maximilians-Universität München (LMU)"],
+    "instrument": "chm15k"
+  },
+  {
+    "uuid": "627a31d3-54ea-4108-8af3-6b03523172b1",
+    "pid": "https://hdl.handle.net/21.12132/3.627a31d354ea4108",
+    "name": "IPSL CL31",
+    "serialNumber": null,
+    "model": "Vaisala CL31",
+    "type": "lidar ceilometer",
+    "owners": ["Institut Pierre-Simon Laplace (IPSL)"],
+    "instrument": "cl31"
+  },
+  {
+    "uuid": "6415e540-0cf7-468e-856c-3a54e306ee89",
+    "pid": "https://hdl.handle.net/21.12132/3.6415e5400cf7468e",
+    "name": "ENEA HATPRO-G5",
+    "serialNumber": "30155",
+    "model": "RPG-HATPRO-G5",
+    "type": "scanning microwave radiometer",
+    "owners": [
+      "National Agency for New Technologies, Energy and Sustainable Economic Development (ENEA)"
+    ],
+    "instrument": "hatpro"
+  },
+  {
+    "uuid": "643b7b5b-4381-4e6f-9e40-2c4c64f22b17",
+    "pid": "https://hdl.handle.net/21.12132/3.643b7b5b43814e6f",
+    "name": "IPSL BASTA",
+    "serialNumber": null,
+    "model": "BASTA",
+    "type": "Doppler non-scanning cloud radar",
+    "owners": ["Institut Pierre-Simon Laplace (IPSL)"],
+    "instrument": "basta"
+  },
+  {
+    "uuid": "65ecf802-19d1-4d1b-a9f5-876a4b0ed724",
+    "pid": "https://hdl.handle.net/21.12132/3.65ecf80219d14d1b",
+    "name": "TU Delft Parsivel² (PAR002)",
+    "serialNumber": "450543",
+    "model": "OTT Parsivel²",
+    "type": "disdrometer",
+    "owners": ["Delft University of Technology (TU Delft)"],
+    "instrument": "parsivel"
+  },
+  {
+    "uuid": "695573e5-9818-45d9-9f57-6ebf07ef6d2f",
+    "pid": "https://hdl.handle.net/21.12132/3.695573e5981845d9",
+    "name": "DWD CL61",
+    "serialNumber": "U4411017",
+    "model": "Vaisala CL61",
+    "type": "depolarisation lidar ceilometer",
+    "owners": ["German Meteorological Service (DWD)"],
+    "instrument": "cl61d"
+  },
+  {
+    "uuid": "69dddc00-04b6-4b32-9c4e-4cef14ac5a5b",
+    "pid": "https://hdl.handle.net/21.12132/3.69dddc0004b64b32",
+    "name": "FMI Parsivel23",
+    "serialNumber": "291923",
+    "model": "OTT Parsivel²",
+    "type": "disdrometer",
+    "owners": ["Finnish Meteorological Institute (FMI)"],
+    "instrument": "parsivel"
+  },
+  {
+    "uuid": "6fb23021-bef0-4200-806e-9f86b6bb1a89",
+    "pid": "https://hdl.handle.net/21.12132/3.6fb23021bef04200",
+    "name": "AWI HATPRO-G2",
+    "serialNumber": null,
+    "model": "RPG-HATPRO-G2",
+    "type": "scanning microwave radiometer",
+    "owners": ["Alfred Wegener Institute for Polar and Marine Research (AWI)"],
+    "instrument": "hatpro"
+  },
+  {
+    "uuid": "70dd0955-3d13-484d-9a03-35fd0e645db0",
+    "pid": "https://hdl.handle.net/21.12132/3.70dd09553d13484d",
+    "name": "DWD RPG-FMCW-94-DP",
+    "serialNumber": null,
+    "model": "RPG-FMCW-94-DP",
+    "type": "Doppler non-scanning cloud radar",
+    "owners": ["German Meteorological Service (DWD)"],
+    "instrument": "rpg-fmcw-94"
+  },
+  {
+    "uuid": "7133f308-65bc-4781-a3c4-958dc9c0b36b",
+    "pid": "https://hdl.handle.net/21.12132/3.7133f30865bc4781",
+    "name": "CNR CL51",
+    "serialNumber": "204840426",
+    "model": "Vaisala CL51",
+    "type": "lidar ceilometer",
+    "owners": ["Consiglio Nazionale delle Ricerche (CNR)"],
+    "instrument": "cl51"
+  },
+  {
+    "uuid": "71dad3ea-36ab-476a-a0dd-7ec238157608",
+    "pid": "https://hdl.handle.net/21.12132/3.71dad3ea36ab476a",
+    "name": "DJUG RPG-FMCW-94-DP",
+    "serialNumber": null,
+    "model": "RPG-FMCW-94-DP",
+    "type": "Doppler non-scanning cloud radar",
+    "owners": ["\"Dunarea de Jos\" University of Galati (DJUG)"],
+    "instrument": "rpg-fmcw-94"
+  },
+  {
+    "uuid": "726b3b29-de19-49cc-a20d-75259e289e94",
+    "pid": "https://hdl.handle.net/21.12132/3.726b3b29de1949cc",
+    "name": "Uni Köln weather station",
+    "serialNumber": null,
+    "model": "Unknown",
+    "type": "weather station",
+    "owners": ["University of Cologne"],
+    "instrument": "weather-station"
+  },
+  {
+    "uuid": "73814379-1c52-4103-aad5-71a17a3401f8",
+    "pid": "https://hdl.handle.net/21.12132/3.738143791c524103",
+    "name": "TROPOS HALO XR (Timmy)",
+    "serialNumber": "166",
+    "model": "StreamLine XR",
+    "type": "Doppler lidar",
+    "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
+    "instrument": "halo-doppler-lidar"
+  },
+  {
+    "uuid": "73904193-1dac-4de5-9730-92656ab60eb9",
+    "pid": "https://hdl.handle.net/21.12132/3.739041931dac4de5",
+    "name": "IPSL weather station",
+    "serialNumber": null,
+    "model": "Unknown",
+    "type": "weather station",
+    "owners": ["Institut Pierre-Simon Laplace (IPSL)"],
+    "instrument": "weather-station"
+  },
+  {
+    "uuid": "73abc649-edd7-4c63-a3cd-e53606ac44d7",
+    "pid": "https://hdl.handle.net/21.12132/3.73abc649edd74c63",
+    "name": "TROPOS HATPRO-G5 (OCEANET)",
+    "serialNumber": null,
+    "model": "RPG-HATPRO-G5",
+    "type": "scanning microwave radiometer",
+    "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
+    "instrument": "hatpro"
+  },
+  {
+    "uuid": "76c0d08e-7856-44e4-912b-71423d5acc9b",
+    "pid": "https://hdl.handle.net/21.12132/3.76c0d08e785644e4",
+    "name": "FMI Parsivel60",
+    "serialNumber": "295160",
+    "model": "OTT Parsivel²",
+    "type": "disdrometer",
+    "owners": ["Finnish Meteorological Institute (FMI)"],
+    "instrument": "parsivel"
+  },
+  {
+    "uuid": "770aaf22-8a97-4dd6-a165-1da81c06319c",
+    "pid": "https://hdl.handle.net/21.12132/3.770aaf228a974dd6",
+    "name": "IPSL HATPRO-G5",
+    "serialNumber": "0030231",
+    "model": "RPG-HATPRO-G5",
+    "type": "scanning microwave radiometer",
+    "owners": ["Institut Pierre-Simon Laplace (IPSL)"],
+    "instrument": "hatpro"
+  },
+  {
+    "uuid": "77a75f3b-3229-4855-81e1-ce2ddad34e0e",
+    "pid": "https://hdl.handle.net/21.12132/3.77a75f3b32294855",
+    "name": "UGR CHM 15k",
+    "serialNumber": "CHM170119",
+    "model": "Lufft CHM 15k",
+    "type": "lidar ceilometer",
+    "owners": ["University of Granada (UGR)"],
+    "instrument": "chm15k"
+  },
+  {
+    "uuid": "7c1d2586-32f9-4cdd-a8df-723a43867820",
+    "pid": "https://hdl.handle.net/21.12132/3.7c1d258632f94cdd",
+    "name": "LMU MIRA-35 (Ka-MACS)",
+    "serialNumber": "LMXCA120",
+    "model": "METEK MIRA-35",
+    "type": "Doppler non-scanning cloud radar",
+    "owners": ["Ludwig-Maximilians-Universität München (LMU)"],
+    "instrument": "mira-35"
+  },
+  {
+    "uuid": "7d8e0258-4f85-41a9-a880-837d775b31e2",
+    "pid": "https://hdl.handle.net/21.12132/3.7d8e02584f8541a9",
+    "name": "LIM CHM 15k (CEILIM)",
+    "serialNumber": "CHM200114",
+    "model": "Lufft CHM 15k",
+    "type": "lidar ceilometer",
+    "owners": ["Leipzig Institute for Meteorology (LIM)"],
+    "instrument": "chm15k"
+  },
+  {
+    "uuid": "7e13f3f2-4385-4ae8-b61e-7462c4881729",
+    "pid": "https://hdl.handle.net/21.12132/3.7e13f3f243854ae8",
+    "name": "IPSL Parsivel²",
+    "serialNumber": "450058",
+    "model": "OTT Parsivel²",
+    "type": "disdrometer",
+    "owners": ["Institut Pierre-Simon Laplace (IPSL)"],
+    "instrument": "parsivel"
+  },
+  {
+    "uuid": "80082867-c574-4f11-a8bb-d6d09e105e46",
+    "pid": "https://hdl.handle.net/21.12132/3.80082867c5744f11",
+    "name": "UH weather station",
+    "serialNumber": null,
+    "model": "Unknown",
+    "type": "weather station",
+    "owners": ["University of Helsinki (UH)"],
+    "instrument": "weather-station"
+  },
+  {
+    "uuid": "81201c9e-a7f5-4352-bca2-9ae59e25be35",
+    "pid": "https://hdl.handle.net/21.12132/3.81201c9ea7f54352",
+    "name": "UFS HATPRO-G1 (SNOHAT)",
+    "serialNumber": null,
+    "model": "RPG-HATPRO-G1",
+    "type": "scanning microwave radiometer",
+    "owners": [
+      "Betriebsgesellschaft Umweltforschungsstation Schneefernerhaus GmbH (UFS)"
+    ],
+    "instrument": "hatpro"
+  },
+  {
+    "uuid": "814e6693-acda-4ba9-bcd1-2d45d56630b6",
+    "pid": "https://hdl.handle.net/21.12132/3.814e6693acda4ba9",
+    "name": "UFS MIRA-35C",
+    "serialNumber": null,
+    "model": "METEK MIRA-35C",
+    "type": "Doppler non-scanning cloud radar",
+    "owners": [
+      "Betriebsgesellschaft Umweltforschungsstation Schneefernerhaus GmbH (UFS)"
+    ],
+    "instrument": "mira-35"
+  },
+  {
+    "uuid": "81960b92-0755-4267-89aa-fcc8b0091eb1",
+    "pid": "https://hdl.handle.net/21.12132/3.81960b9207554267",
+    "name": "FMI CL61-A",
+    "serialNumber": "S4940002",
+    "model": "Vaisala CL61",
+    "type": "depolarisation lidar ceilometer",
+    "owners": ["Finnish Meteorological Institute (FMI)"],
+    "instrument": "cl61d"
+  },
+  {
+    "uuid": "8535b366-73a4-48ee-9247-2a4f240ab750",
+    "pid": "https://hdl.handle.net/21.12132/3.8535b36673a448ee",
+    "name": "TU Delft Parsivel² (PAR009)",
+    "serialNumber": "450907",
+    "model": "OTT Parsivel²",
+    "type": "disdrometer",
+    "owners": ["Delft University of Technology (TU Delft)"],
+    "instrument": "parsivel"
+  },
+  {
+    "uuid": "8761e421-c5d3-466f-bb13-b9fa4a54bc79",
+    "pid": "https://hdl.handle.net/21.12132/3.8761e421c5d3466f",
+    "name": "FMI CL51-A",
+    "serialNumber": "G1230004",
+    "model": "Vaisala CL51",
+    "type": "lidar ceilometer",
+    "owners": ["Finnish Meteorological Institute (FMI)"],
+    "instrument": "cl51"
+  },
+  {
+    "uuid": "8ca6674e-ad02-4d5f-bf8c-feccf2d11c3b",
+    "pid": "https://hdl.handle.net/21.12132/3.8ca6674ead024d5f",
+    "name": "DJUG weather station",
+    "serialNumber": null,
+    "model": "Unknown",
+    "type": "weather station",
+    "owners": ["\"Dunarea de Jos\" University of Galati (DJUG)"],
+    "instrument": "weather-station"
+  },
+  {
+    "uuid": "8db74576-71ef-4052-bb11-6c3965a3facb",
+    "pid": "https://hdl.handle.net/21.12132/3.8db7457671ef4052",
+    "name": "UGR MRR-PRO",
+    "serialNumber": "051410 8780",
+    "model": "METEK MRR-PRO",
+    "type": "micro rain radar",
+    "owners": ["University of Granada (UGR)"],
+    "instrument": "mrr-pro"
+  },
+  {
+    "uuid": "8f31e165-45d1-4ff3-816f-35b17573a1df",
+    "pid": "https://hdl.handle.net/21.12132/3.8f31e16545d14ff3",
+    "name": "UGR Parsivel²",
+    "serialNumber": "45002",
+    "model": "OTT Parsivel²",
+    "type": "disdrometer",
+    "owners": ["University of Granada (UGR)"],
+    "instrument": "parsivel"
+  },
+  {
+    "uuid": "90b1e524-5b11-487d-8e37-c123575dde27",
+    "pid": "https://hdl.handle.net/21.12132/3.90b1e5245b11487d",
+    "name": "ESA RPG-FMCW-94-DP",
+    "serialNumber": "4010010",
+    "model": "RPG-FMCW-94-DP",
+    "type": "Doppler non-scanning cloud radar",
+    "owners": [
+      "European Space Agency (ESA)",
+      "National Institute of Research and Development for Optoelectronics (INOE)"
+    ],
+    "instrument": "rpg-fmcw-94"
+  },
+  {
+    "uuid": "922bd0a8-c7f3-4064-a6a3-f4aa2291414f",
+    "pid": "https://hdl.handle.net/21.12132/3.922bd0a8c7f34064",
+    "name": "TROPOS Parsivel² (LACROS)",
+    "serialNumber": "291937",
+    "model": "OTT Parsivel²",
+    "type": "disdrometer",
+    "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
+    "instrument": "parsivel"
+  },
+  {
+    "uuid": "930d8f29-5fa2-4ae5-9876-5df4b6f7e942",
+    "pid": "https://hdl.handle.net/21.12132/3.930d8f295fa24ae5",
+    "name": "INOE weather station",
+    "serialNumber": "871445.0026",
+    "model": "unidentified (OTT Hydromet)",
+    "type": "weather station",
+    "owners": [
+      "National Institute of Research and Development for Optoelectronics (INOE)"
+    ],
+    "instrument": "weather-station"
+  },
+  {
+    "uuid": "95e17b4d-0cc2-4fe1-a105-ce988c464620",
+    "pid": "https://hdl.handle.net/21.12132/3.95e17b4d0cc24fe1",
+    "name": "TU Delft RPG-FMCW-94-DP (LARA)",
+    "serialNumber": "RPG-FMCW-20-008",
+    "model": "RPG-FMCW-94-DP-S",
+    "type": "Doppler scanning cloud radar",
+    "owners": ["Delft University of Technology (TU Delft)"],
+    "instrument": "rpg-fmcw-94"
+  },
+  {
+    "uuid": "969bae90-fd04-4896-b281-c1af0f3d88c3",
+    "pid": "https://hdl.handle.net/21.12132/3.969bae90fd044896",
+    "name": "TROPOS HATPRO-G2 (LACROS)",
+    "serialNumber": null,
+    "model": "RPG-HATPRO-G2",
+    "type": "scanning microwave radiometer",
+    "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
+    "instrument": "hatpro"
+  },
+  {
+    "uuid": "981da267-085b-4966-bb4d-0ef7964fb91f",
+    "pid": "https://hdl.handle.net/21.12132/3.981da267085b4966",
+    "name": "UKRI Galileo",
+    "serialNumber": null,
+    "model": "Galileo",
+    "type": "Doppler non-scanning cloud radar",
+    "owners": ["UK Research and Innovation (UKRI)"],
+    "instrument": "galileo"
+  },
+  {
+    "uuid": "982ea3f8-2c82-491b-b878-b4aeddb4058a",
+    "pid": "https://hdl.handle.net/21.12132/3.982ea3f82c82491b",
+    "name": "UÉ CHM 15k",
+    "serialNumber": "CHM230136",
+    "model": "Lufft CHM 15k",
+    "type": "lidar ceilometer",
+    "owners": ["University of Évora (UÉ)"],
+    "instrument": "chm15k"
+  },
+  {
+    "uuid": "9a9061d5-87e2-4dc8-817c-50fa41d3b21a",
+    "pid": "https://hdl.handle.net/21.12132/3.9a9061d587e24dc8",
+    "name": "Uni Köln CT25k",
+    "serialNumber": null,
+    "model": "Vaisala CT25K",
+    "type": "ceilometer",
+    "owners": ["University of Cologne"],
+    "instrument": "ct25k"
+  },
+  {
+    "uuid": "9af43f93-e396-49f5-8dc1-6b67336b66e0",
+    "pid": "https://hdl.handle.net/21.12132/3.9af43f93e39649f5",
+    "name": "ECoE MIRA 35",
+    "serialNumber": "MBR8",
+    "model": "METEK MIRA-35",
+    "type": "Doppler non-scanning cloud radar",
+    "owners": ["ERATOSTHENES Centre of Excellence (ECoE)"],
+    "instrument": "mira-35"
+  },
+  {
+    "uuid": "9ccc0053-d5c4-4ca6-a3bb-09fa1b285846",
+    "pid": "https://hdl.handle.net/21.12132/3.9ccc0053d5c44ca6",
+    "name": "AWI RPG-FMCW-94-DP",
+    "serialNumber": "RPG-FMCW-22-024",
+    "model": "RPG-FMCW-94-DP",
+    "type": "Doppler non-scanning cloud radar",
+    "owners": ["Alfred Wegener Institute for Polar and Marine Research (AWI)"],
+    "instrument": "rpg-fmcw-94"
+  },
+  {
+    "uuid": "9e05dc89-68ed-434f-a80a-2c4bcac949fb",
+    "pid": "https://hdl.handle.net/21.12132/3.9e05dc8968ed434f",
+    "name": "TROPOS PollyXT (LACROS)",
+    "serialNumber": "pollyxt_lacros",
+    "model": "PollyXT",
+    "type": "multiwavelength Raman polarization lidar",
+    "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
+    "instrument": "pollyxt"
+  },
+  {
+    "uuid": "a150e648-f868-47a5-8c70-54d2f091d961",
+    "pid": "https://hdl.handle.net/21.12132/3.a150e648f86847a5",
+    "name": "CNR MIRA-35S",
+    "serialNumber": "NCNR",
+    "model": "METEK MIRA-35S",
+    "type": "Doppler scanning cloud radar",
+    "owners": ["Consiglio Nazionale delle Ricerche (CNR)"],
+    "instrument": "mira-35"
+  },
+  {
+    "uuid": "a1c9a8ae-d35a-4343-a883-407b16a6aa86",
+    "pid": "https://hdl.handle.net/21.12132/3.a1c9a8aed35a4343",
+    "name": "IAC Parsivel²",
+    "serialNumber": "411994",
+    "model": "OTT Parsivel²",
+    "type": "disdrometer",
+    "owners": ["ETH Zurich"],
+    "instrument": "parsivel"
+  },
+  {
+    "uuid": "a217d3ec-6e6b-47dd-85ca-9c19a0def834",
+    "pid": "https://hdl.handle.net/21.12132/3.a217d3ec6e6b47dd",
+    "name": "TROPOS HATPRO-G5 (LACROS)",
+    "serialNumber": null,
+    "model": "RPG-HATPRO-G5",
+    "type": "scanning microwave radiometer",
+    "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
+    "instrument": "hatpro"
+  },
+  {
+    "uuid": "a3c0f804-d91e-4966-9efb-aef54b9f2cd1",
+    "pid": "https://hdl.handle.net/21.12132/3.a3c0f804d91e4966",
+    "name": "MeteoSwiss WLS200S",
+    "serialNumber": "WLS200s-197",
+    "model": "Leosphere WindCube WLS200S",
+    "type": "scanning Doppler lidar",
+    "owners": ["Federal Office of Meteorology and Climatology MeteoSwiss"],
+    "instrument": "wls200s"
+  },
+  {
+    "uuid": "a5857315-ede2-4789-8f41-7413966065f8",
+    "pid": "https://hdl.handle.net/21.12132/3.a5857315ede24789",
+    "name": "TROPOS Parsivel² (Mindelo)",
+    "serialNumber": "452246",
+    "model": "OTT Parsivel²",
+    "type": "disdrometer",
+    "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
+    "instrument": "parsivel"
+  },
+  {
+    "uuid": "a5d479cd-32a1-4a88-8659-79322255e0ba",
+    "pid": "https://hdl.handle.net/21.12132/3.a5d479cd32a14a88",
+    "name": "ENEA CHM 15k",
+    "serialNumber": "CHM190157",
+    "model": "Lufft CHM 15k",
+    "type": "lidar ceilometer",
+    "owners": [
+      "National Agency for New Technologies, Energy and Sustainable Economic Development (ENEA)"
+    ],
+    "instrument": "chm15k"
+  },
+  {
+    "uuid": "a5e937a2-d7e6-4283-a633-709c3fd2a747",
+    "pid": "https://hdl.handle.net/21.12132/3.a5e937a2d7e64283",
+    "name": "ECoE HALO (Snoopy)",
+    "serialNumber": "0922-253",
+    "model": "StreamLine XR",
+    "type": "Doppler lidar",
+    "owners": ["ERATOSTHENES Centre of Excellence (ECoE)"],
+    "instrument": "halo-doppler-lidar"
+  },
+  {
+    "uuid": "a75d4215-f338-412e-a1cf-af1f760d08c3",
+    "pid": "https://hdl.handle.net/21.12132/3.a75d4215f338412e",
+    "name": "INOE Parsivel²",
+    "serialNumber": "413259",
+    "model": "OTT Parsivel²",
+    "type": "disdrometer",
+    "owners": [
+      "National Institute of Research and Development for Optoelectronics (INOE)"
+    ],
+    "instrument": "parsivel"
+  },
+  {
+    "uuid": "a93d1483-f107-42ff-951b-f2407544a912",
+    "pid": "https://hdl.handle.net/21.12132/3.a93d1483f10742ff",
+    "name": "FMI HALO 146",
+    "serialNumber": "146",
+    "model": "StreamLine XR",
+    "type": "Doppler lidar",
+    "owners": ["Finnish Meteorological Institute (FMI)"],
+    "instrument": "halo-doppler-lidar"
+  },
+  {
+    "uuid": "ad36b32b-2e0a-46fc-b01e-ffb092f78bb8",
+    "pid": "https://hdl.handle.net/21.12132/3.ad36b32b2e0a46fc",
+    "name": "IAC CHM 15k",
+    "serialNumber": "CHM210109",
+    "model": "Lufft CHM 15k",
+    "type": "lidar ceilometer",
+    "owners": ["ETH Zurich"],
+    "instrument": "chm15k"
+  },
+  {
+    "uuid": "af519eee-a2db-4a90-8cad-2a2fda5db201",
+    "pid": "https://hdl.handle.net/21.12132/3.af519eeea2db4a90",
+    "name": "FMI HALO 53",
+    "serialNumber": "53",
+    "model": "StreamLine Pro",
+    "type": "Doppler lidar",
+    "owners": ["Finnish Meteorological Institute (FMI)"],
+    "instrument": "halo-doppler-lidar"
+  },
+  {
+    "uuid": "b1373817-e44e-4fa2-ba49-b50e8ba8a418",
+    "pid": "https://hdl.handle.net/21.12132/3.b1373817e44e4fa2",
+    "name": "MeteoSwiss LPM",
+    "serialNumber": "3486",
+    "model": "Thies Clima Laser Precipitation Monitor",
+    "type": "disdrometer",
+    "owners": ["Federal Office of Meteorology and Climatology MeteoSwiss"],
+    "instrument": "thies-lnm"
+  },
+  {
+    "uuid": "b14e15ec-9c9b-43fb-9ad5-79cb059f3a6e",
+    "pid": "https://hdl.handle.net/21.12132/3.b14e15ec9c9b43fb",
+    "name": "IPSL CHM 15k",
+    "serialNumber": "CHM150101",
+    "model": "Lufft CHM 15k",
+    "type": "lidar ceilometer",
+    "owners": ["Institut Pierre-Simon Laplace (IPSL)"],
+    "instrument": "chm15k"
+  },
+  {
+    "uuid": "b2554a7c-c6db-4139-9f27-25e22589e227",
+    "pid": "https://hdl.handle.net/21.12132/3.b2554a7cc6db4139",
+    "name": "UGR HATPRO-G2",
+    "serialNumber": "R-DPR-G2-10/018",
+    "model": "RPG-HATPRO-G2",
+    "type": "scanning microwave radiometer",
+    "owners": ["University of Granada (UGR)"],
+    "instrument": "hatpro"
+  },
+  {
+    "uuid": "b4c99d3b-8b34-4a22-b19e-0d2315bc30d5",
+    "pid": "https://hdl.handle.net/21.12132/3.b4c99d3b8b344a22",
+    "name": "Uni Köln Parsivel²",
+    "serialNumber": "451267",
+    "model": "OTT Parsivel²",
+    "type": "disdrometer",
+    "owners": ["University of Cologne"],
+    "instrument": "parsivel"
+  },
+  {
+    "uuid": "b517b9f9-5c01-4893-8b87-6c62a09a49cc",
+    "pid": "https://hdl.handle.net/21.12132/3.b517b9f95c014893",
+    "name": "UW BASTA",
+    "serialNumber": "E230049A.1",
+    "model": "BASTA",
+    "type": "Doppler non-scanning cloud radar",
+    "owners": ["University of Warsaw (UW)"],
+    "instrument": "basta"
+  },
+  {
+    "uuid": "b7a8298b-7a54-405f-9c84-2e9ad854fca2",
+    "pid": "https://hdl.handle.net/21.12132/3.b7a8298b7a54405f",
+    "name": "UL MIRA-35S (Kepler)",
+    "serialNumber": "MBR3",
+    "model": "METEK MIRA-35S",
+    "type": "Doppler scanning cloud radar",
+    "owners": ["University of Leeds"],
+    "instrument": "mira-35"
+  },
+  {
+    "uuid": "b8909443-cad2-40fc-a31c-7ab76cd93a10",
+    "pid": "https://hdl.handle.net/21.12132/3.b8909443cad240fc",
+    "name": "IPSL HATPRO-G2",
+    "serialNumber": "R-DPR-G2-10/016",
+    "model": "RPG-HATPRO-G2",
+    "type": "scanning microwave radiometer",
+    "owners": ["Institut Pierre-Simon Laplace (IPSL)"],
+    "instrument": "hatpro"
+  },
+  {
+    "uuid": "b9ff0d23-9649-49f0-bde2-c1da5adfcab1",
+    "pid": "https://hdl.handle.net/21.12132/3.b9ff0d23964949f0",
+    "name": "TU Delft RPG-FMCW-94-DP (CLARA-94)",
+    "serialNumber": "RPG-FMCW-20-016",
+    "model": "RPG-FMCW-94-DP-S",
+    "type": "Doppler scanning cloud radar",
+    "owners": ["Delft University of Technology (TU Delft)"],
+    "instrument": "rpg-fmcw-94"
+  },
+  {
+    "uuid": "bba0a978-95f3-4817-9223-4f3334289cd0",
+    "pid": "https://hdl.handle.net/21.12132/3.bba0a97895f34817",
+    "name": "ENEA Pluvio²",
+    "serialNumber": "PL2L-451717",
+    "model": "OTT Pluvio²",
+    "type": "weighing rain gauge",
+    "owners": [
+      "National Agency for New Technologies, Energy and Sustainable Economic Development (ENEA)"
+    ],
+    "instrument": "pluvio"
+  },
+  {
+    "uuid": "bcb696b1-8d82-4005-934d-5f45d38a8ad3",
+    "pid": "https://hdl.handle.net/21.12132/3.bcb696b18d824005",
+    "name": "Uni Köln RPG-FMCW-94-SP (MiRAC)",
+    "serialNumber": "4010002",
+    "model": "RPG-FMCW-94-SP",
+    "type": "Doppler non-scanning cloud radar",
+    "owners": ["University of Cologne"],
+    "instrument": "rpg-fmcw-94"
+  },
+  {
+    "uuid": "bcbb8795-0c3d-48e0-a6bf-79027b63a31d",
+    "pid": "https://hdl.handle.net/21.12132/3.bcbb87950c3d48e0",
+    "name": "CNR CHM 15k",
+    "serialNumber": "CHM080085",
+    "model": "Lufft CHM 15k",
+    "type": "lidar ceilometer",
+    "owners": ["Consiglio Nazionale delle Ricerche (CNR)"],
+    "instrument": "chm15k"
+  },
+  {
+    "uuid": "be506991-71b2-4e17-a8b6-b157fe7bf80e",
+    "pid": "https://hdl.handle.net/21.12132/3.be50699171b24e17",
+    "name": "TROPOS HALO (Shaun)",
+    "serialNumber": "91",
+    "model": "StreamLine",
+    "type": "Doppler lidar",
+    "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
+    "instrument": "halo-doppler-lidar"
+  },
+  {
+    "uuid": "bf6c0c39-26c5-4dbb-bd0a-054d5382989e",
+    "pid": "https://hdl.handle.net/21.12132/3.bf6c0c3926c54dbb",
+    "name": "ESA RPG-FMCW-94-DP",
+    "serialNumber": null,
+    "model": "RPG-FMCW-94-DP",
+    "type": "Doppler non-scanning cloud radar",
+    "owners": ["European Space Agency (ESA)"],
+    "instrument": "rpg-fmcw-94"
+  },
+  {
+    "uuid": "c07f533c-d860-41f1-a030-900e01288ae5",
+    "pid": "https://hdl.handle.net/21.12132/3.c07f533cd86041f1",
+    "name": "KNMI CHM 15k",
+    "serialNumber": "CHM150118",
+    "model": "Lufft CHM 15k",
+    "type": "lidar ceilometer",
+    "owners": ["Royal Netherlands Meteorological Institute (KNMI)"],
+    "instrument": "chm15k"
+  },
+  {
+    "uuid": "c28c803c-759c-444c-89da-7b31082f6d9c",
+    "pid": "https://hdl.handle.net/21.12132/3.c28c803c759c444c",
+    "name": "TU Delft HATPRO-G5 (CLARIO)",
+    "serialNumber": "0030166",
+    "model": "RPG-HATPRO-G5",
+    "type": "scanning microwave radiometer",
+    "owners": ["Delft University of Technology (TU Delft)"],
+    "instrument": "hatpro"
+  },
+  {
+    "uuid": "c31cb1ea-90be-473d-8344-c8e40ad6720e",
+    "pid": "https://hdl.handle.net/21.12132/3.c31cb1ea90be473d",
+    "name": "UFS CHM 15k-x",
+    "serialNumber": "CHX090105",
+    "model": "Lufft CHM 15k-x",
+    "type": "lidar ceilometer",
+    "owners": [
+      "Betriebsgesellschaft Umweltforschungsstation Schneefernerhaus GmbH (UFS)"
+    ],
+    "instrument": "chm15kx"
+  },
+  {
+    "uuid": "c3e825b4-aa71-435c-8717-31248245de46",
+    "pid": "https://hdl.handle.net/21.12132/3.c3e825b4aa71435c",
+    "name": "UKRI Copernicus",
+    "serialNumber": null,
+    "model": "Copernicus",
+    "type": "Doppler non-scanning cloud radar",
+    "owners": ["UK Research and Innovation (UKRI)"],
+    "instrument": "copernicus"
+  },
+  {
+    "uuid": "c40d96c0-9cff-4e79-88f1-3c0e6685f1da",
+    "pid": "https://hdl.handle.net/21.12132/3.c40d96c09cff4e79",
+    "name": "NUIG MIRA-35",
+    "serialNumber": null,
+    "model": "METEK MIRA-35",
+    "type": "Doppler non-scanning cloud radar",
+    "owners": ["University of Galway (NUIG)"],
+    "instrument": "mira-35"
+  },
+  {
+    "uuid": "c55b141f-9942-4547-b36d-a2b3a869d748",
+    "pid": "https://hdl.handle.net/21.12132/3.c55b141f99424547",
+    "name": "TU Delft Parsivel² (PAR001)",
+    "serialNumber": "450542",
+    "model": "OTT Parsivel²",
+    "type": "disdrometer",
+    "owners": ["Delft University of Technology (TU Delft)"],
+    "instrument": "parsivel"
+  },
+  {
+    "uuid": "c5a4a625-9b3d-47d9-a3e8-b83d22ad33a5",
+    "pid": "https://hdl.handle.net/21.12132/3.c5a4a6259b3d47d9",
+    "name": "TU Delft Parsivel² (PAR003)",
+    "serialNumber": "450909",
+    "model": "OTT Parsivel²",
+    "type": "disdrometer",
+    "owners": ["Delft University of Technology (TU Delft)"],
+    "instrument": "parsivel"
+  },
+  {
+    "uuid": "c60c931f-ac9d-43f0-99af-42b7428b4eb3",
+    "pid": "https://hdl.handle.net/21.12132/3.c60c931fac9d43f0",
+    "name": "INOE CHM 15k",
+    "serialNumber": "CHM170137",
+    "model": "Lufft CHM 15k",
+    "type": "lidar ceilometer",
+    "owners": [
+      "National Institute of Research and Development for Optoelectronics (INOE)"
+    ],
+    "instrument": "chm15k"
+  },
+  {
+    "uuid": "c682ac71-4665-4de7-a0cf-bbf98275391c",
+    "pid": "https://hdl.handle.net/21.12132/3.c682ac7146654de7",
+    "name": "IPSL BASTA (CCRES calibration)",
+    "serialNumber": null,
+    "model": "scanning BASTA",
+    "type": "Doppler scanning cloud radar",
+    "owners": ["Institut Pierre-Simon Laplace (IPSL)"],
+    "instrument": "basta"
+  },
+  {
+    "uuid": "c6e347a7-1866-4113-9c3b-9b3e91308b15",
+    "pid": "https://hdl.handle.net/21.12132/3.c6e347a718664113",
+    "name": "DWD MWP1",
+    "serialNumber": null,
+    "model": "Radiometrics MWP1",
+    "type": "microwave radiometer",
+    "owners": ["German Meteorological Service (DWD)"],
+    "instrument": "radiometrics"
+  },
+  {
+    "uuid": "c8231fca-052b-4baa-a5e1-4963fb609801",
+    "pid": "https://hdl.handle.net/21.12132/3.c8231fca052b4baa",
+    "name": "UW HALO",
+    "serialNumber": "0821-213",
+    "model": "StreamLine",
+    "type": "Doppler lidar",
+    "owners": ["University of Warsaw (UW)"],
+    "instrument": "halo-doppler-lidar"
+  },
+  {
+    "uuid": "c98b69a5-099a-4154-b48f-4b555ee8eb41",
+    "pid": "https://hdl.handle.net/21.12132/3.c98b69a5099a4154",
+    "name": "TROPOS MIRA-35 (MBR7)",
+    "serialNumber": "mira35_MBR7",
+    "model": "METEK MIRA-35",
+    "type": "Doppler non-scanning cloud radar",
+    "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
+    "instrument": "mira-35"
+  },
+  {
+    "uuid": "ca8e1697-7a63-4793-aa77-2c73c68dda00",
+    "pid": "https://hdl.handle.net/21.12132/3.ca8e16977a634793",
+    "name": "DWD MP-3000A",
+    "serialNumber": "3263a",
+    "model": "Radiometrics MP-3000A",
+    "type": "microwave radiometer",
+    "owners": ["German Meteorological Service (DWD)"],
+    "instrument": "radiometrics"
+  },
+  {
+    "uuid": "cc2f4588-7f54-480b-a25c-f708d3f2ea77",
+    "pid": "https://hdl.handle.net/21.12132/3.cc2f45887f54480b",
+    "name": "LMU Pluvio²",
+    "serialNumber": null,
+    "model": "OTT Pluvio²",
+    "type": "weighing rain gauge",
+    "owners": ["Ludwig-Maximilians-Universität München (LMU)"],
+    "instrument": "pluvio"
+  },
+  {
+    "uuid": "cd3578e9-f68b-42c0-a4ae-06acbfda2569",
+    "pid": "https://hdl.handle.net/21.12132/3.cd3578e9f68b42c0",
+    "name": "TROPOS CHM 15k-x (LACROS)",
+    "serialNumber": "CHX090111",
+    "model": "Lufft CHM 15k-x",
+    "type": "lidar ceilometer",
+    "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
+    "instrument": "chm15kx"
+  },
+  {
+    "uuid": "cded5e33-462e-4dd3-ad25-0a6667c59e9f",
+    "pid": "https://hdl.handle.net/21.12132/3.cded5e33462e4dd3",
+    "name": "TU Delft RPG-FMCW-35-DP (CLARA-35)",
+    "serialNumber": "RPG-FMCW-20-005",
+    "model": "RPG-FMCW-35-DP-S",
+    "type": "Doppler scanning cloud radar",
+    "owners": ["Delft University of Technology (TU Delft)"],
+    "instrument": "rpg-fmcw-35"
+  },
+  {
+    "uuid": "cdf99c53-6bd0-4146-be2a-604cf1164c30",
+    "pid": "https://hdl.handle.net/21.12132/3.cdf99c536bd04146",
+    "name": "DWD CHM 15k",
+    "serialNumber": "CHM100110",
+    "model": "Lufft CHM 15k",
+    "type": "lidar ceilometer",
+    "owners": ["German Meteorological Service (DWD)"],
+    "instrument": "chm15k"
+  },
+  {
+    "uuid": "d11f7644-85a5-4f79-9ade-7d55408971b8",
+    "pid": "https://hdl.handle.net/21.12132/3.d11f764485a54f79",
+    "name": "INOE HATPRO-G2",
+    "serialNumber": null,
+    "model": "RPG-HATPRO-G2",
+    "type": "scanning microwave radiometer",
+    "owners": [
+      "National Institute of Research and Development for Optoelectronics (INOE)"
+    ],
+    "instrument": "hatpro"
+  },
+  {
+    "uuid": "d257c922-19a6-4842-9df2-ab4a1f76eaf7",
+    "pid": "https://hdl.handle.net/21.12132/3.d257c92219a64842",
+    "name": "DWD CHM 15k",
+    "serialNumber": "CHM060012",
+    "model": "Lufft CHM 15k",
+    "type": "lidar ceilometer",
+    "owners": ["German Meteorological Service (DWD)"],
+    "instrument": "chm15k"
+  },
+  {
+    "uuid": "d5ee0db6-ac96-4a04-911c-de4e122b5f0d",
+    "pid": "https://hdl.handle.net/21.12132/3.d5ee0db6ac964a04",
+    "name": "CEREA WLS70",
+    "serialNumber": "WLS70-10",
+    "model": "Leosphere WindCube WLS70",
+    "type": "Doppler lidar",
+    "owners": [
+      "Centre d'Enseignement et de Recherche en Environnement Atmosphérique (CEREA)"
+    ],
+    "instrument": "wls70"
+  },
+  {
+    "uuid": "d607bf23-350b-479f-bed0-09751f17aeb5",
+    "pid": "https://hdl.handle.net/21.12132/3.d607bf23350b479f",
+    "name": "LMU MIRA-10 (X-MACS)",
+    "serialNumber": "008PedMBX1",
+    "model": "METEK MIRA-10",
+    "type": "Doppler non-scanning cloud radar",
+    "owners": ["Ludwig-Maximilians-Universität München (LMU)"],
+    "instrument": "mira-10"
+  },
+  {
+    "uuid": "d6bf209b-c48b-48a4-bbfb-fed713b27832",
+    "pid": "https://hdl.handle.net/21.12132/3.d6bf209bc48b48a4",
+    "name": "UBB CHM 15k",
+    "serialNumber": "230128",
+    "model": "Lufft CHM 15k",
+    "type": "lidar ceilometer",
+    "owners": ["Babeș-Bolyai University (UBB)"],
+    "instrument": "chm15k"
+  },
+  {
+    "uuid": "d6cc3d73-f9dd-4d4b-81de-d88787f3c272",
+    "pid": "https://hdl.handle.net/21.12132/3.d6cc3d73f9dd4d4b",
+    "name": "DWD MIRA-35",
+    "serialNumber": null,
+    "model": "METEK MIRA-35",
+    "type": "Doppler non-scanning cloud radar",
+    "owners": ["German Meteorological Service (DWD)"],
+    "instrument": "mira-35"
+  },
+  {
+    "uuid": "d7b65c4b-72b6-432d-a075-0935437bf351",
+    "pid": "https://hdl.handle.net/21.12132/3.d7b65c4b72b6432d",
+    "name": "ECoE CHM 15k",
+    "serialNumber": "CHM230107",
+    "model": "Lufft CHM 15k",
+    "type": "lidar ceilometer",
+    "owners": ["ERATOSTHENES Centre of Excellence (ECoE)"],
+    "instrument": "chm15k"
+  },
+  {
+    "uuid": "d98f6fd2-bec9-4e5e-b1d3-5ca422529215",
+    "pid": "https://hdl.handle.net/21.12132/3.d98f6fd2bec94e5e",
+    "name": "INOE MIRA-35",
+    "serialNumber": null,
+    "model": "METEK MIRA-35S",
+    "type": "Doppler scanning cloud radar",
+    "owners": [
+      "National Institute of Research and Development for Optoelectronics (INOE)"
+    ],
+    "instrument": "mira-35"
+  },
+  {
+    "uuid": "da45b184-3614-42be-aec2-a8f65d694215",
+    "pid": "https://hdl.handle.net/21.12132/3.da45b184361442be",
+    "name": "UL HATPRO-G5",
+    "serialNumber": "30123",
+    "model": "RPG-HATPRO-G5",
+    "type": "scanning microwave radiometer",
+    "owners": ["University of Leeds"],
+    "instrument": "hatpro"
+  },
+  {
+    "uuid": "db58480f-58ca-49ad-995c-6c3b89e9a0fc",
+    "pid": "https://hdl.handle.net/21.12132/3.db58480f58ca49ad",
+    "name": "INOE HALO",
+    "serialNumber": "158",
+    "model": "StreamLine XR",
+    "type": "Doppler lidar",
+    "owners": [
+      "National Institute of Research and Development for Optoelectronics (INOE)"
+    ],
+    "instrument": "halo-doppler-lidar"
+  },
+  {
+    "uuid": "ddeab96e-6197-478a-93d0-e334f67e3152",
+    "pid": "https://hdl.handle.net/21.12132/3.ddeab96e6197478a",
+    "name": "DWD LPM",
+    "serialNumber": "1025",
+    "model": "Thies Clima Laser Precipitation Monitor",
+    "type": "disdrometer",
+    "owners": ["German Meteorological Service (DWD)"],
+    "instrument": "thies-lnm"
+  },
+  {
+    "uuid": "df028e77-57be-46be-8fd4-58c115b746c6",
+    "pid": "https://hdl.handle.net/21.12132/3.df028e7757be46be",
+    "name": "AWI CL51 (F3460001)",
+    "serialNumber": "F3460001",
+    "model": "Vaisala CL51",
+    "type": "lidar ceilometer",
+    "owners": ["Alfred Wegener Institute for Polar and Marine Research (AWI)"],
+    "instrument": "cl51"
+  },
+  {
+    "uuid": "e095e262-c727-4203-987b-4f7f9ab5cb04",
+    "pid": "https://hdl.handle.net/21.12132/3.e095e262c7274203",
+    "name": "MeteoSwiss HATPRO-G5",
+    "serialNumber": "0030156",
+    "model": "RPG-HATPRO-G5",
+    "type": "scanning microwave radiometer",
+    "owners": ["Federal Office of Meteorology and Climatology MeteoSwiss"],
+    "instrument": "hatpro"
+  },
+  {
+    "uuid": "e0b09bb4-ea80-4462-85f3-d7308576ccaf",
+    "pid": "https://hdl.handle.net/21.12132/3.e0b09bb4ea804462",
+    "name": "LATMOS RASTA",
+    "serialNumber": "hal-00713364",
+    "model": "RASTA",
+    "type": "cloud radar",
+    "owners": [
+      "Atmospheres Laboratory Environments, Observations Spatiales (LATMOS)"
+    ],
+    "instrument": "rasta"
+  },
+  {
+    "uuid": "e0c62913-f7c3-4b71-b5bb-04824a168997",
+    "pid": "https://hdl.handle.net/21.12132/3.e0c62913f7c34b71",
+    "name": "LMU RPG-FMCW-94-DP (W-MACS)",
+    "serialNumber": "4140010",
+    "model": "RPG-FMCW-94-DP-S",
+    "type": "Doppler scanning cloud radar",
+    "owners": ["Ludwig-Maximilians-Universität München (LMU)"],
+    "instrument": "rpg-fmcw-94"
+  },
+  {
+    "uuid": "e166bb0b-5e92-46ce-adb8-73ed38ecc459",
+    "pid": "https://hdl.handle.net/21.12132/3.e166bb0b5e9246ce",
+    "name": "AWI HALO (234)",
+    "serialNumber": "1221-234",
+    "model": "StreamLine XR+",
+    "type": "Doppler lidar",
+    "owners": ["Alfred Wegener Institute for Polar and Marine Research (AWI)"],
+    "instrument": "halo-doppler-lidar"
+  },
+  {
+    "uuid": "e3902ab0-7566-4bf1-8d3f-0c1032d9c819",
+    "pid": "https://hdl.handle.net/21.12132/3.e3902ab075664bf1",
+    "name": "AWI MRR-PRO",
+    "serialNumber": "511037168",
+    "model": "METEK MRR-PRO",
+    "type": "micro rain radar",
+    "owners": ["Alfred Wegener Institute for Polar and Marine Research (AWI)"],
+    "instrument": "mrr-pro"
+  },
+  {
+    "uuid": "e44e1ffa-c795-4538-9740-6fd4f247eb18",
+    "pid": "https://hdl.handle.net/21.12132/3.e44e1ffac7954538",
+    "name": "FMI RPG-FMCW-94-DP",
+    "serialNumber": "4010022",
+    "model": "RPG-FMCW-94-DP",
+    "type": "Doppler non-scanning cloud radar",
+    "owners": ["Finnish Meteorological Institute (FMI)"],
+    "instrument": "rpg-fmcw-94"
+  },
+  {
+    "uuid": "e5ef4b05-56c0-4aa9-9f1a-dde43374c454",
+    "pid": "https://hdl.handle.net/21.12132/3.e5ef4b0556c04aa9",
+    "name": "DWD HATPRO-G5",
+    "serialNumber": "0030126",
+    "model": "RPG-HATPRO-G5",
+    "type": "scanning microwave radiometer",
+    "owners": ["German Meteorological Service (DWD)"],
+    "instrument": "hatpro"
+  },
+  {
+    "uuid": "e7fe5a4f-26ac-4717-8c99-d87e0e95c5ad",
+    "pid": "https://hdl.handle.net/21.12132/3.e7fe5a4f26ac4717",
+    "name": "INOE HATPRO-G5",
+    "serialNumber": "0030124",
+    "model": "RPG-HATPRO-G5",
+    "type": "scanning microwave radiometer",
+    "owners": [
+      "National Institute of Research and Development for Optoelectronics (INOE)"
+    ],
+    "instrument": "hatpro"
+  },
+  {
+    "uuid": "e88108ea-f41a-4215-8780-1a90a3d2574e",
+    "pid": "https://hdl.handle.net/21.12132/3.e88108eaf41a4215",
+    "name": "IAC HATPRO-G5",
+    "serialNumber": null,
+    "model": "RPG-HATPRO-G5",
+    "type": "scanning microwave radiometer",
+    "owners": ["ETH Zurich"],
+    "instrument": "hatpro"
+  },
+  {
+    "uuid": "e9441c71-f67f-4c83-8b31-5437943371be",
+    "pid": "https://hdl.handle.net/21.12132/3.e9441c71f67f4c83",
+    "name": "LATMOS BASTA",
+    "serialNumber": null,
+    "model": "BASTA",
+    "type": "Doppler non-scanning cloud radar",
+    "owners": [
+      "Atmospheres Laboratory Environments, Observations Spatiales (LATMOS)"
+    ],
+    "instrument": "basta"
+  },
+  {
+    "uuid": "eadafa59-ffa6-48de-a244-9e54a05b90eb",
+    "pid": "https://hdl.handle.net/21.12132/3.eadafa59ffa648de",
+    "name": "UGR HALO 102",
+    "serialNumber": "0615-102",
+    "model": "StreamLine",
+    "type": "Doppler lidar",
+    "owners": ["University of Granada (UGR)"],
+    "instrument": "halo-doppler-lidar"
+  },
+  {
+    "uuid": "eb35ee6d-e17b-49b4-8e04-b278a797f30b",
+    "pid": "https://hdl.handle.net/21.12132/3.eb35ee6de17b49b4",
+    "name": "PULS CHM 15k",
+    "serialNumber": "CHM230109",
+    "model": "Lufft CHM 15k",
+    "type": "lidar ceilometer",
+    "owners": ["Poznań University of Life Sciences (PULS)"],
+    "instrument": "chm15k"
+  },
+  {
+    "uuid": "ec09dc9c-028c-42d1-a4cc-2c19dc470be8",
+    "pid": "https://hdl.handle.net/21.12132/3.ec09dc9c028c42d1",
+    "name": "TROPOS MIRA-35 (LACROS)",
+    "serialNumber": "mira35_NMRA",
+    "model": "METEK MIRA-35",
+    "type": "Doppler non-scanning cloud radar",
+    "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
+    "instrument": "mira-35"
+  },
+  {
+    "uuid": "f33e53dd-dde4-4495-93f2-8f0afddf484f",
+    "pid": "https://hdl.handle.net/21.12132/3.f33e53dddde44495",
+    "name": "FMI CL61-B",
+    "serialNumber": "T2520357",
+    "model": "Vaisala CL61",
+    "type": "depolarisation lidar ceilometer",
+    "owners": ["Finnish Meteorological Institute (FMI)"],
+    "instrument": "cl61d"
+  },
+  {
+    "uuid": "f360a237-5f3e-4e4f-aaa8-5e6086aac3e5",
+    "pid": "https://hdl.handle.net/21.12132/3.f360a2375f3e4e4f",
+    "name": "UH HATPRO-G5",
+    "serialNumber": "0030115",
+    "model": "RPG-HATPRO-G5",
+    "type": "scanning microwave radiometer",
+    "owners": ["University of Helsinki (UH)"],
+    "instrument": "hatpro"
+  },
+  {
+    "uuid": "f51736b5-923b-483c-ae80-037f08f4a41f",
+    "pid": "https://hdl.handle.net/21.12132/3.f51736b5923b483c",
+    "name": "Uni Köln HATPRO-G5 (JOYHAT)",
+    "serialNumber": "0030245",
+    "model": "RPG-HATPRO-G5",
+    "type": "scanning microwave radiometer",
+    "owners": ["University of Cologne"],
+    "instrument": "hatpro"
+  },
+  {
+    "uuid": "f54a7d7c-a394-4dec-ac19-37be55b1e9b8",
+    "pid": "https://hdl.handle.net/21.12132/3.f54a7d7ca3944dec",
+    "name": "LIM RPG-FMCW-94-DP (LIMRAD94)",
+    "serialNumber": null,
+    "model": "RPG-FMCW-94-DP",
+    "type": "Doppler non-scanning cloud radar",
+    "owners": ["Leipzig Institute for Meteorology (LIM)"],
+    "instrument": "rpg-fmcw-94"
+  },
+  {
+    "uuid": "f6f3cee4-a801-4f41-82b3-7a7b6c46400c",
+    "pid": "https://hdl.handle.net/21.12132/3.f6f3cee4a8014f41",
+    "name": "TROPOS HALO (Skipper)",
+    "serialNumber": "232",
+    "model": "StreamLine XR+",
+    "type": "Doppler lidar",
+    "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
+    "instrument": "halo-doppler-lidar"
+  },
+  {
+    "uuid": "f7d44dc8-86a9-4542-bc50-991c4cb3172a",
+    "pid": "https://hdl.handle.net/21.12132/3.f7d44dc886a94542",
+    "name": "Uni Köln RPG-FMCW-94-SP (JOYRAD-94)",
+    "serialNumber": "0300001",
+    "model": "RPG-FMCW-94-SP",
+    "type": "Doppler non-scanning cloud radar",
+    "owners": ["University of Cologne"],
+    "instrument": "rpg-fmcw-94"
+  },
+  {
+    "uuid": "f89ca3d7-674d-4422-9c0d-7dbc1de2c5bd",
+    "pid": "https://hdl.handle.net/21.12132/3.f89ca3d7674d4422",
+    "name": "FMI Pluvio",
+    "serialNumber": "334516",
+    "model": "OTT Pluvio²",
+    "type": "weighing rain gauge",
+    "owners": ["Finnish Meteorological Institute (FMI)"],
+    "instrument": "pluvio"
+  },
+  {
+    "uuid": "f9703e0d-f4d1-43ee-9288-1b5d8a9bf98b",
+    "pid": "https://hdl.handle.net/21.12132/3.f9703e0df4d143ee",
+    "name": "AWI CL51 (F3460002)",
+    "serialNumber": "F3460002",
+    "model": "Vaisala CL51",
+    "type": "lidar ceilometer",
+    "owners": ["Alfred Wegener Institute for Polar and Marine Research (AWI)"],
+    "instrument": "cl51"
+  },
+  {
+    "uuid": "f997d051-867a-43ed-a62f-c713557795c5",
+    "pid": "https://hdl.handle.net/21.12132/3.f997d051867a43ed",
+    "name": "AWI MiniMPL",
+    "serialNumber": "5081",
+    "model": "Droplet MiniMPL",
+    "type": "elastic polarization lidar",
+    "owners": ["Alfred Wegener Institute for Polar and Marine Research (AWI)"],
+    "instrument": "minimpl"
+  },
+  {
+    "uuid": "fa39ba99-2854-4aae-907e-9302d826ed20",
+    "pid": "https://hdl.handle.net/21.12132/3.fa39ba9928544aae",
+    "name": "TROPOS RPG-FMCW-94-DP",
+    "serialNumber": null,
+    "model": "RPG-FMCW-94-DP",
+    "type": "Doppler non-scanning cloud radar",
+    "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
+    "instrument": "rpg-fmcw-94"
+  },
+  {
+    "uuid": "fa676e25-7664-4868-b63b-7331e2ea8980",
+    "pid": "https://hdl.handle.net/21.12132/3.fa676e2576644868",
+    "name": "LMU weather station",
+    "serialNumber": "S0810281",
+    "model": "Vaisala WXT536",
+    "type": "weather station",
+    "owners": ["Ludwig-Maximilians-Universität München (LMU)"],
+    "instrument": "weather-station"
+  },
+  {
+    "uuid": "fab6c205-2439-49eb-8f19-dd460f0e82e9",
+    "pid": "https://hdl.handle.net/21.12132/3.fab6c205243949eb",
+    "name": "LMU Parsivel²",
+    "serialNumber": "452121",
+    "model": "OTT Parsivel²",
+    "type": "disdrometer",
+    "owners": ["Ludwig-Maximilians-Universität München (LMU)"],
+    "instrument": "parsivel"
+  },
+  {
+    "uuid": "fbf9185d-bde3-45ab-99a9-e1da863ae8d6",
+    "pid": "https://hdl.handle.net/21.12132/3.fbf9185dbde345ab",
+    "name": "TROPOS HATPRO-G5 (Mindelo)",
+    "serialNumber": null,
+    "model": "RPG-HATPRO-G5",
+    "type": "scanning microwave radiometer",
+    "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
+    "instrument": "hatpro"
+  },
+  {
+    "uuid": "ffb25f43-330f-4793-bd6b-f2425cee0fd0",
+    "pid": "https://hdl.handle.net/21.12132/3.ffb25f43330f4793",
+    "name": "DWD weather station",
+    "serialNumber": null,
+    "model": "Unknown",
+    "type": "weather station",
+    "owners": ["German Meteorological Service (DWD)"],
+    "instrument": "weather-station"
+  }
+]

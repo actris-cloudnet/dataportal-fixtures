@@ -1,0 +1,127 @@
+[
+  {
+    "testId": "FindAttributeOutliers",
+    "name": "Attribute outliers",
+    "description": "Find suspicious values in global attributes."
+  },
+  {
+    "testId": "FindFolding",
+    "name": "Radar folding",
+    "description": "Test for radar folding."
+  },
+  {
+    "testId": "FindVariableOutliers",
+    "name": "Variable outliers",
+    "description": "Find suspicious data values."
+  },
+  {
+    "testId": "TestBrightnessTemperature",
+    "name": "Brightness temperature",
+    "description": "Test that brightness temperature data are valid."
+  },
+  {
+    "testId": "TestCFConvention",
+    "name": "CF conventions",
+    "description": "Test compliance with the CF metadata conventions."
+  },
+  {
+    "testId": "TestDataCoverage",
+    "name": "Data coverage",
+    "description": "Test that file contains enough data."
+  },
+  {
+    "testId": "TestDataTypes",
+    "name": "Data types",
+    "description": "Check that variables have expected data types."
+  },
+  {
+    "testId": "TestFillValue",
+    "name": "Fill value",
+    "description": "Test that fill value is explicitly set for variables with missing data."
+  },
+  {
+    "testId": "TestFloatingPointValues",
+    "name": "Floating-point values",
+    "description": "Test for special floating-point values which may indicate problems with the processing."
+  },
+  {
+    "testId": "TestGlobalAttributes",
+    "name": "Global attributes",
+    "description": "Check that file contains required global attributes."
+  },
+  {
+    "testId": "TestIfRangeCorrected",
+    "name": "Range correction",
+    "description": "Test that beta is range corrected."
+  },
+  {
+    "testId": "TestInstrumentPid",
+    "name": "Instrument PID",
+    "description": "Test that valid instrument PID exists."
+  },
+  {
+    "testId": "TestLDR",
+    "name": "LDR values",
+    "description": "Test that LDR values are proper."
+  },
+  {
+    "testId": "TestLidarBeta",
+    "name": "Beta presence",
+    "description": "Test that one beta variable exists."
+  },
+  {
+    "testId": "TestLongNames",
+    "name": "Long names",
+    "description": "Check that variables have expected long names."
+  },
+  {
+    "testId": "TestMWRMultiTemperature",
+    "name": "MWR multiple pointing temperature",
+    "description": "Test that temperature data are valid."
+  },
+  {
+    "testId": "TestMWRSingleLWP",
+    "name": "MWR single pointing LWP",
+    "description": "Test that LWP data are valid."
+  },
+  {
+    "testId": "TestMask",
+    "name": "Data mask",
+    "description": "Test that data are not completely masked."
+  },
+  {
+    "testId": "TestMedianLwp",
+    "name": "Median LWP",
+    "description": "Test that LWP data are valid."
+  },
+  {
+    "testId": "TestModelData",
+    "name": "Model data",
+    "description": "Test that model data are valid."
+  },
+  {
+    "testId": "TestStandardNames",
+    "name": "Standard names",
+    "description": "Check that variable have expected standard names."
+  },
+  {
+    "testId": "TestTimeVector",
+    "name": "Time vector",
+    "description": "Test that time vector is continuous."
+  },
+  {
+    "testId": "TestUnits",
+    "name": "Units",
+    "description": "Check that variables have expected units."
+  },
+  {
+    "testId": "TestVariableNames",
+    "name": "Variables",
+    "description": "Check that file contains required variables."
+  },
+  {
+    "testId": "TestVariableNamesDefined",
+    "name": "Variable names",
+    "description": "Check that variables have expected names."
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "ecmwf_cite",
+    "acknowledgements": "ECMWF for providing IFS model data."
+  },
+  {
+    "id": "ecmwf-era5_cite",
+    "acknowledgements": "ECMWF for providing ERA5 model reanalysis data."
+  },
+  {
+    "id": "dwd_cite",
+    "acknowledgements": "DWD for providing ICON model data."
+  },
+  {
+    "id": "fmi_cite",
+    "acknowledgements": "FMI for providing Harmonie model data."
+  },
+  {
+    "id": "gdas_cite",
+    "acknowledgements": "NCEP (National Centers for Environmental Prediction) for providing access to GDAS1 data."
+  }
+]

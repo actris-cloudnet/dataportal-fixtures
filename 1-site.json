@@ -1,0 +1,1994 @@
+[
+  {
+    "id": "bucharest",
+    "humanReadableName": "Bucharest",
+    "latitude": 44.348,
+    "longitude": 26.029,
+    "altitude": 93,
+    "gaw": "INO",
+    "dvasId": "ab2x",
+    "actrisId": 99,
+    "country": "Romania",
+    "countryCode": "RO",
+    "type": ["cloudnet"],
+    "citations": [
+      {
+        "id": "esa_cite"
+      }
+    ]
+  },
+  {
+    "id": "cabauw",
+    "humanReadableName": "Cabauw",
+    "latitude": 51.968,
+    "longitude": 4.927,
+    "altitude": -1,
+    "gaw": "CBW",
+    "dvasId": null,
+    "actrisId": 88,
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "type": ["cloudnet"]
+  },
+  {
+    "id": "chilbolton",
+    "humanReadableName": "Chilbolton",
+    "latitude": 51.144,
+    "longitude": -1.439,
+    "altitude": 85,
+    "gaw": null,
+    "dvasId": "bf7p",
+    "actrisId": null,
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "countrySubdivisionCode": "GB-ENG",
+    "type": ["cloudnet"]
+  },
+  {
+    "id": "delft",
+    "humanReadableName": "Delft",
+    "latitude": 51.996,
+    "longitude": 4.379,
+    "altitude": -4,
+    "gaw": null,
+    "dvasId": null,
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "type": ["campaign"]
+  },
+  {
+    "id": "galati",
+    "humanReadableName": "Galați",
+    "latitude": 45.435,
+    "longitude": 28.037,
+    "altitude": 40,
+    "gaw": null,
+    "dvasId": "sy91",
+    "actrisId": 102,
+    "country": "Romania",
+    "countryCode": "RO",
+    "type": ["cloudnet"],
+    "citations": [
+      {
+        "id": "galati_cite"
+      }
+    ]
+  },
+  {
+    "id": "granada",
+    "humanReadableName": "Granada",
+    "latitude": 37.164,
+    "longitude": -3.605,
+    "altitude": 680,
+    "gaw": "UGR",
+    "dvasId": "5qss",
+    "actrisId": 110,
+    "country": "Spain",
+    "countryCode": "ES",
+    "type": ["cloudnet"]
+  },
+  {
+    "id": "hyytiala",
+    "humanReadableName": "Hyytiälä",
+    "latitude": 61.844,
+    "longitude": 24.287,
+    "altitude": 150,
+    "gaw": "SMR",
+    "dvasId": "ko6m",
+    "actrisId": 23,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["cloudnet"],
+    "description": "<p>Hyytiälä is a historical forestry station in Finland, operated by the\nUniversity of Helsinki. Hyytiälä hosts the <a href=\"https://www.atm.helsinki.fi/smear/smear-ii/\">Station for Measuring\nEcosystem–Atmosphere Relations II</a>\n(SMEAR II), one of the world’s most comprehensive surface in situ\nobservation sites in a boreal forest environment. The instrumentation covers\naerosol dynamics, atmospheric chemistry, micrometeorology, weather monitoring,\ncloud remote sensing and ecophysiology of trees growing in the urban\nenvironment.</p>\n<p>The cloud remote observations in Hyytiälä have started in 2012. These\nobservations were carried out on campaign basis. In 2014, the second <a href=\"https://www.arm.gov/capabilities/observatories/amf\">ARM\nMobile Facility</a> (AMF2) was\ndeployed to Hyytiälä, as a part of Biogenic Aerosols–Effects on Clouds and\nClimate experiment (Petäjä et al., 2016). Since then, continuous observations\nof cloud and precipitation are carried out at the site.</p>\n<p>The cloud profiling site is located on the lake Kuivajärvi shore. It is about\n30 m below the base of the SMEAR II mast, where most aerosol\nmeasurements are performed.</p>\n<h2>References</h2>\n<ul class=\"references\">\n<li>Petäjä et al. (2016). BAECC: A Field Campaign to Elucidate the Impact of\nBiogenic Aerosols on Clouds and Climate. <em>Bull. Amer. Meteor. Soc.</em>, <em>97</em>(10),\n1909–1928. <a href=\"https://doi.org/10.1175/BAMS-D-14-00199.1\">https://doi.org/10.1175/BAMS-D-14-00199.1</a>.</li>\n</ul>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://www2.helsinki.fi/en/research-stations/hyytiala-forestry-field-station\">Hyytiälä home page</a></li>\n</ul>\n"
+  },
+  {
+    "id": "juelich",
+    "humanReadableName": "Jülich",
+    "latitude": 50.908,
+    "longitude": 6.413,
+    "altitude": 111,
+    "gaw": "JUE",
+    "dvasId": "0lym",
+    "actrisId": 48,
+    "country": "Germany",
+    "countryCode": "DE",
+    "type": ["cloudnet"]
+  },
+  {
+    "id": "kenttarova",
+    "humanReadableName": "Kenttärova",
+    "latitude": 67.987,
+    "longitude": 24.243,
+    "gaw": null,
+    "dvasId": "zsf3",
+    "actrisId": 26,
+    "altitude": 345,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["cloudnet"],
+    "description": "<p>Kenttärova is a remote site in Northern Finland. It's a part of the <a href=\"https://en.ilmatieteenlaitos.fi/pallas-atmosphere-ecosystem-supersite\">Pallas\nAtmosphere-Ecosystem Supersite</a>\nhosted by the Finnish Meteorological Institute. The station was established in\n2002 and features a 20-meter-high measurement tower for studying\natmosphere–biosphere interactions above a spruce forest (Lohila et al. 2015).\nCloud remote sensing measurements at the site started in 2022.</p>\n<h2>References</h2>\n<ul class=\"references\">\n<li>Lohila et al. (2015). Preface to the special issue on integrated research of\natmosphere, ecosystems and environment at Pallas. <em>Boreal Environment\nResearch</em>, <em>20</em>(4), 431–454. <a href=\"https://hdl.handle.net/10138/228278\">https://hdl.handle.net/10138/228278</a></li>\n</ul>\n"
+  },
+  {
+    "id": "leipzig",
+    "humanReadableName": "Leipzig",
+    "latitude": 51.353,
+    "longitude": 12.435,
+    "gaw": "LEI",
+    "dvasId": "0vtd",
+    "actrisId": 64,
+    "altitude": 126,
+    "country": "Germany",
+    "countryCode": "DE",
+    "type": ["cloudnet"]
+  },
+  {
+    "id": "melpitz",
+    "humanReadableName": "Melpitz",
+    "latitude": 51.53,
+    "longitude": 12.93,
+    "gaw": "MEL",
+    "actrisId": 50,
+    "altitude": 86,
+    "dvasId": "fhhq",
+    "country": "Germany",
+    "countryCode": "DE",
+    "type": ["campaign"]
+  },
+  {
+    "id": "leipzig-lim",
+    "humanReadableName": "Leipzig LIM",
+    "latitude": 51.333,
+    "longitude": 12.389,
+    "gaw": null,
+    "dvasId": null,
+    "altitude": 126,
+    "country": "Germany",
+    "countryCode": "DE",
+    "type": ["cloudnet"],
+    "description": "<p>The Leipzig Institute for Meteorology (LIM) is located close to the\ncity centre of Leipzig on the edge of a garden area. When the\nremote sensing instruments are not being used for field experiments,\nthey are located on the roof platform of the new institute building\nat a height of 126 meters above sea level. Cloud remote sensing\nobservations began in 2020.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://www.physes.uni-leipzig.de/en/fakultaet/institute-bereiche-und-zentren/leipzig-institute-for-meteorology-lim\">LIM home page</a></li>\n</ul>\n"
+  },
+  {
+    "id": "eriswil",
+    "humanReadableName": "Eriswil",
+    "latitude": 47.071,
+    "longitude": 7.873,
+    "gaw": null,
+    "dvasId": null,
+    "altitude": 921,
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "type": ["campaign"]
+  },
+  {
+    "id": "lindenberg",
+    "humanReadableName": "Lindenberg",
+    "latitude": 52.208,
+    "longitude": 14.118,
+    "gaw": "LIN",
+    "dvasId": "6zm2",
+    "actrisId": 49,
+    "altitude": 104,
+    "country": "Germany",
+    "countryCode": "DE",
+    "type": ["cloudnet"]
+  },
+  {
+    "id": "lutjewad",
+    "humanReadableName": "Lutjewad",
+    "latitude": 53.24,
+    "longitude": 6.21,
+    "altitude": 1,
+    "gaw": null,
+    "dvasId": null,
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "type": ["campaign"]
+  },
+  {
+    "id": "mace-head",
+    "humanReadableName": "Mace Head",
+    "latitude": 53.326,
+    "longitude": -9.9,
+    "altitude": 16,
+    "gaw": "MHD",
+    "dvasId": null,
+    "country": "Ireland",
+    "countryCode": "IE",
+    "type": ["cloudnet"]
+  },
+  {
+    "id": "munich",
+    "humanReadableName": "Munich",
+    "latitude": 48.148,
+    "longitude": 11.573,
+    "altitude": 538,
+    "gaw": null,
+    "dvasId": "7i62",
+    "actrisId": 51,
+    "country": "Germany",
+    "countryCode": "DE",
+    "type": ["cloudnet"]
+  },
+  {
+    "id": "norunda",
+    "humanReadableName": "Norunda",
+    "latitude": 60.086,
+    "longitude": 17.479,
+    "gaw": "NOR",
+    "dvasId": "d83u",
+    "altitude": 46,
+    "country": "Sweden",
+    "countryCode": "SE",
+    "type": ["cloudnet"],
+    "citations": [
+      {
+        "id": "esa_cite"
+      },
+      {
+        "id": "norunda_cite"
+      }
+    ]
+  },
+  {
+    "id": "ny-alesund",
+    "humanReadableName": "Ny-Ålesund",
+    "latitude": 78.923,
+    "longitude": 11.922,
+    "altitude": 19,
+    "gaw": "NYA",
+    "dvasId": "ot6u",
+    "country": "Norway (Svalbard)",
+    "countryCode": "SJ",
+    "countrySubdivisionCode": "NO-21",
+    "type": ["cloudnet"],
+    "citations": [
+      {
+        "id": "ny-alesund_cite"
+      }
+    ]
+  },
+  {
+    "id": "palaiseau",
+    "humanReadableName": "Palaiseau",
+    "latitude": 48.716,
+    "longitude": 2.212,
+    "gaw": null,
+    "dvasId": "k0wb",
+    "actrisId": 37,
+    "altitude": 156,
+    "country": "France",
+    "countryCode": "FR",
+    "type": ["cloudnet"]
+  },
+  {
+    "id": "potenza",
+    "humanReadableName": "Potenza",
+    "latitude": 40.601,
+    "longitude": 15.724,
+    "gaw": "POT",
+    "dvasId": "epdw",
+    "actrisId": 78,
+    "altitude": 760,
+    "country": "Italy",
+    "countryCode": "IT",
+    "type": ["cloudnet"]
+  },
+  {
+    "id": "schneefernerhaus",
+    "humanReadableName": "Schneefernerhaus",
+    "latitude": 47.417,
+    "longitude": 10.977,
+    "gaw": "ZSF",
+    "dvasId": "ix3y",
+    "altitude": 2653,
+    "country": "Germany",
+    "countryCode": "DE",
+    "type": ["cloudnet"]
+  },
+  {
+    "id": "stationtest",
+    "humanReadableName": "Station test",
+    "latitude": 60.203,
+    "longitude": 24.958,
+    "altitude": 0,
+    "gaw": null,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["test"]
+  },
+  {
+    "id": "barbados",
+    "humanReadableName": "Barbados",
+    "latitude": 13.164,
+    "longitude": -59.432,
+    "gaw": null,
+    "dvasId": null,
+    "altitude": 20,
+    "country": "Barbados",
+    "countryCode": "BB",
+    "type": ["campaign"]
+  },
+  {
+    "id": "mod-lyneham",
+    "humanReadableName": "MOD Lyneham",
+    "latitude": 51.509,
+    "longitude": -1.999,
+    "altitude": 146,
+    "gaw": null,
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "countrySubdivisionCode": "GB-ENG",
+    "type": ["campaign"]
+  },
+  {
+    "id": "davos",
+    "humanReadableName": "Davos",
+    "latitude": 46.836,
+    "longitude": 9.854,
+    "altitude": 1630,
+    "gaw": null,
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "type": ["campaign"]
+  },
+  {
+    "id": "finokalia",
+    "humanReadableName": "Finokalia",
+    "latitude": 35.338,
+    "longitude": 25.668,
+    "gaw": "FKL",
+    "dvasId": null,
+    "altitude": 257,
+    "country": "Greece (Crete)",
+    "countryCode": "GR",
+    "countrySubdivisionCode": "GR-M",
+    "type": ["campaign"]
+  },
+  {
+    "id": "iquique",
+    "humanReadableName": "Iquique",
+    "latitude": -20.539,
+    "longitude": -70.177,
+    "gaw": null,
+    "dvasId": null,
+    "altitude": 56,
+    "country": "Chile",
+    "countryCode": "CL",
+    "type": ["campaign"]
+  },
+  {
+    "id": "limassol",
+    "humanReadableName": "Limassol",
+    "latitude": 34.677,
+    "longitude": 33.038,
+    "gaw": null,
+    "dvasId": "exbb",
+    "actrisId": 12,
+    "altitude": 10,
+    "country": "Cyprus",
+    "countryCode": "CY",
+    "type": ["cloudnet"],
+    "description": "<p>The ERATOSTHENES Centre of Excellence in Limassol, Cyprus is the host\ninstitution of the Cyprus Atmospheric Remote Sensing Observatory (CARO)\nNational Facility (NF) designed for continuous monitoring of aerosols and\nclouds, providing crucial observations and a reference station for\ncalibration/validation of satellite missions.</p>\n<p>The CARO’s ground-based atmospheric remote sensing station consolidates\nadvanced infrastructure and high-quality instrumentation for aerosol and cloud\nremote sensing. Located in the heart of Limassol, approximately 800 meters from\nthe coastline, the station captures unique atmospheric data influenced by urban\nand coastal dynamics.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://www.eratosthenes.org.cy/departments-functional-areas/environment-climate/atmosphere/\">Limassol home page</a></li>\n</ul>\n"
+  },
+  {
+    "id": "maido",
+    "humanReadableName": "Maido Observatory",
+    "latitude": -21.079,
+    "longitude": 55.383,
+    "gaw": "RUN",
+    "dvasId": "ka8v",
+    "actrisId": 39,
+    "altitude": 2200,
+    "country": "Réunion",
+    "countryCode": "RE",
+    "countrySubdivisionCode": "FR-974",
+    "type": ["campaign"]
+  },
+  {
+    "id": "punta-arenas",
+    "humanReadableName": "Punta Arenas",
+    "latitude": -53.135,
+    "longitude": -70.883,
+    "gaw": "PAR",
+    "dvasId": null,
+    "altitude": 9,
+    "type": ["campaign"],
+    "country": "Chile",
+    "countryCode": "CL",
+    "citations": [
+      {
+        "id": "punta-arenas_cite"
+      }
+    ],
+    "description": "<p>The LACROS observational facility was deployed in Punta Arenas, Chile at the\nsouthern tip of South America for a long-term campaign in the framework of the\nfield experiment <a href=\"https://dacapo.tropos.de/\">Dynamics, Aerosol, Clouds and Precipitation Observations in\nthe Pristine Environment of the Southern Ocean</a>\n(DACAPO-PESO), a research initiative of Leibniz Institute for Tropospheric\nResearch, Leipzig, Germany in joint collaboration with the University of\nMagallanes, Punta Arenas, Chile, and the University of Leipzig, Leipzig,\nGermany.</p>\n<p>The campaign location was in the premises of the University of Magallanes,\nPunta Arenas, Chile.</p>\n"
+  },
+  {
+    "id": "savilahti",
+    "humanReadableName": "Savilahti",
+    "latitude": 62.89,
+    "longitude": 27.631,
+    "altitude": 100,
+    "gaw": null,
+    "dvasId": null,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["campaign"],
+    "description": "<p>Savilahti is a semi-urban site in Eastern Finland (Hirsikko et al., 2014). It\nis located 3 km from the town centre of Kuopio in University of Eastern\nFinland campus area and operated by the Finnish Meteorological Institute.</p>\n<h2>References</h2>\n<ul class=\"references\">\n<li>Hirsikko et al. (2014). Observing wind, aerosol particles, cloud and\nprecipitation: Finland's new ground-based remote-sensing network. <em>Atmos. Meas.\nTech.</em>, <em>7</em>(5), 1351–1375. <a href=\"https://doi.org/10.5194/amt-7-1351-2014\">https://doi.org/10.5194/amt-7-1351-2014</a></li>\n</ul>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/kuopio-measurement-stations\">Savilahti home page</a></li>\n</ul>\n"
+  },
+  {
+    "id": "sodankyla",
+    "humanReadableName": "Sodankylä",
+    "latitude": 67.364,
+    "longitude": 26.628,
+    "gaw": "SDK",
+    "dvasId": null,
+    "altitude": 180,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["campaign"],
+    "description": "<p>Sodankylä is an Arctic measurement site in Northern Finland (Hirsikko et al.,\n2014). It is located 7 km from the municipality centre of Sodankylä. The\nstation is part of <a href=\"https://en.ilmatieteenlaitos.fi/sodankyla-supersite\">Sodankylä Supersite</a>\nhosted by the Finnish Meteorological Institute.</p>\n<h2>References</h2>\n<ul class=\"references\">\n<li>Hirsikko et al. (2014). Observing wind, aerosol particles, cloud and\nprecipitation: Finland's new ground-based remote-sensing network. <em>Atmos. Meas.\nTech.</em>, <em>7</em>(5), 1351–1375. <a href=\"https://doi.org/10.5194/amt-7-1351-2014\">https://doi.org/10.5194/amt-7-1351-2014</a></li>\n</ul>\n"
+  },
+  {
+    "id": "vehmasmaki",
+    "humanReadableName": "Vehmasmäki",
+    "latitude": 62.738,
+    "longitude": 27.543,
+    "gaw": null,
+    "dvasId": null,
+    "altitude": 190,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["campaign"],
+    "description": "<p>Vehmasmäki is a rural forest site in Eastern Finland (Hirsikko et al., 2014).\nIt is located 18 km from the town centre of Kuopio and operated by the Finnish\nMeteorological Institute.</p>\n<h2>References</h2>\n<ul class=\"references\">\n<li>Hirsikko et al. (2014). Observing wind, aerosol particles, cloud and\nprecipitation: Finland's new ground-based remote-sensing network. <em>Atmos. Meas.\nTech.</em>, <em>7</em>(5), 1351–1375. <a href=\"https://doi.org/10.5194/amt-7-1351-2014\">https://doi.org/10.5194/amt-7-1351-2014</a></li>\n</ul>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/kuopio-measurement-stations\">Vehmasmäki home page</a></li>\n</ul>\n"
+  },
+  {
+    "id": "weybourne",
+    "humanReadableName": "Weybourne",
+    "latitude": 52.95,
+    "longitude": 1.12,
+    "gaw": null,
+    "dvasId": null,
+    "altitude": 50,
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "countrySubdivisionCode": "GB-ENG",
+    "type": ["campaign"]
+  },
+  {
+    "id": "soverato",
+    "humanReadableName": "Soverato",
+    "latitude": 38.69,
+    "longitude": 16.545,
+    "altitude": 21,
+    "gaw": null,
+    "country": "Italy",
+    "countryCode": "IT",
+    "type": ["campaign"]
+  },
+  {
+    "id": "arm-andoya",
+    "humanReadableName": "Andøya",
+    "latitude": 69.141,
+    "longitude": 15.684,
+    "gaw": "ARR",
+    "altitude": 2,
+    "country": "Norway",
+    "countryCode": "NO",
+    "type": ["arm"],
+    "citations": [
+      {
+        "id": "arm_cite"
+      }
+    ]
+  },
+  {
+    "id": "arm-ascension",
+    "humanReadableName": "Ascension Island",
+    "latitude": -7.967,
+    "longitude": -14.35,
+    "gaw": "ASC",
+    "altitude": 341,
+    "type": ["arm"],
+    "country": "British Overseas Territory",
+    "countryCode": "SH",
+    "countrySubdivisionCode": "SH-AC",
+    "citations": [
+      {
+        "id": "arm_cite"
+      }
+    ]
+  },
+  {
+    "id": "arm-aware",
+    "humanReadableName": "West Antarctic",
+    "latitude": -77.85,
+    "longitude": 166.73,
+    "gaw": null,
+    "altitude": 76,
+    "type": ["arm"],
+    "country": "Antarctica",
+    "countryCode": "AQ",
+    "citations": [
+      {
+        "id": "arm_cite"
+      }
+    ]
+  },
+  {
+    "id": "arm-banizoumbou",
+    "humanReadableName": "Banizoumbou",
+    "latitude": 13.522,
+    "longitude": 2.632,
+    "altitude": 228,
+    "gaw": null,
+    "country": "Niger",
+    "countryCode": "NE",
+    "type": ["hidden", "arm"],
+    "citations": [
+      {
+        "id": "arm_cite"
+      }
+    ]
+  },
+  {
+    "id": "arm-bjornoya",
+    "humanReadableName": "Bjørnøya",
+    "latitude": 74.504,
+    "longitude": 19.002,
+    "altitude": 18,
+    "gaw": null,
+    "country": "Norway",
+    "countryCode": "NO",
+    "type": ["hidden", "arm"],
+    "citations": [
+      {
+        "id": "arm_cite"
+      }
+    ]
+  },
+  {
+    "id": "arm-cape-cod",
+    "humanReadableName": "Cape Cod",
+    "latitude": 42.031,
+    "longitude": -70.049,
+    "gaw": null,
+    "altitude": 15,
+    "country": "United States",
+    "countryCode": "US",
+    "type": ["arm"],
+    "citations": [
+      {
+        "id": "arm_cite"
+      }
+    ]
+  },
+  {
+    "id": "arm-darwin",
+    "humanReadableName": "Darwin",
+    "latitude": -12.426,
+    "longitude": 130.898,
+    "gaw": "DWN",
+    "altitude": 30,
+    "country": "Australia",
+    "countryCode": "AU",
+    "type": ["arm"],
+    "citations": [
+      {
+        "id": "arm_cite"
+      }
+    ]
+  },
+  {
+    "id": "arm-ganges",
+    "humanReadableName": "Ganges",
+    "latitude": 29.359,
+    "longitude": 79.458,
+    "altitude": 1936,
+    "gaw": null,
+    "country": "India",
+    "countryCode": "IN",
+    "type": ["hidden", "arm"],
+    "citations": [
+      {
+        "id": "arm_cite"
+      }
+    ]
+  },
+  {
+    "id": "arm-graciosa",
+    "humanReadableName": "Graciosa",
+    "latitude": 39.092,
+    "longitude": -28.031,
+    "gaw": "GRW",
+    "altitude": 30,
+    "country": "Portugal (Azores)",
+    "countryCode": "PT",
+    "countrySubdivisionCode": "PT-20",
+    "type": ["arm"],
+    "citations": [
+      {
+        "id": "arm_cite"
+      }
+    ]
+  },
+  {
+    "id": "arm-macquarie",
+    "humanReadableName": "Macquarie Island",
+    "latitude": -54.5,
+    "longitude": 158.935,
+    "altitude": 4,
+    "gaw": null,
+    "country": "Australia",
+    "countryCode": "AU",
+    "type": ["hidden", "arm"],
+    "citations": [
+      {
+        "id": "arm_cite"
+      }
+    ]
+  },
+  {
+    "id": "arm-maldives",
+    "humanReadableName": "Maldives",
+    "latitude": 1.978,
+    "longitude": 73.396,
+    "gaw": null,
+    "altitude": 1,
+    "country": "Maldives",
+    "countryCode": "MV",
+    "type": ["arm"],
+    "citations": [
+      {
+        "id": "arm_cite"
+      }
+    ]
+  },
+  {
+    "id": "arm-manacapuru",
+    "humanReadableName": "Manacapuru",
+    "latitude": -3.213,
+    "longitude": -60.598,
+    "altitude": 50,
+    "gaw": null,
+    "country": "Brazil",
+    "countryCode": "BR",
+    "type": ["hidden", "arm"],
+    "citations": [
+      {
+        "id": "arm_cite"
+      }
+    ]
+  },
+  {
+    "id": "arm-murgtal",
+    "humanReadableName": "Murgtal",
+    "latitude": 48.54,
+    "longitude": 8.397,
+    "gaw": null,
+    "altitude": 511,
+    "country": "Germany",
+    "type": ["arm"],
+    "countryCode": "DE",
+    "citations": [
+      {
+        "id": "arm_cite"
+      }
+    ]
+  },
+  {
+    "id": "arm-niamey",
+    "humanReadableName": "Niamey",
+    "latitude": 13.513,
+    "longitude": 2.049,
+    "gaw": null,
+    "altitude": 223,
+    "type": ["arm"],
+    "country": "Niger",
+    "countryCode": "NE",
+    "citations": [
+      {
+        "id": "arm_cite"
+      }
+    ]
+  },
+  {
+    "id": "arm-nsa",
+    "humanReadableName": "North Slope of Alaska",
+    "latitude": 71.323,
+    "longitude": -156.609,
+    "altitude": 8,
+    "gaw": null,
+    "country": "United States",
+    "countryCode": "US",
+    "type": ["hidden", "arm"],
+    "citations": [
+      {
+        "id": "arm_cite"
+      }
+    ]
+  },
+  {
+    "id": "arm-oliktok",
+    "humanReadableName": "Oliktok",
+    "latitude": 70.495,
+    "longitude": -149.886,
+    "altitude": 2,
+    "gaw": null,
+    "country": "United States",
+    "countryCode": "US",
+    "type": ["hidden", "arm"],
+    "citations": [
+      {
+        "id": "arm_cite"
+      }
+    ]
+  },
+  {
+    "id": "arm-sgp",
+    "humanReadableName": "Southern Great Plains",
+    "latitude": 36.608,
+    "longitude": -97.488,
+    "gaw": "SGP",
+    "altitude": 316,
+    "type": ["arm"],
+    "country": "United States",
+    "countryCode": "US",
+    "citations": [
+      {
+        "id": "arm_cite"
+      }
+    ]
+  },
+  {
+    "id": "arm-yacanto",
+    "humanReadableName": "Villa Yacanto",
+    "latitude": -32.126,
+    "longitude": -64.728,
+    "gaw": null,
+    "altitude": 1141,
+    "country": "Argentina",
+    "type": ["arm"],
+    "countryCode": "AR",
+    "citations": [
+      {
+        "id": "arm_cite"
+      }
+    ]
+  },
+  {
+    "id": "summit",
+    "humanReadableName": "Summit",
+    "latitude": 72.6,
+    "longitude": -38.42,
+    "gaw": null,
+    "altitude": 3255,
+    "country": "Greenland",
+    "type": ["arm"],
+    "countryCode": "GL",
+    "citations": [
+      {
+        "id": "summit_cite"
+      }
+    ]
+  },
+  {
+    "id": "hamburg",
+    "humanReadableName": "Hamburg",
+    "latitude": 53.568,
+    "longitude": 9.973,
+    "gaw": null,
+    "altitude": 25,
+    "country": "Germany",
+    "countryCode": "DE",
+    "type": ["hidden"]
+  },
+  {
+    "id": "alomar",
+    "humanReadableName": "Alomar",
+    "latitude": 62.278,
+    "longitude": 16.008,
+    "gaw": null,
+    "altitude": 380,
+    "country": "Norway",
+    "countryCode": "NO",
+    "type": ["hidden"]
+  },
+  {
+    "id": "andenes",
+    "humanReadableName": "Andenes",
+    "latitude": 69.2783,
+    "longitude": 16.009,
+    "gaw": null,
+    "altitude": 380,
+    "country": "Norway",
+    "countryCode": "NO",
+    "type": ["hidden", "model"]
+  },
+  {
+    "id": "clermont-ferrand",
+    "humanReadableName": "Clermont-Ferrand",
+    "latitude": 45.761,
+    "longitude": 3.111,
+    "altitude": 420,
+    "gaw": null,
+    "country": "France",
+    "countryCode": "FR",
+    "type": ["hidden", "model"]
+  },
+  {
+    "id": "sofia",
+    "humanReadableName": "Sofia",
+    "latitude": 42.65,
+    "longitude": 23.38,
+    "altitude": 550,
+    "gaw": null,
+    "country": "Bulgaria",
+    "countryCode": "BG",
+    "type": ["hidden", "model"]
+  },
+  {
+    "id": "lille",
+    "humanReadableName": "Lille",
+    "latitude": 50.6117,
+    "longitude": 3.1417,
+    "altitude": 60,
+    "gaw": null,
+    "country": "France",
+    "countryCode": "FR",
+    "type": ["hidden", "model"]
+  },
+  {
+    "id": "payerne",
+    "humanReadableName": "Payerne",
+    "latitude": 46.813,
+    "longitude": 6.944,
+    "altitude": 491,
+    "gaw": "PAY",
+    "actrisId": 122,
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "type": ["cloudnet"]
+  },
+  {
+    "id": "belsk",
+    "humanReadableName": "Belsk",
+    "latitude": 51.83,
+    "longitude": 20.78,
+    "altitude": 180,
+    "gaw": null,
+    "country": "Poland",
+    "countryCode": "PL",
+    "type": ["hidden", "model"]
+  },
+  {
+    "id": "saint-petersburg",
+    "humanReadableName": "Saint Petersburg",
+    "latitude": 59.943,
+    "longitude": 30.273,
+    "altitude": 35,
+    "gaw": null,
+    "country": "Russia",
+    "countryCode": "RU",
+    "type": ["hidden"]
+  },
+  {
+    "id": "thessaloniki",
+    "humanReadableName": "Thessaloniki",
+    "latitude": 40.63,
+    "longitude": 22.95,
+    "altitude": 50,
+    "gaw": null,
+    "country": "Greece",
+    "countryCode": "GR",
+    "type": ["hidden", "model"]
+  },
+  {
+    "id": "linkoping",
+    "humanReadableName": "Linkoping",
+    "latitude": 58.392,
+    "longitude": 15.575,
+    "altitude": 70,
+    "gaw": null,
+    "country": "Sweden",
+    "countryCode": "SE",
+    "type": ["hidden"]
+  },
+  {
+    "id": "belgrade",
+    "humanReadableName": "Belgrade",
+    "latitude": 44.856,
+    "longitude": 20.391,
+    "altitude": 89,
+    "gaw": null,
+    "country": "Serbia",
+    "countryCode": "RS",
+    "type": ["hidden", "model"]
+  },
+  {
+    "id": "madrid",
+    "humanReadableName": "Madrid",
+    "latitude": 40.457,
+    "longitude": -3.726,
+    "altitude": 669,
+    "gaw": null,
+    "country": "Spain",
+    "countryCode": "ES",
+    "type": ["hidden", "model"]
+  },
+  {
+    "id": "neuchatel",
+    "humanReadableName": "Neuchâtel",
+    "latitude": 47.002,
+    "longitude": 6.955,
+    "altitude": 487,
+    "gaw": null,
+    "country": "Switzerland",
+    "countryCode": "CH",
+    "type": ["hidden", "model"]
+  },
+  {
+    "id": "nicolosi",
+    "humanReadableName": "Nicolosi",
+    "latitude": 37.69,
+    "longitude": 14.97,
+    "altitude": 1740,
+    "gaw": null,
+    "country": "Italy",
+    "countryCode": "IT",
+    "type": ["hidden", "model"]
+  },
+  {
+    "id": "nicosia",
+    "humanReadableName": "Nicosia",
+    "latitude": 35.141,
+    "longitude": 33.381,
+    "altitude": 180,
+    "gaw": null,
+    "country": "Cyprus",
+    "countryCode": "CY",
+    "type": ["hidden", "model"]
+  },
+  {
+    "id": "laquila",
+    "humanReadableName": "L'Aquila",
+    "latitude": 42.344,
+    "longitude": 13.327,
+    "altitude": 683,
+    "gaw": null,
+    "country": "Italy",
+    "countryCode": "IT",
+    "type": ["hidden", "model"]
+  },
+  {
+    "id": "hohenpeissenberg",
+    "humanReadableName": "Hohenpeissenberg",
+    "latitude": 47.8019,
+    "longitude": 11.0119,
+    "altitude": 974,
+    "gaw": null,
+    "country": "Germany",
+    "countryCode": "DE",
+    "type": ["hidden", "model"]
+  },
+  {
+    "id": "ispra",
+    "humanReadableName": "Ispra",
+    "latitude": 45.817,
+    "longitude": 8.617,
+    "altitude": 209,
+    "gaw": null,
+    "country": "Italy",
+    "countryCode": "IT",
+    "type": ["hidden", "model"]
+  },
+  {
+    "id": "cork",
+    "humanReadableName": "Cork",
+    "latitude": 51.893,
+    "longitude": -8.494,
+    "altitude": 75,
+    "gaw": null,
+    "country": "Ireland",
+    "countryCode": "IE",
+    "type": ["hidden", "model"]
+  },
+  {
+    "id": "minsk",
+    "humanReadableName": "Minsk",
+    "latitude": 53.917,
+    "longitude": 27.605,
+    "altitude": 200,
+    "gaw": null,
+    "country": "Belarus",
+    "countryCode": "BY",
+    "type": ["hidden", "model"]
+  },
+  {
+    "id": "evora",
+    "humanReadableName": "Évora",
+    "latitude": 38.568,
+    "longitude": -7.912,
+    "altitude": 293,
+    "gaw": null,
+    "country": "Portugal",
+    "countryCode": "PT",
+    "type": ["campaign"]
+  },
+  {
+    "id": "athens",
+    "humanReadableName": "Athens",
+    "latitude": 37.96,
+    "longitude": 23.78,
+    "altitude": 212,
+    "gaw": null,
+    "country": "Greece",
+    "countryCode": "GR",
+    "type": ["hidden", "model"]
+  },
+  {
+    "id": "bilthoven",
+    "humanReadableName": "Bilthoven",
+    "latitude": 52.1,
+    "longitude": 5.18,
+    "altitude": 2,
+    "gaw": null,
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "type": ["hidden", "model"]
+  },
+  {
+    "id": "cluj",
+    "humanReadableName": "Cluj-Napoca",
+    "latitude": 46.7678,
+    "longitude": 23.54006,
+    "altitude": 459,
+    "gaw": null,
+    "dvasId": null,
+    "actrisId": 100,
+    "country": "Romania",
+    "countryCode": "RO",
+    "type": ["cloudnet"]
+  },
+  {
+    "id": "lecce",
+    "humanReadableName": "Lecce",
+    "latitude": 40.333,
+    "longitude": 18.1,
+    "altitude": 30,
+    "gaw": null,
+    "country": "Italy",
+    "countryCode": "IT",
+    "type": ["hidden", "model"]
+  },
+  {
+    "id": "rio",
+    "humanReadableName": "Rio de Janeiro",
+    "latitude": -5.842,
+    "longitude": -35.199,
+    "altitude": 46,
+    "gaw": null,
+    "country": "Brazil",
+    "countryCode": "BR",
+    "type": ["hidden", "model"]
+  },
+  {
+    "id": "napoli",
+    "humanReadableName": "Naples",
+    "latitude": 40.838,
+    "longitude": 14.183,
+    "altitude": 118,
+    "gaw": null,
+    "country": "Italy",
+    "countryCode": "IT",
+    "type": ["hidden", "model"]
+  },
+  {
+    "id": "athens-noa",
+    "humanReadableName": "Athens-NOA",
+    "latitude": 35.338,
+    "longitude": 25.67,
+    "altitude": 243,
+    "gaw": null,
+    "country": "Greece",
+    "countryCode": "GR",
+    "type": ["hidden"]
+  },
+  {
+    "id": "manaus",
+    "humanReadableName": "Manaus",
+    "latitude": -2.89,
+    "longitude": -59.97,
+    "altitude": 109,
+    "gaw": null,
+    "country": "Brazil",
+    "countryCode": "BR",
+    "type": ["hidden", "model"]
+  },
+  {
+    "id": "san-pietro-capofiume",
+    "humanReadableName": "San Pietro Capiofume",
+    "latitude": 44.6538,
+    "longitude": 11.6228,
+    "altitude": 10,
+    "gaw": null,
+    "country": "Italy",
+    "countryCode": "IT",
+    "type": ["hidden", "model"]
+  },
+  {
+    "id": "sao-paulo",
+    "humanReadableName": "São Paulo",
+    "latitude": -23.5607,
+    "longitude": -46.7398,
+    "altitude": 764,
+    "gaw": null,
+    "country": "Brazil",
+    "countryCode": "BR",
+    "type": ["hidden", "model"]
+  },
+  {
+    "id": "barcelona",
+    "humanReadableName": "Barcelona",
+    "latitude": 41.393,
+    "longitude": 2.12,
+    "altitude": 115,
+    "gaw": null,
+    "country": "Spain",
+    "countryCode": "ES",
+    "type": ["hidden", "model"]
+  },
+  {
+    "id": "rome",
+    "humanReadableName": "Rome",
+    "latitude": 41.833,
+    "longitude": 12.65,
+    "altitude": 110,
+    "gaw": null,
+    "country": "Italy",
+    "countryCode": "IT",
+    "type": ["hidden", "model"]
+  },
+  {
+    "id": "garmish",
+    "humanReadableName": "Garmisch-Partenkirchen",
+    "latitude": 47.477,
+    "longitude": 11.064,
+    "altitude": 730,
+    "gaw": null,
+    "country": "Germany",
+    "countryCode": "DE",
+    "type": ["hidden", "model"]
+  },
+  {
+    "id": "antikythera",
+    "humanReadableName": "Antikythera",
+    "latitude": 35.86,
+    "longitude": 23.31,
+    "altitude": 193,
+    "gaw": null,
+    "country": "Greece",
+    "countryCode": "GR",
+    "type": ["hidden", "model"]
+  },
+  {
+    "id": "dushanbe",
+    "humanReadableName": "Dushanbe",
+    "latitude": 38.5594,
+    "longitude": 68.8561,
+    "altitude": 864,
+    "gaw": null,
+    "country": "Tajikistan",
+    "countryCode": "TJ",
+    "type": ["hidden", "model"]
+  },
+  {
+    "id": "warsaw",
+    "humanReadableName": "Warsaw",
+    "latitude": 52.21,
+    "longitude": 20.98,
+    "altitude": 112,
+    "gaw": null,
+    "actrisId": 92,
+    "country": "Poland",
+    "countryCode": "PL",
+    "type": ["cloudnet"],
+    "citations": [
+      {
+        "id": "warsaw_cite"
+      }
+    ]
+  },
+  {
+    "id": "rzecin",
+    "humanReadableName": "Rzecin",
+    "latitude": 52.758,
+    "longitude": 16.31,
+    "altitude": 57,
+    "gaw": null,
+    "actrisId": 95,
+    "country": "Poland",
+    "countryCode": "PL",
+    "type": ["cloudnet"]
+  },
+  {
+    "id": "burjassot",
+    "humanReadableName": "Burjassot",
+    "latitude": 39.5,
+    "longitude": -0.42,
+    "altitude": 89,
+    "gaw": null,
+    "country": "Spain",
+    "countryCode": "ES",
+    "type": ["hidden", "model"]
+  },
+  {
+    "id": "catania",
+    "humanReadableName": "Catania",
+    "latitude": 37.51,
+    "longitude": 15.08,
+    "altitude": 190,
+    "gaw": null,
+    "country": "Italy",
+    "countryCode": "IT",
+    "type": ["hidden", "model"]
+  },
+  {
+    "id": "lampedusa",
+    "humanReadableName": "Lampedusa",
+    "latitude": 35.52,
+    "longitude": 12.63,
+    "altitude": 45,
+    "gaw": "LMP",
+    "actrisId": 86,
+    "country": "Italy",
+    "countryCode": "IT",
+    "type": ["cloudnet"]
+  },
+  {
+    "id": "mindelo",
+    "humanReadableName": "Mindelo",
+    "latitude": 16.8778,
+    "longitude": -24.995,
+    "altitude": 13,
+    "gaw": "CVO",
+    "actrisId": 55,
+    "country": "Cabo Verde",
+    "countryCode": "CV",
+    "type": ["cloudnet"]
+  },
+  {
+    "id": "kosetice",
+    "humanReadableName": "Košetice",
+    "latitude": 49.573,
+    "longitude": 15.081,
+    "altitude": 531,
+    "gaw": null,
+    "country": "Czechia",
+    "countryCode": "CZ",
+    "type": ["hidden", "model"]
+  },
+  {
+    "id": "kumpula",
+    "humanReadableName": "Kumpula",
+    "latitude": 60.204,
+    "longitude": 24.963,
+    "altitude": 26,
+    "gaw": null,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["hidden"]
+  },
+  {
+    "id": "rovaniemi",
+    "humanReadableName": "Rovaniemi",
+    "latitude": 66.563,
+    "longitude": 25.822,
+    "altitude": 193,
+    "gaw": null,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["hidden"]
+  },
+  {
+    "id": "sammaltunturi",
+    "humanReadableName": "Sammaltunturi",
+    "latitude": 67.973,
+    "longitude": 24.116,
+    "altitude": 560,
+    "gaw": null,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["hidden"]
+  },
+  {
+    "id": "ivalo",
+    "humanReadableName": "Ivalo",
+    "latitude": 68.615,
+    "longitude": 27.423,
+    "altitude": 144,
+    "gaw": null,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["hidden"]
+  },
+  {
+    "id": "kajaani",
+    "humanReadableName": "Kajaani",
+    "latitude": 64.283,
+    "longitude": 27.673,
+    "altitude": 42,
+    "gaw": null,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["hidden"]
+  },
+  {
+    "id": "baranova",
+    "humanReadableName": "Baranova",
+    "latitude": 79.28,
+    "longitude": 101.617,
+    "altitude": 20,
+    "gaw": null,
+    "country": "Russia",
+    "countryCode": "RU",
+    "type": ["hidden"]
+  },
+  {
+    "id": "camborne",
+    "humanReadableName": "Camborne",
+    "latitude": 50.2,
+    "longitude": -5.3,
+    "altitude": 93,
+    "gaw": null,
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "type": ["hidden"]
+  },
+  {
+    "id": "kittila",
+    "humanReadableName": "Kittilä",
+    "latitude": 67.695,
+    "longitude": 24.853,
+    "altitude": 189,
+    "gaw": null,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["hidden"]
+  },
+  {
+    "id": "tiksi",
+    "humanReadableName": "Tiksi",
+    "latitude": 71.596,
+    "longitude": 128.889,
+    "altitude": 19,
+    "gaw": null,
+    "country": "Russia",
+    "countryCode": "RU",
+    "type": ["hidden"]
+  },
+  {
+    "id": "uto",
+    "humanReadableName": "Utö",
+    "latitude": 59.782,
+    "longitude": 21.372,
+    "altitude": 8,
+    "gaw": null,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["hidden"]
+  },
+  {
+    "id": "kuusamo",
+    "humanReadableName": "Kuusamo",
+    "latitude": 65.993,
+    "longitude": 29.228,
+    "altitude": 266,
+    "gaw": null,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["hidden"]
+  },
+  {
+    "id": "utti",
+    "humanReadableName": "Utti",
+    "latitude": 60.895,
+    "longitude": 26.936,
+    "altitude": 188,
+    "gaw": null,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["hidden"]
+  },
+  {
+    "id": "tikkakoski",
+    "humanReadableName": "Tikkakoski",
+    "latitude": 62.402,
+    "longitude": 25.675,
+    "altitude": 138,
+    "gaw": null,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["hidden"]
+  },
+  {
+    "id": "maarianhamina",
+    "humanReadableName": "Maarianhamina",
+    "latitude": 60.125,
+    "longitude": 19.907,
+    "altitude": 6,
+    "gaw": null,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["hidden"]
+  },
+  {
+    "id": "jarvenpaa",
+    "humanReadableName": "Järvenpää",
+    "latitude": 60.485,
+    "longitude": 25.082,
+    "altitude": 51,
+    "gaw": null,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["hidden"]
+  },
+  {
+    "id": "vuosaari",
+    "humanReadableName": "Vuosaari",
+    "latitude": 60.219,
+    "longitude": 25.173,
+    "altitude": 14,
+    "gaw": null,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["hidden"]
+  },
+  {
+    "id": "kruunupyy",
+    "humanReadableName": "Kruunupyy",
+    "latitude": 63.721,
+    "longitude": 23.141,
+    "altitude": 21,
+    "gaw": null,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["hidden"]
+  },
+  {
+    "id": "amapola",
+    "humanReadableName": "Amapola",
+    "latitude": 37.911,
+    "longitude": -3.228,
+    "altitude": 370,
+    "gaw": null,
+    "country": "Spain",
+    "countryCode": "ES",
+    "type": ["hidden"]
+  },
+  {
+    "id": "auchencorth-moss",
+    "humanReadableName": "Auchencorth Moss",
+    "latitude": 55.792,
+    "longitude": -3.243,
+    "altitude": 270,
+    "gaw": null,
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "type": ["hidden"]
+  },
+  {
+    "id": "harmaja",
+    "humanReadableName": "Harmaja",
+    "latitude": 60.105,
+    "longitude": 24.975,
+    "altitude": 6,
+    "gaw": null,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["hidden"]
+  },
+  {
+    "id": "kemi",
+    "humanReadableName": "Kemi",
+    "latitude": 65.789,
+    "longitude": 24.582,
+    "altitude": 11,
+    "gaw": null,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["hidden"]
+  },
+  {
+    "id": "halli",
+    "humanReadableName": "Halli",
+    "latitude": 61.855,
+    "longitude": 24.805,
+    "altitude": 143,
+    "gaw": null,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["hidden"]
+  },
+  {
+    "id": "savonlinna",
+    "humanReadableName": "Savonlinna",
+    "latitude": 61.946,
+    "longitude": 28.931,
+    "altitude": 93,
+    "gaw": null,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["hidden"]
+  },
+  {
+    "id": "siilinjarvi",
+    "humanReadableName": "Siilinjarvi",
+    "latitude": 63.008,
+    "longitude": 27.799,
+    "altitude": 96,
+    "gaw": null,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["hidden"]
+  },
+  {
+    "id": "joensuu",
+    "humanReadableName": "Joensuu",
+    "latitude": 62.659,
+    "longitude": 29.612,
+    "altitude": 118,
+    "gaw": null,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["hidden"]
+  },
+  {
+    "id": "tampere",
+    "humanReadableName": "Tampere",
+    "latitude": 61.419,
+    "longitude": 23.623,
+    "altitude": 112,
+    "gaw": null,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["hidden"]
+  },
+  {
+    "id": "lappeenranta",
+    "humanReadableName": "Lappeenranta",
+    "latitude": 61.04,
+    "longitude": 28.129,
+    "altitude": 104,
+    "gaw": null,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["hidden"]
+  },
+  {
+    "id": "jarvselja",
+    "humanReadableName": "Järvselja",
+    "latitude": 58.277,
+    "longitude": 27.307,
+    "altitude": 36,
+    "gaw": null,
+    "country": "Estonia",
+    "countryCode": "EE",
+    "type": ["hidden"]
+  },
+  {
+    "id": "pori",
+    "humanReadableName": "Pori",
+    "latitude": 61.46,
+    "longitude": 21.808,
+    "altitude": 11,
+    "gaw": null,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["hidden"]
+  },
+  {
+    "id": "tervola",
+    "humanReadableName": "Tervola",
+    "latitude": 66.153,
+    "longitude": 24.99,
+    "altitude": 38,
+    "gaw": null,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["hidden"]
+  },
+  {
+    "id": "turku",
+    "humanReadableName": "Turku",
+    "latitude": 60.516,
+    "longitude": 22.279,
+    "altitude": 45,
+    "gaw": null,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["hidden"]
+  },
+  {
+    "id": "vantaa",
+    "humanReadableName": "Vantaa",
+    "latitude": 60.316,
+    "longitude": 24.907,
+    "altitude": 25,
+    "gaw": null,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["hidden"]
+  },
+  {
+    "id": "apukka",
+    "humanReadableName": "Apukka",
+    "latitude": 66.579,
+    "longitude": 26.011,
+    "altitude": 106,
+    "gaw": null,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["hidden"]
+  },
+  {
+    "id": "marjaniemi",
+    "humanReadableName": "Marjaniemi",
+    "latitude": 65.04,
+    "longitude": 24.561,
+    "altitude": 7,
+    "gaw": null,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["hidden"]
+  },
+  {
+    "id": "oulu",
+    "humanReadableName": "Oulu",
+    "latitude": 64.935,
+    "longitude": 25.339,
+    "altitude": 13,
+    "gaw": null,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["hidden"]
+  },
+  {
+    "id": "vaasa",
+    "humanReadableName": "Vaasa",
+    "latitude": 63.059,
+    "longitude": 21.755,
+    "altitude": 41,
+    "gaw": null,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["hidden"]
+  },
+  {
+    "id": "larkhill",
+    "humanReadableName": "Larkhill",
+    "latitude": 51.201,
+    "longitude": -1.805,
+    "altitude": 132,
+    "gaw": null,
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "type": ["hidden"]
+  },
+  {
+    "id": "save",
+    "humanReadableName": "Save",
+    "latitude": 8.001,
+    "longitude": 2.428,
+    "altitude": 166,
+    "gaw": null,
+    "country": "Benin",
+    "countryCode": "BJ",
+    "type": ["hidden"]
+  },
+  {
+    "id": "reykjavik",
+    "humanReadableName": "Reykjavik",
+    "latitude": 64.128,
+    "longitude": 21.903,
+    "altitude": 52,
+    "gaw": null,
+    "country": "Iceland",
+    "countryCode": "IS",
+    "type": ["hidden"]
+  },
+  {
+    "id": "are",
+    "humanReadableName": "Åre",
+    "latitude": 63.402,
+    "longitude": 13.076,
+    "altitude": 400,
+    "gaw": null,
+    "country": "Sweden",
+    "countryCode": "SE",
+    "type": ["hidden"]
+  },
+  {
+    "id": "corte",
+    "humanReadableName": "Corte",
+    "latitude": 43.3,
+    "longitude": 6.17,
+    "altitude": 369,
+    "gaw": null,
+    "country": "France",
+    "countryCode": "FR",
+    "type": ["hidden"]
+  },
+  {
+    "id": "san-giuliano",
+    "humanReadableName": "San Giuliano",
+    "latitude": 42.27,
+    "longitude": 9.52,
+    "altitude": 39,
+    "gaw": null,
+    "country": "Italy",
+    "countryCode": "IT",
+    "type": ["hidden"]
+  },
+  {
+    "id": "kuopio",
+    "humanReadableName": "Kuopio",
+    "latitude": 63.0,
+    "longitude": 28.0,
+    "altitude": 100,
+    "gaw": null,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["hidden"]
+  },
+  {
+    "id": "masada",
+    "humanReadableName": "Masada",
+    "latitude": 31.323,
+    "longitude": 35.372,
+    "altitude": -350,
+    "gaw": null,
+    "country": "Israel",
+    "countryCode": "IL",
+    "type": ["hidden"]
+  },
+  {
+    "id": "oden",
+    "humanReadableName": "Oden",
+    "latitude": null,
+    "longitude": null,
+    "altitude": null,
+    "gaw": null,
+    "country": null,
+    "type": ["hidden"]
+  },
+  {
+    "id": "rv-polarstern",
+    "humanReadableName": "RV Polarstern",
+    "latitude": null,
+    "longitude": null,
+    "altitude": null,
+    "gaw": null,
+    "country": null,
+    "type": ["campaign", "mobile"],
+    "citations": [
+      {
+        "id": "rv-polarstern_cite"
+      }
+    ]
+  },
+  {
+    "id": "rv-meteor",
+    "humanReadableName": "RV Meteor",
+    "latitude": null,
+    "longitude": null,
+    "altitude": null,
+    "gaw": null,
+    "country": null,
+    "type": ["campaign", "mobile"]
+  },
+  {
+    "id": "rv-ms-merian",
+    "humanReadableName": "RV MS Merian",
+    "latitude": null,
+    "longitude": null,
+    "altitude": null,
+    "gaw": null,
+    "country": null,
+    "type": ["campaign", "mobile"]
+  },
+  {
+    "id": "gual-pahari",
+    "humanReadableName": "Gual-Pahari",
+    "latitude": 28.43,
+    "longitude": 77.15,
+    "altitude": 243,
+    "gaw": null,
+    "country": "India",
+    "countryCode": "IN",
+    "type": ["hidden"]
+  },
+  {
+    "id": "keflavik",
+    "humanReadableName": "Keflavik",
+    "latitude": 63.983,
+    "longitude": 22.601,
+    "altitude": 51,
+    "gaw": null,
+    "country": "Iceland",
+    "countryCode": "IS",
+    "type": ["hidden"]
+  },
+  {
+    "id": "falkenberg",
+    "humanReadableName": "Falkenberg",
+    "latitude": 52.12,
+    "longitude": 14.12,
+    "altitude": 75,
+    "gaw": null,
+    "country": "Germany",
+    "countryCode": "DE",
+    "type": ["hidden"]
+  },
+  {
+    "id": "karlsruhe",
+    "humanReadableName": "Karlsruhe",
+    "latitude": 49.093,
+    "longitude": 8.426,
+    "altitude": 110,
+    "gaw": null,
+    "country": "Germany",
+    "countryCode": "DE",
+    "type": ["hidden"]
+  },
+  {
+    "id": "hailuoto",
+    "humanReadableName": "Hailuoto",
+    "latitude": 65.04,
+    "longitude": 24.561,
+    "altitude": 63,
+    "gaw": null,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["hidden"]
+  },
+  {
+    "id": "al-dhaid",
+    "humanReadableName": "Al Dhaid",
+    "latitude": 25.234,
+    "longitude": 55.976,
+    "altitude": 167,
+    "gaw": null,
+    "country": "United Arab Emirates",
+    "countryCode": "AE",
+    "type": ["hidden"],
+    "citations": [
+      {
+        "id": "uae_cite"
+      }
+    ]
+  },
+  {
+    "id": "eureka",
+    "humanReadableName": "Eureka",
+    "latitude": 79.99,
+    "longitude": -85.93,
+    "altitude": 83,
+    "gaw": null,
+    "country": "Canada",
+    "countryCode": "CA",
+    "type": ["hidden"],
+    "citations": [
+      {
+        "id": "eureka_cite"
+      }
+    ]
+  },
+  {
+    "id": "neumayer",
+    "humanReadableName": "Neumayer Station",
+    "latitude": -70.66,
+    "longitude": -8.284,
+    "altitude": 43,
+    "gaw": null,
+    "dvasId": "kb77",
+    "country": "Antarctica",
+    "countryCode": "AQ",
+    "type": ["campaign"],
+    "citations": [
+      {
+        "id": "neumayer_cite"
+      }
+    ]
+  },
+  {
+    "id": "pahia",
+    "humanReadableName": "Pahia",
+    "latitude": -46.32,
+    "longitude": 167.735,
+    "altitude": 18,
+    "gaw": null,
+    "country": "New Zealand",
+    "countryCode": "NZ",
+    "type": ["hidden"]
+  },
+  {
+    "id": "tel-aviv",
+    "humanReadableName": "Tel Aviv",
+    "latitude": 32.113,
+    "longitude": 34.806,
+    "altitude": 5,
+    "gaw": null,
+    "country": "Israel",
+    "countryCode": "IL",
+    "type": ["hidden", "model"]
+  },
+  {
+    "id": "marambio",
+    "humanReadableName": "Marambio",
+    "latitude": -64.24006,
+    "longitude": -56.62478,
+    "altitude": 198,
+    "gaw": "MBI",
+    "dvasId": "2azg",
+    "actrisId": 28,
+    "country": "Antarctica",
+    "countryCode": "AQ",
+    "type": ["hidden"]
+  },
+  {
+    "id": "chennai",
+    "humanReadableName": "Chennai",
+    "latitude": 12.793,
+    "longitude": 80.185,
+    "altitude": 9,
+    "gaw": null,
+    "country": "India",
+    "countryCode": "IN",
+    "type": ["campaign"]
+  },
+  {
+    "id": "sonnblick",
+    "humanReadableName": "Sonnblick",
+    "latitude": 47.054,
+    "longitude": 12.9577,
+    "altitude": 3106,
+    "gaw": "SNB",
+    "dvasId": "xbi0",
+    "actrisId": 1,
+    "country": "Austria",
+    "countryCode": "AS",
+    "type": ["campaign"]
+  },
+  {
+    "id": "troll",
+    "humanReadableName": "Troll Station",
+    "latitude": -72.0102,
+    "longitude": 2.5453,
+    "altitude": 1275,
+    "gaw": null,
+    "dvasId": "lpso",
+    "country": "Antarctica",
+    "countryCode": "AQ",
+    "type": ["campaign"]
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "siteId": "granada",
+    "productId": "radar",
+    "instrumentInfoUuid": "20570e63-f7b1-496c-9ac6-12c3db46820a",
+    "measurementDate": "2024-02-27"
+  },
+  {
+    "siteId": "juelich",
+    "productId": "mwr-single",
+    "instrumentInfoUuid": "f51736b5-923b-483c-ae80-037f08f4a41f",
+    "measurementDate": "2024-05-01"
+  }
+]
