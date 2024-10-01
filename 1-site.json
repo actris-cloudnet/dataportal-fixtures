@@ -112,7 +112,8 @@
     "actrisId": 48,
     "country": "Germany",
     "countryCode": "DE",
-    "type": ["cloudnet"]
+    "type": ["cloudnet"],
+    "description": "<p>The Jülich Observatory for Cloud Evolution (JOYCE) provides temporally highly\nresolved measurements to improve our understanding of the emergence,\ndevelopment and decay of clouds. The observational platform at the Research\nCentre Jülich is located in an urbanized setting surrounded by forest, within\nrural lowlands amidst two large open lignite mines and agricultural areas.</p>\n<p>The facility has been performing continuous ground-based remote sensing\nobservations since 2011. State-of-the-art active and passive remote sensing\ninstruments are used to analyse cloud and precipitation processes as well as\nthe atmospheric boundary layer vertical structure. Temperature and humidity\nprofiling measurements are carried out, as well measurements for obtaining\nhorizontal and vertical winds including turbulence. In addition, detailed\nmicro- and macrophysical properties of clouds are derived.</p>\n<p>The scientific objectives of JOYCE are to develop and test new methodologies\nfor quantifying clouds and precipitation, perform model and satellite\nevaluation and to better understand the cloud life cycle within an environment\nwith multiple, complex influences. The extensive long-term data set allows to\ncharacterize diurnal and seasonal patterns in a statistical way.</p>\n<h2>References</h2>\n<ul class=\"references\">\n<li>Löhnert et al. (2015). JOYCE: Jülich Observatory for Cloud\nEvolution. Bulletin of the American Meteorological Society, 96(7), 1157-1174.\n<a href=\"https://doi.org/10.1175/BAMS-D-14-00105.1\">https://doi.org/10.1175/BAMS-D-14-00105.1</a></li>\n</ul>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://cpex-lab.de/cpex-lab/EN/Home/JOYCE-CF/JOYCE-CF_node.html\">JOYCE home page</a></li>\n</ul>\n"
   },
   {
     "id": "kenttarova",
