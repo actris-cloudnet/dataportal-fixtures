@@ -1610,6 +1610,16 @@
     "instrument": "chm15kx"
   },
   {
+    "uuid": "cd8c566e-fe73-46e0-b64e-fb50bdde4e41",
+    "pid": "https://hdl.handle.net/21.12132/3.cd8c566efe7346e0",
+    "name": "Uni Köln RPG-FMCW-35-DP-S (JOYDURADO-35)",
+    "serialNumber": "6010005",
+    "model": "RPG-FMCW-35-DP-S",
+    "type": "Doppler scanning cloud radar",
+    "owners": ["University of Cologne"],
+    "instrument": "rpg-fmcw-35"
+  },
+  {
     "uuid": "cded5e33-462e-4dd3-ad25-0a6667c59e9f",
     "pid": "https://hdl.handle.net/21.12132/3.cded5e33462e4dd3",
     "name": "TU Delft RPG-FMCW-35-DP (CLARA-35)",
@@ -1950,6 +1960,16 @@
     "serialNumber": "0300001",
     "model": "RPG-FMCW-94-SP",
     "type": "Doppler non-scanning cloud radar",
+    "owners": ["University of Cologne"],
+    "instrument": "rpg-fmcw-94"
+  },
+  {
+    "uuid": "f7e00266-4a7a-4e4e-916b-51cf22aa7333",
+    "pid": "https://hdl.handle.net/21.12132/3.f7e002664a7a4e4e",
+    "name": "Uni Köln RPG-FMCW-94-DP-S (JOYDURADO-94)",
+    "serialNumber": "4010028",
+    "model": "RPG-FMCW-94-DP-S",
+    "type": "Doppler scanning cloud radar",
     "owners": ["University of Cologne"],
     "instrument": "rpg-fmcw-94"
   },
