@@ -493,6 +493,16 @@
     "instrument": "hatpro"
   },
   {
+    "uuid": "4025c06b-e1ab-4983-aa57-25b8be32c7c0",
+    "pid": "https://hdl.handle.net/21.12132/3.4025c06be1ab4983",
+    "name": "LMU HATPRO-G5",
+    "serialNumber": "R-DPR-19/007",
+    "model": "RPG-HATPRO-G5",
+    "type": "scanning microwave radiometer",
+    "owners": ["Ludwig-Maximilians-Universität München (LMU)"],
+    "instrument": "hatpro"
+  },
+  {
     "uuid": "41582c49-57f4-44b3-b253-ef9e00763c67",
     "pid": "https://hdl.handle.net/21.12132/3.41582c4957f444b3",
     "name": "ECoE Parsivel²",
