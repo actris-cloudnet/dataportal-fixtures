@@ -1748,6 +1748,16 @@
     "instrument": "halo-doppler-lidar"
   },
   {
+    "uuid": "dca88604-798e-4647-a44d-ec61ea412301",
+    "pid": "https://hdl.handle.net/21.12132/3.dca88604798e4647",
+    "name": "KNMI WLS200S",
+    "serialNumber": "218",
+    "model": "Leosphere WindCube WLS200S",
+    "type": "scanning Doppler lidar",
+    "owners": ["Royal Netherlands Meteorological Institute (KNMI)"],
+    "instrument": "wls200s"
+  },
+  {
     "uuid": "ddeab96e-6197-478a-93d0-e334f67e3152",
     "pid": "https://hdl.handle.net/21.12132/3.ddeab96e6197478a",
     "name": "DWD LPM",
