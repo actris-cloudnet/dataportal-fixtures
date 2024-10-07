@@ -88,5 +88,11 @@
     "humanReadableName": "Global Data Assimilation System (GDAS1)",
     "optimumOrder": 3,
     "citations": [{ "id": "gdas_cite" }]
+  },
+  {
+    "id": "ecmwf-open",
+    "humanReadableName": "ECMWF IFS forecast (open data)",
+    "optimumOrder": 4,
+    "citations": [{ "id": "ecmwf_cite" }]
   }
 ]
