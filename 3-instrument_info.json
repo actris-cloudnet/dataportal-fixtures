@@ -973,10 +973,10 @@
   {
     "uuid": "7c1d2586-32f9-4cdd-a8df-723a43867820",
     "pid": "https://hdl.handle.net/21.12132/3.7c1d258632f94cdd",
-    "name": "LMU MIRA-35 (Ka-MACS)",
+    "name": "LMU MIRA-35S (Ka-MACS)",
     "serialNumber": "LMXCA120",
-    "model": "METEK MIRA-35",
-    "type": "Doppler non-scanning cloud radar",
+    "model": "METEK MIRA-35S",
+    "type": "Doppler scanning cloud radar",
     "owners": ["Ludwig-Maximilians-Universität München (LMU)"],
     "instrument": "mira-35"
   },
@@ -1182,7 +1182,7 @@
   {
     "uuid": "9af43f93-e396-49f5-8dc1-6b67336b66e0",
     "pid": "https://hdl.handle.net/21.12132/3.9af43f93e39649f5",
-    "name": "ECoE MIRA 35",
+    "name": "ECoE MIRA-35",
     "serialNumber": "MBR8",
     "model": "METEK MIRA-35",
     "type": "Doppler non-scanning cloud radar",
@@ -1572,10 +1572,10 @@
   {
     "uuid": "c98b69a5-099a-4154-b48f-4b555ee8eb41",
     "pid": "https://hdl.handle.net/21.12132/3.c98b69a5099a4154",
-    "name": "TROPOS MIRA-35 (MBR7)",
+    "name": "TROPOS MIRA-35S (MBR7)",
     "serialNumber": "mira35_MBR7",
-    "model": "METEK MIRA-35",
-    "type": "Doppler non-scanning cloud radar",
+    "model": "METEK MIRA-35S",
+    "type": "Doppler scanning cloud radar",
     "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
     "instrument": "mira-35"
   },
@@ -1716,7 +1716,7 @@
   {
     "uuid": "d98f6fd2-bec9-4e5e-b1d3-5ca422529215",
     "pid": "https://hdl.handle.net/21.12132/3.d98f6fd2bec94e5e",
-    "name": "INOE MIRA-35",
+    "name": "INOE MIRA-35S",
     "serialNumber": null,
     "model": "METEK MIRA-35S",
     "type": "Doppler scanning cloud radar",
@@ -1906,10 +1906,10 @@
   {
     "uuid": "ec09dc9c-028c-42d1-a4cc-2c19dc470be8",
     "pid": "https://hdl.handle.net/21.12132/3.ec09dc9c028c42d1",
-    "name": "TROPOS MIRA-35 (LACROS)",
+    "name": "TROPOS MIRA-35S (LACROS)",
     "serialNumber": "mira35_NMRA",
-    "model": "METEK MIRA-35",
-    "type": "Doppler non-scanning cloud radar",
+    "model": "METEK MIRA-35S",
+    "type": "Doppler scanning cloud radar",
     "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
     "instrument": "mira-35"
   },
