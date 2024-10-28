@@ -1245,7 +1245,7 @@
     "name": "MeteoSwiss WLS200S",
     "serialNumber": "WLS200s-197",
     "model": "Leosphere WindCube WLS200S",
-    "type": "scanning Doppler lidar",
+    "type": "Doppler lidar",
     "owners": ["Federal Office of Meteorology and Climatology MeteoSwiss"],
     "instrument": "wls200s"
   },
@@ -1753,7 +1753,7 @@
     "name": "KNMI WLS200S",
     "serialNumber": "218",
     "model": "Leosphere WindCube WLS200S",
-    "type": "scanning Doppler lidar",
+    "type": "Doppler lidar",
     "owners": ["Royal Netherlands Meteorological Institute (KNMI)"],
     "instrument": "wls200s"
   },
