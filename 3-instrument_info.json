@@ -413,6 +413,16 @@
     "instrument": "hatpro"
   },
   {
+    "uuid": "37a71c75-789f-47c3-97e5-fa03c4cbb3cf",
+    "pid": "https://hdl.handle.net/21.12132/3.37a71c75789f47c3",
+    "name": "UB RPG-FMCW-94-DP",
+    "serialNumber": "4010035",
+    "model": "RPG-FMCW-94-DP",
+    "type": "Doppler non-scanning cloud radar",
+    "owners": ["University of Bern (UB)"],
+    "instrument": "rpg-fmcw-94"
+  },
+  {
     "uuid": "3809aae6-fdb2-4f61-b887-4cebb17380ef",
     "pid": "https://hdl.handle.net/21.12132/3.3809aae6fdb24f61",
     "name": "TROPOS RPG-FMCW-94-DP (Melpitz)",
@@ -859,6 +869,16 @@
     "type": "disdrometer",
     "owners": ["Finnish Meteorological Institute (FMI)"],
     "instrument": "parsivel"
+  },
+  {
+    "uuid": "6faa7d9a-8ae6-4523-a3a7-a464df02b714",
+    "pid": "https://hdl.handle.net/21.12132/3.6faa7d9a8ae64523",
+    "name": "TROPOS WXT536",
+    "serialNumber": null,
+    "model": "Vaisala WXT536",
+    "type": "weather station",
+    "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
+    "instrument": "weather-station"
   },
   {
     "uuid": "6fb23021-bef0-4200-806e-9f86b6bb1a89",
