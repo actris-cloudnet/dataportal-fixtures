@@ -1,12 +1,12 @@
 [
   {
     "id": "bucharest",
-    "humanReadableName": "Bucharest",
-    "latitude": 44.348,
-    "longitude": 26.029,
-    "altitude": 93,
+    "humanReadableName": "RADO-Bucharest",
+    "latitude": 44.344,
+    "longitude": 26.012,
+    "altitude": 77,
     "gaw": "INO",
-    "dvasId": "ab2x",
+    "dvasId": "lbok",
     "actrisId": 99,
     "country": "Romania",
     "countryCode": "RO",
