@@ -1,7 +1,8 @@
 [
   {
     "id": "bucharest",
-    "humanReadableName": "RADO-Bucharest",
+    "humanReadableName": "Bucharest",
+    "stationName": "RADO-Bucharest",
     "latitude": 44.344,
     "longitude": 26.012,
     "altitude": 77,
@@ -23,6 +24,7 @@
   {
     "id": "cabauw",
     "humanReadableName": "Cabauw",
+    "stationName": "CESAR",
     "latitude": 51.968,
     "longitude": 4.927,
     "altitude": -1,
@@ -62,6 +64,7 @@
   {
     "id": "galati",
     "humanReadableName": "Galați",
+    "stationName": "RADO-Galați",
     "latitude": 45.435,
     "longitude": 28.037,
     "altitude": 40,
@@ -80,6 +83,7 @@
   {
     "id": "granada",
     "humanReadableName": "Granada",
+    "stationName": "AGORA",
     "latitude": 37.164,
     "longitude": -3.605,
     "altitude": 680,
@@ -93,6 +97,7 @@
   {
     "id": "hyytiala",
     "humanReadableName": "Hyytiälä",
+    "stationName": "SMEAR II",
     "latitude": 61.844,
     "longitude": 24.287,
     "altitude": 150,
@@ -107,6 +112,7 @@
   {
     "id": "juelich",
     "humanReadableName": "Jülich",
+    "stationName": "JOYCE",
     "latitude": 50.908,
     "longitude": 6.413,
     "altitude": 111,
@@ -161,6 +167,7 @@
   {
     "id": "leipzig-lim",
     "humanReadableName": "Leipzig LIM",
+    "stationName": "LIM",
     "latitude": 51.333,
     "longitude": 12.389,
     "gaw": null,
@@ -186,6 +193,7 @@
   {
     "id": "lindenberg",
     "humanReadableName": "Lindenberg",
+    "stationName": "MOL-RAO",
     "latitude": 52.208,
     "longitude": 14.118,
     "gaw": "LIN",
@@ -274,6 +282,7 @@
   {
     "id": "palaiseau",
     "humanReadableName": "Palaiseau",
+    "stationName": "SIRTA",
     "latitude": 48.716,
     "longitude": 2.212,
     "gaw": null,
@@ -287,6 +296,7 @@
   {
     "id": "potenza",
     "humanReadableName": "Potenza",
+    "stationName": "CIAO",
     "latitude": 40.601,
     "longitude": 15.724,
     "gaw": "POT",
@@ -383,6 +393,7 @@
   {
     "id": "limassol",
     "humanReadableName": "Limassol",
+    "stationName": "CARO",
     "latitude": 34.677,
     "longitude": 33.038,
     "gaw": null,
@@ -1063,6 +1074,7 @@
   {
     "id": "cluj",
     "humanReadableName": "Cluj-Napoca",
+    "stationName": "RADO-Cluj",
     "latitude": 46.7678,
     "longitude": 23.54006,
     "altitude": 459,
@@ -1271,6 +1283,7 @@
   {
     "id": "mindelo",
     "humanReadableName": "Mindelo",
+    "stationName": "CVAO",
     "latitude": 16.8778,
     "longitude": -24.995,
     "altitude": 13,
@@ -1973,6 +1986,7 @@
   {
     "id": "sonnblick",
     "humanReadableName": "Sonnblick",
+    "stationName": "SBO",
     "latitude": 47.054,
     "longitude": 12.9577,
     "altitude": 3106,
