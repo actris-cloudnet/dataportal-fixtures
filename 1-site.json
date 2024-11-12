@@ -283,15 +283,16 @@
     "id": "palaiseau",
     "humanReadableName": "Palaiseau",
     "stationName": "SIRTA",
-    "latitude": 48.716,
-    "longitude": 2.212,
+    "latitude": 48.717,
+    "longitude": 2.209,
     "gaw": null,
     "dvasId": "k0wb",
     "actrisId": 37,
     "altitude": 156,
     "country": "France",
     "countryCode": "FR",
-    "type": ["cloudnet"]
+    "type": ["cloudnet"],
+    "description": "<p>The SIRTA Atmospheric Research Observatory is one of few sites in Europe offering the instrumentation\nand the facilities to study atmospheric physico-chemical processes from the surface to the upper\ntroposphere through the boundary layer. At SIRTA, we study climate variability at regional and\ndecadal scales and evaluate the performance of atmospheric models (climate projection, weather\nforecast, chemistry-transport, etc.).</p>\n<p>SIRTA addresses the needs of four missions that span on multi-decadal time scales:</p>\n<ul>\n<li>\n<p>Atmospheric Monitoring: SIRTA carries out and provides access to long time series of\natmospheric observations necessary to improve our knowledge of atmospheric physico-chemical\nprocesses (gases, aerosols, clouds, precipitation, thermodynamics, dynamics, radiation),\nto study climate variability on decadal and regional scales, and to evaluate atmospheric models.</p>\n</li>\n<li>\n<p>Atmospheric Exploration: SIRTA hosts experimental measurement campaigns in a rich\nobservational environment, equipped with efficient logistics. It allows us to explore\ncomplex atmospheric processes, to develop methods exploiting instrumental synergies\n(tracers, in-situ series and remote sensing), to prepare future satellite observations\nand validate on-going ones,  to develop new parameterizations for models, to test and qualify new instruments.</p>\n</li>\n<li>\n<p>Experimental teaching: SIRTA allows the realization of experimental work and teaching\nprojects that take place as part of atmospheric science courses (hosting of students at\nBachelor, Master and Doctorate levels).</p>\n</li>\n<li>\n<p>Metrological and radiative expertise: SIRTA hosts two expertise centers of the\nACTRIS research infrastructure which aim at\nimproving the quality of measurements, methods and data of networks of observations of\nphysical properties of clouds (<a href=\"https://ccres.aeris-data.fr/en/about_ccres/welcome/\">CCRES</a>) and the\nphysico-chemical properties of aerosols (<a href=\"https://acmcc.aeris-data.fr/\">ACMCC</a>).\nSIRTA also hosts and maintains a surface radiation budget station that contribute\nto the Baseline Surface Radiation Network (<a href=\"https://bsrn.awi.de/\">BSRN</a>).</p>\n</li>\n</ul>\n<p>The scientific perimeter of activities carried out at SIRTA includes reactive and\ngreenhouse gases, aerosols, clouds, and precipitation, radiative exchanges, heat fluxes,\natmospheric dynamics and thermodynamics. The scientific applications also concern the\nuse of these fields of expertise to study their impact on human activities such as health,\ntransport and energy (with a particular focus on solar and wind renewable energies).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://sirta.ipsl.fr/\">SIRTA home page</a></li>\n</ul>\n"
   },
   {
     "id": "potenza",
