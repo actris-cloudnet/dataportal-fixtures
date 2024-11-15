@@ -38,6 +38,7 @@
   {
     "id": "chilbolton",
     "humanReadableName": "Chilbolton",
+    "stationName": "CAO",
     "latitude": 51.144,
     "longitude": -1.439,
     "altitude": 85,
@@ -220,6 +221,7 @@
   {
     "id": "mace-head",
     "humanReadableName": "Mace Head",
+    "stationName": "MHD",
     "latitude": 53.326,
     "longitude": -9.9,
     "altitude": 16,
@@ -312,6 +314,7 @@
   {
     "id": "schneefernerhaus",
     "humanReadableName": "Schneefernerhaus",
+    "stationName": "USF",
     "latitude": 47.417,
     "longitude": 10.977,
     "gaw": "ZSF",
@@ -370,6 +373,7 @@
   {
     "id": "finokalia",
     "humanReadableName": "Finokalia",
+    "stationName": "FKL",
     "latitude": 35.338,
     "longitude": 25.668,
     "gaw": "FKL",
@@ -410,6 +414,7 @@
   {
     "id": "maido",
     "humanReadableName": "Maido Observatory",
+    "stationName": "OPAR",
     "latitude": -21.079,
     "longitude": 55.383,
     "gaw": "RUN",
@@ -1043,6 +1048,7 @@
   {
     "id": "evora",
     "humanReadableName": "Évora",
+    "stationName": "EVASO",
     "latitude": 38.568,
     "longitude": -7.912,
     "altitude": 293,
@@ -1200,6 +1206,7 @@
   {
     "id": "antikythera",
     "humanReadableName": "Antikythera",
+    "stationName": "PANGEA",
     "latitude": 35.86,
     "longitude": 23.31,
     "altitude": 193,
@@ -1222,6 +1229,7 @@
   {
     "id": "warsaw",
     "humanReadableName": "Warsaw",
+    "stationName": "WOS",
     "latitude": 52.21,
     "longitude": 20.98,
     "altitude": 112,
@@ -1239,6 +1247,7 @@
   {
     "id": "rzecin",
     "humanReadableName": "Rzecin",
+    "stationName": "PolWet",
     "latitude": 52.758,
     "longitude": 16.31,
     "altitude": 57,
@@ -1273,6 +1282,7 @@
   {
     "id": "lampedusa",
     "humanReadableName": "Lampedusa",
+    "stationName": "ENEA",
     "latitude": 35.52,
     "longitude": 12.63,
     "altitude": 45,
@@ -1298,6 +1308,7 @@
   {
     "id": "kosetice",
     "humanReadableName": "Košetice",
+    "stationName": "NAOK",
     "latitude": 49.573,
     "longitude": 15.081,
     "altitude": 531,
