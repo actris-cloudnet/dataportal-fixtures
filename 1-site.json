@@ -842,6 +842,17 @@
     "type": ["hidden", "model"]
   },
   {
+    "id": "welgegund",
+    "humanReadableName": "Welgegund",
+    "latitude": -26.5695,
+    "longitude": 26.9391,
+    "gaw": null,
+    "altitude": 1480,
+    "country": "South Africa",
+    "countryCode": "ZA",
+    "type": ["hidden", "model"]
+  },
+  {
     "id": "clermont-ferrand",
     "humanReadableName": "Clermont-Ferrand",
     "latitude": 45.761,
