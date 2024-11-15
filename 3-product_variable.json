@@ -546,10 +546,38 @@
     "actrisName": "water vapour total column content"
   },
   {
+    "id": "mwr-relative_humidity",
+    "humanReadableName": "Relative humidity",
+    "order": 2,
+    "product": "mwr",
+    "actrisName": "water vapour liquid water saturation fraction"
+  },
+  {
+    "id": "mwr-absolute_humidity",
+    "humanReadableName": "Absolute humidity",
+    "order": 3,
+    "product": "mwr",
+    "actrisName": "water vapour mass concentration"
+  },
+  {
+    "id": "mwr-temperature",
+    "humanReadableName": "Air temperature",
+    "order": 4,
+    "product": "mwr",
+    "actrisName": "air temperature"
+  },
+  {
+    "id": "mwr-irt_0",
+    "humanReadableName": "Infrared brightness temperature",
+    "order": 5,
+    "product": "mwr"
+  },
+  {
     "id": "mwr-multi-relative_humidity",
     "humanReadableName": "Relative humidity",
     "order": 0,
-    "product": "mwr-multi"
+    "product": "mwr-multi",
+    "actrisName": "water vapour liquid water saturation fraction"
   },
   {
     "id": "mwr-multi-temperature",
@@ -589,13 +617,15 @@
     "id": "mwr-single-relative_humidity",
     "humanReadableName": "Relative humidity",
     "order": 2,
-    "product": "mwr-single"
+    "product": "mwr-single",
+    "actrisName": "water vapour liquid water saturation fraction"
   },
   {
     "id": "mwr-single-absolute_humidity",
     "humanReadableName": "Absolute humidity",
     "order": 3,
-    "product": "mwr-single"
+    "product": "mwr-single",
+    "actrisName": "water vapour mass concentration"
   },
   {
     "id": "mwr-single-temperature",
