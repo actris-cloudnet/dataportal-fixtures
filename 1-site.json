@@ -853,6 +853,17 @@
     "type": ["hidden", "model"]
   },
   {
+    "id": "nanjing",
+    "humanReadableName": "Nanjing",
+    "latitude": 31.933,
+    "longitude": 118.9,
+    "gaw": null,
+    "altitude": 15,
+    "country": "China",
+    "countryCode": "CN",
+    "type": ["hidden", "model"]
+  },
+  {
     "id": "clermont-ferrand",
     "humanReadableName": "Clermont-Ferrand",
     "latitude": 45.761,
