@@ -991,6 +991,19 @@
     "instrument": "chm15k"
   },
   {
+    "uuid": "793a6a59-9d39-48ab-834a-528259e60811",
+    "pid": "https://hdl.handle.net/21.12132/3.793a6a599d3948ab",
+    "name": "Met Éireann HATPRO-G5",
+    "serialNumber": "0030125",
+    "model": "RPG-HATPRO-G5",
+    "type": "scanning microwave radiometer",
+    "owners": [
+      "Atmospheres Laboratory Environments, Observations Spatiales (LATMOS)",
+      "Met Éireann"
+    ],
+    "instrument": "hatpro"
+  },
+  {
     "uuid": "7c1d2586-32f9-4cdd-a8df-723a43867820",
     "pid": "https://hdl.handle.net/21.12132/3.7c1d258632f94cdd",
     "name": "LMU MIRA-35S (Ka-MACS)",
