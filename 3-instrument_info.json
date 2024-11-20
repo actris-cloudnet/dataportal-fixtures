@@ -997,10 +997,7 @@
     "serialNumber": "0030125",
     "model": "RPG-HATPRO-G5",
     "type": "scanning microwave radiometer",
-    "owners": [
-      "Atmospheres Laboratory Environments, Observations Spatiales (LATMOS)",
-      "Met Éireann"
-    ],
+    "owners": ["Met Éireann"],
     "instrument": "hatpro"
   },
   {
