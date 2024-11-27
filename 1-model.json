@@ -84,6 +84,11 @@
     "citations": [{ "id": "fmi_cite" }]
   },
   {
+    "id": "arpege",
+    "humanReadableName": "ARPEGE",
+    "optimumOrder": 2
+  },
+  {
     "id": "ecmwf-open",
     "humanReadableName": "ECMWF IFS forecast (open data)",
     "optimumOrder": 3,
