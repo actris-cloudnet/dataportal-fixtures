@@ -1105,6 +1105,16 @@
     "instrument": "cl51"
   },
   {
+    "uuid": "8b0a6145-7e7a-4c20-b34e-e1635ea21e03",
+    "pid": "https://hdl.handle.net/21.12132/3.8b0a61457e7a4c20",
+    "name": "Met Éireann CHM 15k",
+    "serialNumber": null,
+    "model": "Lufft CHM 15k",
+    "type": "lidar ceilometer",
+    "owners": ["Met Éireann"],
+    "instrument": "chm15k"
+  },
+  {
     "uuid": "8ca6674e-ad02-4d5f-bf8c-feccf2d11c3b",
     "pid": "https://hdl.handle.net/21.12132/3.8ca6674ead024d5f",
     "name": "DJUG weather station",
