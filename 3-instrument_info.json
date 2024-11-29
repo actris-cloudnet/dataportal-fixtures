@@ -1108,7 +1108,7 @@
     "uuid": "8b0a6145-7e7a-4c20-b34e-e1635ea21e03",
     "pid": "https://hdl.handle.net/21.12132/3.8b0a61457e7a4c20",
     "name": "Met Éireann CHM 15k",
-    "serialNumber": null,
+    "serialNumber": "CHM230126",
     "model": "Lufft CHM 15k",
     "type": "lidar ceilometer",
     "owners": ["Met Éireann"],
