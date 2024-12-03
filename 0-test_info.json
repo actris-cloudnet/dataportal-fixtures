@@ -110,6 +110,11 @@
     "description": "Test that time vector is continuous."
   },
   {
+    "testId": "TestUnexpectedMask",
+    "name": "Unexpected mask",
+    "description": "Test if data contain unexpected masked values."
+  },
+  {
     "testId": "TestUnits",
     "name": "Units",
     "description": "Check that variables have expected units."
