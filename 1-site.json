@@ -2032,5 +2032,16 @@
     "country": "Ireland",
     "countryCode": "IE",
     "type": ["campaign"]
+  },
+  {
+    "id": "campina",
+    "humanReadableName": "Campina",
+    "latitude": -2.181583,
+    "longitude": -59.021861,
+    "altitude": 30,
+    "gaw": null,
+    "country": "Brazil",
+    "countryCode": "BR",
+    "type": ["hidden"]
   }
 ]
