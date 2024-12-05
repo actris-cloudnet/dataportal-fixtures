@@ -2035,6 +2035,7 @@
   },
   {
     "id": "campina",
+    "stationName": "ATTO",
     "humanReadableName": "Campina",
     "latitude": -2.181583,
     "longitude": -59.021861,
