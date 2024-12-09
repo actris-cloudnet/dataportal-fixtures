@@ -645,6 +645,16 @@
     "instrument": "rpg-fmcw-94"
   },
   {
+    "uuid": "4cab4fe7-d62c-406a-8369-059d615d7887",
+    "pid": "https://hdl.handle.net/21.12132/3.4cab4fe7d62c406a",
+    "name": "TROPOS CL61 (LACROS)",
+    "serialNumber": null,
+    "model": "Vaisala CL61",
+    "type": "depolarisation lidar ceilometer",
+    "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
+    "instrument": "cl61d"
+  },
+  {
     "uuid": "4e7765c0-c8bd-4d1d-b60f-ce14b4335ee5",
     "pid": "https://hdl.handle.net/21.12132/3.4e7765c0c8bd4d1d",
     "name": "ENEA LPM",
@@ -1294,7 +1304,7 @@
     "pid": "https://hdl.handle.net/21.12132/3.a3c0f804d91e4966",
     "name": "MeteoSwiss WLS200S",
     "serialNumber": "WLS200s-197",
-    "model": "Leosphere WindCube WLS200S",
+    "model": "Vaisala WindCube WLS200S",
     "type": "Doppler lidar",
     "owners": ["Federal Office of Meteorology and Climatology MeteoSwiss"],
     "instrument": "wls200s"
@@ -1716,7 +1726,7 @@
     "pid": "https://hdl.handle.net/21.12132/3.d5ee0db6ac964a04",
     "name": "CEREA WLS70",
     "serialNumber": "WLS70-10",
-    "model": "Leosphere WindCube WLS70",
+    "model": "Vaisala WindCube WLS70",
     "type": "Doppler lidar",
     "owners": [
       "Centre d'Enseignement et de Recherche en Environnement Atmosphérique (CEREA)"
@@ -1802,7 +1812,7 @@
     "pid": "https://hdl.handle.net/21.12132/3.dca88604798e4647",
     "name": "KNMI WLS200S",
     "serialNumber": "218",
-    "model": "Leosphere WindCube WLS200S",
+    "model": "Vaisala WindCube WLS200S",
     "type": "Doppler lidar",
     "owners": ["Royal Netherlands Meteorological Institute (KNMI)"],
     "instrument": "wls200s"
