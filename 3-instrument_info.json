@@ -861,6 +861,16 @@
     "instrument": "parsivel"
   },
   {
+    "uuid": "67e9e6bc-6c5f-4c8c-ba8d-f65322b0c3d3",
+    "pid": "https://hdl.handle.net/21.12132/3.67e9e6bc6c5f4c8c",
+    "name": "TROPOS MRR-PRO (LACROS)",
+    "serialNumber": null,
+    "model": "METEK MRR-PRO",
+    "type": "micro rain radar",
+    "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
+    "instrument": "mrr-pro"
+  },
+  {
     "uuid": "695573e5-9818-45d9-9f57-6ebf07ef6d2f",
     "pid": "https://hdl.handle.net/21.12132/3.695573e5981845d9",
     "name": "DWD CL61",
