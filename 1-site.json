@@ -424,7 +424,7 @@
     "country": "Réunion",
     "countryCode": "RE",
     "countrySubdivisionCode": "FR-974",
-    "type": ["campaign"]
+    "type": ["cloudnet"]
   },
   {
     "id": "punta-arenas",
@@ -2044,5 +2044,20 @@
     "country": "Brazil",
     "countryCode": "BR",
     "type": ["hidden"]
+  },
+  {
+    "id": "moufia",
+    "stationName": "OPAR",
+    "humanReadableName": "Moufia",
+    "latitude": -20.902,
+    "longitude": 55.485,
+    "altitude": 84,
+    "gaw": null,
+    "country": "Réunion",
+    "countryCode": "RE",
+    "countrySubdivisionCode": "FR-974",
+    "type": ["campaign"],
+    "dvasId": "cxhy",
+    "actrisId": 39
   }
 ]
