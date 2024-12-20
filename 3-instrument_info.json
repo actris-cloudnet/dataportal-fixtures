@@ -1051,6 +1051,16 @@
     "instrument": "parsivel"
   },
   {
+    "uuid": "7eed1e4c-a919-490a-8484-ff377a958628",
+    "pid": "https://hdl.handle.net/21.12132/3.7eed1e4ca919490a",
+    "name": "LACy BASTA (Maïdo)",
+    "serialNumber": null,
+    "model": "BASTA",
+    "type": "Doppler non-scanning cloud radar",
+    "owners": ["Laboratoire de l'Atmosphère et des Cyclones (LACy)"],
+    "instrument": "basta"
+  },
+  {
     "uuid": "7fd1b2d0-d767-419f-a633-e7d1196d6229",
     "pid": "https://hdl.handle.net/21.12132/3.7fd1b2d0d767419f",
     "name": "UBB weather station",
@@ -1452,6 +1462,16 @@
     "type": "Doppler scanning cloud radar",
     "owners": ["University of Leeds"],
     "instrument": "mira-35"
+  },
+  {
+    "uuid": "b84a8d63-4d94-4345-8062-d51dfeeef4d3",
+    "pid": "https://hdl.handle.net/21.12132/3.b84a8d634d944345",
+    "name": "OSU BASTA (mini, Moufia)",
+    "serialNumber": null,
+    "model": "BASTA",
+    "type": "Doppler non-scanning cloud radar",
+    "owners": ["Observatoire des Sciences de l'Univers de la Réunion (OSU)"],
+    "instrument": "basta"
   },
   {
     "uuid": "b8909443-cad2-40fc-a31c-7ab76cd93a10",
