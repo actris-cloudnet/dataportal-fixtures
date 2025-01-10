@@ -238,5 +238,12 @@
     "humanReadableName": "OTT Pluvio² rain gauge",
     "shortName": "OTT Pluvio²",
     "derivedProducts": []
+  },
+  {
+    "id": "thies-precipitation-transmitter",
+    "type": "rain-gauge",
+    "humanReadableName": "Thies Precipitation Transmitter",
+    "shortName": "Thies rain gauge",
+    "derivedProducts": []
   }
 ]
