@@ -167,6 +167,13 @@
     "experimental": false
   },
   {
+    "id": "rain-gauge",
+    "humanReadableName": "Rain gauge",
+    "level": "1b",
+    "type": ["instrument"],
+    "experimental": true
+  },
+  {
     "id": "rain-radar",
     "humanReadableName": "Rain radar",
     "level": "1b",
