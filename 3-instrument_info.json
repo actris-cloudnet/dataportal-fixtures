@@ -32,7 +32,7 @@
   {
     "uuid": "0366fa69-504f-4bd6-b833-3977c15e8bdc",
     "pid": "https://hdl.handle.net/21.12132/3.0366fa69504f4bd6",
-    "name": "Uni Köln MIRA-35S",
+    "name": "Uni Köln MIRA-35S (JOYRAD-35)",
     "serialNumber": null,
     "model": "METEK MIRA-35S",
     "type": "Doppler scanning cloud radar",
@@ -68,6 +68,16 @@
     "type": "multiwavelength Raman polarization lidar",
     "owners": ["ERATOSTHENES Centre of Excellence (ECoE)"],
     "instrument": "pollyxt"
+  },
+  {
+    "uuid": "057664d9-f5cd-46cb-8fb1-376297e82988",
+    "pid": "https://hdl.handle.net/21.12132/3.057664d9f5cd46cb",
+    "name": "TROPOS Precipitation Transmitter (Mindelo)",
+    "serialNumber": null,
+    "model": "Thies Clima Precipitation Transmitter (5.4041.x1.00x)",
+    "type": "weighing rain gauge",
+    "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
+    "instrument": "thies-precipitation-transmitter"
   },
   {
     "uuid": "070929c5-5027-47f6-92f4-4cc8bb35c585",
@@ -1031,6 +1041,16 @@
     "instrument": "mira-35"
   },
   {
+    "uuid": "7cfaf325-2c45-451d-9066-27a92e996af9",
+    "pid": "https://hdl.handle.net/21.12132/3.7cfaf3252c45451d",
+    "name": "TROPOS Precipitation Transmitter (LACROS)",
+    "serialNumber": null,
+    "model": "Thies Clima Precipitation Transmitter (5.4041.x1.00x)",
+    "type": "weighing rain gauge",
+    "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
+    "instrument": "thies-precipitation-transmitter"
+  },
+  {
     "uuid": "7d8e0258-4f85-41a9-a880-837d775b31e2",
     "pid": "https://hdl.handle.net/21.12132/3.7d8e02584f8541a9",
     "name": "LIM CHM 15k (CEILIM)",
@@ -1576,6 +1596,16 @@
       "Betriebsgesellschaft Umweltforschungsstation Schneefernerhaus GmbH (UFS)"
     ],
     "instrument": "chm15kx"
+  },
+  {
+    "uuid": "c3a6d20d-614b-4f75-9273-1883bb3b472d",
+    "pid": "https://hdl.handle.net/21.12132/3.c3a6d20d614b4f75",
+    "name": "DJUG Precipitation Transmitter",
+    "serialNumber": null,
+    "model": "Thies Clima Precipitation Transmitter with extended heating (5.4032.45.008)",
+    "type": "tipping bucket rain gauge",
+    "owners": ["\"Dunarea de Jos\" University of Galati (DJUG)"],
+    "instrument": "thies-precipitation-transmitter"
   },
   {
     "uuid": "c3e825b4-aa71-435c-8717-31248245de46",
