@@ -827,6 +827,34 @@
     "actrisName": null
   },
   {
+    "id": "rain-gauge-rainfall_amount",
+    "humanReadableName": "Total accumulated rainfall",
+    "order": 0,
+    "product": "rain-gauge",
+    "actrisName": null
+  },
+  {
+    "id": "rain-gauge-rainfall_rate",
+    "humanReadableName": "Rainfall rate",
+    "order": 1,
+    "product": "rain-gauge",
+    "actrisName": null
+  },
+  {
+    "id": "rain-gauge-r_accum_RT",
+    "humanReadableName": "Real time accumulated rainfall",
+    "order": 2,
+    "product": "rain-gauge",
+    "actrisName": null
+  },
+  {
+    "id": "rain-gauge-r_accum_NRT",
+    "humanReadableName": "Near real time accumulated rainfall",
+    "order": 3,
+    "product": "rain-gauge",
+    "actrisName": null
+  },
+  {
     "id": "rain-radar-Zh",
     "humanReadableName": "Radar reflectivity factor",
     "order": 0,
