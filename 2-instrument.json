@@ -148,7 +148,7 @@
     "type": "rain-gauge",
     "humanReadableName": "LAMBRECHT rain[e]H3 rain gauge",
     "shortName": "rain[e]H3 rain gauge",
-    "derivedProducts": []
+    "derivedProducts": [{ "id": "rain-gauge" }]
   },
   {
     "id": "parsivel",
@@ -237,13 +237,13 @@
     "type": "rain-gauge",
     "humanReadableName": "OTT Pluvio² rain gauge",
     "shortName": "OTT Pluvio²",
-    "derivedProducts": []
+    "derivedProducts": [{ "id": "rain-gauge" }]
   },
   {
     "id": "thies-precipitation-transmitter",
     "type": "rain-gauge",
     "humanReadableName": "Thies Precipitation Transmitter",
     "shortName": "Thies rain gauge",
-    "derivedProducts": []
+    "derivedProducts": [{ "id": "rain-gauge" }]
   }
 ]
