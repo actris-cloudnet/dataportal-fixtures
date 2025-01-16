@@ -424,7 +424,8 @@
     "country": "Réunion",
     "countryCode": "RE",
     "countrySubdivisionCode": "FR-974",
-    "type": ["cloudnet"]
+    "type": ["cloudnet"],
+    "description": "<p>The Maïdo Observatory is located on a 2200-meter-high summit on the western\npart of Réunion island, inside a national park. It is under the direct\ninfluence of air masses coming from the west-northwest downhill slope,\npartially covered by a dense tropical forest.</p>\n"
   },
   {
     "id": "punta-arenas",
@@ -2058,6 +2059,7 @@
     "countrySubdivisionCode": "FR-974",
     "type": ["campaign"],
     "dvasId": "cxhy",
-    "actrisId": 39
+    "actrisId": 39,
+    "description": "<p>The Moufia station is located close to the coast on the northern part of\nRéunion island. It's hosted on the campus of University of Réunion. The station\nis under the direct influence of air masses coming from the easterlies.</p>\n"
   }
 ]
