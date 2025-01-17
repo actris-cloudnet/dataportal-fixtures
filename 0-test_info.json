@@ -25,6 +25,11 @@
     "description": "Test compliance with the CF metadata conventions."
   },
   {
+    "testId": "TestComment",
+    "name": "Comment",
+    "description": "Check that variables have expected comments."
+  },
+  {
     "testId": "TestDataCoverage",
     "name": "Data coverage",
     "description": "Test that file contains enough data."
