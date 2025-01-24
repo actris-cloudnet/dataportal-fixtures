@@ -18,5 +18,9 @@
   {
     "id": "gdas_cite",
     "acknowledgements": "NCEP (National Centers for Environmental Prediction) for providing access to GDAS1 data."
+  },
+  {
+    "id": "arpege_cite",
+    "acknowledgements": "Météo-France for providing ARPEGE model data."
   }
 ]
