@@ -105,6 +105,11 @@
     "description": "Test that model data are valid."
   },
   {
+    "testId": "TestRainfallConsistency",
+    "name": "Rainfall consistency",
+    "description": "Test that rainfall rate and rainfall amount are consistent."
+  },
+  {
     "testId": "TestStandardNames",
     "name": "Standard names",
     "description": "Check that variable have expected standard names."
