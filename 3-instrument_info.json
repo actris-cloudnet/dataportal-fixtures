@@ -1061,6 +1061,16 @@
     "instrument": "chm15k"
   },
   {
+    "uuid": "7ddef75d-7fee-4dba-8fe0-c43f8f5f4265",
+    "pid": "https://hdl.handle.net/21.12132/3.7ddef75d7fee4dba",
+    "name": "TROPOS MIRA-35 (MBR9)",
+    "serialNumber": null,
+    "model": "METEK MIRA-35",
+    "type": "Doppler non-scanning cloud radar",
+    "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
+    "instrument": "mira-35"
+  },
+  {
     "uuid": "7e13f3f2-4385-4ae8-b61e-7462c4881729",
     "pid": "https://hdl.handle.net/21.12132/3.7e13f3f243854ae8",
     "name": "IPSL Parsivel²",
