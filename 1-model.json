@@ -6,110 +6,105 @@
     "citations": [{ "id": "ecmwf_cite" }]
   },
   {
-    "id": "era5-1-12",
-    "humanReadableName": "ERA5 (1h-12h forecast)",
-    "optimumOrder": 1,
-    "citations": [{ "id": "ecmwf-era5_cite" }]
-  },
-  {
-    "id": "era5-7-18",
-    "humanReadableName": "ERA5 (7h-18h forecast)",
-    "optimumOrder": 2,
-    "citations": [{ "id": "ecmwf-era5_cite" }]
-  },
-  {
-    "id": "era5-analysis",
-    "humanReadableName": "ERA5 analysis",
-    "optimumOrder": 2,
-    "citations": [{ "id": "ecmwf-era5_cite" }]
-  },
-  {
-    "id": "icon-iglo-0-11",
-    "humanReadableName": "ICON-IGLO (0h-11h forecast)",
-    "optimumOrder": 2,
-    "citations": [{ "id": "dwd_cite" }]
-  },
-  {
-    "id": "icon-iglo-12-23",
-    "humanReadableName": "ICON-IGLO (12h-23h forecast)",
-    "optimumOrder": 1,
-    "citations": [{ "id": "dwd_cite" }]
-  },
-  {
-    "id": "icon-iglo-24-35",
-    "humanReadableName": "ICON-IGLO (24h-35h forecast)",
-    "optimumOrder": 2,
-    "citations": [{ "id": "dwd_cite" }]
-  },
-  {
-    "id": "icon-iglo-36-47",
-    "humanReadableName": "ICON-IGLO (36h-47h forecast)",
-    "optimumOrder": 2,
-    "citations": [{ "id": "dwd_cite" }]
-  },
-  {
-    "id": "icon-iglo-48-59",
-    "humanReadableName": "ICON-IGLO (48h-59h forecast)",
-    "optimumOrder": 2,
-    "citations": [{ "id": "dwd_cite" }]
-  },
-  {
-    "id": "icon-iglo-60-71",
-    "humanReadableName": "ICON-IGLO (60h-71h forecast)",
-    "optimumOrder": 2,
-    "citations": [{ "id": "dwd_cite" }]
-  },
-  {
-    "id": "harmonie-fmi-0-5",
-    "humanReadableName": "HARMONIE-AROME (0h-5h forecast)",
-    "optimumOrder": 2,
-    "citations": [{ "id": "fmi_cite" }]
-  },
-  {
     "id": "harmonie-fmi-6-11",
     "humanReadableName": "HARMONIE-AROME (6h-11h forecast)",
-    "optimumOrder": 1,
+    "optimumOrder": 100,
     "citations": [{ "id": "fmi_cite" }]
-  },
-  {
-    "id": "harmonie-fmi-12-17",
-    "humanReadableName": "HARMONIE-AROME (12h-17h forecast)",
-    "optimumOrder": 2,
-    "citations": [{ "id": "fmi_cite" }]
-  },
-  {
-    "id": "harmonie-fmi-18-23",
-    "humanReadableName": "HARMONIE-AROME (18h-23h forecast)",
-    "optimumOrder": 2,
-    "citations": [{ "id": "fmi_cite" }]
-  },
-  {
-    "id": "arpege",
-    "humanReadableName": "ARPEGE",
-    "optimumOrder": 2
-  },
-  {
-    "id": "arpege-0-11",
-    "humanReadableName": "ARPEGE (0h-11h forecast)",
-    "optimumOrder": 2,
-    "sourceModel": { "id": "arpege" },
-    "forecastStart": 0,
-    "forecastEnd": 11,
-    "citations": [{ "id": "arpege_cite" }]
   },
   {
     "id": "arpege-12-23",
     "humanReadableName": "ARPEGE (12h-23h forecast)",
-    "optimumOrder": 1,
+    "optimumOrder": 101,
     "sourceModel": { "id": "arpege" },
     "forecastStart": 12,
     "forecastEnd": 23,
     "citations": [{ "id": "arpege_cite" }]
   },
   {
+    "id": "icon-iglo-12-23",
+    "humanReadableName": "ICON-IGLO (12h-23h forecast)",
+    "optimumOrder": 102,
+    "citations": [{ "id": "dwd_cite" }]
+  },
+  {
+    "id": "era5-1-12",
+    "humanReadableName": "ERA5 (1h-12h forecast)",
+    "optimumOrder": 103,
+    "citations": [{ "id": "ecmwf-era5_cite" }]
+  },
+  {
+    "id": "era5-7-18",
+    "humanReadableName": "ERA5 (7h-18h forecast)",
+    "optimumOrder": 200,
+    "citations": [{ "id": "ecmwf-era5_cite" }]
+  },
+  {
+    "id": "era5-analysis",
+    "humanReadableName": "ERA5 analysis",
+    "optimumOrder": 201,
+    "citations": [{ "id": "ecmwf-era5_cite" }]
+  },
+  {
+    "id": "icon-iglo-0-11",
+    "humanReadableName": "ICON-IGLO (0h-11h forecast)",
+    "optimumOrder": 202,
+    "citations": [{ "id": "dwd_cite" }]
+  },
+  {
+    "id": "icon-iglo-24-35",
+    "humanReadableName": "ICON-IGLO (24h-35h forecast)",
+    "optimumOrder": 203,
+    "citations": [{ "id": "dwd_cite" }]
+  },
+  {
+    "id": "icon-iglo-36-47",
+    "humanReadableName": "ICON-IGLO (36h-47h forecast)",
+    "optimumOrder": 204,
+    "citations": [{ "id": "dwd_cite" }]
+  },
+  {
+    "id": "icon-iglo-48-59",
+    "humanReadableName": "ICON-IGLO (48h-59h forecast)",
+    "optimumOrder": 205,
+    "citations": [{ "id": "dwd_cite" }]
+  },
+  {
+    "id": "icon-iglo-60-71",
+    "humanReadableName": "ICON-IGLO (60h-71h forecast)",
+    "optimumOrder": 206,
+    "citations": [{ "id": "dwd_cite" }]
+  },
+  {
+    "id": "harmonie-fmi-0-5",
+    "humanReadableName": "HARMONIE-AROME (0h-5h forecast)",
+    "optimumOrder": 207,
+    "citations": [{ "id": "fmi_cite" }]
+  },
+  {
+    "id": "harmonie-fmi-12-17",
+    "humanReadableName": "HARMONIE-AROME (12h-17h forecast)",
+    "optimumOrder": 208,
+    "citations": [{ "id": "fmi_cite" }]
+  },
+  {
+    "id": "harmonie-fmi-18-23",
+    "humanReadableName": "HARMONIE-AROME (18h-23h forecast)",
+    "optimumOrder": 209,
+    "citations": [{ "id": "fmi_cite" }]
+  },
+  {
+    "id": "arpege-0-11",
+    "humanReadableName": "ARPEGE (0h-11h forecast)",
+    "optimumOrder": 210,
+    "sourceModel": { "id": "arpege" },
+    "forecastStart": 0,
+    "forecastEnd": 11,
+    "citations": [{ "id": "arpege_cite" }]
+  },
+  {
     "id": "arpege-24-35",
     "humanReadableName": "ARPEGE (24h-35h forecast)",
-    "optimumOrder": 2,
+    "optimumOrder": 211,
     "sourceModel": { "id": "arpege" },
     "forecastStart": 24,
     "forecastEnd": 35,
@@ -118,7 +113,7 @@
   {
     "id": "arpege-36-47",
     "humanReadableName": "ARPEGE (36h-47h forecast)",
-    "optimumOrder": 2,
+    "optimumOrder": 212,
     "sourceModel": { "id": "arpege" },
     "forecastStart": 36,
     "forecastEnd": 47,
@@ -127,7 +122,7 @@
   {
     "id": "arpege-48-59",
     "humanReadableName": "ARPEGE (48h-59h forecast)",
-    "optimumOrder": 2,
+    "optimumOrder": 213,
     "sourceModel": { "id": "arpege" },
     "forecastStart": 48,
     "forecastEnd": 59,
@@ -136,7 +131,7 @@
   {
     "id": "arpege-60-71",
     "humanReadableName": "ARPEGE (60h-71h forecast)",
-    "optimumOrder": 2,
+    "optimumOrder": 214,
     "sourceModel": { "id": "arpege" },
     "forecastStart": 60,
     "forecastEnd": 71,
@@ -145,7 +140,7 @@
   {
     "id": "ecmwf-open",
     "humanReadableName": "ECMWF IFS forecast (open data)",
-    "optimumOrder": 3,
+    "optimumOrder": 300,
     "sourceModel": { "id": "ecmwf-open" },
     "forecastStart": 0,
     "forecastEnd": 90,
@@ -154,7 +149,12 @@
   {
     "id": "gdas1",
     "humanReadableName": "Global Data Assimilation System (GDAS1)",
-    "optimumOrder": 4,
+    "optimumOrder": 400,
     "citations": [{ "id": "gdas_cite" }]
+  },
+  {
+    "id": "arpege",
+    "humanReadableName": "ARPEGE",
+    "optimumOrder": 1000
   }
 ]
