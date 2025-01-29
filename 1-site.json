@@ -1940,11 +1940,11 @@
     "latitude": -70.66,
     "longitude": -8.284,
     "altitude": 43,
-    "gaw": null,
+    "gaw": "NMY",
     "dvasId": "kb77",
     "country": "Antarctica",
     "countryCode": "AQ",
-    "type": ["campaign"],
+    "type": ["cloudnet"],
     "citations": [
       {
         "id": "neumayer_cite"
