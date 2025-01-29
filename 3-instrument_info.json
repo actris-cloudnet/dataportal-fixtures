@@ -921,6 +921,16 @@
     "instrument": "hatpro"
   },
   {
+    "uuid": "6fef0ca2-f66d-4ffd-a0f0-c06e8f522613",
+    "pid": "https://hdl.handle.net/21.12132/3.6fef0ca2f66d4ffd",
+    "name": "GSA CL51",
+    "serialNumber": "CLk10326",
+    "model": "Vaisala CL51",
+    "type": "lidar ceilometer",
+    "owners": ["GeoSphere Austria (GSA)"],
+    "instrument": "cl51"
+  },
+  {
     "uuid": "70dd0955-3d13-484d-9a03-35fd0e645db0",
     "pid": "https://hdl.handle.net/21.12132/3.70dd09553d13484d",
     "name": "DWD RPG-FMCW-94-DP",
