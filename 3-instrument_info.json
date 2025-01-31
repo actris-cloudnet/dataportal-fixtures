@@ -323,6 +323,16 @@
     "instrument": "radiometrics"
   },
   {
+    "uuid": "27837d00-b6af-4e90-baa0-f670f31abcd0",
+    "pid": "https://hdl.handle.net/21.12132/3.27837d00b6af4e90",
+    "name": "Uni Köln Parsivel²",
+    "serialNumber": "304639",
+    "model": "OTT Parsivel²",
+    "type": "disdrometer",
+    "owners": ["University of Cologne"],
+    "instrument": "parsivel"
+  },
+  {
     "uuid": "27a4f4aa-4143-4b5a-a8eb-f8f748279bff",
     "pid": "https://hdl.handle.net/21.12132/3.27a4f4aa41434b5a",
     "name": "FMI CT25K",
