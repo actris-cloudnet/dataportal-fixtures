@@ -216,7 +216,7 @@
     "uuid": "1b0966f6-3b2d-41f2-a82c-fecc58bab864",
     "pid": "https://hdl.handle.net/21.12132/3.1b0966f63b2d41f2",
     "name": "DWD Parsivel²",
-    "serialNumber": null,
+    "serialNumber": "451221",
     "model": "OTT Parsivel²",
     "type": "disdrometer",
     "owners": ["German Meteorological Service (DWD)"],
