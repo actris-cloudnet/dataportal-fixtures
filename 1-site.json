@@ -2032,7 +2032,7 @@
     "gaw": "VTO",
     "country": "Ireland",
     "countryCode": "IE",
-    "type": ["campaign"]
+    "type": ["campaign", "ri-urbans"]
   },
   {
     "id": "campina",
