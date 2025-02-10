@@ -1,5 +1,26 @@
 [
   {
+    "id": "cpr-simulation-ze_sat",
+    "humanReadableName": "Convolved and integrated radar reflectivity factor",
+    "order": 0,
+    "product": "cpr-simulation",
+    "actrisName": null
+  },
+  {
+    "id": "cpr-simulation-vm_sat",
+    "humanReadableName": "Convolved and integrated Doppler velocity",
+    "order": 1,
+    "product": "cpr-simulation",
+    "actrisName": null
+  },
+  {
+    "id": "cpr-simulation-nubf",
+    "humanReadableName": "Non-uniform beam filling",
+    "order": 2,
+    "product": "cpr-simulation",
+    "actrisName": null
+  },
+  {
     "id": "radar-Zh",
     "humanReadableName": "Radar reflectivity factor",
     "order": 0,

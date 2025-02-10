@@ -48,6 +48,12 @@
     "sourceProducts": [{ "id": "categorize-voodoo" }]
   },
   {
+    "id": "cpr-simulation",
+    "humanReadableName": "Radar (CPR simulation)",
+    "level": "3",
+    "experimental": true
+  },
+  {
     "id": "drizzle",
     "humanReadableName": "Drizzle",
     "level": "2",
