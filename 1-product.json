@@ -51,7 +51,8 @@
     "id": "cpr-simulation",
     "humanReadableName": "Radar (CPR simulation)",
     "level": "3",
-    "experimental": true
+    "experimental": true,
+    "sourceProducts": [{ "id": "categorize" }]
   },
   {
     "id": "drizzle",
