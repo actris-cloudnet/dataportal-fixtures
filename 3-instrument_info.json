@@ -283,6 +283,16 @@
     "instrument": "cs135"
   },
   {
+    "uuid": "2326864c-312d-4ce0-806c-c63fc221c65d",
+    "pid": "https://hdl.handle.net/21.12132/3.2326864c312d4ce0",
+    "name": "MeteoSwiss weather station",
+    "serialNumber": null,
+    "model": "Unknown",
+    "type": "weather station",
+    "owners": ["Federal Office of Meteorology and Climatology MeteoSwiss"],
+    "instrument": "weather-station"
+  },
+  {
     "uuid": "23dcf19f-232b-46a5-8604-1e180e155d6a",
     "pid": "https://hdl.handle.net/21.12132/3.23dcf19f232b46a5",
     "name": "UW PollyXT",
@@ -1968,6 +1978,16 @@
     "type": "Doppler lidar",
     "owners": ["Alfred Wegener Institute for Polar and Marine Research (AWI)"],
     "instrument": "halo-doppler-lidar"
+  },
+  {
+    "uuid": "e1993aa2-cf40-40b9-b3b7-310846641ab4",
+    "pid": "https://hdl.handle.net/21.12132/3.e1993aa2cf4040b9",
+    "name": "MeteoSwiss Pluvio²",
+    "serialNumber": "455029",
+    "model": "OTT Pluvio²",
+    "type": "weighing rain gauge",
+    "owners": ["Federal Office of Meteorology and Climatology MeteoSwiss"],
+    "instrument": "pluvio"
   },
   {
     "uuid": "e3902ab0-7566-4bf1-8d3f-0c1032d9c819",
