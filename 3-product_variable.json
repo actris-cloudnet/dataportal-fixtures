@@ -14,9 +14,16 @@
     "actrisName": null
   },
   {
+    "id": "cpr-simulation-vm_sat_folded",
+    "humanReadableName": "Doppler velocity with noise, satellite motion error and folding",
+    "order": 2,
+    "product": "cpr-simulation",
+    "actrisName": null
+  },
+  {
     "id": "cpr-simulation-nubf",
     "humanReadableName": "Non-uniform beam filling",
-    "order": 2,
+    "order": 3,
     "product": "cpr-simulation",
     "actrisName": null
   },
