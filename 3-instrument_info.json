@@ -593,6 +593,19 @@
     "instrument": "hatpro"
   },
   {
+    "uuid": "455010e1-1c05-45ae-b695-e23bb67f7af0",
+    "pid": "https://hdl.handle.net/21.12132/3.455010e11c0545ae",
+    "name": "IPSL/CNRS WLS400S",
+    "serialNumber": "WCS000243",
+    "model": "Vaisala WindCube WLS400S",
+    "type": "Doppler lidar",
+    "owners": [
+      "French National Centre for Scientific Research (CNRS)",
+      "Institut Pierre-Simon Laplace (IPSL)"
+    ],
+    "instrument": "wls400s"
+  },
+  {
     "uuid": "45ee9a92-825c-447a-b6b8-2a1d87e477bf",
     "pid": "https://hdl.handle.net/21.12132/3.45ee9a92825c447a",
     "name": "UGR RPG-FMCW-35-DP",
