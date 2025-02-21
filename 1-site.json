@@ -2061,7 +2061,7 @@
     "dvasId": "cxhy",
     "actrisId": 39,
     "description": "<p>The Moufia station is located close to the coast on the northern part of\nRéunion island. It's hosted on the campus of University of Réunion. The station\nis under the direct influence of air masses coming from the easterlies.</p>\n"
-  } 
+  },
   {
     "id": "kiviniemi",
     "humanReadableName": "Kiviniemi",
@@ -2072,5 +2072,5 @@
     "country": "Finland",
     "countryCode": "FI",
     "type": ["campaign"]
-  },
+  }
 ]
