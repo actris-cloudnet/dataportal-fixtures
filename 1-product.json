@@ -96,6 +96,16 @@
     "experimental": true
   },
   {
+    "id": "epsilon-lidar",
+    "humanReadableName": "Dissipation rate of TKE (lidar)",
+    "type": ["instrument"],
+    "sourceProducts": [
+      { "id": "doppler-lidar" },
+      { "id": "doppler-lidar-wind" }
+    ],
+    "experimental": true
+  },
+  {
     "id": "lwc",
     "humanReadableName": "Liquid water content",
     "type": ["geophysical"],
