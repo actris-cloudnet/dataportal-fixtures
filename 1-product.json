@@ -108,6 +108,18 @@
     "experimental": true
   },
   {
+    "id": "turbulence-lidar",
+    "humanReadableName": "Turbulence (lidar)",
+    "level": "2",
+    "type": ["geophysical"],
+    "sourceProducts": [
+      {"id": "doppler-lidar"}, 
+      {"id": "doppler-lidar-wind"}, 
+      {"id": "model"}
+    ],
+    "experimental": true
+  },
+  {
     "id": "lwc",
     "humanReadableName": "Liquid water content",
     "level": "2",
