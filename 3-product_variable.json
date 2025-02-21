@@ -231,6 +231,13 @@
     "actrisName": null
   },
   {
+    "id": "turbulence-from-lidar-turbulent_kinetic_energy_dissipation_rate",
+    "humanReadableName": "Turbulent kinetic energy dissipation rate",
+    "order": 0,
+    "product": "turbulence-from-lidar",
+    "actrisName": null
+  },
+  {
     "id": "categorize-voodoo-v",
     "humanReadableName": "Doppler velocity",
     "order": 0,
