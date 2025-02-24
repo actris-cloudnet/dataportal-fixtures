@@ -2021,7 +2021,12 @@
     "dvasId": "lpso",
     "country": "Antarctica",
     "countryCode": "AQ",
-    "type": ["campaign"]
+    "type": ["campaign"],
+    "citations": [
+      {
+        "id": "troll_cite"
+      }
+    ]
   },
   {
     "id": "valentia",
