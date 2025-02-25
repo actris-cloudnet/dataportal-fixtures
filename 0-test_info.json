@@ -35,6 +35,11 @@
     "description": "Test that file contains enough data."
   },
   {
+    "testId": "TestDataModel",
+    "name": "Data model",
+    "description": "Test netCDF data model."
+  },
+  {
     "testId": "TestDataTypes",
     "name": "Data types",
     "description": "Check that variables have expected data types."
