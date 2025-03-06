@@ -2,7 +2,6 @@
   {
     "id": "categorize",
     "humanReadableName": "Categorize",
-    "level": "1c",
     "type": ["geophysical"],
     "experimental": false,
     "sourceProducts": [
@@ -18,7 +17,6 @@
   {
     "id": "categorize-voodoo",
     "humanReadableName": "Categorize (Voodoo)",
-    "level": "1c",
     "experimental": true,
     "type": ["geophysical"],
     "sourceProducts": [
@@ -34,7 +32,6 @@
   {
     "id": "classification",
     "humanReadableName": "Classification",
-    "level": "2",
     "experimental": false,
     "type": ["geophysical"],
     "sourceProducts": [{ "id": "categorize" }]
@@ -42,7 +39,6 @@
   {
     "id": "classification-voodoo",
     "humanReadableName": "Classification (Voodoo)",
-    "level": "2",
     "experimental": true,
     "type": ["geophysical"],
     "sourceProducts": [{ "id": "categorize-voodoo" }]
@@ -50,14 +46,12 @@
   {
     "id": "cpr-simulation",
     "humanReadableName": "Synthetic EarthCARE radar",
-    "level": "3",
     "experimental": true,
     "sourceProducts": [{ "id": "categorize" }]
   },
   {
     "id": "drizzle",
     "humanReadableName": "Drizzle",
-    "level": "2",
     "experimental": false,
     "type": ["geophysical"],
     "sourceProducts": [{ "id": "categorize" }]
@@ -65,7 +59,6 @@
   {
     "id": "iwc",
     "humanReadableName": "Ice water content",
-    "level": "2",
     "experimental": false,
     "type": ["geophysical"],
     "sourceProducts": [{ "id": "categorize" }]
@@ -73,7 +66,6 @@
   {
     "id": "der",
     "humanReadableName": "Droplet effective radius",
-    "level": "2",
     "experimental": false,
     "type": ["geophysical"],
     "sourceProducts": [{ "id": "categorize" }]
@@ -81,7 +73,6 @@
   {
     "id": "ier",
     "humanReadableName": "Ice effective radius",
-    "level": "2",
     "experimental": false,
     "type": ["geophysical"],
     "sourceProducts": [{ "id": "categorize" }]
@@ -90,27 +81,23 @@
     "id": "lidar",
     "type": ["instrument"],
     "humanReadableName": "Lidar",
-    "level": "1b",
     "experimental": false
   },
   {
     "id": "doppler-lidar",
     "type": ["instrument"],
     "humanReadableName": "Doppler lidar",
-    "level": "1b",
     "experimental": true
   },
   {
     "id": "doppler-lidar-wind",
     "humanReadableName": "Doppler lidar wind",
-    "level": "1c",
     "type": ["instrument"],
     "experimental": true
   },
   {
     "id": "lwc",
     "humanReadableName": "Liquid water content",
-    "level": "2",
     "type": ["geophysical"],
     "experimental": false,
     "sourceProducts": [{ "id": "categorize" }]
@@ -118,28 +105,24 @@
   {
     "id": "model",
     "humanReadableName": "Model",
-    "level": "1b",
     "type": ["model"],
     "experimental": false
   },
   {
     "id": "mwr",
     "humanReadableName": "Microwave radiometer",
-    "level": "1b",
     "type": ["instrument"],
     "experimental": false
   },
   {
     "id": "mwr-l1c",
     "humanReadableName": "MWR brightness temperature",
-    "level": "1c",
     "type": ["instrument"],
     "experimental": false
   },
   {
     "id": "mwr-single",
     "humanReadableName": "MWR single pointing",
-    "level": "2",
     "type": ["instrument"],
     "experimental": false,
     "sourceProducts": [{ "id": "mwr-l1c" }]
@@ -147,7 +130,6 @@
   {
     "id": "mwr-multi",
     "humanReadableName": "MWR multiple pointing",
-    "level": "2",
     "type": ["instrument"],
     "experimental": false,
     "sourceProducts": [{ "id": "mwr-l1c" }]
@@ -155,56 +137,48 @@
   {
     "id": "disdrometer",
     "humanReadableName": "Disdrometer",
-    "level": "1b",
     "type": ["instrument"],
     "experimental": false
   },
   {
     "id": "radar",
     "humanReadableName": "Radar",
-    "level": "1b",
     "type": ["instrument"],
     "experimental": false
   },
   {
     "id": "weather-station",
     "humanReadableName": "Weather station",
-    "level": "1b",
     "type": ["instrument"],
     "experimental": false
   },
   {
     "id": "rain-gauge",
     "humanReadableName": "Rain gauge",
-    "level": "1b",
     "type": ["instrument"],
     "experimental": true
   },
   {
     "id": "rain-radar",
     "humanReadableName": "Rain radar",
-    "level": "1b",
     "type": ["instrument"],
     "experimental": true
   },
   {
     "id": "l3-cf",
     "humanReadableName": "L3 Cloud fraction",
-    "level": "3",
     "type": ["evaluation"],
     "experimental": true
   },
   {
     "id": "l3-iwc",
     "humanReadableName": "L3 Ice water content",
-    "level": "3",
     "type": ["evaluation"],
     "experimental": true
   },
   {
     "id": "l3-lwc",
     "humanReadableName": "L3 Liquid water content",
-    "level": "3",
     "type": ["evaluation"],
     "experimental": true
   }
