@@ -142,10 +142,10 @@
   {
     "uuid": "0dfb3bc9-8280-48c5-abbc-32c524102360",
     "pid": "https://hdl.handle.net/21.12132/3.0dfb3bc9828048c5",
-    "name": "NPI HATPRO-G5",
+    "name": "NPI LHATPRO-G5",
     "serialNumber": "59000243",
-    "model": "RPG-HATPRO-G5",
-    "type": "scanning microwave radiometer",
+    "model": "RPG-LHATPRO-G5",
+    "type": "microwave radiometer",
     "owners": ["Norwegian Polar Institute (NPI)"],
     "instrument": "hatpro"
   },
@@ -181,6 +181,16 @@
     "type": "micro rain radar",
     "owners": ["Leipzig Institute for Meteorology (LIM)"],
     "instrument": "mrr-pro"
+  },
+  {
+    "uuid": "157b13d2-1ee1-4e60-8871-bdde78659084",
+    "pid": "https://hdl.handle.net/21.12132/3.157b13d21ee14e60",
+    "name": "OSU CS135",
+    "serialNumber": null,
+    "model": "Campbell Scientific CS135",
+    "type": "lidar ceilometer",
+    "owners": ["Observatoire des Sciences de l'Univers de la Réunion (OSU)"],
+    "instrument": "cs135"
   },
   {
     "uuid": "1615a6ed-824c-4556-b006-8b51e556d30e",
