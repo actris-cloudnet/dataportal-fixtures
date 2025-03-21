@@ -1064,6 +1064,16 @@
     "instrument": "hatpro"
   },
   {
+    "uuid": "741357ca-d2d0-434a-887b-53945575b99b",
+    "pid": "https://hdl.handle.net/21.12132/3.741357cad2d0434a",
+    "name": "CNR Parsivel²",
+    "serialNumber": "452714",
+    "model": "OTT Parsivel²",
+    "type": "disdrometer",
+    "owners": ["Consiglio Nazionale delle Ricerche (CNR)"],
+    "instrument": "parsivel"
+  },
+  {
     "uuid": "76c0d08e-7856-44e4-912b-71423d5acc9b",
     "pid": "https://hdl.handle.net/21.12132/3.76c0d08e785644e4",
     "name": "FMI Parsivel60",
@@ -1365,7 +1375,7 @@
   {
     "uuid": "9a9061d5-87e2-4dc8-817c-50fa41d3b21a",
     "pid": "https://hdl.handle.net/21.12132/3.9a9061d587e24dc8",
-    "name": "Uni Köln CT25k",
+    "name": "Uni Köln CT25K",
     "serialNumber": null,
     "model": "Vaisala CT25K",
     "type": "ceilometer",
