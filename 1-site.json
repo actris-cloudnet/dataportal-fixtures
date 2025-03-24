@@ -2077,5 +2077,16 @@
     "country": "Finland",
     "countryCode": "FI",
     "type": ["campaign"]
+  },  
+  {
+    "id": "viherkumpu",
+    "humanReadableName": "Viherkumpu",
+    "latitude": 60.281,
+    "longitude": 24.881,
+    "altitude": 25,
+    "gaw": null,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["hidden"]
   }
 ]
