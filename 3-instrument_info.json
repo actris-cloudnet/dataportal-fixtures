@@ -1927,6 +1927,16 @@
     "instrument": "mira-35"
   },
   {
+    "uuid": "d7350d66-862d-4bd3-a168-3225c235f530",
+    "pid": "https://hdl.handle.net/21.12132/3.d7350d66862d4bd3",
+    "name": "OSU HATPRO-G5",
+    "serialNumber": null,
+    "model": "RPG-HATPRO-G5",
+    "type": "scanning microwave radiometer",
+    "owners": ["Observatoire des Sciences de l'Univers de la Réunion (OSU)"],
+    "instrument": "hatpro"
+  },
+  {
     "uuid": "d7b65c4b-72b6-432d-a075-0935437bf351",
     "pid": "https://hdl.handle.net/21.12132/3.d7b65c4b72b6432d",
     "name": "ECoE CHM 15k",
