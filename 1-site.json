@@ -2014,9 +2014,9 @@
   {
     "id": "troll",
     "humanReadableName": "Troll Station",
-    "latitude": -72.0102,
-    "longitude": 2.5453,
-    "altitude": 1275,
+    "latitude": -72.01,
+    "longitude": 2.545,
+    "altitude": 1320,
     "gaw": null,
     "dvasId": "lpso",
     "country": "Antarctica",
@@ -2026,7 +2026,8 @@
       {
         "id": "troll_cite"
       }
-    ]
+    ],
+    "description": "<p>Troll research station in Jutulsessen in Antarctica is the base and starting\npoint for biological, glaciological and geological field work during the summer\nseason, and is a full-year base for continuous, long-term monitoring series in\nmeteorology, radiation, atmosphere, upper atmosphere, environmental toxins and\nseismology.</p>\n<p>Troll is located around 235 km from the coast in Dronning Maud Land, a\ncentral area for Norwegian research in Antarctica. It is unusually located on\nthe slope between the coast and the interior plateau.</p>\n<p>The station is manned year round. It can accommodate six people in the\nAntarctic winter and many more in summer.</p>\n<p>Intensive cloud monitoring at the station started in the southern summer\n2024–25. Other atmospheric monitoring goes back many years.</p>\n"
   },
   {
     "id": "valentia",
