@@ -30,6 +30,11 @@
     "description": "Check that variables have expected comments."
   },
   {
+    "testId": "TestCoordinateVariables",
+    "name": "Coordinate variables",
+    "description": "Test dimensions of coordinate variables are correct."
+  },
+  {
     "testId": "TestDataCoverage",
     "name": "Data coverage",
     "description": "Test that file contains enough data."
