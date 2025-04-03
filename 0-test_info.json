@@ -35,6 +35,11 @@
     "description": "Test dimensions of coordinate variables are correct."
   },
   {
+    "testId": "TestCoordinates",
+    "name": "Coordinates",
+    "description": "Check that file coordinates match site coordinates."
+  },
+  {
     "testId": "TestDataCoverage",
     "name": "Data coverage",
     "description": "Test that file contains enough data."
