@@ -1875,6 +1875,16 @@
     "instrument": "hatpro"
   },
   {
+    "uuid": "d20b2f98-5a12-4a7e-b033-dc4a0970645a",
+    "pid": "https://hdl.handle.net/21.12132/3.d20b2f985a124a7e",
+    "name": "MPI-M CHM 15k",
+    "serialNumber": "CHM170158",
+    "model": "Lufft CHM 15k",
+    "type": "lidar ceilometer",
+    "owners": ["Max Planck Institute for Meteorology (MPI-M)"],
+    "instrument": "chm15k"
+  },
+  {
     "uuid": "d257c922-19a6-4842-9df2-ab4a1f76eaf7",
     "pid": "https://hdl.handle.net/21.12132/3.d257c92219a64842",
     "name": "DWD CHM 15k",
