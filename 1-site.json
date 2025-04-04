@@ -1832,7 +1832,7 @@
     "humanReadableName": "RV Meteor",
     "latitude": null,
     "longitude": null,
-    "altitude": null,
+    "altitude": 16,
     "gaw": null,
     "country": null,
     "type": ["campaign", "mobile"]
