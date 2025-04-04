@@ -140,6 +140,16 @@
     "instrument": "parsivel"
   },
   {
+    "uuid": "0bc7d487-84f1-4637-88c1-d197a4c053b7",
+    "pid": "https://hdl.handle.net/21.12132/3.0bc7d48784f14637",
+    "name": "TROPOS Parsivel² (OCEANET)",
+    "serialNumber": null,
+    "model": "OTT Parsivel²",
+    "type": "disdrometer",
+    "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
+    "instrument": "parsivel"
+  },
+  {
     "uuid": "0dfb3bc9-8280-48c5-abbc-32c524102360",
     "pid": "https://hdl.handle.net/21.12132/3.0dfb3bc9828048c5",
     "name": "NPI LHATPRO-G5",
