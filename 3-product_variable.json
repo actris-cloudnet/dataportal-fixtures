@@ -91,18 +91,39 @@
     "actrisName": null
   },
   {
+    "id": "radar-kurtosis",
+    "humanReadableName": "Kurtosis of spectra",
+    "order": 9,
+    "product": "radar",
+    "actrisName": null
+  },
+  {
+    "id": "radar-skewness",
+    "humanReadableName": "Skewness of spectra",
+    "order": 10,
+    "product": "radar",
+    "actrisName": null
+  },
+  {
     "id": "radar-lwp",
     "humanReadableName": "Liquid water path",
-    "order": 9,
+    "order": 11,
     "product": "radar",
     "actrisName": "liquid droplet total column mass content"
   },
   {
     "id": "radar-rainfall_rate",
     "humanReadableName": "Rainfall rate",
-    "order": 10,
+    "order": 12,
     "product": "radar",
     "actrisName": null
+  },
+  {
+    "id": "radar-relative_humidity",
+    "humanReadableName": "Relative humidity",
+    "order": 13,
+    "product": "radar",
+    "actrisName": "water vapour liquid water saturation fraction"
   },
   {
     "id": "lidar-beta",
@@ -831,7 +852,7 @@
     "humanReadableName": "Relative humidity",
     "order": 2,
     "product": "weather-station",
-    "actrisName": null
+    "actrisName": "water vapour liquid water saturation fraction"
   },
   {
     "id": "weather-station-wind_speed",
