@@ -1343,6 +1343,16 @@
     "instrument": "weather-station"
   },
   {
+    "uuid": "948d8681-112b-44c3-9597-22d135bd5cba",
+    "pid": "https://hdl.handle.net/21.12132/3.948d8681112b44c3",
+    "name": "TROPOS PollyXT (LACROS2)",
+    "serialNumber": "pollyxt_lacros2",
+    "model": "PollyXT",
+    "type": "multiwavelength Raman polarization lidar",
+    "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
+    "instrument": "pollyxt"
+  },
+  {
     "uuid": "95e17b4d-0cc2-4fe1-a105-ce988c464620",
     "pid": "https://hdl.handle.net/21.12132/3.95e17b4d0cc24fe1",
     "name": "TU Delft RPG-FMCW-94-DP (LARA)",
