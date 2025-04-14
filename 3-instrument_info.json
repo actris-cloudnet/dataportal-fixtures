@@ -2187,6 +2187,16 @@
     "instrument": "mira-35"
   },
   {
+    "uuid": "ef692a4f-b6fc-4c8f-bba0-646e2df8ec51",
+    "pid": "https://hdl.handle.net/21.12132/3.ef692a4fb6fc4c8f",
+    "name": "DoM weather station (TEPAK)",
+    "serialNumber": "841129.003",
+    "model": "Unknown",
+    "type": "weather station",
+    "owners": ["Department of Meteorology, Republic of Cyprus (DoM)"],
+    "instrument": "weather-station"
+  },
+  {
     "uuid": "f33e53dd-dde4-4495-93f2-8f0afddf484f",
     "pid": "https://hdl.handle.net/21.12132/3.f33e53dddde44495",
     "name": "FMI CL61-B",
