@@ -1,14 +1,666 @@
 [
   {
+    "siteId": "bucharest",
+    "productId": "disdrometer",
+    "instrumentInfo": {
+      "uuid": "a75d4215-f338-412e-a1cf-af1f760d08c3"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "bucharest",
+    "productId": "doppler-lidar",
+    "instrumentInfo": {
+      "uuid": "db58480f-58ca-49ad-995c-6c3b89e9a0fc"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "bucharest",
+    "productId": "doppler-lidar-wind",
+    "instrumentInfo": {
+      "uuid": "db58480f-58ca-49ad-995c-6c3b89e9a0fc"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "bucharest",
+    "productId": "lidar",
+    "instrumentInfo": {
+      "uuid": "c60c931f-ac9d-43f0-99af-42b7428b4eb3"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "bucharest",
+    "productId": "mwr-single",
+    "instrumentInfo": {
+      "uuid": "e7fe5a4f-26ac-4717-8c99-d87e0e95c5ad"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "bucharest",
+    "productId": "radar",
+    "instrumentInfo": {
+      "uuid": "d98f6fd2-bec9-4e5e-b1d3-5ca422529215"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "bucharest",
+    "productId": "weather-station",
+    "instrumentInfo": {
+      "uuid": "930d8f29-5fa2-4ae5-9876-5df4b6f7e942"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "cabauw",
+    "productId": "radar",
+    "instrumentInfo": {
+      "uuid": "4c28f7a6-b7fc-4d15-878c-677f07aae6d1"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "cluj",
+    "productId": "disdrometer",
+    "instrumentInfo": {
+      "uuid": "5a6e24d0-ff90-42b1-9051-44de0f45928c"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "cluj",
+    "productId": "doppler-lidar",
+    "instrumentInfo": {
+      "uuid": "5d15cd3c-e9c5-4139-ba23-9d07e222fb41"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "cluj",
+    "productId": "doppler-lidar-wind",
+    "instrumentInfo": {
+      "uuid": "5d15cd3c-e9c5-4139-ba23-9d07e222fb41"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "cluj",
+    "productId": "lidar",
+    "instrumentInfo": {
+      "uuid": "d6bf209b-c48b-48a4-bbfb-fed713b27832"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "cluj",
+    "productId": "mwr-single",
+    "instrumentInfo": {
+      "uuid": "028adedd-35a4-4733-ad7b-78fdf9555a02"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "cluj",
+    "productId": "radar",
+    "instrumentInfo": {
+      "uuid": "0b458d39-45e1-46cc-9d51-971df1e4bb73"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "cluj",
+    "productId": "weather-station",
+    "instrumentInfo": {
+      "uuid": "7fd1b2d0-d767-419f-a633-e7d1196d6229"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "galati",
+    "productId": "lidar",
+    "instrumentInfo": {
+      "uuid": "079cdfce-d7a7-438e-9f26-b98d0e4e0e6c"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "galati",
+    "productId": "mwr-single",
+    "instrumentInfo": {
+      "uuid": "38f97c8d-ce06-4e02-9a67-65a7a7e967c5"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "galati",
+    "productId": "radar",
+    "instrumentInfo": {
+      "uuid": "71dad3ea-36ab-476a-a0dd-7ec238157608"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "granada",
+    "productId": "disdrometer",
+    "instrumentInfo": {
+      "uuid": "8f31e165-45d1-4ff3-816f-35b17573a1df"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "granada",
+    "productId": "doppler-lidar",
+    "instrumentInfo": {
+      "uuid": "1d227f1b-12b0-4efc-ae36-4270b22e1c39"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "granada",
+    "productId": "doppler-lidar-wind",
+    "instrumentInfo": {
+      "uuid": "1d227f1b-12b0-4efc-ae36-4270b22e1c39"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "granada",
+    "productId": "lidar",
+    "instrumentInfo": {
+      "uuid": "77a75f3b-3229-4855-81e1-ce2ddad34e0e"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "granada",
+    "productId": "mwr-single",
+    "instrumentInfo": {
+      "uuid": "b2554a7c-c6db-4139-9f27-25e22589e227"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
     "siteId": "granada",
     "productId": "radar",
-    "instrumentInfoUuid": "20570e63-f7b1-496c-9ac6-12c3db46820a",
+    "instrumentInfo": {
+      "uuid": "20570e63-f7b1-496c-9ac6-12c3db46820a"
+    },
     "measurementDate": "2024-02-27"
+  },
+  {
+    "siteId": "granada",
+    "productId": "weather-station",
+    "instrumentInfo": {
+      "uuid": "140918e8-99a6-47f3-bc24-67b086d81038"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "hyytiala",
+    "productId": "disdrometer",
+    "instrumentInfo": {
+      "uuid": "69dddc00-04b6-4b32-9c4e-4cef14ac5a5b"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "hyytiala",
+    "productId": "doppler-lidar",
+    "instrumentInfo": {
+      "uuid": "421272f2-19be-4f97-ac9d-d4d1479759d4"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "hyytiala",
+    "productId": "doppler-lidar-wind",
+    "instrumentInfo": {
+      "uuid": "421272f2-19be-4f97-ac9d-d4d1479759d4"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "hyytiala",
+    "productId": "lidar",
+    "instrumentInfo": {
+      "uuid": "241bda14-2975-460b-95ce-11de53810357"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "hyytiala",
+    "productId": "mwr-single",
+    "instrumentInfo": {
+      "uuid": "f360a237-5f3e-4e4f-aaa8-5e6086aac3e5"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "hyytiala",
+    "productId": "radar",
+    "instrumentInfo": {
+      "uuid": "19156417-0f8a-4686-ac5d-9d51f62229d7"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "hyytiala",
+    "productId": "rain-gauge",
+    "instrumentInfo": {
+      "uuid": "54b50a0c-58c2-4a78-b965-9b4826af6ea3"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "hyytiala",
+    "productId": "weather-station",
+    "instrumentInfo": {
+      "uuid": "80082867-c574-4f11-a8bb-d6d09e105e46"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "juelich",
+    "productId": "disdrometer",
+    "instrumentInfo": {
+      "uuid": "2a1ca46e-d70c-4929-b1c2-3ca847243405"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "juelich",
+    "productId": "doppler-lidar",
+    "instrumentInfo": {
+      "uuid": "48bd7da0-35b9-4ffd-90d8-7a4de55b8fa6"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "juelich",
+    "productId": "doppler-lidar-wind",
+    "instrumentInfo": {
+      "uuid": "48bd7da0-35b9-4ffd-90d8-7a4de55b8fa6"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "juelich",
+    "productId": "lidar",
+    "instrumentInfo": {
+      "uuid": "324507c6-ce8e-489c-9e62-01926a6b1d63"
+    },
+    "measurementDate": "2020-01-01"
   },
   {
     "siteId": "juelich",
     "productId": "mwr-single",
-    "instrumentInfoUuid": "f51736b5-923b-483c-ae80-037f08f4a41f",
+    "instrumentInfo": {
+      "uuid": "f51736b5-923b-483c-ae80-037f08f4a41f"
+    },
     "measurementDate": "2024-05-01"
+  },
+  {
+    "siteId": "juelich",
+    "productId": "radar",
+    "instrumentInfo": {
+      "uuid": "0366fa69-504f-4bd6-b833-3977c15e8bdc"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "juelich",
+    "productId": "rain-gauge",
+    "instrumentInfo": {
+      "uuid": "49ca09de-ca9a-4e3e-9258-9c91ed5683f8"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "lampedusa",
+    "productId": "disdrometer",
+    "instrumentInfo": {
+      "uuid": "4e7765c0-c8bd-4d1d-b60f-ce14b4335ee5"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "lampedusa",
+    "productId": "lidar",
+    "instrumentInfo": {
+      "uuid": "a5d479cd-32a1-4a88-8659-79322255e0ba"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "lampedusa",
+    "productId": "mwr-single",
+    "instrumentInfo": {
+      "uuid": "6415e540-0cf7-468e-856c-3a54e306ee89"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "lampedusa",
+    "productId": "radar",
+    "instrumentInfo": {
+      "uuid": "49884fea-4fde-4ddd-8add-d07bf9f58cbe"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "lampedusa",
+    "productId": "rain-gauge",
+    "instrumentInfo": {
+      "uuid": "bba0a978-95f3-4817-9223-4f3334289cd0"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "lampedusa",
+    "productId": "weather-station",
+    "instrumentInfo": {
+      "uuid": "5881321c-3c49-48ca-a66b-e6ba41be5683"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "lindenberg",
+    "productId": "disdrometer",
+    "instrumentInfo": {
+      "uuid": "1b0966f6-3b2d-41f2-a82c-fecc58bab864"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "lindenberg",
+    "productId": "doppler-lidar",
+    "instrumentInfo": {
+      "uuid": "423d89c1-b511-4af7-ae15-7766f2076a66"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "lindenberg",
+    "productId": "doppler-lidar-wind",
+    "instrumentInfo": {
+      "uuid": "423d89c1-b511-4af7-ae15-7766f2076a66"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "lindenberg",
+    "productId": "lidar",
+    "instrumentInfo": {
+      "uuid": "cdf99c53-6bd0-4146-be2a-604cf1164c30"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "lindenberg",
+    "productId": "mwr-single",
+    "instrumentInfo": {
+      "uuid": "442ec2ea-9a24-440e-959a-709f487732ae"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "lindenberg",
+    "productId": "radar",
+    "instrumentInfo": {
+      "uuid": "d6cc3d73-f9dd-4d4b-81de-d88787f3c272"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "lindenberg",
+    "productId": "rain-gauge",
+    "instrumentInfo": {
+      "uuid": "3292ee29-e461-405a-86a0-da2946b06495"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "lindenberg",
+    "productId": "weather-station",
+    "instrumentInfo": {
+      "uuid": "ffb25f43-330f-4793-bd6b-f2425cee0fd0"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "mindelo",
+    "productId": "disdrometer",
+    "instrumentInfo": {
+      "uuid": "a5857315-ede2-4789-8f41-7413966065f8"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "mindelo",
+    "productId": "doppler-lidar",
+    "instrumentInfo": {
+      "uuid": "73814379-1c52-4103-aad5-71a17a3401f8"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "mindelo",
+    "productId": "doppler-lidar-wind",
+    "instrumentInfo": {
+      "uuid": "73814379-1c52-4103-aad5-71a17a3401f8"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "mindelo",
+    "productId": "lidar",
+    "instrumentInfo": {
+      "uuid": "3b8d6fb7-e7e2-4f1d-89c9-f81f9de1b1b6"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "mindelo",
+    "productId": "mwr-single",
+    "instrumentInfo": {
+      "uuid": "fbf9185d-bde3-45ab-99a9-e1da863ae8d6"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "mindelo",
+    "productId": "radar",
+    "instrumentInfo": {
+      "uuid": "c98b69a5-099a-4154-b48f-4b555ee8eb41"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "mindelo",
+    "productId": "rain-gauge",
+    "instrumentInfo": {
+      "uuid": "057664d9-f5cd-46cb-8fb1-376297e82988"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "mindelo",
+    "productId": "weather-station",
+    "instrumentInfo": {
+      "uuid": "6faa7d9a-8ae6-4523-a3a7-a464df02b714"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "munich",
+    "productId": "disdrometer",
+    "instrumentInfo": {
+      "uuid": "fab6c205-2439-49eb-8f19-dd460f0e82e9"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "munich",
+    "productId": "lidar",
+    "instrumentInfo": {
+      "uuid": "60eef0a4-4a75-42a0-aca0-3f59cfd266dc"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "munich",
+    "productId": "mwr-single",
+    "instrumentInfo": {
+      "uuid": "4025c06b-e1ab-4983-aa57-25b8be32c7c0"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "munich",
+    "productId": "radar",
+    "instrumentInfo": {
+      "uuid": "7c1d2586-32f9-4cdd-a8df-723a43867820"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "munich",
+    "productId": "weather-station",
+    "instrumentInfo": {
+      "uuid": "fa676e25-7664-4868-b63b-7331e2ea8980"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "palaiseau",
+    "productId": "disdrometer",
+    "instrumentInfo": {
+      "uuid": "7e13f3f2-4385-4ae8-b61e-7462c4881729"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "palaiseau",
+    "productId": "lidar",
+    "instrumentInfo": {
+      "uuid": "b14e15ec-9c9b-43fb-9ad5-79cb059f3a6e"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "palaiseau",
+    "productId": "mwr-single",
+    "instrumentInfo": {
+      "uuid": "770aaf22-8a97-4dd6-a165-1da81c06319c"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "palaiseau",
+    "productId": "radar",
+    "instrumentInfo": {
+      "uuid": "643b7b5b-4381-4e6f-9e40-2c4c64f22b17"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "palaiseau",
+    "productId": "weather-station",
+    "instrumentInfo": {
+      "uuid": "73904193-1dac-4de5-9730-92656ab60eb9"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "payerne",
+    "productId": "disdrometer",
+    "instrumentInfo": {
+      "uuid": "b1373817-e44e-4fa2-ba49-b50e8ba8a418"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "payerne",
+    "productId": "doppler-lidar",
+    "instrumentInfo": {
+      "uuid": "a3c0f804-d91e-4966-9efb-aef54b9f2cd1"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "payerne",
+    "productId": "doppler-lidar-wind",
+    "instrumentInfo": {
+      "uuid": "a3c0f804-d91e-4966-9efb-aef54b9f2cd1"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "payerne",
+    "productId": "lidar",
+    "instrumentInfo": {
+      "uuid": "5ffe1a5d-f371-45cc-8f17-6473b03c5c2d"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "payerne",
+    "productId": "mwr-single",
+    "instrumentInfo": {
+      "uuid": "e095e262-c727-4203-987b-4f7f9ab5cb04"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "payerne",
+    "productId": "radar",
+    "instrumentInfo": {
+      "uuid": "37a71c75-789f-47c3-97e5-fa03c4cbb3cf"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "potenza",
+    "productId": "doppler-lidar",
+    "instrumentInfo": {
+      "uuid": "31a1d1e9-694f-47bd-b6aa-9bc620673971"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "potenza",
+    "productId": "doppler-lidar-wind",
+    "instrumentInfo": {
+      "uuid": "31a1d1e9-694f-47bd-b6aa-9bc620673971"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "potenza",
+    "productId": "lidar",
+    "instrumentInfo": {
+      "uuid": "7133f308-65bc-4781-a3c4-958dc9c0b36b"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "potenza",
+    "productId": "mwr-single",
+    "instrumentInfo": {
+      "uuid": "5f33c2fe-bc65-4f4b-8798-aaea0abd70bb"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "potenza",
+    "productId": "radar",
+    "instrumentInfo": {
+      "uuid": "a150e648-f868-47a5-8c70-54d2f091d961"
+    },
+    "measurementDate": "2020-01-01"
   }
 ]

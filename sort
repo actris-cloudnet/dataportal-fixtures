@@ -1,0 +1,4 @@
+#!/bin/sh
+set -e
+jq 'sort_by(.siteId, .productId, .measurementDate)' 4-nominal_instrument.json > tmp.json
+mv tmp.json 4-nominal_instrument.json
