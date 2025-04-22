@@ -47,6 +47,7 @@
     "id": "cpr-simulation",
     "humanReadableName": "Synthetic EarthCARE radar",
     "experimental": true,
+    "type": ["evaluation"],
     "sourceProducts": [{ "id": "categorize" }]
   },
   {
