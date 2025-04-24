@@ -157,7 +157,7 @@
     "model": "RPG-LHATPRO-G5",
     "type": "microwave radiometer",
     "owners": ["Norwegian Polar Institute (NPI)"],
-    "instrument": "hatpro"
+    "instrument": "lhatpro"
   },
   {
     "uuid": "11d32178-6747-4e22-8976-12fa361d365d",
@@ -750,6 +750,16 @@
     "instrument": "thies-lnm"
   },
   {
+    "uuid": "549c7e76-ad4d-4a10-bfe8-633fbf39863b",
+    "pid": "https://hdl.handle.net/21.12132/3.549c7e76ad4d4a10",
+    "name": "Uni Köln RPG-LHUMPRO-U90-G5",
+    "serialNumber": "0210001",
+    "model": "RPG-LHUMPRO-U90-G5",
+    "type": "microwave radiometer",
+    "owners": ["University of Cologne"],
+    "instrument": "lhumpro"
+  },
+  {
     "uuid": "54b50a0c-58c2-4a78-b965-9b4826af6ea3",
     "pid": "https://hdl.handle.net/21.12132/3.54b50a0c58c24a78",
     "name": "UH Pluvio400",
@@ -797,7 +807,7 @@
     "name": "DWD LD40",
     "serialNumber": null,
     "model": "Vaisala LD40",
-    "type": "ceilometer",
+    "type": "lidar ceilometer",
     "owners": ["German Meteorological Service (DWD)"],
     "instrument": "ld40"
   },
@@ -1795,9 +1805,19 @@
   {
     "uuid": "c6e347a7-1866-4113-9c3b-9b3e91308b15",
     "pid": "https://hdl.handle.net/21.12132/3.c6e347a718664113",
-    "name": "DWD MWP1",
+    "name": "DWD TP/WVP-3001",
     "serialNumber": null,
-    "model": "Radiometrics MWP1",
+    "model": "Radiometrics TP/WVP-3001",
+    "type": "microwave radiometer",
+    "owners": ["German Meteorological Service (DWD)"],
+    "instrument": "radiometrics"
+  },
+  {
+    "uuid": "c6f674c2-2f4f-4664-888c-edd3a5d68358",
+    "pid": "https://hdl.handle.net/21.12132/3.c6f674c22f4f4664",
+    "name": "DWD WVR-1100",
+    "serialNumber": null,
+    "model": "Radiometrics WVR-1100",
     "type": "microwave radiometer",
     "owners": ["German Meteorological Service (DWD)"],
     "instrument": "radiometrics"
@@ -1825,9 +1845,9 @@
   {
     "uuid": "ca8e1697-7a63-4793-aa77-2c73c68dda00",
     "pid": "https://hdl.handle.net/21.12132/3.ca8e16977a634793",
-    "name": "DWD MP-3000A",
-    "serialNumber": "3263a",
-    "model": "Radiometrics MP-3000A",
+    "name": "DWD MP-3263A",
+    "serialNumber": null,
+    "model": "Radiometrics MP-3263A",
     "type": "microwave radiometer",
     "owners": ["German Meteorological Service (DWD)"],
     "instrument": "radiometrics"
