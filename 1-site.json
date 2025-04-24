@@ -57,7 +57,7 @@
     "longitude": 4.379,
     "altitude": -4,
     "gaw": null,
-    "dvasId": null,
+    "dvasId": "5f99",
     "country": "Netherlands",
     "countryCode": "NL",
     "type": ["campaign"]
@@ -173,7 +173,7 @@
     "latitude": 51.333,
     "longitude": 12.389,
     "gaw": null,
-    "dvasId": null,
+    "dvasId": "4j0y",
     "altitude": 126,
     "country": "Germany",
     "countryCode": "DE",
@@ -226,7 +226,7 @@
     "longitude": -9.9,
     "altitude": 16,
     "gaw": "MHD",
-    "dvasId": null,
+    "dvasId": "bal0",
     "country": "Ireland",
     "countryCode": "IE",
     "type": ["cloudnet"]
@@ -366,6 +366,7 @@
     "longitude": 9.854,
     "altitude": 1630,
     "gaw": null,
+    "dvasId": "75i2",
     "country": "Switzerland",
     "countryCode": "CH",
     "type": ["campaign"]
@@ -477,7 +478,7 @@
     "latitude": 62.738,
     "longitude": 27.543,
     "gaw": null,
-    "dvasId": null,
+    "dvasId": "zg1k",
     "altitude": 190,
     "country": "Finland",
     "countryCode": "FI",
@@ -564,6 +565,7 @@
     "longitude": 2.632,
     "altitude": 228,
     "gaw": null,
+    "dvasId": "wmu4",
     "country": "Niger",
     "countryCode": "NE",
     "type": ["hidden", "arm"],
@@ -580,6 +582,7 @@
     "longitude": 19.002,
     "altitude": 18,
     "gaw": null,
+    "dvasId": "sflc",
     "country": "Norway",
     "countryCode": "NO",
     "type": ["hidden", "arm"],
@@ -628,6 +631,7 @@
     "longitude": 79.458,
     "altitude": 1936,
     "gaw": null,
+    "dvasId": "ns5i",
     "country": "India",
     "countryCode": "IN",
     "type": ["hidden", "arm"],
@@ -643,6 +647,7 @@
     "latitude": 39.092,
     "longitude": -28.031,
     "gaw": "GRW",
+    "dvasId": "39gs",
     "altitude": 30,
     "country": "Portugal (Azores)",
     "countryCode": "PT",
@@ -693,6 +698,7 @@
     "longitude": -60.598,
     "altitude": 50,
     "gaw": null,
+    "dvasId": "v1fy",
     "country": "Brazil",
     "countryCode": "BR",
     "type": ["hidden", "arm"],
@@ -708,6 +714,7 @@
     "latitude": 48.54,
     "longitude": 8.397,
     "gaw": null,
+    "dvasId": "nwy6",
     "altitude": 511,
     "country": "Germany",
     "type": ["arm"],
@@ -820,6 +827,7 @@
     "latitude": 53.568,
     "longitude": 9.973,
     "gaw": null,
+    "dvasId": "bfrc",
     "altitude": 25,
     "country": "Germany",
     "countryCode": "DE",
@@ -831,6 +839,7 @@
     "latitude": 69.2783,
     "longitude": 16.009,
     "gaw": null,
+    "dvasId": "bc6t",
     "altitude": 380,
     "country": "Norway",
     "countryCode": "NO",
@@ -842,6 +851,7 @@
     "latitude": 69.2783,
     "longitude": 16.009,
     "gaw": null,
+    "dvasId": "bc6t",
     "altitude": 380,
     "country": "Norway",
     "countryCode": "NO",
@@ -854,6 +864,7 @@
     "longitude": 3.111,
     "altitude": 420,
     "gaw": null,
+    "dvasId": "y4bq",
     "country": "France",
     "countryCode": "FR",
     "type": ["hidden", "model"]
@@ -865,6 +876,7 @@
     "longitude": 23.38,
     "altitude": 550,
     "gaw": null,
+    "dvasId": "b1fd",
     "country": "Bulgaria",
     "countryCode": "BG",
     "type": ["hidden", "model"]
@@ -899,6 +911,7 @@
     "longitude": 20.78,
     "altitude": 180,
     "gaw": null,
+    "dvasId": "r3qt",
     "country": "Poland",
     "countryCode": "PL",
     "type": ["hidden", "model"]
@@ -910,6 +923,7 @@
     "longitude": 30.273,
     "altitude": 35,
     "gaw": null,
+    "dvasId": "gzxp",
     "country": "Russia",
     "countryCode": "RU",
     "type": ["hidden"]
@@ -921,6 +935,7 @@
     "longitude": 22.95,
     "altitude": 50,
     "gaw": null,
+    "dvasId": "g73e",
     "country": "Greece",
     "countryCode": "GR",
     "type": ["hidden", "model"]
@@ -932,6 +947,7 @@
     "longitude": 15.575,
     "altitude": 70,
     "gaw": null,
+    "dvasId": "ym7k",
     "country": "Sweden",
     "countryCode": "SE",
     "type": ["hidden"]
@@ -943,6 +959,7 @@
     "longitude": 20.391,
     "altitude": 89,
     "gaw": null,
+    "dvasId": "q8yq",
     "country": "Serbia",
     "countryCode": "RS",
     "type": ["hidden", "model"]
@@ -954,6 +971,7 @@
     "longitude": -3.726,
     "altitude": 669,
     "gaw": null,
+    "dvasId": "wxjn",
     "country": "Spain",
     "countryCode": "ES",
     "type": ["hidden", "model"]
@@ -976,6 +994,7 @@
     "longitude": 14.97,
     "altitude": 1740,
     "gaw": null,
+    "dvasId": "bgk5",
     "country": "Italy",
     "countryCode": "IT",
     "type": ["hidden", "model"]
@@ -987,6 +1006,7 @@
     "longitude": 33.381,
     "altitude": 180,
     "gaw": null,
+    "dvasId": "k15y",
     "country": "Cyprus",
     "countryCode": "CY",
     "type": ["hidden", "model"]
@@ -998,6 +1018,7 @@
     "longitude": 13.327,
     "altitude": 683,
     "gaw": null,
+    "dvasId": "1jy8",
     "country": "Italy",
     "countryCode": "IT",
     "type": ["hidden", "model"]
@@ -1020,6 +1041,7 @@
     "longitude": 8.617,
     "altitude": 209,
     "gaw": null,
+    "dvasId": "j133",
     "country": "Italy",
     "countryCode": "IT",
     "type": ["hidden", "model"]
@@ -1031,6 +1053,7 @@
     "longitude": -8.494,
     "altitude": 75,
     "gaw": null,
+    "dvasId": "qmy0",
     "country": "Ireland",
     "countryCode": "IE",
     "type": ["hidden", "model"]
@@ -1042,6 +1065,7 @@
     "longitude": 27.605,
     "altitude": 200,
     "gaw": null,
+    "dvasId": "edpj",
     "country": "Belarus",
     "countryCode": "BY",
     "type": ["hidden", "model"]
@@ -1054,6 +1078,7 @@
     "longitude": -7.912,
     "altitude": 293,
     "gaw": null,
+    "dvasId": "n7ka",
     "country": "Portugal",
     "countryCode": "PT",
     "type": ["campaign"]
@@ -1065,6 +1090,7 @@
     "longitude": 23.78,
     "altitude": 212,
     "gaw": null,
+    "dvasId": "tIU1",
     "country": "Greece",
     "countryCode": "GR",
     "type": ["hidden", "model"]
@@ -1076,6 +1102,7 @@
     "longitude": 5.18,
     "altitude": 2,
     "gaw": null,
+    "dvasId": "ED5M",
     "country": "Netherlands",
     "countryCode": "NL",
     "type": ["hidden", "model"]
@@ -1101,6 +1128,7 @@
     "longitude": 18.1,
     "altitude": 30,
     "gaw": null,
+    "dvasId": "km0f",
     "country": "Italy",
     "countryCode": "IT",
     "type": ["hidden", "model"]
@@ -1123,6 +1151,7 @@
     "longitude": 14.183,
     "altitude": 118,
     "gaw": null,
+    "dvasId": "8zg1",
     "country": "Italy",
     "countryCode": "IT",
     "type": ["hidden", "model"]
@@ -1156,6 +1185,7 @@
     "longitude": 11.6228,
     "altitude": 10,
     "gaw": null,
+    "dvasId": "0hfk",
     "country": "Italy",
     "countryCode": "IT",
     "type": ["hidden", "model"]
@@ -1189,6 +1219,7 @@
     "longitude": 12.65,
     "altitude": 110,
     "gaw": null,
+    "dvasId": "xju7",
     "country": "Italy",
     "countryCode": "IT",
     "type": ["hidden", "model"]
@@ -1212,6 +1243,7 @@
     "longitude": 23.31,
     "altitude": 193,
     "gaw": null,
+    "dvasId": "zg6g",
     "country": "Greece",
     "countryCode": "GR",
     "type": ["hidden", "model"]
@@ -1223,6 +1255,7 @@
     "longitude": 68.8561,
     "altitude": 864,
     "gaw": null,
+    "dvasId": "o6l8",
     "country": "Tajikistan",
     "countryCode": "TJ",
     "type": ["hidden", "model"]
@@ -1235,6 +1268,7 @@
     "longitude": 20.98,
     "altitude": 112,
     "gaw": null,
+    "dvasId": "n57v",
     "actrisId": 92,
     "country": "Poland",
     "countryCode": "PL",
@@ -1253,6 +1287,7 @@
     "longitude": 16.31,
     "altitude": 57,
     "gaw": null,
+    "dvasId": "7k33",
     "actrisId": 95,
     "country": "Poland",
     "countryCode": "PL",
@@ -1276,6 +1311,7 @@
     "longitude": 15.08,
     "altitude": 190,
     "gaw": null,
+    "dvasId": "mm1c",
     "country": "Italy",
     "countryCode": "IT",
     "type": ["hidden", "model"]
@@ -1288,6 +1324,7 @@
     "longitude": 12.6303,
     "altitude": 45,
     "gaw": "LMP",
+    "dvasId": "lp7k",
     "actrisId": 86,
     "country": "Italy",
     "countryCode": "IT",
@@ -1301,6 +1338,7 @@
     "longitude": -24.995,
     "altitude": 13,
     "gaw": "CVO",
+    "dvasId": "nprv",
     "actrisId": 55,
     "country": "Cabo Verde",
     "countryCode": "CV",
@@ -1743,6 +1781,7 @@
     "longitude": -21.903,
     "altitude": 52,
     "gaw": null,
+    "dvasId": "a4dc",
     "country": "Iceland",
     "countryCode": "IS",
     "type": ["hidden"]
@@ -1854,6 +1893,7 @@
     "longitude": 77.15,
     "altitude": 243,
     "gaw": null,
+    "dvasId": "9t55",
     "country": "India",
     "countryCode": "IN",
     "type": ["hidden"]
