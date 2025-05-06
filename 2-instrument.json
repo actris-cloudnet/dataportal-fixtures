@@ -259,5 +259,12 @@
     "humanReadableName": "Thies Precipitation Transmitter",
     "shortName": "Thies rain gauge",
     "derivedProducts": [{ "id": "rain-gauge" }]
+  },
+  {
+    "id": "fd12p",
+    "type": "rain-gauge",
+    "humanReadableName": "Vaisala Present Weather Sensor FD12P",
+    "shortName": "Vaisala FD12P",
+    "derivedProducts": []
   }
 ]
