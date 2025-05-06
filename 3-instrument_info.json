@@ -752,7 +752,7 @@
   {
     "uuid": "549c7e76-ad4d-4a10-bfe8-633fbf39863b",
     "pid": "https://hdl.handle.net/21.12132/3.549c7e76ad4d4a10",
-    "name": "UoC RPG-LHUMPRO-U90-G5",
+    "name": "UoC LHUMPRO-U90-G5",
     "serialNumber": "0210001",
     "model": "RPG-LHUMPRO-U90-G5",
     "type": "microwave radiometer",
@@ -2355,6 +2355,16 @@
     "type": "scanning microwave radiometer",
     "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
     "instrument": "hatpro"
+  },
+  {
+    "uuid": "fcb1c89a-b443-4692-a1c9-7e17c168629d",
+    "pid": "https://hdl.handle.net/21.12132/3.fcb1c89ab4434692",
+    "name": "DWD FD12P",
+    "serialNumber": null,
+    "model": "Vaisala FD12P",
+    "type": "weather sensor",
+    "owners": ["German Meteorological Service (DWD)"],
+    "instrument": "fd12p"
   },
   {
     "uuid": "ffb25f43-330f-4793-bd6b-f2425cee0fd0",
