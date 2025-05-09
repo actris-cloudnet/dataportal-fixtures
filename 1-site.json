@@ -2139,6 +2139,18 @@
     "type": ["hidden"]
   },
   {
+    "id": "milesovka",
+    "humanReadableName": "Milešovka",
+    "latitude": 50.555,
+    "longitude": 13.931,
+    "altitude": 837,
+    "gaw": null,
+    "actrisId": 16,
+    "country": "Czechia",
+    "countryCode": "CZ",
+    "type": ["campaign"]
+  },
+  {
     "id": "moufia",
     "stationName": "OPAR",
     "humanReadableName": "Moufia",
