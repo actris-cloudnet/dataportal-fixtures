@@ -2364,7 +2364,7 @@
     "model": "Vaisala FD12P",
     "type": "weather sensor",
     "owners": ["German Meteorological Service (DWD)"],
-    "instrument": "fd12p"
+    "instrument": "fd12"
   },
   {
     "uuid": "ffb25f43-330f-4793-bd6b-f2425cee0fd0",

@@ -261,10 +261,10 @@
     "derivedProducts": [{ "id": "rain-gauge" }]
   },
   {
-    "id": "fd12p",
-    "type": "rain-gauge",
-    "humanReadableName": "Vaisala Present Weather Sensor FD12P",
-    "shortName": "Vaisala FD12P",
+    "id": "fd12",
+    "type": "weather-station",
+    "humanReadableName": "Vaisala Present Weather Sensor FD12",
+    "shortName": "Vaisala FD12",
     "derivedProducts": []
   }
 ]
