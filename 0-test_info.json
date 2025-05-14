@@ -121,8 +121,8 @@
   },
   {
     "testId": "TestRainfallConsistency",
-    "name": "Rainfall consistency",
-    "description": "Test that rainfall rate and rainfall amount are consistent."
+    "name": "Precipitation consistency",
+    "description": "Test that precipitation rate and amount are consistent."
   },
   {
     "testId": "TestStandardNames",
