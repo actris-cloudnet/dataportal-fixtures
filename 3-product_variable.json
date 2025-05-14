@@ -834,6 +834,13 @@
     "actrisName": null
   },
   {
+    "id": "disdrometer-visibility",
+    "humanReadableName": "Visibility",
+    "order": 5,
+    "product": "disdrometer",
+    "actrisName": null
+  },
+  {
     "id": "weather-station-air_temperature",
     "humanReadableName": "Air temperature",
     "order": 0,
@@ -879,6 +886,34 @@
     "id": "weather-station-rainfall_amount",
     "humanReadableName": "Rainfall amount",
     "order": 6,
+    "product": "weather-station",
+    "actrisName": null
+  },
+  {
+    "id": "weather-station-precipitation_rate",
+    "humanReadableName": "Precipitation rate",
+    "order": 7,
+    "product": "weather-station",
+    "actrisName": null
+  },
+  {
+    "id": "weather-station-precipitation_amount",
+    "humanReadableName": "Precipitation amount",
+    "order": 8,
+    "product": "weather-station",
+    "actrisName": null
+  },
+  {
+    "id": "weather-station-snowfall_amount",
+    "humanReadableName": "Snowfall amount",
+    "order": 9,
+    "product": "weather-station",
+    "actrisName": null
+  },
+  {
+    "id": "weather-station-visibility",
+    "humanReadableName": "Visibility",
+    "order": 10,
     "product": "weather-station",
     "actrisName": null
   },
