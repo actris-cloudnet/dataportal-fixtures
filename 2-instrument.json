@@ -265,6 +265,6 @@
     "type": "weather-station",
     "humanReadableName": "Vaisala Present Weather Sensor FD12",
     "shortName": "Vaisala FD12",
-    "derivedProducts": []
+    "derivedProducts": [{ "id": "weather-station" }]
   }
 ]
