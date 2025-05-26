@@ -1049,16 +1049,16 @@
     "id": "laquila",
     "humanReadableName": "L'Aquila",
     "stationName": "CETEMPS",
-    "latitude": 42.344,
-    "longitude": 13.327,
+    "latitude": 42.383,
+    "longitude": 13.315,
     "altitude": 683,
-    "gaw": "CEO",
-    "wigosId": "0-20008-0-CEO",
-    "dvasId": "1jy8",
+    "gaw": null,
+    "wigosId": null,
+    "dvasId": null,
     "actrisId": 85,
     "country": "Italy",
     "countryCode": "IT",
-    "type": ["campaign"]
+    "type": ["cloudnet"]
   },
   {
     "id": "hohenpeissenberg",
