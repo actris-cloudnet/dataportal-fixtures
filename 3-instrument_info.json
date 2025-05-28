@@ -1607,6 +1607,16 @@
     "instrument": "basta"
   },
   {
+    "uuid": "b7813902-db9d-42e4-9e7f-fa781bdb0a75",
+    "pid": "https://hdl.handle.net/21.12132/3.b7813902db9d42e4",
+    "name": "UnivAQ RPG-FMCW-94-DP",
+    "serialNumber": "4010023",
+    "model": "RPG-FMCW-94-DP",
+    "type": "Doppler non-scanning cloud radar",
+    "owners": ["University of L'Aquila (UnivAQ)"],
+    "instrument": "rpg-fmcw-94"
+  },
+  {
     "uuid": "b7a8298b-7a54-405f-9c84-2e9ad854fca2",
     "pid": "https://hdl.handle.net/21.12132/3.b7a8298b7a54405f",
     "name": "UL MIRA-35S (Kepler)",
@@ -2362,7 +2372,7 @@
     "name": "DWD FD12P",
     "serialNumber": null,
     "model": "Vaisala FD12P",
-    "type": "weather sensor",
+    "type": "present weather sensor",
     "owners": ["German Meteorological Service (DWD)"],
     "instrument": "fd12"
   },
