@@ -750,6 +750,16 @@
     "instrument": "thies-lnm"
   },
   {
+    "uuid": "507d92bf-5fc9-4338-a3e1-c367ef81e3d1",
+    "pid": "https://hdl.handle.net/21.12132/3.507d92bf5fc94338",
+    "name": "UnivAQ CL51",
+    "serialNumber": "R4720690",
+    "model": "Vaisala CL51",
+    "type": "lidar ceilometer",
+    "owners": ["University of L'Aquila (UnivAQ)"],
+    "instrument": "cl51"
+  },
+  {
     "uuid": "549c7e76-ad4d-4a10-bfe8-633fbf39863b",
     "pid": "https://hdl.handle.net/21.12132/3.549c7e76ad4d4a10",
     "name": "UoC LHUMPRO-U90-G5",
