@@ -1154,6 +1154,16 @@
     "instrument": "mira-35"
   },
   {
+    "uuid": "7cd404bd-07d7-4e93-8d67-2b7ec98082ec",
+    "pid": "https://hdl.handle.net/21.12132/3.7cd404bd07d74e93",
+    "name": "UnivAQ LPM",
+    "serialNumber": "3778",
+    "model": "Thies Clima Laser Precipitation Monitor",
+    "type": "disdrometer",
+    "owners": ["University of L'Aquila (UnivAQ)"],
+    "instrument": "thies-lnm"
+  },
+  {
     "uuid": "7cfaf325-2c45-451d-9066-27a92e996af9",
     "pid": "https://hdl.handle.net/21.12132/3.7cfaf3252c45451d",
     "name": "TROPOS Precipitation Transmitter (LACROS)",
