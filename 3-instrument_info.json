@@ -355,9 +355,9 @@
   {
     "uuid": "254f8c96-614f-4738-9139-8b2a530ac75c",
     "pid": "https://hdl.handle.net/21.12132/3.254f8c96614f4738",
-    "name": "CNR MP3014",
-    "serialNumber": null,
-    "model": "Radiometrics MP3014",
+    "name": "CNR MP-3014",
+    "serialNumber": "3014",
+    "model": "Radiometrics MP-3000",
     "type": "non-scanning microwave radiometer",
     "owners": ["Consiglio Nazionale delle Ricerche (CNR)"],
     "instrument": "radiometrics"
@@ -1876,8 +1876,8 @@
     "uuid": "ca8e1697-7a63-4793-aa77-2c73c68dda00",
     "pid": "https://hdl.handle.net/21.12132/3.ca8e16977a634793",
     "name": "DWD MP-3263A",
-    "serialNumber": null,
-    "model": "Radiometrics MP-3263A",
+    "serialNumber": "3263A",
+    "model": "Radiometrics MP-3000A",
     "type": "microwave radiometer",
     "owners": ["German Meteorological Service (DWD)"],
     "instrument": "radiometrics"
@@ -1963,6 +1963,16 @@
     "type": "lidar ceilometer",
     "owners": ["German Meteorological Service (DWD)"],
     "instrument": "chm15k"
+  },
+  {
+    "uuid": "d4aea75d-470a-4881-a125-71ceb0172413",
+    "pid": "https://hdl.handle.net/21.12132/3.d4aea75d470a4881",
+    "name": "DWD MP-3039A",
+    "serialNumber": "3039A",
+    "model": "Radiometrics MP-3000A",
+    "type": "microwave radiometer",
+    "owners": ["German Meteorological Service (DWD)"],
+    "instrument": "radiometrics"
   },
   {
     "uuid": "d5ee0db6-ac96-4a04-911c-de4e122b5f0d",
