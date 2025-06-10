@@ -130,7 +130,7 @@
     "humanReadableName": "Attenuated backscatter coefficient",
     "order": 0,
     "product": "lidar",
-    "actrisName": "atmosphere calibrated attenuated backscattered lidar signal"
+    "actrisName": "atmosphere attenuated backscattered lidar signal"
   },
   {
     "id": "lidar-beta_raw",
@@ -193,7 +193,7 @@
     "humanReadableName": "Attenuated backscatter coefficient",
     "order": 0,
     "product": "doppler-lidar",
-    "actrisName": "atmosphere calibrated attenuated backscattered lidar signal"
+    "actrisName": "atmosphere attenuated backscattered lidar signal"
   },
   {
     "id": "doppler-lidar-beta_raw",
@@ -326,7 +326,7 @@
     "humanReadableName": "Attenuated backscatter coefficient",
     "order": 7,
     "product": "categorize",
-    "actrisName": "atmosphere calibrated attenuated backscattered lidar signal"
+    "actrisName": "atmosphere attenuated backscattered lidar signal"
   },
   {
     "id": "categorize-Tw",
@@ -578,7 +578,7 @@
     "humanReadableName": "Model specific humidity",
     "order": 4,
     "product": "model",
-    "actrisName": "air humidity"
+    "actrisName": "water vapour mass fraction"
   },
   {
     "id": "model-pressure",
