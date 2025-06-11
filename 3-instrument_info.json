@@ -1637,6 +1637,16 @@
     "instrument": "basta"
   },
   {
+    "uuid": "b5b5f67e-6832-4bfe-a4e7-12e8b00f730e",
+    "pid": "https://hdl.handle.net/21.12132/3.b5b5f67e68324bfe",
+    "name": "FMI CT25K",
+    "serialNumber": "Y22102",
+    "model": "Vaisala CT25K",
+    "type": "ceilometer",
+    "owners": ["Finnish Meteorological Institute (FMI)"],
+    "instrument": "ct25k"
+  },
+  {
     "uuid": "b7813902-db9d-42e4-9e7f-fa781bdb0a75",
     "pid": "https://hdl.handle.net/21.12132/3.b7813902db9d42e4",
     "name": "UnivAQ RPG-FMCW-94-DP",
