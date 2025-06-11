@@ -376,7 +376,7 @@
     "uuid": "27a4f4aa-4143-4b5a-a8eb-f8f748279bff",
     "pid": "https://hdl.handle.net/21.12132/3.27a4f4aa41434b5a",
     "name": "FMI CT25K",
-    "serialNumber": null,
+    "serialNumber": "U25202",
     "model": "Vaisala CT25K",
     "type": "ceilometer",
     "owners": ["Finnish Meteorological Institute (FMI)"],
@@ -621,6 +621,16 @@
     "type": "Doppler lidar",
     "owners": ["German Meteorological Service (DWD)"],
     "instrument": "halo-doppler-lidar"
+  },
+  {
+    "uuid": "43d52546-ba90-476e-b152-74993a255040",
+    "pid": "https://hdl.handle.net/21.12132/3.43d52546ba90476e",
+    "name": "GSA CL61",
+    "serialNumber": "W3310584",
+    "model": "Vaisala CL61",
+    "type": "depolarisation lidar ceilometer",
+    "owners": ["GeoSphere Austria (GSA)"],
+    "instrument": "cl61d"
   },
   {
     "uuid": "442ec2ea-9a24-440e-959a-709f487732ae",
