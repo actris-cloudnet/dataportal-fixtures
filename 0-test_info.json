@@ -153,5 +153,10 @@
     "testId": "TestVariableNamesDefined",
     "name": "Variable names",
     "description": "Check that variables have expected names."
+  },
+  {
+    "testId": "TestZenithAngle",
+    "name": "Lidar zenith angle",
+    "description": "Test lidar zenith angle."
   }
 ]
