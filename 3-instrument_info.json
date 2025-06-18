@@ -378,7 +378,7 @@
     "name": "FMI CT25K",
     "serialNumber": "U25202",
     "model": "Vaisala CT25K",
-    "type": "ceilometer",
+    "type": "lidar ceilometer",
     "owners": ["Finnish Meteorological Institute (FMI)"],
     "instrument": "ct25k"
   },
@@ -1438,7 +1438,7 @@
     "name": "UoC CT25K",
     "serialNumber": null,
     "model": "Vaisala CT25K",
-    "type": "ceilometer",
+    "type": "lidar ceilometer",
     "owners": ["University of Cologne (UoC)"],
     "instrument": "ct25k"
   },
@@ -1642,7 +1642,7 @@
     "name": "FMI CT25K",
     "serialNumber": "Y22102",
     "model": "Vaisala CT25K",
-    "type": "ceilometer",
+    "type": "lidar ceilometer",
     "owners": ["Finnish Meteorological Institute (FMI)"],
     "instrument": "ct25k"
   },
