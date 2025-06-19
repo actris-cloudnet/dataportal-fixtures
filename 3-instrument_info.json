@@ -1154,6 +1154,16 @@
     "instrument": "hatpro"
   },
   {
+    "uuid": "7c1c718f-6e63-439f-9981-cd1d73691922",
+    "pid": "https://hdl.handle.net/21.12132/3.7c1c718f6e63439f",
+    "name": "UnivAQ Vantage Vue",
+    "serialNumber": "MS200514007",
+    "model": "Davis Vantage Vue",
+    "type": "weather station",
+    "owners": ["University of L'Aquila (UnivAQ)"],
+    "instrument": "weather-station"
+  },
+  {
     "uuid": "7c1d2586-32f9-4cdd-a8df-723a43867820",
     "pid": "https://hdl.handle.net/21.12132/3.7c1d258632f94cdd",
     "name": "LMU MIRA-35S (Ka-MACS)",
