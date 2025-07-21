@@ -64,6 +64,46 @@
     "measurementDate": "2020-01-01"
   },
   {
+    "siteId": "cabauw",
+    "productId": "mwr-single",
+    "instrumentInfo": {
+      "uuid": "46797fd6-140c-4249-87ed-6bca26a615f8"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "cabauw",
+    "productId": "lidar",
+    "instrumentInfo": {
+      "uuid": "c07f533c-d860-41f1-a030-900e01288ae5"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "cabauw",
+    "productId": "doppler-lidar",
+    "instrumentInfo": {
+      "uuid": "dca88604-798e-4647-a44d-ec61ea412301"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "cabauw",
+    "productId": "doppler-lidar-wind",
+    "instrumentInfo": {
+      "uuid": "dca88604-798e-4647-a44d-ec61ea412301"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "cabauw",
+    "productId": "disdrometer",
+    "instrumentInfo": {
+      "uuid": "c55b141f-9942-4547-b36d-a2b3a869d748"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
     "siteId": "cluj",
     "productId": "disdrometer",
     "instrumentInfo": {
@@ -660,6 +700,62 @@
     "productId": "radar",
     "instrumentInfo": {
       "uuid": "a150e648-f868-47a5-8c70-54d2f091d961"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "limassol",
+    "productId": "radar",
+    "instrumentInfo": {
+      "uuid": "9af43f93-e396-49f5-8dc1-6b67336b66e0"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "limassol",
+    "productId": "mwr-single",
+    "instrumentInfo": {
+      "uuid": "33ef1f08-4a96-4bff-a30f-936b82b3d973"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "limassol",
+    "productId": "lidar",
+    "instrumentInfo": {
+      "uuid": "d7b65c4b-72b6-432d-a075-0935437bf351"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "limassol",
+    "productId": "doppler-lidar",
+    "instrumentInfo": {
+      "uuid": "a5e937a2-d7e6-4283-a633-709c3fd2a747"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "limassol",
+    "productId": "doppler-lidar-wind",
+    "instrumentInfo": {
+      "uuid": "a5e937a2-d7e6-4283-a633-709c3fd2a747"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "limassol",
+    "productId": "disdrometer",
+    "instrumentInfo": {
+      "uuid": "41582c49-57f4-44b3-b253-ef9e00763c67"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "limassol",
+    "productId": "weather-station",
+    "instrumentInfo": {
+      "uuid": "ef692a4f-b6fc-4c8f-bba0-646e2df8ec51"
     },
     "measurementDate": "2020-01-01"
   }
