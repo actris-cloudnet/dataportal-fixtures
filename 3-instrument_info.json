@@ -10,6 +10,16 @@
     "instrument": "mrr-pro"
   },
   {
+    "uuid": "00a9fdae-6ac8-4028-97f5-d1dd5c171991",
+    "pid": "https://hdl.handle.net/21.12132/3.00a9fdae6ac84028",
+    "name": "LACy Pluvio² L",
+    "serialNumber": "456879",
+    "model": "OTT Pluvio² L",
+    "type": "weighing rain gauge",
+    "owners": ["Laboratoire de l'Atmosphère et des Cyclones (LACy)"],
+    "instrument": "pluvio"
+  },
+  {
     "uuid": "01211540-d781-4299-bc21-16845aea010c",
     "pid": "https://hdl.handle.net/21.12132/3.01211540d7814299",
     "name": "UGR CHM 15k",
@@ -770,6 +780,16 @@
     "instrument": "cl51"
   },
   {
+    "uuid": "5421272f-0eb3-4540-84fe-895cf42893fc",
+    "pid": "https://hdl.handle.net/21.12132/3.5421272f0eb34540",
+    "name": "LACy MetConnect One",
+    "serialNumber": "23410011",
+    "model": "Gill MetConnect One",
+    "type": "weather station",
+    "owners": ["Laboratoire de l'Atmosphère et des Cyclones (LACy)"],
+    "instrument": "weather-station"
+  },
+  {
     "uuid": "549c7e76-ad4d-4a10-bfe8-633fbf39863b",
     "pid": "https://hdl.handle.net/21.12132/3.549c7e76ad4d4a10",
     "name": "UoC LHUMPRO-U90-G5",
@@ -1421,6 +1441,16 @@
     "type": "scanning microwave radiometer",
     "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
     "instrument": "hatpro"
+  },
+  {
+    "uuid": "98151641-2b2c-4c73-8ef8-287d19f13653",
+    "pid": "https://hdl.handle.net/21.12132/3.981516412b2c4c73",
+    "name": "LACy Parsivel²",
+    "serialNumber": "452396",
+    "model": "OTT Parsivel²",
+    "type": "disdrometer",
+    "owners": ["Laboratoire de l'Atmosphère et des Cyclones (LACy)"],
+    "instrument": "parsivel"
   },
   {
     "uuid": "981da267-085b-4966-bb4d-0ef7964fb91f",
