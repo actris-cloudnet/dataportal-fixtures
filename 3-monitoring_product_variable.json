@@ -1,0 +1,8 @@
+[
+  {
+    "id": "internal-temperature",
+    "humanReadableName": "Internal temperature",
+    "order": 0,
+    "monitoringProduct": "housekeeping"
+  }
+]

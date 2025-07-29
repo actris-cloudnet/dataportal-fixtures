@@ -1,0 +1,9 @@
+[
+  {
+    "id": "housekeeping",
+    "humanReadableName": "Housekeeping",
+    "sourceProducts": [
+      { "id": "doppler-lidar" }
+    ]
+  }
+]
