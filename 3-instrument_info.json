@@ -1247,7 +1247,7 @@
     "uuid": "7eed1e4c-a919-490a-8484-ff377a958628",
     "pid": "https://hdl.handle.net/21.12132/3.7eed1e4ca919490a",
     "name": "LACy BASTA",
-    "serialNumber": null,
+    "serialNumber": "BASTA-REUNION",
     "model": "BASTA",
     "type": "Doppler non-scanning cloud radar",
     "owners": ["Laboratoire de l'Atmosphère et des Cyclones (LACy)"],
@@ -1326,6 +1326,16 @@
     "type": "disdrometer",
     "owners": ["Delft University of Technology (TU Delft)"],
     "instrument": "parsivel"
+  },
+  {
+    "uuid": "8584159a-7b3a-4545-b268-18675c86dc8d",
+    "pid": "https://hdl.handle.net/21.12132/3.8584159a7b3a4545",
+    "name": "LMU CHM 15k",
+    "serialNumber": "CHM230134",
+    "model": "Lufft CHM 15k",
+    "type": "lidar ceilometer",
+    "owners": ["Ludwig-Maximilians-Universität München (LMU)"],
+    "instrument": "chm15k"
   },
   {
     "uuid": "8761e421-c5d3-466f-bb13-b9fa4a54bc79",
@@ -2080,7 +2090,7 @@
     "uuid": "d7350d66-862d-4bd3-a168-3225c235f530",
     "pid": "https://hdl.handle.net/21.12132/3.d7350d66862d4bd3",
     "name": "OSU HATPRO-G5",
-    "serialNumber": null,
+    "serialNumber": "003 0188",
     "model": "RPG-HATPRO-G5",
     "type": "scanning microwave radiometer",
     "owners": ["Observatoire des Sciences de l'Univers de la Réunion (OSU)"],
