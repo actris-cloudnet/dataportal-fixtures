@@ -183,6 +183,16 @@
     "instrument": "thies-lnm"
   },
   {
+    "uuid": "12da536f-0d07-41ea-9ced-f6cdeb97198b",
+    "pid": "https://hdl.handle.net/21.12132/3.12da536f0d0741ea",
+    "name": "KIT HATPRO-G5",
+    "serialNumber": null,
+    "model": "RPG-HATPRO-G5",
+    "type": "scanning microwave radiometer",
+    "owners": ["Karlsruhe Institute of Technology (KIT)"],
+    "instrument": "hatpro"
+  },
+  {
     "uuid": "140918e8-99a6-47f3-bc24-67b086d81038",
     "pid": "https://hdl.handle.net/21.12132/3.140918e899a647f3",
     "name": "UGR weather station",
@@ -491,6 +501,16 @@
     "type": "scanning microwave radiometer",
     "owners": ["ERATOSTHENES Centre of Excellence (ECoE)"],
     "instrument": "hatpro"
+  },
+  {
+    "uuid": "344d0c41-9a5a-4f72-a36d-8492bb1196ef",
+    "pid": "https://hdl.handle.net/21.12132/3.344d0c419a5a4f72",
+    "name": "KIT CL31",
+    "serialNumber": null,
+    "model": "Vaisala CL31",
+    "type": "lidar ceilometer",
+    "owners": ["Karlsruhe Institute of Technology (KIT)"],
+    "instrument": "cl31"
   },
   {
     "uuid": "37a71c75-789f-47c3-97e5-fa03c4cbb3cf",
@@ -1401,6 +1421,16 @@
     "instrument": "rpg-fmcw-94"
   },
   {
+    "uuid": "90bc68c0-21e8-4595-a29b-1bc3d121118d",
+    "pid": "https://hdl.handle.net/21.12132/3.90bc68c021e84595",
+    "name": "KIT RPG-FMCW-94-DP",
+    "serialNumber": "4010033",
+    "model": "RPG-FMCW-94-DP",
+    "type": "Doppler non-scanning cloud radar",
+    "owners": ["Karlsruhe Institute of Technology (KIT)"],
+    "instrument": "rpg-fmcw-94"
+  },
+  {
     "uuid": "922bd0a8-c7f3-4064-a6a3-f4aa2291414f",
     "pid": "https://hdl.handle.net/21.12132/3.922bd0a8c7f34064",
     "name": "TROPOS Parsivel² (LACROS)",
@@ -1809,6 +1839,16 @@
     "instrument": "chm15k"
   },
   {
+    "uuid": "c1ddaa8d-62e9-4942-b35e-600de8728873",
+    "pid": "https://hdl.handle.net/21.12132/3.c1ddaa8d62e94942",
+    "name": "KIT HALO",
+    "serialNumber": null,
+    "model": "StreamLine XR",
+    "type": "Doppler lidar",
+    "owners": ["Karlsruhe Institute of Technology (KIT)"],
+    "instrument": "halo-doppler-lidar"
+  },
+  {
     "uuid": "c28c803c-759c-444c-89da-7b31082f6d9c",
     "pid": "https://hdl.handle.net/21.12132/3.c28c803c759c444c",
     "name": "TU Delft HATPRO-G5 (CLARIO)",
@@ -1859,6 +1899,16 @@
     "type": "Doppler non-scanning cloud radar",
     "owners": ["University of Galway (NUIG)"],
     "instrument": "mira-35"
+  },
+  {
+    "uuid": "c42f2937-11eb-4233-be98-5fe781a0ddaf",
+    "pid": "https://hdl.handle.net/21.12132/3.c42f293711eb4233",
+    "name": "KIT Parsivel²",
+    "serialNumber": "452063",
+    "model": "OTT Parsivel²",
+    "type": "disdrometer",
+    "owners": ["Karlsruhe Institute of Technology (KIT)"],
+    "instrument": "parsivel"
   },
   {
     "uuid": "c55b141f-9942-4547-b36d-a2b3a869d748",
@@ -2345,6 +2395,16 @@
     "type": "scanning microwave radiometer",
     "owners": ["University of Helsinki (UH)"],
     "instrument": "hatpro"
+  },
+  {
+    "uuid": "f400460f-9519-4803-818f-e03245c00e12",
+    "pid": "https://hdl.handle.net/21.12132/3.f400460f95194803",
+    "name": "KIT Pluvio²",
+    "serialNumber": null,
+    "model": "OTT Pluvio²",
+    "type": "weighing rain gauge",
+    "owners": ["Karlsruhe Institute of Technology (KIT)"],
+    "instrument": "pluvio"
   },
   {
     "uuid": "f51736b5-923b-483c-ae80-037f08f4a41f",
