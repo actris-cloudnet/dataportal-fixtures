@@ -2191,5 +2191,16 @@
     "country": "Finland",
     "countryCode": "FI",
     "type": ["hidden"]
+  },
+  {
+    "id": "kappelrodeck",
+    "humanReadableName": "Kappelrodeck",
+    "latitude": 48.59729,
+    "longitude": 8.10794,
+    "altitude": 199,
+    "gaw": null,
+    "country": "Germany",
+    "countryCode": "DE",
+    "type": ["cloudnet"]
   }
 ]
