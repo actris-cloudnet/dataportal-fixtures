@@ -87,14 +87,14 @@
     "id": "lhatpro",
     "type": "mwr",
     "humanReadableName": "RPG-Radiometer Physics LHATPRO microwave radiometer",
-    "shortName": "HATPRO microwave radiometer",
+    "shortName": "LHATPRO microwave radiometer",
     "derivedProducts": [{ "id": "mwr" }, { "id": "mwr-l1c" }]
   },
   {
     "id": "lhumpro",
     "type": "mwr",
     "humanReadableName": "RPG-Radiometer Physics LHUMPRO microwave radiometer",
-    "shortName": "HATPRO microwave radiometer",
+    "shortName": "LHUMPRO microwave radiometer",
     "derivedProducts": [{ "id": "mwr" }, { "id": "mwr-l1c" }]
   },
   {
