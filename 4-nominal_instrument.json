@@ -553,6 +553,14 @@
   },
   {
     "siteId": "munich",
+    "productId": "lidar",
+    "instrumentInfo": {
+      "uuid": "8584159a-7b3a-4545-b268-18675c86dc8d"
+    },
+    "measurementDate": "2025-08-01"
+  },
+  {
+    "siteId": "munich",
     "productId": "mwr-single",
     "instrumentInfo": {
       "uuid": "4025c06b-e1ab-4983-aa57-25b8be32c7c0"
