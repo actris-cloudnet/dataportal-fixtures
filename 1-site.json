@@ -2202,5 +2202,17 @@
     "country": "Germany",
     "countryCode": "DE",
     "type": ["cloudnet"]
+  },
+  {
+    "id": "invercargill",
+    "humanReadableName": "Invercargill",
+    "latitude": -46.4173,
+    "longitude": 168.3307,
+    "altitude": 5,
+    "gaw": null,
+    "country": "New Zealand",
+    "countryCode": "NZ",
+    "countrySubdivisionCode": "NZ-STL",
+    "type": ["campaign"]
   }
 ]
