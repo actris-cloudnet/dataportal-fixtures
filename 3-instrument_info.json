@@ -315,7 +315,7 @@
   {
     "uuid": "20570e63-f7b1-496c-9ac6-12c3db46820a",
     "pid": "https://hdl.handle.net/21.12132/3.20570e63f7b1496c",
-    "name": "UGR RPG-FMCW-94-DP",
+    "name": "UGR RPG-FMCW-94-DP (NEBULA)",
     "serialNumber": "4010031",
     "model": "RPG-FMCW-94-DP-S",
     "type": "Doppler scanning cloud radar",
@@ -688,7 +688,7 @@
   {
     "uuid": "45ee9a92-825c-447a-b6b8-2a1d87e477bf",
     "pid": "https://hdl.handle.net/21.12132/3.45ee9a92825c447a",
-    "name": "UGR RPG-FMCW-35-DP",
+    "name": "UGR RPG-FMCW-35-DP (NEBULA)",
     "serialNumber": "6010004",
     "model": "RPG-FMCW-35-DP-S",
     "type": "Doppler scanning cloud radar",
