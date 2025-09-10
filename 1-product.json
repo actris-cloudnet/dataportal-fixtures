@@ -129,7 +129,8 @@
     "id": "mwr-l1c",
     "humanReadableName": "MWR brightness temperature",
     "type": ["instrument"],
-    "experimental": false
+    "experimental": false,
+    "sourceProducts": [{ "id": "lidar" }]
   },
   {
     "id": "mwr-single",
