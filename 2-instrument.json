@@ -158,6 +158,13 @@
     "derivedProducts": [{ "id": "lidar" }]
   },
   {
+    "id": "da10",
+    "type": "lidar",
+    "humanReadableName": "Vaisala DIAL Atmospheric Profiler DA10",
+    "shortName": "DIAL DA10 lidar",
+    "derivedProducts": [{ "id": "lidar" }]
+  },
+  {
     "id": "rain-e-h3",
     "type": "rain-gauge",
     "humanReadableName": "LAMBRECHT rain[e]H3 rain gauge",
