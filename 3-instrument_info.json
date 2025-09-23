@@ -1533,6 +1533,16 @@
     "instrument": "mira-35"
   },
   {
+    "uuid": "9c7bcece-9186-42ea-abc2-5649e7546ed5",
+    "pid": "https://hdl.handle.net/21.12132/3.9c7bcece918642ea",
+    "name": "DWD DIAL DA10",
+    "serialNumber": "V4610983",
+    "model": "Vaisala DIAL DA10",
+    "type": "differential absorption lidar",
+    "owners": ["German Meteorological Service (DWD)"],
+    "instrument": "da10"
+  },
+  {
     "uuid": "9ccc0053-d5c4-4ca6-a3bb-09fa1b285846",
     "pid": "https://hdl.handle.net/21.12132/3.9ccc0053d5c44ca6",
     "name": "AWI RPG-FMCW-94-DP",
