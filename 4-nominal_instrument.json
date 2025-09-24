@@ -624,6 +624,22 @@
     "measurementDate": "2020-01-01"
   },
   {
+    "siteId": "palaiseau",
+    "productId": "doppler-lidar",
+    "instrumentInfo": {
+      "uuid": "455010e1-1c05-45ae-b695-e23bb67f7af0"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "palaiseau",
+    "productId": "doppler-lidar-wind",
+    "instrumentInfo": {
+      "uuid": "455010e1-1c05-45ae-b695-e23bb67f7af0"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
     "siteId": "payerne",
     "productId": "disdrometer",
     "instrumentInfo": {
