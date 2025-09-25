@@ -184,6 +184,22 @@
     "measurementDate": "2020-01-01"
   },
   {
+    "siteId": "galati",
+    "productId": "disdrometer",
+    "instrumentInfo": {
+      "uuid": "070929c5-5027-47f6-92f4-4cc8bb35c585"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "galati",
+    "productId": "weather-station",
+    "instrumentInfo": {
+      "uuid": "8ca6674e-ad02-4d5f-bf8c-feccf2d11c3b"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
     "siteId": "granada",
     "productId": "disdrometer",
     "instrumentInfo": {
@@ -356,6 +372,14 @@
     "productId": "rain-gauge",
     "instrumentInfo": {
       "uuid": "49ca09de-ca9a-4e3e-9258-9c91ed5683f8"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "juelich",
+    "productId": "weather-station",
+    "instrumentInfo": {
+      "uuid": "726b3b29-de19-49cc-a20d-75259e289e94"
     },
     "measurementDate": "2020-01-01"
   },
