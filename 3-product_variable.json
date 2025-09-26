@@ -385,11 +385,11 @@
     "actrisName": "hydrometeor type classification"
   },
   {
-    "id": "classification-detection_status",
-    "humanReadableName": "Radar and lidar detection status",
+    "id": "classification-cloud_top_height_agl",
+    "humanReadableName": "Cloud top height",
     "order": 1,
     "product": "classification",
-    "actrisName": null
+    "actrisName": "cloud top height"
   },
   {
     "id": "classification-signal_source_status",
@@ -406,8 +406,8 @@
     "actrisName": null
   },
   {
-    "id": "classification-cloud_top_height_agl",
-    "humanReadableName": "Cloud top height",
+    "id": "classification-detection_status",
+    "humanReadableName": "Radar and lidar detection status (deprecated)",
     "order": 4,
     "product": "classification",
     "actrisName": null
