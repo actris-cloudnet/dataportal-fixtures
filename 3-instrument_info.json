@@ -73,7 +73,7 @@
     "uuid": "055aa99b-d53c-4163-95f2-54d8539cfe6f",
     "pid": "https://hdl.handle.net/21.12132/3.055aa99bd53c4163",
     "name": "ECoE PollyXT-CYP",
-    "serialNumber": null,
+    "serialNumber": "pollyxt_cyp",
     "model": "PollyXT",
     "type": "multiwavelength Raman polarization lidar",
     "owners": ["ERATOSTHENES Centre of Excellence (ECoE)"],
@@ -138,6 +138,16 @@
     "type": "Doppler non-scanning cloud radar",
     "owners": ["Babeș-Bolyai University (UBB)"],
     "instrument": "rpg-fmcw-94"
+  },
+  {
+    "uuid": "0b6f9ce3-ed36-4cc4-8a44-3470f026ff82",
+    "pid": "https://hdl.handle.net/21.12132/3.0b6f9ce3ed364cc4",
+    "name": "FMI Parsivel²-A",
+    "serialNumber": "452497",
+    "model": "OTT Parsivel²",
+    "type": "disdrometer",
+    "owners": ["Finnish Meteorological Institute (FMI)"],
+    "instrument": "parsivel"
   },
   {
     "uuid": "0b70b7b7-38cb-4593-8a91-85c8bacacaa6",
@@ -305,7 +315,7 @@
   {
     "uuid": "1e67e6c2-34d8-4b19-b6be-3eb17d20d297",
     "pid": "https://hdl.handle.net/21.12132/3.1e67e6c234d84b19",
-    "name": "UGR RPG-FMCW-94-DP",
+    "name": "UGR RPG-FMCW-94-DP (NEPHELE)",
     "serialNumber": "4010006",
     "model": "RPG-FMCW-94-DP-S",
     "type": "Doppler scanning cloud radar",
