@@ -125,6 +125,11 @@
     "description": "Test that precipitation rate and amount are consistent."
   },
   {
+    "testId": "TestRangeAndHeight",
+    "name": "Range and height",
+    "description": "Test that range and height data are valid."
+  },
+  {
     "testId": "TestStandardNames",
     "name": "Standard names",
     "description": "Check that variable have expected standard names."
