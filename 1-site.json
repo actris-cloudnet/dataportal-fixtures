@@ -97,7 +97,8 @@
     "actrisId": 110,
     "country": "Spain",
     "countryCode": "ES",
-    "type": ["cloudnet"]
+    "type": ["cloudnet"],
+    "description": "<p>UGR station is located in the city of Granada, a medium-sized\nnon-industrialised city (&gt; 500k inhabitants, including metropolitan area)\nsurrounded by high mountains (1000 to 3398 m asl), and 50 km\nfrom the Mediterranean coast. It presents large seasonal temperature\ndifferences, low relative humidity, scarce precipitation and light winds\ninfluenced by local mountain–valley flow. The station combines long-term\nmonitoring of the vertical distribution of atmospheric aerosol with in-situ\nmeasurements for aerosol particle characterisation, as well as cloud, solar and\natmospheric radiation monitoring at different spectral ranges. It is part of\nthe Andalusian Global ObseRvatory of the Atmosphere (AGORA), consisting of\nseveral sites allowing the coverage of different atmospheric backgrounds and\ncontributing to three ACTRIS components.</p>\n<p>Remote cloud observations in Granada have been continuously performed since\n2019, when the station’s first Doppler cloud radar was installed. Since 2024\nthe station is also equipped with a dual-frequency Doppler cloud radar with\nscanning capabilities that continuously feeds data to Cloudnet. These systems\ncomplemented the microwave radiometer and ceilometer measurements initiated in\nprevious years, together with additional instrumentation (e.g. Doppler lidar,\nmeterological station, disdrometer).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://atmosphere.ugr.es/en/research/projects/pls2022\">AGORA main site</a></li>\n<li><a href=\"https://atmosphere.ugr.es/en/about/presentation/facilities/ugr-station\">UGR station site</a></li>\n</ul>\n"
   },
   {
     "id": "hyytiala",
