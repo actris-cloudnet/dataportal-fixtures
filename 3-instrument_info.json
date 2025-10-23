@@ -1717,6 +1717,16 @@
     "instrument": "hatpro"
   },
   {
+    "uuid": "b47a3d0b-8a4c-4861-b3b1-349747751235",
+    "pid": "https://hdl.handle.net/21.12132/3.b47a3d0b8a4c4861",
+    "name": "TROPOS HATPRO-G5 (Melpitz)",
+    "serialNumber": null,
+    "model": "RPG-HATPRO-G5",
+    "type": "scanning microwave radiometer",
+    "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
+    "instrument": "hatpro"
+  },
+  {
     "uuid": "b4c99d3b-8b34-4a22-b19e-0d2315bc30d5",
     "pid": "https://hdl.handle.net/21.12132/3.b4c99d3b8b344a22",
     "name": "UoC Parsivel²",
