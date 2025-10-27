@@ -781,7 +781,7 @@
     "uuid": "4cab4fe7-d62c-406a-8369-059d615d7887",
     "pid": "https://hdl.handle.net/21.12132/3.4cab4fe7d62c406a",
     "name": "TROPOS CL61 (LACROS)",
-    "serialNumber": null,
+    "serialNumber": "W3518737",
     "model": "Vaisala CL61",
     "type": "depolarisation lidar ceilometer",
     "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
