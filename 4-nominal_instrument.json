@@ -200,6 +200,22 @@
     "measurementDate": "2020-01-01"
   },
   {
+    "siteId": "galati",
+    "productId": "doppler-lidar",
+    "instrumentInfo": {
+      "uuid": "24d6e545-ff2c-483e-beab-28d1fa13e170"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "galati",
+    "productId": "doppler-lidar-wind",
+    "instrumentInfo": {
+      "uuid": "24d6e545-ff2c-483e-beab-28d1fa13e170"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
     "siteId": "granada",
     "productId": "disdrometer",
     "instrumentInfo": {
@@ -804,6 +820,54 @@
     "productId": "weather-station",
     "instrumentInfo": {
       "uuid": "ef692a4f-b6fc-4c8f-bba0-646e2df8ec51"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "maido",
+    "productId": "radar",
+    "instrumentInfo": {
+      "uuid": "7eed1e4c-a919-490a-8484-ff377a958628"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "maido",
+    "productId": "lidar",
+    "instrumentInfo": {
+      "uuid": "157b13d2-1ee1-4e60-8871-bdde78659084"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "maido",
+    "productId": "mwr-single",
+    "instrumentInfo": {
+      "uuid": "d7350d66-862d-4bd3-a168-3225c235f530"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "maido",
+    "productId": "disdrometer",
+    "instrumentInfo": {
+      "uuid": "98151641-2b2c-4c73-8ef8-287d19f13653"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "maido",
+    "productId": "rain-gauge",
+    "instrumentInfo": {
+      "uuid": "00a9fdae-6ac8-4028-97f5-d1dd5c171991"
+    },
+    "measurementDate": "2020-01-01"
+  },
+  {
+    "siteId": "maido",
+    "productId": "weather-station",
+    "instrumentInfo": {
+      "uuid": "5421272f-0eb3-4540-84fe-895cf42893fc"
     },
     "measurementDate": "2020-01-01"
   }
