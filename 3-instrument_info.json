@@ -373,6 +373,16 @@
     "instrument": "cl61d"
   },
   {
+    "uuid": "24d6e545-ff2c-483e-beab-28d1fa13e170",
+    "pid": "https://hdl.handle.net/21.12132/3.24d6e545ff2c483e",
+    "name": "DJUG HALO",
+    "serialNumber": "1020-261",
+    "model": "StreamLine XR",
+    "type": "Doppler lidar",
+    "owners": ["\"Dunarea de Jos\" University of Galati (DJUG)"],
+    "instrument": "halo-doppler-lidar"
+  },
+  {
     "uuid": "254922f7-f5f8-4424-8eac-be0661ec99c5",
     "pid": "https://hdl.handle.net/21.12132/3.254922f7f5f84424",
     "name": "FMI CL51-B",
