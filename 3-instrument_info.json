@@ -2219,6 +2219,16 @@
     "instrument": "hatpro"
   },
   {
+    "uuid": "dac8781f-ef3e-4536-9b50-013df8553acd",
+    "pid": "https://hdl.handle.net/21.12132/3.dac8781fef3e4536",
+    "name": "TROPOS CL61 (Mindelo)",
+    "serialNumber": "W3631094",
+    "model": "Vaisala CL61",
+    "type": "depolarisation lidar ceilometer",
+    "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
+    "instrument": "cl61d"
+  },
+  {
     "uuid": "db58480f-58ca-49ad-995c-6c3b89e9a0fc",
     "pid": "https://hdl.handle.net/21.12132/3.db58480f58ca49ad",
     "name": "INOE HALO",
