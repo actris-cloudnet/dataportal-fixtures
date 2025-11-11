@@ -1,5 +1,40 @@
 [
   {
+    "id": "cpr-validation-ze_sat",
+    "humanReadableName": "Groud-based radar reflectivity factor",
+    "order": 0,
+    "product": "cpr-validation",
+    "actrisName": null
+  },
+  {
+    "id": "cpr-validation-echo_cpr",
+    "humanReadableName": "EarthCARE CPR radar reflectivity factor",
+    "order": 1,
+    "product": "cpr-validation",
+    "actrisName": null
+  },
+  {
+    "id": "cpr-validation-vm_sat_folded",
+    "humanReadableName": "Groud-based Doppler velocity",
+    "order": 2,
+    "product": "cpr-validation",
+    "actrisName": null
+  },
+  {
+    "id": "cpr-validation-v_cpr",
+    "humanReadableName": "EarthCARE CPR Doppler velocity",
+    "order": 3,
+    "product": "cpr-validation",
+    "actrisName": null
+  },
+  {
+    "id": "cpr-validation-cloud_top_height",
+    "humanReadableName": "EarthCARE MSI cloud top height",
+    "order": 4,
+    "product": "cpr-validation",
+    "actrisName": null
+  },
+  {
     "id": "cpr-simulation-ze_sat",
     "humanReadableName": "Convolved and integrated radar reflectivity factor",
     "order": 0,
