@@ -153,6 +153,13 @@
     "experimental": false
   },
   {
+    "id": "cpr-validation",
+    "humanReadableName": "EarthCARE CPR validation",
+    "type": ["evaluation"],
+    "experimental": true,
+    "downloadable": false
+  },
+  {
     "id": "radar",
     "humanReadableName": "Radar",
     "type": ["instrument"],
