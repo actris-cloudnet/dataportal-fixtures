@@ -83,7 +83,7 @@
     "uuid": "057664d9-f5cd-46cb-8fb1-376297e82988",
     "pid": "https://hdl.handle.net/21.12132/3.057664d9f5cd46cb",
     "name": "TROPOS Precipitation Transmitter (Mindelo)",
-    "serialNumber": null,
+    "serialNumber": "62400027",
     "model": "Thies Clima Precipitation Transmitter (5.4041.x1.00x)",
     "type": "weighing rain gauge",
     "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
@@ -163,7 +163,7 @@
     "uuid": "0bc7d487-84f1-4637-88c1-d197a4c053b7",
     "pid": "https://hdl.handle.net/21.12132/3.0bc7d48784f14637",
     "name": "TROPOS Parsivel² (OCEANET)",
-    "serialNumber": null,
+    "serialNumber": "450727",
     "model": "OTT Parsivel²",
     "type": "disdrometer",
     "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
@@ -341,6 +341,16 @@
     "type": "lidar ceilometer",
     "owners": ["University of Leeds"],
     "instrument": "cs135"
+  },
+  {
+    "uuid": "21c6e8c4-0dfe-4c18-86d1-f806ad667e2e",
+    "pid": "https://hdl.handle.net/21.12132/3.21c6e8c40dfe4c18",
+    "name": "FMI HALO 33",
+    "serialNumber": "33",
+    "model": "StreamLine",
+    "type": "Doppler lidar",
+    "owners": ["Finnish Meteorological Institute (FMI)"],
+    "instrument": "halo-doppler-lidar"
   },
   {
     "uuid": "2326864c-312d-4ce0-806c-c63fc221c65d",
@@ -1097,7 +1107,7 @@
     "uuid": "70dd0955-3d13-484d-9a03-35fd0e645db0",
     "pid": "https://hdl.handle.net/21.12132/3.70dd09553d13484d",
     "name": "DWD RPG-FMCW-94-DP",
-    "serialNumber": null,
+    "serialNumber": "401 0018",
     "model": "RPG-FMCW-94-DP",
     "type": "Doppler non-scanning cloud radar",
     "owners": ["German Meteorological Service (DWD)"],
@@ -1267,7 +1277,7 @@
     "uuid": "7ddef75d-7fee-4dba-8fe0-c43f8f5f4265",
     "pid": "https://hdl.handle.net/21.12132/3.7ddef75d7fee4dba",
     "name": "TROPOS MIRA-35 (MBR9)",
-    "serialNumber": null,
+    "serialNumber": "MBR9",
     "model": "METEK MIRA-35",
     "type": "Doppler non-scanning cloud radar",
     "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
@@ -2026,7 +2036,7 @@
     "uuid": "c98b69a5-099a-4154-b48f-4b555ee8eb41",
     "pid": "https://hdl.handle.net/21.12132/3.c98b69a5099a4154",
     "name": "TROPOS MIRA-35S (MBR7)",
-    "serialNumber": "mira35_MBR7",
+    "serialNumber": "MBR7",
     "model": "METEK MIRA-35S",
     "type": "Doppler scanning cloud radar",
     "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
@@ -2041,6 +2051,16 @@
     "type": "microwave radiometer",
     "owners": ["German Meteorological Service (DWD)"],
     "instrument": "radiometrics"
+  },
+  {
+    "uuid": "cc152203-d782-4c70-af10-ae123ce661b8",
+    "pid": "https://hdl.handle.net/21.12132/3.cc152203d7824c70",
+    "name": "UoC Parsivel²-B",
+    "serialNumber": "304640",
+    "model": "OTT Parsivel²",
+    "type": "disdrometer",
+    "owners": ["University of Cologne (UoC)"],
+    "instrument": "parsivel"
   },
   {
     "uuid": "cc2f4588-7f54-480b-a25c-f708d3f2ea77",
@@ -2125,6 +2145,16 @@
     "instrument": "chm15k"
   },
   {
+    "uuid": "d4a3b0f0-f307-4c11-8d63-a8a8adfdfe61",
+    "pid": "https://hdl.handle.net/21.12132/3.d4a3b0f0f3074c11",
+    "name": "FMI Parsivel²-B",
+    "serialNumber": "452498",
+    "model": "OTT Parsivel²",
+    "type": "disdrometer",
+    "owners": ["Finnish Meteorological Institute (FMI)"],
+    "instrument": "parsivel"
+  },
+  {
     "uuid": "d4aea75d-470a-4881-a125-71ceb0172413",
     "pid": "https://hdl.handle.net/21.12132/3.d4aea75d470a4881",
     "name": "DWD MP-3039A",
@@ -2200,7 +2230,7 @@
     "uuid": "d98f6fd2-bec9-4e5e-b1d3-5ca422529215",
     "pid": "https://hdl.handle.net/21.12132/3.d98f6fd2bec94e5e",
     "name": "INOE MIRA-35S",
-    "serialNumber": null,
+    "serialNumber": "MBR6",
     "model": "METEK MIRA-35S",
     "type": "Doppler scanning cloud radar",
     "owners": [
@@ -2410,7 +2440,7 @@
     "uuid": "ec09dc9c-028c-42d1-a4cc-2c19dc470be8",
     "pid": "https://hdl.handle.net/21.12132/3.ec09dc9c028c42d1",
     "name": "TROPOS MIRA-35S (LACROS)",
-    "serialNumber": "mira35_NMRA",
+    "serialNumber": "NMRA",
     "model": "METEK MIRA-35S",
     "type": "Doppler scanning cloud radar",
     "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
@@ -2570,7 +2600,7 @@
     "uuid": "fbf9185d-bde3-45ab-99a9-e1da863ae8d6",
     "pid": "https://hdl.handle.net/21.12132/3.fbf9185dbde345ab",
     "name": "TROPOS HATPRO-G5 (Mindelo)",
-    "serialNumber": null,
+    "serialNumber": "0030191",
     "model": "RPG-HATPRO-G5",
     "type": "scanning microwave radiometer",
     "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
