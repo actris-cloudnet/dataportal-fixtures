@@ -2383,6 +2383,16 @@
     "instrument": "hatpro"
   },
   {
+    "uuid": "e7570f66-95ea-4afb-9d4d-997520ef4b71",
+    "pid": "https://hdl.handle.net/21.12132/3.e7570f6695ea4afb",
+    "name": "LIM HALO",
+    "serialNumber": "0322-238",
+    "model": "StreamLine XR",
+    "type": "Doppler lidar",
+    "owners": ["Leipzig Institute for Meteorology (LIM)"],
+    "instrument": "halo-doppler-lidar"
+  },
+  {
     "uuid": "e7fe5a4f-26ac-4717-8c99-d87e0e95c5ad",
     "pid": "https://hdl.handle.net/21.12132/3.e7fe5a4f26ac4717",
     "name": "INOE HATPRO-G5",
