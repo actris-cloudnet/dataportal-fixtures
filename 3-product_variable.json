@@ -1,5 +1,19 @@
 [
   {
+    "id": "cpr-tc-validation-target_classification",
+    "humanReadableName": "Cloudnet target classification",
+    "order": 0,
+    "product": "cpr-tc-validation",
+    "actrisName": "hydrometeor type classification"
+  },
+  {
+    "id": "cpr-tc-validation-target_classification_cpr",
+    "humanReadableName": "CPR target classification",
+    "order": 1,
+    "product": "cpr-tc-validation",
+    "actrisName": "hydrometeor type classification"
+  },
+  {
     "id": "cpr-validation-ze_sat",
     "humanReadableName": "Groud-based radar reflectivity factor",
     "order": 0,
