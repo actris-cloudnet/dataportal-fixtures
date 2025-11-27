@@ -1348,6 +1348,16 @@
     "instrument": "mira-35"
   },
   {
+    "uuid": "816e3e20-c6a4-4fb8-8b8a-7f9fe919eaec",
+    "pid": "https://hdl.handle.net/21.12132/3.816e3e20c6a44fb8",
+    "name": "FMI HATPRO-G5",
+    "serialNumber": "003 0258",
+    "model": "RPG-HATPRO-G5",
+    "type": "scanning microwave radiometer",
+    "owners": ["Finnish Meteorological Institute (FMI)"],
+    "instrument": "hatpro"
+  },
+  {
     "uuid": "81960b92-0755-4267-89aa-fcc8b0091eb1",
     "pid": "https://hdl.handle.net/21.12132/3.81960b9207554267",
     "name": "FMI CL61-A",
