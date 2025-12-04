@@ -860,6 +860,16 @@
     "instrument": "pluvio"
   },
   {
+    "uuid": "555f748f-7263-4a19-a184-55611d1f899b",
+    "pid": "https://hdl.handle.net/21.12132/3.555f748f72634a19",
+    "name": "MeteoSwiss HATPRO-G5 (2)",
+    "serialNumber": "30235",
+    "model": "RPG-HATPRO-G5",
+    "type": "scanning microwave radiometer",
+    "owners": ["Federal Office of Meteorology and Climatology MeteoSwiss"],
+    "instrument": "hatpro"
+  },
+  {
     "uuid": "56a7a31f-620d-44bb-b0ef-246e7f26c6ae",
     "pid": "https://hdl.handle.net/21.12132/3.56a7a31f620d44bb",
     "name": "UGR CHM 15k",
