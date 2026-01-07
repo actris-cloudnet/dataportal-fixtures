@@ -2240,5 +2240,18 @@
     "country": "Denmark (Greenland)",
     "countryCode": "GL",
     "type": ["campaign"]
+  },
+  {
+    "id": "tawhaki",
+    "humanReadableName": "Tāwhaki",
+    "latitude": -43.8279,
+    "longitude": 172.5378,
+    "altitude": 5,
+    "gaw": null,
+    "wigosId": "0-554-0-93790",
+    "actrisId": null,
+    "country": "New Zealand",
+    "countryCode": "NZ",
+    "type": ["campaign"]
   }
 ]
