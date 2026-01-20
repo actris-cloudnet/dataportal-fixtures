@@ -159,5 +159,10 @@
     "id": "arpege",
     "humanReadableName": "ARPEGE",
     "optimumOrder": 1000
+  },
+  {
+    "id": "arome",
+    "humanReadableName": "AROME",
+    "optimumOrder": 1000
   }
 ]
