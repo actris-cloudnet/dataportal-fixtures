@@ -138,6 +138,33 @@
     "citations": [{ "id": "arpege_cite" }]
   },
   {
+    "id": "arome-0-11",
+    "humanReadableName": "AROME (0h-11h forecast)",
+    "optimumOrder": 215,
+    "sourceModel": { "id": "arome" },
+    "forecastStart": 0,
+    "forecastEnd": 11,
+    "citations": [{ "id": "arome_cite" }]
+  },
+  {
+    "id": "arome-12-23",
+    "humanReadableName": "AROME (12h-23h forecast)",
+    "optimumOrder": 216,
+    "sourceModel": { "id": "arome" },
+    "forecastStart": 12,
+    "forecastEnd": 23,
+    "citations": [{ "id": "arome_cite" }]
+  },
+  {
+    "id": "arome-24-35",
+    "humanReadableName": "AROME (24h-35h forecast)",
+    "optimumOrder": 217,
+    "sourceModel": { "id": "arome" },
+    "forecastStart": 24,
+    "forecastEnd": 35,
+    "citations": [{ "id": "arome_cite" }]
+  },
+  {
     "id": "ecmwf-open",
     "humanReadableName": "ECMWF IFS forecast (open data)",
     "optimumOrder": 300,

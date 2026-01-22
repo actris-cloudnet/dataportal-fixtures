@@ -22,5 +22,9 @@
   {
     "id": "arpege_cite",
     "acknowledgements": "Météo-France for providing ARPEGE model data."
+  },
+  {
+    "id": "arome_cite",
+    "acknowledgements": "Météo-France for providing AROME model data."
   }
 ]
