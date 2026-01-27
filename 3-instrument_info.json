@@ -563,6 +563,16 @@
     "instrument": "rpg-fmcw-94"
   },
   {
+    "uuid": "38842be0-adc6-4752-800a-8adf14ccd436",
+    "pid": "https://hdl.handle.net/21.12132/3.38842be0adc64752",
+    "name": "TROPOS Precipitation Transmitter (Melpitz)",
+    "serialNumber": null,
+    "model": "Thies Clima Precipitation Transmitter (5.4041.x1.00x)",
+    "type": "weighing rain gauge",
+    "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
+    "instrument": "thies-precipitation-transmitter"
+  },
+  {
     "uuid": "38c84797-7e76-4f16-96cf-6bc31142ac71",
     "pid": "https://hdl.handle.net/21.12132/3.38c847977e764f16",
     "name": "AWI CL51",
@@ -1114,6 +1124,26 @@
     "instrument": "cl51"
   },
   {
+    "uuid": "6ff9f3e6-c51b-4b45-807f-c5f6fa717ee0",
+    "pid": "https://hdl.handle.net/21.12132/3.6ff9f3e6c51b4b45",
+    "name": "TROPOS PollyXT (Melpitz)",
+    "serialNumber": "pollyxt_melpitz",
+    "model": "PollyXT",
+    "type": "multiwavelength Raman polarization lidar",
+    "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
+    "instrument": "pollyxt"
+  },
+  {
+    "uuid": "7002e439-db13-4203-96c8-c781f7395509",
+    "pid": "https://hdl.handle.net/21.12132/3.7002e439db134203",
+    "name": "TROPOS Parsivel² (Melpitz)",
+    "serialNumber": null,
+    "model": "OTT Parsivel²",
+    "type": "disdrometer",
+    "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
+    "instrument": "parsivel"
+  },
+  {
     "uuid": "70dd0955-3d13-484d-9a03-35fd0e645db0",
     "pid": "https://hdl.handle.net/21.12132/3.70dd09553d13484d",
     "name": "DWD RPG-FMCW-94-DP",
@@ -1192,6 +1222,16 @@
     "type": "disdrometer",
     "owners": ["Consiglio Nazionale delle Ricerche (CNR)"],
     "instrument": "parsivel"
+  },
+  {
+    "uuid": "75d6aaaf-bf1a-461d-bc24-533817475345",
+    "pid": "https://hdl.handle.net/21.12132/3.75d6aaafbf1a461d",
+    "name": "TROPOS CHM 15k (Melpitz)",
+    "serialNumber": null,
+    "model": "Lufft CHM 15k",
+    "type": "lidar ceilometer",
+    "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
+    "instrument": "chm15k"
   },
   {
     "uuid": "76c0d08e-7856-44e4-912b-71423d5acc9b",
@@ -1286,7 +1326,7 @@
   {
     "uuid": "7ddef75d-7fee-4dba-8fe0-c43f8f5f4265",
     "pid": "https://hdl.handle.net/21.12132/3.7ddef75d7fee4dba",
-    "name": "TROPOS MIRA-35 (MBR9)",
+    "name": "TROPOS MIRA-35 (MBR9 Melpitz)",
     "serialNumber": "MBR9",
     "model": "METEK MIRA-35",
     "type": "Doppler non-scanning cloud radar",
