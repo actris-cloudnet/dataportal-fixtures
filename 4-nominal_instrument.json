@@ -481,11 +481,63 @@
   },
   {
     "siteId": "lindenberg",
-    "productId": "mwr-single",
+    "instrumentInfo": { "uuid": "c6f674c2-2f4f-4664-888c-edd3a5d68358" },
+    "measurementDate": "2004-04-01",
+    "productId": "mwr"
+  },
+  {
+    "siteId": "lindenberg",
+    "instrumentInfo": { "uuid": "c6e347a7-1866-4113-9c3b-9b3e91308b15" },
+    "measurementDate": "2007-07-01",
+    "productId": "mwr"
+  },
+  {
+    "siteId": "lindenberg",
+    "instrumentInfo": {
+      "uuid": "d4aea75d-470a-4881-a125-71ceb0172413"
+    },
+    "measurementDate": "2016-12-20",
+    "productId": "mwr"
+  },
+  {
+    "siteId": "lindenberg",
+    "instrumentInfo": {
+      "uuid": "ca8e1697-7a63-4793-aa77-2c73c68dda00"
+    },
+    "measurementDate": "2018-08-10",
+    "productId": "mwr"
+  },
+  {
+    "siteId": "lindenberg",
+    "instrumentInfo": {
+      "uuid": "e5ef4b05-56c0-4aa9-9f1a-dde43374c454"
+    },
+    "measurementDate": "2020-01-05",
+    "productId": "mwr"
+  },
+  {
+    "siteId": "lindenberg",
+    "instrumentInfo": {
+      "uuid": "e5ef4b05-56c0-4aa9-9f1a-dde43374c454"
+    },
+    "measurementDate": "2020-01-05",
+    "productId": "mwr-single"
+  },
+  {
+    "siteId": "lindenberg",
     "instrumentInfo": {
       "uuid": "442ec2ea-9a24-440e-959a-709f487732ae"
     },
-    "measurementDate": "2020-01-01"
+    "measurementDate": "2022-02-25",
+    "productId": "mwr"
+  },
+  {
+    "siteId": "lindenberg",
+    "instrumentInfo": {
+      "uuid": "442ec2ea-9a24-440e-959a-709f487732ae"
+    },
+    "measurementDate": "2022-02-25",
+    "productId": "mwr-single"
   },
   {
     "siteId": "lindenberg",
