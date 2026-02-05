@@ -265,7 +265,7 @@
   {
     "uuid": "19156417-0f8a-4686-ac5d-9d51f62229d7",
     "pid": "https://hdl.handle.net/21.12132/3.191564170f8a4686",
-    "name": "UH RPG-FMCW-94",
+    "name": "UH RPG-FMCW-94 (HYDRA-W)",
     "serialNumber": "RPG-FMCW-17-002",
     "model": "RPG-FMCW-94-DP",
     "type": "Doppler non-scanning cloud radar",
@@ -1227,7 +1227,7 @@
     "uuid": "75d6aaaf-bf1a-461d-bc24-533817475345",
     "pid": "https://hdl.handle.net/21.12132/3.75d6aaafbf1a461d",
     "name": "TROPOS CHM 15k (Melpitz)",
-    "serialNumber": null,
+    "serialNumber": "CHM170103",
     "model": "Lufft CHM 15k",
     "type": "lidar ceilometer",
     "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
@@ -1621,6 +1621,16 @@
     "type": "Doppler non-scanning cloud radar",
     "owners": ["ERATOSTHENES Centre of Excellence (ECoE)"],
     "instrument": "mira-35"
+  },
+  {
+    "uuid": "9b914f8c-94c4-438a-9703-985ded643598",
+    "pid": "https://hdl.handle.net/21.12132/3.9b914f8c94c4438a",
+    "name": "IPSL CHM 15K (2021)",
+    "serialNumber": "CHM200127",
+    "model": "Lufft CHM 15k",
+    "type": "lidar ceilometer",
+    "owners": ["Institut Pierre-Simon Laplace (IPSL)"],
+    "instrument": "chm15k"
   },
   {
     "uuid": "9c7bcece-9186-42ea-abc2-5649e7546ed5",
