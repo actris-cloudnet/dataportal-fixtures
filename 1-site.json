@@ -1338,10 +1338,14 @@
   {
     "id": "burjassot",
     "humanReadableName": "Burjassot",
+    "stationName": "BASS",
     "latitude": 39.5,
     "longitude": -0.42,
     "altitude": 89,
     "gaw": null,
+    "wigosId": "0-724-60000-00000000000UV001",
+    "dvasId": "5J7K",
+    "actrisId": null,
     "country": "Spain",
     "countryCode": "ES",
     "type": ["hidden", "model"]
