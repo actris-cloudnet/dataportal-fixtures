@@ -840,6 +840,16 @@
     "instrument": "cl51"
   },
   {
+    "uuid": "53c2df8d-c1c8-4f7c-b283-92529b3e38f3",
+    "pid": "https://hdl.handle.net/21.12132/3.53c2df8dc1c84f7c",
+    "name": "UV CL51",
+    "serialNumber": "CL010326",
+    "model": "Vaisala CL51",
+    "type": "lidar ceilometer",
+    "owners": ["University of Valencia (UV)"],
+    "instrument": "cl51"
+  },
+  {
     "uuid": "5421272f-0eb3-4540-84fe-895cf42893fc",
     "pid": "https://hdl.handle.net/21.12132/3.5421272f0eb34540",
     "name": "LACy MetConnect One",
