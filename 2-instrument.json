@@ -273,5 +273,12 @@
     "humanReadableName": "Vaisala Present Weather Sensor FD12",
     "shortName": "Vaisala FD12",
     "derivedProducts": [{ "id": "weather-station" }]
+  },
+  {
+    "id": "wibs-5",
+    "type": "bioaerosol-sensor",
+    "humanReadableName": "Droplet WIBS-5 NEO",
+    "shortName": "Droplet WIBS-5",
+    "derivedProducts": []
   }
 ]
