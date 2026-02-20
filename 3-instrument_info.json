@@ -443,6 +443,16 @@
     "instrument": "mrr-pro"
   },
   {
+    "uuid": "2966e3f4-fb95-468f-94d7-81434a11fa62",
+    "pid": "https://hdl.handle.net/21.12132/3.2966e3f4fb95468f",
+    "name": "INPE Parsivel²",
+    "serialNumber": null,
+    "model": "OTT Parsivel²",
+    "type": "disdrometer",
+    "owners": ["National Institute for Space Research (INPE)"],
+    "instrument": "parsivel"
+  },
+  {
     "uuid": "2a126822-35ec-41c7-b9d1-4441da3cac42",
     "pid": "https://hdl.handle.net/21.12132/3.2a12682235ec41c7",
     "name": "NPI CL61",
@@ -1194,6 +1204,16 @@
     "instrument": "weather-station"
   },
   {
+    "uuid": "72fb657c-b204-49fa-aad5-eb59a51cbad1",
+    "pid": "https://hdl.handle.net/21.12132/3.72fb657cb20449fa",
+    "name": "NASA RD-80",
+    "serialNumber": null,
+    "model": "Joss–Waldvogel Disdrometer RD-80",
+    "type": "disdrometer",
+    "owners": ["National Aeronautics and Space Administration (NASA)"],
+    "instrument": "rd-80"
+  },
+  {
     "uuid": "73814379-1c52-4103-aad5-71a17a3401f8",
     "pid": "https://hdl.handle.net/21.12132/3.738143791c524103",
     "name": "TROPOS HALO XR (Timmy)",
@@ -1382,6 +1402,16 @@
     "type": "weather station",
     "owners": ["University of Helsinki (UH)"],
     "instrument": "weather-station"
+  },
+  {
+    "uuid": "8025e920-2518-46da-a36b-c7b383944b88",
+    "pid": "https://hdl.handle.net/21.12132/3.8025e920251846da",
+    "name": "IFUSP MIRA-35C",
+    "serialNumber": null,
+    "model": "METEK MIRA-35C",
+    "type": "Doppler non-scanning cloud radar",
+    "owners": ["Institute of Physics of the University of São Paulo (IFUSP)"],
+    "instrument": "mira-35"
   },
   {
     "uuid": "81201c9e-a7f5-4352-bca2-9ae59e25be35",
@@ -2567,6 +2597,16 @@
     "instrument": "hatpro"
   },
   {
+    "uuid": "f3c16fc5-0e8a-4964-8f1a-d058dcaf1d12",
+    "pid": "https://hdl.handle.net/21.12132/3.f3c16fc50e8a4964",
+    "name": "IFUSP CHM 15k",
+    "serialNumber": null,
+    "model": "Lufft CHM 15k",
+    "type": "lidar ceilometer",
+    "owners": ["Institute of Physics of the University of São Paulo (IFUSP)"],
+    "instrument": "chm15k"
+  },
+  {
     "uuid": "f400460f-9519-4803-818f-e03245c00e12",
     "pid": "https://hdl.handle.net/21.12132/3.f400460f95194803",
     "name": "KIT Pluvio²",
@@ -2705,6 +2745,16 @@
     "type": "present weather sensor",
     "owners": ["German Meteorological Service (DWD)"],
     "instrument": "fd12"
+  },
+  {
+    "uuid": "fd9a03f7-c816-4acc-83ea-9867e15648f4",
+    "pid": "https://hdl.handle.net/21.12132/3.fd9a03f7c8164acc",
+    "name": "UEA MP-3000A",
+    "serialNumber": null,
+    "model": "Radiometrics MP-3000A",
+    "type": "microwave radiometer",
+    "owners": ["Amazonas State University (UEA)"],
+    "instrument": "radiometrics"
   },
   {
     "uuid": "ffb25f43-330f-4793-bd6b-f2425cee0fd0",
