@@ -280,5 +280,12 @@
     "humanReadableName": "Droplet WIBS-5 NEO",
     "shortName": "Droplet WIBS-5",
     "derivedProducts": []
+  },
+  {
+    "id": "rd-80",
+    "type": "disdrometer",
+    "humanReadableName": "Distromet Joss–Waldvogel Disdrometer RD-80",
+    "shortName": "Disdromet RD-80",
+    "derivedProducts": []
   }
 ]
