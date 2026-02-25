@@ -278,14 +278,21 @@
     "id": "wibs-5",
     "type": "bioaerosol-sensor",
     "humanReadableName": "Droplet WIBS-5 NEO",
-    "shortName": "Droplet WIBS-5",
+    "shortName": "WIBS-5 bioaerosol sensor",
     "derivedProducts": []
   },
   {
     "id": "rd-80",
     "type": "disdrometer",
     "humanReadableName": "Distromet Joss–Waldvogel Disdrometer RD-80",
-    "shortName": "Disdromet RD-80",
+    "shortName": "RD-80 disdrometer",
+    "derivedProducts": []
+  },
+  {
+    "id": "xpol",
+    "type": "radar",
+    "humanReadableName": "ProSensing XPOL weather radar",
+    "shortName": "XPOL weather radar",
     "derivedProducts": []
   }
 ]
