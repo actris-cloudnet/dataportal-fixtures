@@ -718,7 +718,7 @@
     "name": "LAPI WIBS",
     "serialNumber": null,
     "model": "WIBS-5 NEO",
-    "type": "Bioaerosol sensor",
+    "type": "bioaerosol sensor",
     "owners": [
       "École Polytechnique Fédérale de Lausanne LAPI (EPFL-LAPI)",
       "FORTH Center of Studies on Air quality and Climate Change (FORTH-C-STACC)"
@@ -1898,6 +1898,16 @@
     "type": "Doppler non-scanning cloud radar",
     "owners": ["University of Warsaw (UW)"],
     "instrument": "basta"
+  },
+  {
+    "uuid": "b553925c-b93b-4d66-8020-bd5b5df62864",
+    "pid": "https://hdl.handle.net/21.12132/3.b553925cb93b4d66",
+    "name": "LAPI MXPol",
+    "serialNumber": null,
+    "model": "ProSensing XPOL",
+    "type": "Doppler scanning cloud radar",
+    "owners": ["École Polytechnique Fédérale de Lausanne LAPI (EPFL-LAPI)"],
+    "instrument": "xpol"
   },
   {
     "uuid": "b5b5f67e-6832-4bfe-a4e7-12e8b00f730e",
