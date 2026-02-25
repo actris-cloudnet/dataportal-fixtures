@@ -90,6 +90,16 @@
     "instrument": "thies-precipitation-transmitter"
   },
   {
+    "uuid": "06454930-39fe-4116-80ba-8b7b1f90c1ea",
+    "pid": "https://hdl.handle.net/21.12132/3.0645493039fe4116",
+    "name": "METEK MIRA-35S",
+    "serialNumber": "MBR5",
+    "model": "METEK MIRA-35S",
+    "type": "Doppler scanning cloud radar",
+    "owners": ["METEK Meteorologische Messtechnik GmbH"],
+    "instrument": "mira-35"
+  },
+  {
     "uuid": "070929c5-5027-47f6-92f4-4cc8bb35c585",
     "pid": "https://hdl.handle.net/21.12132/3.070929c5502747f6",
     "name": "DJUG Parsivel²",
@@ -701,6 +711,19 @@
     "type": "Doppler lidar",
     "owners": ["German Meteorological Service (DWD)"],
     "instrument": "halo-doppler-lidar"
+  },
+  {
+    "uuid": "43291806-c31c-4a99-8316-9ae7f410ca28",
+    "pid": "https://hdl.handle.net/21.12132/3.43291806c31c4a99",
+    "name": "LAPI WIBS",
+    "serialNumber": null,
+    "model": "WIBS-5 NEO",
+    "type": "Bioaerosol sensor",
+    "owners": [
+      "École Polytechnique Fédérale de Lausanne LAPI (EPFL-LAPI)",
+      "FORTH Center of Studies on Air quality and Climate Change (FORTH-C-STACC)"
+    ],
+    "instrument": "wibs-5"
   },
   {
     "uuid": "43d52546-ba90-476e-b152-74993a255040",
