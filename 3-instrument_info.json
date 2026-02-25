@@ -92,7 +92,7 @@
   {
     "uuid": "06454930-39fe-4116-80ba-8b7b1f90c1ea",
     "pid": "https://hdl.handle.net/21.12132/3.0645493039fe4116",
-    "name": "METEK MIRA-35S",
+    "name": "METEK MIRA-35S (MBR5)",
     "serialNumber": "MBR5",
     "model": "METEK MIRA-35S",
     "type": "Doppler scanning cloud radar",
@@ -715,9 +715,9 @@
   {
     "uuid": "43291806-c31c-4a99-8316-9ae7f410ca28",
     "pid": "https://hdl.handle.net/21.12132/3.43291806c31c4a99",
-    "name": "LAPI WIBS",
+    "name": "LAPI WIBS-5",
     "serialNumber": null,
-    "model": "WIBS-5 NEO",
+    "model": "WIBS-5/NEO",
     "type": "bioaerosol sensor",
     "owners": [
       "École Polytechnique Fédérale de Lausanne LAPI (EPFL-LAPI)",
@@ -791,8 +791,8 @@
   {
     "uuid": "49884fea-4fde-4ddd-8add-d07bf9f58cbe",
     "pid": "https://hdl.handle.net/21.12132/3.49884fea4fde4ddd",
-    "name": "ENEA MIRA-35C",
-    "serialNumber": "008MBC8",
+    "name": "ENEA MIRA-35C (MBC8)",
+    "serialNumber": "MBC8",
     "model": "METEK MIRA-35C",
     "type": "Doppler non-scanning cloud radar",
     "owners": [
@@ -935,8 +935,8 @@
   {
     "uuid": "5791f98b-2a73-48ce-9776-ea252d617b7b",
     "pid": "https://hdl.handle.net/21.12132/3.5791f98b2a7348ce",
-    "name": "CNR MIRA-35C",
-    "serialNumber": null,
+    "name": "CNR MIRA-35C (MBC7)",
+    "serialNumber": "MBC7",
     "model": "METEK MIRA-35C",
     "type": "Doppler non-scanning cloud radar",
     "owners": ["Consiglio Nazionale delle Ricerche (CNR)"],
@@ -1429,8 +1429,8 @@
   {
     "uuid": "8025e920-2518-46da-a36b-c7b383944b88",
     "pid": "https://hdl.handle.net/21.12132/3.8025e920251846da",
-    "name": "IFUSP MIRA-35C",
-    "serialNumber": null,
+    "name": "IFUSP MIRA-35C (MBC5)",
+    "serialNumber": "MBC5",
     "model": "METEK MIRA-35C",
     "type": "Doppler non-scanning cloud radar",
     "owners": ["Institute of Physics of the University of São Paulo (IFUSP)"],
