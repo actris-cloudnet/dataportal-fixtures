@@ -493,6 +493,16 @@
     "instrument": "cl31"
   },
   {
+    "uuid": "2d386110-ecd2-4616-ac0c-60e434637197",
+    "pid": "https://hdl.handle.net/21.12132/3.2d386110ecd24616",
+    "name": "UB CL61",
+    "serialNumber": "X4326909",
+    "model": "Vaisala CL61",
+    "type": "depolarisation lidar ceilometer",
+    "owners": ["University of Bern (UB)"],
+    "instrument": "cl61d"
+  },
+  {
     "uuid": "30d4d1ff-4bb8-43ca-97a0-f794195030e1",
     "pid": "https://hdl.handle.net/21.12132/3.30d4d1ff4bb843ca",
     "name": "UoC HATPRO-G1 (SUNHAT)",
@@ -1180,7 +1190,7 @@
     "uuid": "7002e439-db13-4203-96c8-c781f7395509",
     "pid": "https://hdl.handle.net/21.12132/3.7002e439db134203",
     "name": "TROPOS Parsivel² (Melpitz)",
-    "serialNumber": null,
+    "serialNumber": "452953",
     "model": "OTT Parsivel²",
     "type": "disdrometer",
     "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
@@ -1968,6 +1978,16 @@
     "type": "Doppler scanning cloud radar",
     "owners": ["Delft University of Technology (TU Delft)"],
     "instrument": "rpg-fmcw-94"
+  },
+  {
+    "uuid": "bb129770-29a9-4d8f-8b9c-12a2a0fc6b43",
+    "pid": "https://hdl.handle.net/21.12132/3.bb12977029a94d8f",
+    "name": "MeteoSwiss Parsivel²",
+    "serialNumber": "451909",
+    "model": "OTT Parsivel²",
+    "type": "disdrometer",
+    "owners": ["Federal Office of Meteorology and Climatology MeteoSwiss"],
+    "instrument": "parsivel"
   },
   {
     "uuid": "bba0a978-95f3-4817-9223-4f3334289cd0",
