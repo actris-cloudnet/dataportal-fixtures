@@ -242,7 +242,7 @@
   {
     "id": "minimpl",
     "type": "lidar",
-    "humanReadableName": "Droplet MiniMPL lidar",
+    "humanReadableName": "DMT MiniMPL lidar",
     "shortName": "MiniMPL lidar",
     "derivedProducts": []
   },
@@ -277,7 +277,7 @@
   {
     "id": "wibs-5",
     "type": "bioaerosol-sensor",
-    "humanReadableName": "Droplet WIBS-5 NEO",
+    "humanReadableName": "DMT WIBS-5/NEO",
     "shortName": "WIBS-5 bioaerosol sensor",
     "derivedProducts": []
   },
