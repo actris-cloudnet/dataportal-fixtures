@@ -893,6 +893,16 @@
     "instrument": "cl51"
   },
   {
+    "uuid": "53260d43-a3f4-4b45-9cdf-0b2e5fe0cf01",
+    "pid": "https://hdl.handle.net/21.12132/3.53260d43a3f44b45",
+    "name": "NTUA ARIS-1",
+    "serialNumber": "NTUA-LRSU-05",
+    "model": "ARIS",
+    "type": "lidar",
+    "owners": ["National Technical University of Athens (NTUA)"],
+    "instrument": "aris"
+  },
+  {
     "uuid": "53c2df8d-c1c8-4f7c-b283-92529b3e38f3",
     "pid": "https://hdl.handle.net/21.12132/3.53c2df8dc1c84f7c",
     "name": "UV CL51",
@@ -1938,6 +1948,16 @@
     "type": "lidar ceilometer",
     "owners": ["Finnish Meteorological Institute (FMI)"],
     "instrument": "ct25k"
+  },
+  {
+    "uuid": "b737e7be-fc2a-4e15-aa0a-d7db56b8e2b2",
+    "pid": "https://hdl.handle.net/21.12132/3.b737e7befc2a4e15",
+    "name": "NTUA AIAS",
+    "serialNumber": "LB11-IV-D200-5",
+    "model": "AIAS",
+    "type": "lidar",
+    "owners": ["National Technical University of Athens (NTUA)"],
+    "instrument": "aias"
   },
   {
     "uuid": "b7813902-db9d-42e4-9e7f-fa781bdb0a75",

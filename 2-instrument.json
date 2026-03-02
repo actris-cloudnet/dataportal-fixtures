@@ -294,5 +294,19 @@
     "humanReadableName": "ProSensing XPOL weather radar",
     "shortName": "XPOL weather radar",
     "derivedProducts": []
+  },
+  {
+    "id": "aris",
+    "type": "lidar",
+    "humanReadableName": "AeRosol cloud lIdar System (ARIS)",
+    "shortName": "ARIS lidar",
+    "derivedProducts": []
+  },
+  {
+    "id": "aias",
+    "type": "lidar",
+    "humanReadableName": "Raymetrics AIAS depolarization lidar",
+    "shortName": "AIAS lidar",
+    "derivedProducts": []
   }
 ]
