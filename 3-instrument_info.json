@@ -423,6 +423,16 @@
     "instrument": "radiometrics"
   },
   {
+    "uuid": "25a1c14a-153b-4706-a4e8-fd16dbc3afe3",
+    "pid": "https://hdl.handle.net/21.12132/3.25a1c14a153b4706",
+    "name": "UGR CHM 15k (2026)",
+    "serialNumber": "CHM250105",
+    "model": "Lufft CHM 15k",
+    "type": "lidar ceilometer",
+    "owners": ["University of Granada (UGR)"],
+    "instrument": "chm15k"
+  },
+  {
     "uuid": "27837d00-b6af-4e90-baa0-f670f31abcd0",
     "pid": "https://hdl.handle.net/21.12132/3.27837d00b6af4e90",
     "name": "UoC Parsivel²",
