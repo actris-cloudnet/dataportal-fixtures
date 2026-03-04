@@ -308,5 +308,12 @@
     "humanReadableName": "Raymetrics AIAS depolarization lidar",
     "shortName": "AIAS lidar",
     "derivedProducts": []
+  },
+  {
+    "id": "atlas",
+    "type": "lidar",
+    "humanReadableName": "ATLAS lidar",
+    "shortName": "ATLAS lidar",
+    "derivedProducts": []
   }
 ]

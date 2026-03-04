@@ -1075,8 +1075,8 @@
     "serialNumber": "NTUA-LRSU-05",
     "model": "ARIS",
     "modelUrl": null,
-    "type": "lidar",
-    "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/lidar",
+    "type": "elastic lidar",
+    "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/elasticlidar",
     "owners": ["National Technical University of Athens (NTUA)"],
     "instrument": "aris"
   },
@@ -2340,8 +2340,8 @@
     "serialNumber": "LB11-IV-D200-5",
     "model": "AIAS",
     "modelUrl": null,
-    "type": "lidar",
-    "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/lidar",
+    "type": "elastic polarization lidar",
+    "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/elasticpolarizationlidar",
     "owners": ["National Technical University of Athens (NTUA)"],
     "instrument": "aias"
   },
@@ -2392,6 +2392,22 @@
     "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/scanningmicrowaveradiometer",
     "owners": ["Institut Pierre-Simon Laplace (IPSL)"],
     "instrument": "hatpro"
+  },
+  {
+    "uuid": "b908f49e-f3aa-4aee-bbf4-cabd2c10f197",
+    "pid": "https://hdl.handle.net/21.12132/3.b908f49ef3aa4aee",
+    "name": "LAPI ATLAS",
+    "serialNumber": "ATLAS-01-2024",
+    "model": "ATLAS",
+    "modelUrl": null,
+    "type": "Raman lidar",
+    "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/Ramanlidar",
+    "owners": [
+      "École Polytechnique Fédérale de Lausanne LAPI (EPFL-LAPI)",
+      "FORTH Center of Studies on Air quality and Climate Change (FORTH-C-STACC)",
+      "National Technical University of Athens (NTUA)"
+    ],
+    "instrument": "atlas"
   },
   {
     "uuid": "b9ff0d23-9649-49f0-bde2-c1da5adfcab1",
