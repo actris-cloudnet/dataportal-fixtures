@@ -3390,6 +3390,18 @@
     "instrument": "hatpro"
   },
   {
+    "uuid": "fc2eb938-593e-4573-8d25-c2b0a7e8161d",
+    "pid": "https://hdl.handle.net/21.12132/3.fc2eb938593e4573",
+    "name": "UGR HATPRO-G5",
+    "serialNumber": "30271",
+    "model": "RPG-HATPRO-G5",
+    "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/RPGHATPRO",
+    "type": "scanning microwave radiometer",
+    "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/scanningmicrowaveradiometer",
+    "owners": ["University of Granada (UGR)"],
+    "instrument": "hatpro"
+  },
+  {
     "uuid": "fcb1c89a-b443-4692-a1c9-7e17c168629d",
     "pid": "https://hdl.handle.net/21.12132/3.fcb1c89ab4434692",
     "name": "DWD FD12P",
