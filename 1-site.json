@@ -282,6 +282,7 @@
   {
     "id": "ny-alesund",
     "humanReadableName": "Ny-Ålesund",
+    "stationName": "AWIPEV",
     "latitude": 78.923,
     "longitude": 11.922,
     "altitude": 19,
