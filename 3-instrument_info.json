@@ -339,6 +339,18 @@
     "instrument": "rpg-fmcw-94"
   },
   {
+    "uuid": "199cd174-b686-4d72-9898-b7cf8b5e9bca",
+    "pid": "https://hdl.handle.net/21.12132/3.199cd174b6864d72",
+    "name": "UC MRR-PRO",
+    "serialNumber": "0512067702",
+    "model": "METEK MRR-PRO",
+    "modelUrl": null,
+    "type": "micro rain radar",
+    "typeUrl": null,
+    "owners": ["University of Canterbury (UC)"],
+    "instrument": "mrr-pro"
+  },
+  {
     "uuid": "1b0966f6-3b2d-41f2-a82c-fecc58bab864",
     "pid": "https://hdl.handle.net/21.12132/3.1b0966f63b2d41f2",
     "name": "DWD Parsivel²",
@@ -1858,6 +1870,18 @@
     "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/lidarceilometer",
     "owners": ["Ludwig-Maximilians-Universität München (LMU)"],
     "instrument": "chm15k"
+  },
+  {
+    "uuid": "85a703e2-c60c-4b66-b982-9d5e4197171c",
+    "pid": "https://hdl.handle.net/21.12132/3.85a703e2c60c4b66",
+    "name": "UC CL61",
+    "serialNumber": "W4647145",
+    "model": "Vaisala CL61",
+    "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/VaisalaCL61",
+    "type": "depolarisation lidar ceilometer",
+    "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/depolarisationlidarceilometer",
+    "owners": ["University of Canterbury (UC)"],
+    "instrument": "cl61d"
   },
   {
     "uuid": "8761e421-c5d3-466f-bb13-b9fa4a54bc79",
