@@ -315,5 +315,19 @@
     "humanReadableName": "ATLAS lidar",
     "shortName": "ATLAS lidar",
     "derivedProducts": []
+  },
+  {
+    "id": "pine",
+    "type": "inp-counter",
+    "humanReadableName": "Portable Ice Nucleation Experiment Instrument",
+    "shortName": "PINE INP counter",
+    "derivedProducts": []
+  },
+  {
+    "id": "nh3-1700",
+    "type": "ammonia-monitor",
+    "humanReadableName": "LSE NH₃-1700",
+    "shortName": "NH₃-1700 ammonia monitor",
+    "derivedProducts": []
   }
 ]
