@@ -1507,13 +1507,16 @@
   {
     "id": "uto",
     "humanReadableName": "Utö",
-    "latitude": 59.782,
-    "longitude": 21.372,
-    "altitude": 8,
+    "latitude": 59.77909359,
+    "longitude": 21.37478754,
+    "altitude": 6,
     "gaw": null,
+    "wigosId": "0-20000-0-02981",
+    "dvasId": "4iaj",
+    "actrisId": 27,
     "country": "Finland",
     "countryCode": "FI",
-    "type": ["hidden"]
+    "type": ["campaign"]
   },
   {
     "id": "kuusamo",
