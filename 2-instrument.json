@@ -284,7 +284,7 @@
   {
     "id": "rd-80",
     "type": "disdrometer",
-    "humanReadableName": "Distromet Joss–Waldvogel Disdrometer RD-80",
+    "humanReadableName": "Distromet RD-80 disdrometer",
     "shortName": "RD-80 disdrometer",
     "derivedProducts": [{ "id": "disdrometer" }]
   },
