@@ -12,6 +12,10 @@
     "acknowledgements": "DWD for providing ICON model data."
   },
   {
+    "id": "dwd-icon-d2_cite",
+    "acknowledgements": "DWD for providing ICON-D2 model data."
+  },
+  {
     "id": "fmi_cite",
     "acknowledgements": "FMI for providing Harmonie model data."
   },
