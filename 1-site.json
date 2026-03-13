@@ -2261,5 +2261,16 @@
     "country": "New Zealand",
     "countryCode": "NZ",
     "type": ["campaign"]
+  },
+  {
+    "id": "icon-d2",
+    "humanReadableName": "ICON-D2",
+    "latitude": null,
+    "longitude": null,
+    "altitude": null,
+    "gaw": null,
+    "country": "Germany",
+    "countryCode": "DE",
+    "type": ["hidden"]
   }
 ]

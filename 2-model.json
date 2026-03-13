@@ -183,6 +183,15 @@
     "citations": [{ "id": "gdas_cite" }]
   },
   {
+    "id": "icon-d2-0-5",
+    "humanReadableName": "ICON-D2 (0h-5h forecast)",
+    "optimumOrder": 500,
+    "sourceModel": { "id": "icon-d2" },
+    "forecastStart": 0,
+    "forecastEnd": 5,
+    "citations": [{ "id": "dwd-icon-d2_cite" }]
+  },
+  {
     "id": "arpege",
     "humanReadableName": "ARPEGE",
     "optimumOrder": 1000
@@ -191,5 +200,23 @@
     "id": "arome",
     "humanReadableName": "AROME",
     "optimumOrder": 1000
+  },
+  {
+    "id": "icon-d2",
+    "humanReadableName": "ICON-D2",
+    "optimumOrder": 1000,
+    "sites": [
+      { "id": "lindenberg" },
+      { "id": "falkenberg" },
+      { "id": "hohenpeissenberg" },
+      { "id": "juelich" },
+      { "id": "cabauw" },
+      { "id": "schneefernerhaus" },
+      { "id": "hamburg" },
+      { "id": "payerne" },
+      { "id": "chilbolton" },
+      { "id": "palaiseau" },
+      { "id": "san-pietro-capofiume" }
+    ]
   }
 ]
