@@ -16,9 +16,6 @@
     "citations": [
       {
         "id": "esa_cite"
-      },
-      {
-        "id": "bucharest_cite"
       }
     ]
   },
@@ -77,12 +74,7 @@
     "actrisId": 102,
     "country": "Romania",
     "countryCode": "RO",
-    "type": ["cloudnet"],
-    "citations": [
-      {
-        "id": "galati_cite"
-      }
-    ]
+    "type": ["cloudnet"]
   },
   {
     "id": "granada",
@@ -1315,12 +1307,7 @@
     "actrisId": 92,
     "country": "Poland",
     "countryCode": "PL",
-    "type": ["cloudnet"],
-    "citations": [
-      {
-        "id": "warsaw_cite"
-      }
-    ]
+    "type": ["cloudnet"]
   },
   {
     "id": "rzecin",
@@ -1912,12 +1899,7 @@
     "altitude": null,
     "gaw": null,
     "country": null,
-    "type": ["campaign", "mobile"],
-    "citations": [
-      {
-        "id": "rv-polarstern_cite"
-      }
-    ]
+    "type": ["campaign", "mobile"]
   },
   {
     "id": "rv-meteor",
@@ -2038,12 +2020,7 @@
     "dvasId": "kb77",
     "country": "Antarctica",
     "countryCode": "AQ",
-    "type": ["cloudnet", "polarin"],
-    "citations": [
-      {
-        "id": "neumayer_cite"
-      }
-    ]
+    "type": ["cloudnet", "polarin"]
   },
   {
     "id": "pahia",
@@ -2119,11 +2096,6 @@
     "country": "Antarctica",
     "countryCode": "AQ",
     "type": ["campaign", "polarin"],
-    "citations": [
-      {
-        "id": "troll_cite"
-      }
-    ],
     "description": "<p>Troll research station in Jutulsessen in Antarctica is the base and starting\npoint for biological, glaciological and geological field work during the summer\nseason, and is a full-year base for continuous, long-term monitoring series in\nmeteorology, radiation, atmosphere, upper atmosphere, environmental toxins and\nseismology.</p>\n<p>Troll is located around 235 km from the coast in Dronning Maud Land, a\ncentral area for Norwegian research in Antarctica. It is unusually located on\nthe slope between the coast and the interior plateau.</p>\n<p>The station is manned year round. It can accommodate six people in the\nAntarctic winter and many more in summer.</p>\n<p>Intensive cloud monitoring at the station started in the southern summer\n2024–25. Other atmospheric monitoring goes back many years.</p>\n"
   },
   {
