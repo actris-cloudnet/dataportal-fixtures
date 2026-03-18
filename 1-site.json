@@ -2140,15 +2140,16 @@
   },
   {
     "id": "campina",
-    "stationName": "ATTO",
-    "humanReadableName": "Campina",
+    "stationName": null,
+    "humanReadableName": "ATTO-Campina",
     "latitude": -2.181583,
     "longitude": -59.021861,
     "altitude": 30,
     "gaw": null,
     "country": "Brazil",
     "countryCode": "BR",
-    "type": ["campaign"]
+    "type": ["cloudnet"],
+    "description": "<p>The ATTO-Campina site is a permanent observational facility located in the\ncentral Amazon, approximately 4 km from the Amazon Tall Tower Observatory\n(ATTO), within the Uatumã Sustainable Development Reserve. Located 150 km from\nthe Manaus city (the Amazonas state capital), ATTO-Campina is installed in a\ncampinarana ecosystem characterized by sandy soils and relatively low\nvegetation, thus providing favorable conditions for atmospheric remote sensing\nobservations that are not feasible under the dense forest canopy at the ATTO\ntall tower site.</p>\n<p>Operational since 2020, ATTO-Campina was designed to complement the in situ\nmeasurements performed at the ATTO towers by extending observations to the full\natmospheric column, particularly focusing on cloud and precipitation processes.\nTogether, these sites form an integrated framework to investigate the complex\ninteractions between the rainforest and the atmosphere, especially those\ninvolving gas, aerosol, cloud, and precipitation dynamics in a near-pristine\ntropical environment.</p>\n<p>ATTO-Campina is equipped with a comprehensive suite of remote sensing and in\nsitu instruments that provide continuous, high-resolution measurements from the\nsurface to the upper troposphere. These include cloud and wind profiling\nradars, disdrometers for raindrop size distribution, a microwave radiometer for\ntemperature and humidity profiling, and a ceilometer for boundary layer and\ncloud base detection. Additional measurements include atmospheric electric\nfield, integrated water vapor from a photometer and a GNSS receptor, standard\nmeteorological variables, and aerosol properties such as particle size\ndistributions. A flux tower complements these observations by measuring\nexchanges of heat and moisture, longside soil temperature in different depths.\nThis diverse instrumentation enables detailed characterization of the vertical\nstructure of clouds, precipitation, and atmospheric state variables, supporting\nadvanced studies on gas–aerosol–cloud–precipitation interactions and their role\nin the Amazon climate system.</p>\n<h2>References</h2>\n<ul class=\"references\">\n<li>Cecchini et al. (2025): The ATTO-Campina site: A new observatory for tropical\nconvection and gas-aerosol-cloud-precipitation interactions in the Amazon.\nBull. Amer. Meteor. Soc., BAMS-D-24-0092.1,\n<a href=\"https://doi.org/10.1175/BAMS-D-24-0092.1\">https://doi.org/10.1175/BAMS-D-24-0092.1</a>, in press.</li>\n</ul>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://atto-campina.iag.usp.br/\">ATTO-Campina homepage</a></li>\n</ul>\n"
   },
   {
     "id": "milesovka",
