@@ -1860,6 +1860,18 @@
     "instrument": "parsivel"
   },
   {
+    "uuid": "8577d643-9c19-47ec-b9b5-7d5cc0656fef",
+    "pid": "https://hdl.handle.net/21.12132/3.8577d6439c1947ec",
+    "name": "ESA Parsivel²",
+    "serialNumber": "450415",
+    "model": "OTT Parsivel²",
+    "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/OTTParsivel2",
+    "type": "disdrometer",
+    "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/disdrometer",
+    "owners": ["European Space Agency (ESA)"],
+    "instrument": "parsivel"
+  },
+  {
     "uuid": "8584159a-7b3a-4545-b268-18675c86dc8d",
     "pid": "https://hdl.handle.net/21.12132/3.8584159a7b3a4545",
     "name": "LMU CHM 15k",
