@@ -377,7 +377,7 @@
   {
     "uuid": "1d227f1b-12b0-4efc-ae36-4270b22e1c39",
     "pid": "https://hdl.handle.net/21.12132/3.1d227f1b12b04efc",
-    "name": "UGR HALO 258 (Siroco)",
+    "name": "UGR HALO 258 (SIROCO)",
     "serialNumber": "1122-258",
     "model": "StreamLine XR+",
     "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/HALOPhotonicsStreamLineXRplus",
@@ -1536,7 +1536,7 @@
     "pid": "https://hdl.handle.net/21.12132/3.72fb657cb20449fa",
     "name": "NASA RD-80",
     "serialNumber": null,
-    "model": "Joss–Waldvogel Disdrometer RD-80",
+    "model": "Distromet RD-80",
     "modelUrl": null,
     "type": "disdrometer",
     "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/disdrometer",
@@ -3206,7 +3206,7 @@
   {
     "uuid": "eadafa59-ffa6-48de-a244-9e54a05b90eb",
     "pid": "https://hdl.handle.net/21.12132/3.eadafa59ffa648de",
-    "name": "UGR HALO 102",
+    "name": "UGR HALO 102 (ÁBREGO)",
     "serialNumber": "0615-102",
     "model": "StreamLine",
     "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/HALOPhotonicsStreamLine",
