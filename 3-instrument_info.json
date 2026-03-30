@@ -2367,8 +2367,8 @@
     "serialNumber": null,
     "model": "ProSensing XPOL",
     "modelUrl": null,
-    "type": "Doppler scanning cloud radar",
-    "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/Dopplerscanningcloudradar",
+    "type": "weather radar",
+    "typeUrl": null,
     "owners": ["École Polytechnique Fédérale de Lausanne LAPI (EPFL-LAPI)"],
     "instrument": "xpol"
   },

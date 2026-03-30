@@ -290,7 +290,7 @@
   },
   {
     "id": "xpol",
-    "type": "radar",
+    "type": "weather-radar",
     "humanReadableName": "ProSensing XPOL weather radar",
     "shortName": "XPOL weather radar",
     "derivedProducts": []
