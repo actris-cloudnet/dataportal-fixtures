@@ -2445,6 +2445,18 @@
     "instrument": "hatpro"
   },
   {
+    "uuid": "b8d48671-eebe-45ec-96e5-73d1d68c2b15",
+    "pid": "https://hdl.handle.net/21.12132/3.b8d48671eebe45ec",
+    "name": "AWI HATPRO-G5",
+    "serialNumber": null,
+    "model": "RPG-HATPRO-G5",
+    "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/RPGHATPRO",
+    "type": "scanning microwave radiometer",
+    "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/scanningmicrowaveradiometer",
+    "owners": ["Alfred Wegener Institute for Polar and Marine Research (AWI)"],
+    "instrument": "hatpro"
+  },
+  {
     "uuid": "b908f49e-f3aa-4aee-bbf4-cabd2c10f197",
     "pid": "https://hdl.handle.net/21.12132/3.b908f49ef3aa4aee",
     "name": "LAPI ATLAS",
