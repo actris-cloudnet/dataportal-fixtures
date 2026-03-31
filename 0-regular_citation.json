@@ -58,5 +58,9 @@
   {
     "id": "troll_cite",
     "acknowledgements": ""
+  },
+  {
+    "id": "fmi-weather-radar_cite",
+    "acknowledgements": "The vertically-poiting ZDR calibration scans were provided by the weather radar team from the Finnish Meterological Institute"
   }
 ]
