@@ -296,6 +296,13 @@
     "derivedProducts": []
   },
   {
+    "id": "wrm200",
+    "type": "weather-radar",
+    "humanReadableName": "Vaisala WRM200 C-band weather radar",
+    "shortName": "WRM200 C-band weather radar",
+    "derivedProducts": []
+  },
+  {
     "id": "aris",
     "type": "lidar",
     "humanReadableName": "AeRosol cloud lIdar System (ARIS)",
