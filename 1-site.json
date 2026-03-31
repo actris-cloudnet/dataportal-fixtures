@@ -2264,6 +2264,222 @@
     "type": ["campaign"]
   },
   {
+    "id": "inari",
+    "humanReadableName": "Inari",
+    "stationName": "Inari Saariselkä Kaunispää",
+    "latitude": 68.434,
+    "longitude": 27.445,
+    "altitude": 437,
+    "gaw": null,
+    "wigosId": "0-20000-0-02817",
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["weather_radar"],
+    "citations": [
+      {
+        "id": "fmi-weather-radar_cite"
+      }
+    ]
+  },
+  {
+    "id": "kankaanpaa",
+    "humanReadableName": "Kankaanpää",
+    "stationName": "Kankaanpää Ylisenharju",
+    "latitude": 61.811,
+    "longitude": 22.502,
+    "altitude": 174,
+    "gaw": null,
+    "wigosId": "0-246-0-107307",
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["weather_radar"],
+    "citations": [
+      {
+        "id": "fmi-weather-radar_cite"
+      }
+    ]
+  },
+  {
+    "id": "kesalahti",
+    "humanReadableName": "Kesälahti",
+    "stationName": "Kitee Kesälahti",
+    "latitude": 61.907,
+    "longitude": 29.798,
+    "altitude": 174,
+    "gaw": null,
+    "wigosId": "0-20010-0-02995",
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["weather_radar"],
+    "citations": [
+      {
+        "id": "fmi-weather-radar_cite"
+      }
+    ]
+  },
+  {
+    "id": "anjalankoski",
+    "humanReadableName": "Anjalankoski",
+    "stationName": "Kouvula Kaipiainen",
+    "latitude": 60.904,
+    "longitude": 27.108,
+    "altitude": 323,
+    "gaw": null,
+    "wigosId": "0-20010-0-02954",
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["weather_radar"],
+    "citations": [
+      {
+        "id": "fmi-weather-radar_cite"
+      }
+    ]
+  },
+  {
+    "id": "kuopio",
+    "humanReadableName": "Kuopio",
+    "stationName": "Kuopio Rytky",
+    "latitude": 62.863,
+    "longitude": 27.381,
+    "altitude": 268,
+    "gaw": null,
+    "wigosId": "0-20010-0-02918",
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["weather_radar"],
+    "citations": [
+      {
+        "id": "fmi-weather-radar_cite"
+      }
+    ]
+  },
+  {
+    "id": "nurmes",
+    "humanReadableName": "Nurmes",
+    "stationName": "Nurmes Mujejärvi Riihivaara",
+    "latitude": 63.838,
+    "longitude": 28.449,
+    "altitude": 294,
+    "gaw": null,
+    "wigosId": "0-246-0-107131",
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["weather_radar"],
+    "citations": [
+      {
+        "id": "fmi-weather-radar_cite"
+      }
+    ]
+  }, 
+  {
+    "id": "korppoo",
+    "humanReadableName": "Korppoo",
+    "stationName": "Parainen Rumar",
+    "latitude": 60.128,
+    "longitude": 21.643,
+    "altitude": 21,
+    "gaw": null,
+    "wigosId": "0-20010-0-02933",
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["weather_radar"],
+    "citations": [
+      {
+        "id": "fmi-weather-radar_cite"
+      }
+    ]
+  },
+  {
+    "id": "petajavesi",
+    "humanReadableName": "Petäjävesi",
+    "stationName": "Petäjävesi Kintaus",
+    "latitude": 62.305,
+    "longitude": 25.440,
+    "altitude": 2671,
+    "gaw": null,
+    "wigosId": "0-20010-0-02775",
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["weather_radar"],
+    "citations": [
+      {
+        "id": "fmi-weather-radar_cite"
+      }
+    ]
+  },
+  {
+    "id": "luosto",
+    "humanReadableName": "Luosto",
+    "stationName": "Sodankylä Luosto",
+    "latitude": 67.139,
+    "longitude": 26.897,
+    "altitude": 532,
+    "gaw": null,
+    "wigosId": "0-20010-0-02840",
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["weather_radar"],
+    "citations": [
+      {
+        "id": "fmi-weather-radar_cite"
+      }
+    ]
+  },
+  {
+    "id": "utajarvi",
+    "humanReadableName": "Utajärvi",
+    "stationName": "Utajärvi korkiakangas",
+    "latitude": 64.775,
+    "longitude": 26.319,
+    "altitude": 118,
+    "gaw": null,
+    "wigosId": "0-20010-0-02870",
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["weather_radar"],
+    "citations": [
+      {
+        "id": "fmi-weather-radar_cite"
+      }
+    ]
+  },
+  {
+    "id": "vihti",
+    "humanReadableName": "Vihti",
+    "stationName": "Vihti Ylimmäinen",
+    "latitude": 60.556,
+    "longitude": 24.496,
+    "altitude": 148,
+    "gaw": null,
+    "wigosId": "0-21010-0-814",
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["weather_radar"],
+    "citations": [
+      {
+        "id": "fmi-weather-radar_cite"
+      }
+    ]
+  },
+  {
+    "id": "vimpeli",
+    "humanReadableName": "Vimpeli",
+    "stationName": "Vimpeli Lakeaharju",
+    "latitude": 63.105,
+    "longitude": 23.821,
+    "altitude": 198,
+    "gaw": null,
+    "wigosId": "0-20010-0-02925",
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["weather_radar"],
+    "citations": [
+      {
+        "id": "fmi-weather-radar_cite"
+      }
+    ]
+  },
+  {
     "id": "icon-d2",
     "humanReadableName": "ICON-D2",
     "latitude": null,
