@@ -2275,7 +2275,7 @@
     "wigosId": "0-20000-0-02817",
     "country": "Finland",
     "countryCode": "FI",
-    "type": ["weather-radar"],
+    "type": ["weather-radar", "fmi-radar"],
     "citations": [
       {
         "id": "fmi-weather-radar_cite"
@@ -2294,7 +2294,7 @@
     "wigosId": "0-246-0-107307",
     "country": "Finland",
     "countryCode": "FI",
-    "type": ["weather-radar"],
+    "type": ["weather-radar", "fmi-radar"],
     "citations": [
       {
         "id": "fmi-weather-radar_cite"
@@ -2313,7 +2313,7 @@
     "wigosId": "0-20010-0-02995",
     "country": "Finland",
     "countryCode": "FI",
-    "type": ["weather-radar"],
+    "type": ["weather-radar", "fmi-radar"],
     "citations": [
       {
         "id": "fmi-weather-radar_cite"
@@ -2332,7 +2332,7 @@
     "wigosId": "0-20010-0-02954",
     "country": "Finland",
     "countryCode": "FI",
-    "type": ["weather-radar"],
+    "type": ["weather-radar", "fmi-radar"],
     "citations": [
       {
         "id": "fmi-weather-radar_cite"
@@ -2351,7 +2351,7 @@
     "wigosId": "0-20010-0-02918",
     "country": "Finland",
     "countryCode": "FI",
-    "type": ["weather-radar"],
+    "type": ["weather-radar", "fmi-radar"],
     "citations": [
       {
         "id": "fmi-weather-radar_cite"
@@ -2369,7 +2369,7 @@
     "wigosId": "0-246-0-107131",
     "country": "Finland",
     "countryCode": "FI",
-    "type": ["weather-radar"],
+    "type": ["weather-radar", "fmi-radar"],
     "citations": [
       {
         "id": "fmi-weather-radar_cite"
@@ -2388,7 +2388,7 @@
     "wigosId": "0-20010-0-02933",
     "country": "Finland",
     "countryCode": "FI",
-    "type": ["weather-radar"],
+    "type": ["weather-radar", "fmi-radar"],
     "citations": [
       {
         "id": "fmi-weather-radar_cite"
@@ -2407,7 +2407,7 @@
     "wigosId": "0-20010-0-02775",
     "country": "Finland",
     "countryCode": "FI",
-    "type": ["weather-radar"],
+    "type": ["weather-radar", "fmi-radar"],
     "citations": [
       {
         "id": "fmi-weather-radar_cite"
@@ -2426,7 +2426,7 @@
     "wigosId": "0-20010-0-02840",
     "country": "Finland",
     "countryCode": "FI",
-    "type": ["weather-radar"],
+    "type": ["weather-radar", "fmi-radar"],
     "citations": [
       {
         "id": "fmi-weather-radar_cite"
@@ -2445,7 +2445,7 @@
     "wigosId": "0-20010-0-02870",
     "country": "Finland",
     "countryCode": "FI",
-    "type": ["weather-radar"],
+    "type": ["weather-radar", "fmi-radar"],
     "citations": [
       {
         "id": "fmi-weather-radar_cite"
@@ -2464,7 +2464,7 @@
     "wigosId": "0-21010-0-814",
     "country": "Finland",
     "countryCode": "FI",
-    "type": ["weather-radar"],
+    "type": ["weather-radar", "fmi-radar"],
     "citations": [
       {
         "id": "fmi-weather-radar_cite"
@@ -2483,7 +2483,7 @@
     "wigosId": "0-20010-0-02925",
     "country": "Finland",
     "countryCode": "FI",
-    "type": ["weather-radar"],
+    "type": ["weather-radar", "fmi-radar"],
     "citations": [
       {
         "id": "fmi-weather-radar_cite"
