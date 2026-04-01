@@ -1882,7 +1882,7 @@
     "country": "Finland",
     "countryCode": "FI",
     "type": ["hidden"],
-    "description": "<p>Kuopio is part of weather radar network of Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
+    "description": null
   },
   {
     "id": "masada",
@@ -2341,8 +2341,8 @@
     "description": "<p>Anjalankoski is part of weather radar network of Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
   },
   {
-    "id": "kuopio",
-    "humanReadableName": "Kuopio",
+    "id": "rytky",
+    "humanReadableName": "Rytky",
     "stationName": "Kuopio Rytky",
     "latitude": 62.863,
     "longitude": 27.381,
@@ -2356,7 +2356,8 @@
       {
         "id": "fmi-weather-radar_cite"
       }
-    ]
+    ],
+    "description": "<p>Rytky is part of weather radar network of Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
   },
   {
     "id": "nurmes",
