@@ -1881,7 +1881,8 @@
     "gaw": null,
     "country": "Finland",
     "countryCode": "FI",
-    "type": ["hidden"]
+    "type": ["hidden"],
+    "description": "<p>Kuopio is part of weather radar network of Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
   },
   {
     "id": "masada",
@@ -2279,7 +2280,8 @@
       {
         "id": "fmi-weather-radar_cite"
       }
-    ]
+    ],
+    "description": "<p>Inari is part of weather radar network of Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
   },
   {
     "id": "kankaanpaa",
@@ -2297,7 +2299,8 @@
       {
         "id": "fmi-weather-radar_cite"
       }
-    ]
+    ],
+    "description": "<p>Kankaanpää is part of weather radar network of Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
   },
   {
     "id": "kesalahti",
@@ -2315,7 +2318,8 @@
       {
         "id": "fmi-weather-radar_cite"
       }
-    ]
+    ],
+    "description": "<p>Kesälahti is part of weather radar network of Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
   },
   {
     "id": "anjalankoski",
@@ -2333,7 +2337,8 @@
       {
         "id": "fmi-weather-radar_cite"
       }
-    ]
+    ],
+    "description": "<p>Anjalankoski is part of weather radar network of Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
   },
   {
     "id": "kuopio",
@@ -2369,7 +2374,8 @@
       {
         "id": "fmi-weather-radar_cite"
       }
-    ]
+    ],
+    "description": "<p>Nurmes is part of weather radar network of Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
   },
   {
     "id": "korppoo",
@@ -2387,7 +2393,8 @@
       {
         "id": "fmi-weather-radar_cite"
       }
-    ]
+    ],
+    "description": "<p>Korppoo is part of weather radar network of Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
   },
   {
     "id": "petajavesi",
@@ -2405,7 +2412,8 @@
       {
         "id": "fmi-weather-radar_cite"
       }
-    ]
+    ],
+    "description": "<p>Petäjävesi is part of weather radar network of Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
   },
   {
     "id": "luosto",
@@ -2423,7 +2431,8 @@
       {
         "id": "fmi-weather-radar_cite"
       }
-    ]
+    ],
+    "description": "<p>Luosto is part of weather radar network of Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
   },
   {
     "id": "utajarvi",
@@ -2441,7 +2450,8 @@
       {
         "id": "fmi-weather-radar_cite"
       }
-    ]
+    ],
+    "description": "<p>Utajärvi is part of weather radar network of Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
   },
   {
     "id": "vihti",
@@ -2459,7 +2469,8 @@
       {
         "id": "fmi-weather-radar_cite"
       }
-    ]
+    ],
+    "description": "<p>Vihti is part of weather radar network of Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
   },
   {
     "id": "vimpeli",
@@ -2477,7 +2488,8 @@
       {
         "id": "fmi-weather-radar_cite"
       }
-    ]
+    ],
+    "description": "<p>Vimpeli is part of weather radar network of Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
   },
   {
     "id": "icon-d2",
