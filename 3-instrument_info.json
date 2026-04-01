@@ -120,6 +120,18 @@
     "instrument": "mira-35"
   },
   {
+    "uuid": "06eeabb1-4f60-49ec-bceb-05f4188d4d52",
+    "pid": "https://hdl.handle.net/21.12132/3.06eeabb14f6049ec",
+    "name": "FMI WRM200 (VIH)",
+    "serialNumber": null,
+    "model": "Vaisala WRM200",
+    "modelUrl": null,
+    "type": "weather radar",
+    "typeUrl": null,
+    "owners": ["Finnish Meteorological Institute (FMI)"],
+    "instrument": "wrm200"
+  },
+  {
     "uuid": "070929c5-5027-47f6-92f4-4cc8bb35c585",
     "pid": "https://hdl.handle.net/21.12132/3.070929c5502747f6",
     "name": "DJUG Parsivel²",
@@ -226,6 +238,18 @@
     "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/microwaveradiometer",
     "owners": ["Norwegian Polar Institute (NPI)"],
     "instrument": "lhatpro"
+  },
+  {
+    "uuid": "0edf5e9f-8568-4a81-be4b-cbc1909d2f1d",
+    "pid": "https://hdl.handle.net/21.12132/3.0edf5e9f85684a81",
+    "name": "FMI WRM200 (LUO)",
+    "serialNumber": null,
+    "model": "Vaisala WRM200",
+    "modelUrl": null,
+    "type": "weather radar",
+    "typeUrl": null,
+    "owners": ["Finnish Meteorological Institute (FMI)"],
+    "instrument": "wrm200"
   },
   {
     "uuid": "11d32178-6747-4e22-8976-12fa361d365d",
@@ -969,6 +993,18 @@
     "instrument": "hatpro"
   },
   {
+    "uuid": "4686e842-3e15-478a-8a41-70f3e369c9ad",
+    "pid": "https://hdl.handle.net/21.12132/3.4686e8423e15478a",
+    "name": "FMI WRM200 (PET)",
+    "serialNumber": null,
+    "model": "Vaisala WRM200",
+    "modelUrl": null,
+    "type": "weather radar",
+    "typeUrl": null,
+    "owners": ["Finnish Meteorological Institute (FMI)"],
+    "instrument": "wrm200"
+  },
+  {
     "uuid": "48bd7da0-35b9-4ffd-90d8-7a4de55b8fa6",
     "pid": "https://hdl.handle.net/21.12132/3.48bd7da035b94ffd",
     "name": "UoC HALO",
@@ -1043,6 +1079,18 @@
     "instrument": "rpg-fmcw-94"
   },
   {
+    "uuid": "4c965454-235e-4738-ac1d-a17b15a4e807",
+    "pid": "https://hdl.handle.net/21.12132/3.4c965454235e4738",
+    "name": "FMI WRM200 (UTA)",
+    "serialNumber": null,
+    "model": "Vaisala WRM200",
+    "modelUrl": null,
+    "type": "weather radar",
+    "typeUrl": null,
+    "owners": ["Finnish Meteorological Institute (FMI)"],
+    "instrument": "wrm200"
+  },
+  {
     "uuid": "4cab4fe7-d62c-406a-8369-059d615d7887",
     "pid": "https://hdl.handle.net/21.12132/3.4cab4fe7d62c406a",
     "name": "TROPOS CL61 (LACROS)",
@@ -1053,6 +1101,18 @@
     "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/depolarisationlidarceilometer",
     "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
     "instrument": "cl61d"
+  },
+  {
+    "uuid": "4de94dfa-6b98-435b-9abb-9cec9b32f032",
+    "pid": "https://hdl.handle.net/21.12132/3.4de94dfa6b98435b",
+    "name": "FMI WRM200 (KOR)",
+    "serialNumber": null,
+    "model": "Vaisala WRM200",
+    "modelUrl": null,
+    "type": "weather radar",
+    "typeUrl": null,
+    "owners": ["Finnish Meteorological Institute (FMI)"],
+    "instrument": "wrm200"
   },
   {
     "uuid": "4e7765c0-c8bd-4d1d-b60f-ce14b4335ee5",
@@ -1422,6 +1482,18 @@
     "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/disdrometer",
     "owners": ["Finnish Meteorological Institute (FMI)"],
     "instrument": "parsivel"
+  },
+  {
+    "uuid": "6f257fac-bdb5-49b0-ae14-673c9bb67fdf",
+    "pid": "https://hdl.handle.net/21.12132/3.6f257facbdb549b0",
+    "name": "FMI WRM200 (NUR)",
+    "serialNumber": null,
+    "model": "Vaisala WRM200",
+    "modelUrl": null,
+    "type": "weather radar",
+    "typeUrl": null,
+    "owners": ["Finnish Meteorological Institute (FMI)"],
+    "instrument": "wrm200"
   },
   {
     "uuid": "6faa7d9a-8ae6-4523-a3a7-a464df02b714",
@@ -1908,6 +1980,18 @@
     "instrument": "cl51"
   },
   {
+    "uuid": "88e7900a-7e96-4200-9680-9f189f158139",
+    "pid": "https://hdl.handle.net/21.12132/3.88e7900a7e964200",
+    "name": "FMI WRM200 (ANJ)",
+    "serialNumber": null,
+    "model": "Vaisala WRM200",
+    "modelUrl": null,
+    "type": "weather radar",
+    "typeUrl": null,
+    "owners": ["Finnish Meteorological Institute (FMI)"],
+    "instrument": "wrm200"
+  },
+  {
     "uuid": "8b0a6145-7e7a-4c20-b34e-e1635ea21e03",
     "pid": "https://hdl.handle.net/21.12132/3.8b0a61457e7a4c20",
     "name": "Met Éireann CHM 15k",
@@ -2141,6 +2225,18 @@
     "instrument": "rpg-fmcw-94"
   },
   {
+    "uuid": "9ccd6311-2a96-4eaa-9d8e-9c7fe7c5f8d0",
+    "pid": "https://hdl.handle.net/21.12132/3.9ccd63112a964eaa",
+    "name": "FMI WRM200 (KUO)",
+    "serialNumber": null,
+    "model": "Vaisala WRM200",
+    "modelUrl": null,
+    "type": "weather radar",
+    "typeUrl": null,
+    "owners": ["Finnish Meteorological Institute (FMI)"],
+    "instrument": "wrm200"
+  },
+  {
     "uuid": "9e05dc89-68ed-434f-a80a-2c4bcac949fb",
     "pid": "https://hdl.handle.net/21.12132/3.9e05dc8968ed434f",
     "name": "TROPOS PollyXT (LACROS)",
@@ -2287,6 +2383,18 @@
     "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/Dopplerlidar",
     "owners": ["Finnish Meteorological Institute (FMI)"],
     "instrument": "halo-doppler-lidar"
+  },
+  {
+    "uuid": "b02f0573-54b2-4fd7-be2f-b6b7f98d90c5",
+    "pid": "https://hdl.handle.net/21.12132/3.b02f057354b24fd7",
+    "name": "FMI WRM200 (VIM)",
+    "serialNumber": null,
+    "model": "Vaisala WRM200",
+    "modelUrl": null,
+    "type": "weather radar",
+    "typeUrl": null,
+    "owners": ["Finnish Meteorological Institute (FMI)"],
+    "instrument": "wrm200"
   },
   {
     "uuid": "b1373817-e44e-4fa2-ba49-b50e8ba8a418",
@@ -2557,6 +2665,18 @@
     "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/Dopplernon-scanningcloudradar",
     "owners": ["European Space Agency (ESA)"],
     "instrument": "rpg-fmcw-94"
+  },
+  {
+    "uuid": "bf782dff-da07-4ce0-a191-a9470ca1c84e",
+    "pid": "https://hdl.handle.net/21.12132/3.bf782dffda074ce0",
+    "name": "FMI WRM200 (KES)",
+    "serialNumber": null,
+    "model": "Vaisala WRM200",
+    "modelUrl": null,
+    "type": "weather radar",
+    "typeUrl": null,
+    "owners": ["Finnish Meteorological Institute (FMI)"],
+    "instrument": "wrm200"
   },
   {
     "uuid": "c07f533c-d860-41f1-a030-900e01288ae5",
@@ -3137,6 +3257,18 @@
     "instrument": "mrr-pro"
   },
   {
+    "uuid": "e43b8016-237f-4d1a-ac39-0a7ef833f52c",
+    "pid": "https://hdl.handle.net/21.12132/3.e43b8016237f4d1a",
+    "name": "FMI WRM200 (KAU)",
+    "serialNumber": null,
+    "model": "Vaisala WRM200",
+    "modelUrl": null,
+    "type": "weather radar",
+    "typeUrl": null,
+    "owners": ["Finnish Meteorological Institute (FMI)"],
+    "instrument": "wrm200"
+  },
+  {
     "uuid": "e44e1ffa-c795-4538-9740-6fd4f247eb18",
     "pid": "https://hdl.handle.net/21.12132/3.e44e1ffac7954538",
     "name": "FMI RPG-FMCW-94-DP",
@@ -3502,6 +3634,18 @@
     "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/microwaveradiometer",
     "owners": ["Amazonas State University (UEA)"],
     "instrument": "radiometrics"
+  },
+  {
+    "uuid": "fed068a8-04fd-47cd-92d7-a973aac3cd07",
+    "pid": "https://hdl.handle.net/21.12132/3.fed068a804fd47cd",
+    "name": "FMI WRM200 (KAN)",
+    "serialNumber": null,
+    "model": "Vaisala WRM200",
+    "modelUrl": null,
+    "type": "weather radar",
+    "typeUrl": null,
+    "owners": ["Finnish Meteorological Institute (FMI)"],
+    "instrument": "wrm200"
   },
   {
     "uuid": "ffb25f43-330f-4793-bd6b-f2425cee0fd0",
