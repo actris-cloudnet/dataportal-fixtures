@@ -1140,5 +1140,33 @@
     "order": 1,
     "product": "l3-lwc",
     "actrisName": null
+  },
+  {
+    "id": "weather-radar-SNR",
+    "humanReadableName": "Signal-to-noise ratio",
+    "order": 0,
+    "product": "weather-radar",
+    "actrisName": null
+  },
+  {
+    "id": "weather-radar-v",
+    "humanReadableName": "Doppler velocity",
+    "order": 1,
+    "product": "weather-radar",
+    "actrisName": null
+  },
+  {
+    "id": "weather-radar-width",
+    "humanReadableName": "Spectral width",
+    "order": 2,
+    "product": "weather-radar",
+    "actrisName": null
+  },
+  {
+    "id": "weather-radar-rho_hv",
+    "humanReadableName": "Correlation coefficient",
+    "order": 3,
+    "product": "weather-radar",
+    "actrisName": null
   }
 ]
