@@ -207,5 +207,12 @@
     "humanReadableName": "L3 Liquid water content",
     "type": ["evaluation"],
     "experimental": true
+  },
+  {
+    "id": "weather-radar",
+    "humanReadableName": "Weather radar",
+    "type": ["instrument"],
+    "experimental": true,
+    "downloadable": false
   }
 ]
