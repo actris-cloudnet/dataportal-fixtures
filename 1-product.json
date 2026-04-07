@@ -48,7 +48,7 @@
     "humanReadableName": "Synthetic EarthCARE radar",
     "experimental": true,
     "type": ["evaluation"],
-    "sourceProducts": []
+    "sourceProducts": [{ "id": "categorize" }]
   },
   {
     "id": "drizzle",
