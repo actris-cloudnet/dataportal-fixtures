@@ -300,7 +300,8 @@
     "type": "weather-radar",
     "humanReadableName": "Vaisala WRM200 C-band weather radar",
     "shortName": "WRM200 C-band weather radar",
-    "derivedProducts": [{ "id": "weather-radar" }]
+    "derivedProducts": [{ "id": "weather-radar" }],
+    "downloadable": false
   },
   {
     "id": "aris",

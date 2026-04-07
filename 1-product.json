@@ -212,6 +212,7 @@
     "id": "weather-radar",
     "humanReadableName": "Weather radar",
     "type": ["instrument"],
-    "experimental": true
+    "experimental": true,
+    "downloadable": false
   }
 ]
