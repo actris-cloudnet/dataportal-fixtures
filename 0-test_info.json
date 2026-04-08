@@ -90,6 +90,11 @@
     "description": "Test that LDR values are proper."
   },
   {
+    "testId": "TestLWC",
+    "name": "LWC consistency",
+    "description": "Test that LWP and integrated LWC are consistent."
+  },
+  {
     "testId": "TestLidarBeta",
     "name": "Beta presence",
     "description": "Test that one beta variable exists."
