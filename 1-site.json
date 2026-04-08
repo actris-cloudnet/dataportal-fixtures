@@ -2044,7 +2044,8 @@
       {
         "id": "neumayer_cite"
       }
-    ]
+    ],
+    "description": "<p>The Meteorological Observatory Neumayer has been part of all German research\nstations on Ekström Ice Shelf, Atka Bay, Antarctica since 1981. The first\nstation &quot;Georg von Neumayer&quot; had to be replaced by &quot;Neumayer Station&quot; in 1992,\nwhich again was replaced in 2009 by &quot;Neumayer Station III&quot;. Continuous\nlong-term atmospheric observations cover various parameters and degrees of\ncomplexity: from basis synoptical observations over BSRN surface radiation\nmeasurements, radiosoundings including in-situ ozone profiling, to remote\nsensing instrumentation.</p>\n<p>Remote sensing of cloud parameters started in 1992 with a ceilometer\nImpulsphysik LD-WH X 05. The ceilometer has been replaced by Vaisala CL31 and\nCL51 later. In 2019 a METEK Micro Rain Radar was installed. In 2023 TROPOS\nLeipzig had a full-featured Cloudnet container running at Neumayer Station for\none year. In 2024 the remote sensing capabilities of the Meteorological\nObservatory Neumayer were markedly extended by an RPG-FMCW-94 cloud radar,\nMiniMPL lidar and HALO StreamLine XR+ Doppler lidar. Finally, in 2026 a RPG\nHATPRO microwave radiometer was installed by AWI to replace the TROPOS\ninstrument that had been running there until then.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://www.awi.de/en/science/long-term-observations/atmosphere/antarctic-neumayer/meteorology.html\">Neumayer home page</a></li>\n</ul>\n"
   },
   {
     "id": "pahia",
