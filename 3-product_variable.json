@@ -1142,8 +1142,8 @@
     "actrisName": null
   },
   {
-    "id": "weather-radar-SNR",
-    "humanReadableName": "Signal-to-noise ratio",
+    "id": "weather-radar-Zh",
+    "humanReadableName": "Radar reflectivity factor",
     "order": 0,
     "product": "weather-radar",
     "actrisName": null
