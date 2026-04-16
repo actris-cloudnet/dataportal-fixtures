@@ -1966,13 +1966,15 @@
   {
     "id": "falkenberg",
     "humanReadableName": "Falkenberg",
-    "latitude": 52.12,
-    "longitude": 14.12,
-    "altitude": 75,
-    "gaw": null,
+    "latitude": 52.167,
+    "longitude": 14.117,
+    "altitude": 73,
+    "gaw": "DFA",
+    "wigosId": "0-20008-0-DFA",
+    "dvasId": "p2ge",
     "country": "Germany",
     "countryCode": "DE",
-    "type": ["hidden"]
+    "type": ["campaign"]
   },
   {
     "id": "karlsruhe",
