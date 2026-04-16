@@ -1980,6 +1980,18 @@
     "instrument": "cl51"
   },
   {
+    "uuid": "887feaf9-3e5f-4ea1-b90d-943f11f9279f",
+    "pid": "https://hdl.handle.net/21.12132/3.887feaf93e5f4ea1",
+    "name": "TROPOS DIAL DA10",
+    "serialNumber": null,
+    "model": "Vaisala DIAL DA10",
+    "modelUrl": null,
+    "type": "differential absorption lidar",
+    "typeUrl": "https://vocabulary.actris.nilu.no/skosmos/actris_vocab/en/page/differentialabsorptionlidar",
+    "owners": ["Leibniz Institute for Tropospheric Research (TROPOS)"],
+    "instrument": "da10"
+  },
+  {
     "uuid": "88e7900a-7e96-4200-9680-9f189f158139",
     "pid": "https://hdl.handle.net/21.12132/3.88e7900a7e964200",
     "name": "FMI WRM200 (ANJ)",
@@ -2556,7 +2568,7 @@
     "uuid": "b8d48671-eebe-45ec-96e5-73d1d68c2b15",
     "pid": "https://hdl.handle.net/21.12132/3.b8d48671eebe45ec",
     "name": "AWI HATPRO-G5",
-    "serialNumber": null,
+    "serialNumber": "0030133",
     "model": "RPG-HATPRO-G5",
     "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/RPGHATPRO",
     "type": "scanning microwave radiometer",
