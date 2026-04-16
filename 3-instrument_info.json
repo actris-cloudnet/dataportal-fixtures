@@ -1983,7 +1983,7 @@
     "uuid": "887feaf9-3e5f-4ea1-b90d-943f11f9279f",
     "pid": "https://hdl.handle.net/21.12132/3.887feaf93e5f4ea1",
     "name": "TROPOS DIAL DA10",
-    "serialNumber": null,
+    "serialNumber": "X4338819",
     "model": "Vaisala DIAL DA10",
     "modelUrl": null,
     "type": "differential absorption lidar",
