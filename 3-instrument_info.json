@@ -317,13 +317,16 @@
   {
     "uuid": "1615a6ed-824c-4556-b006-8b51e556d30e",
     "pid": "https://hdl.handle.net/21.12132/3.1615a6ed824c4556",
-    "name": "ESA Parsivel² (Norunda)",
+    "name": "ESA/SMHI Parsivel²",
     "serialNumber": "450416",
     "model": "OTT Parsivel²",
     "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/OTTParsivel2",
     "type": "disdrometer",
     "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/disdrometer",
-    "owners": ["European Space Agency (ESA)"],
+    "owners": [
+      "European Space Agency (ESA)",
+      "Swedish Meteorological and Hydrological Institute (SMHI)"
+    ],
     "instrument": "parsivel"
   },
   {
@@ -1934,13 +1937,16 @@
   {
     "uuid": "8577d643-9c19-47ec-b9b5-7d5cc0656fef",
     "pid": "https://hdl.handle.net/21.12132/3.8577d6439c1947ec",
-    "name": "ESA Parsivel² (Bucharest)",
+    "name": "ESA/INOE Parsivel²",
     "serialNumber": "450415",
     "model": "OTT Parsivel²",
     "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/OTTParsivel2",
     "type": "disdrometer",
     "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/disdrometer",
-    "owners": ["European Space Agency (ESA)"],
+    "owners": [
+      "European Space Agency (ESA)",
+      "National Institute of Research and Development for Optoelectronics (INOE)"
+    ],
     "instrument": "parsivel"
   },
   {
@@ -2054,7 +2060,7 @@
   {
     "uuid": "90b1e524-5b11-487d-8e37-c123575dde27",
     "pid": "https://hdl.handle.net/21.12132/3.90b1e5245b11487d",
-    "name": "ESA RPG-FMCW-94-DP",
+    "name": "ESA/INOE RPG-FMCW-94-DP",
     "serialNumber": "4010010",
     "model": "RPG-FMCW-94-DP",
     "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/RPG-FMCW-94-DP",
@@ -2669,13 +2675,16 @@
   {
     "uuid": "bf6c0c39-26c5-4dbb-bd0a-054d5382989e",
     "pid": "https://hdl.handle.net/21.12132/3.bf6c0c3926c54dbb",
-    "name": "ESA RPG-FMCW-94-DP",
+    "name": "ESA/SMHI RPG-FMCW-94-DP",
     "serialNumber": null,
     "model": "RPG-FMCW-94-DP",
     "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/RPG-FMCW-94-DP",
     "type": "Doppler non-scanning cloud radar",
     "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/Dopplernon-scanningcloudradar",
-    "owners": ["European Space Agency (ESA)"],
+    "owners": [
+      "European Space Agency (ESA)",
+      "Swedish Meteorological and Hydrological Institute (SMHI)"
+    ],
     "instrument": "rpg-fmcw-94"
   },
   {
