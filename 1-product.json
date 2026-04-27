@@ -157,14 +157,14 @@
     "humanReadableName": "EarthCARE CPR Level 1",
     "type": ["evaluation"],
     "experimental": true,
-    "downloadable": false
+    "downloadable": true
   },
   {
     "id": "cpr-tc-validation",
     "humanReadableName": "EarthCARE CPR classification",
     "type": ["evaluation"],
     "experimental": true,
-    "downloadable": false
+    "downloadable": true
   },
   {
     "id": "radar",
