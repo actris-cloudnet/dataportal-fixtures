@@ -644,16 +644,22 @@
     "actrisName": "air temperature"
   },
   {
+    "id": "model-rh",
+    "humanReadableName": "Model relative humidity",
+    "order": 4,
+    "product": "model"
+  },
+  {
     "id": "model-q",
     "humanReadableName": "Model specific humidity",
-    "order": 4,
+    "order": 5,
     "product": "model",
     "actrisName": "water vapour mass fraction"
   },
   {
     "id": "model-pressure",
     "humanReadableName": "Model pressure",
-    "order": 5,
+    "order": 6,
     "product": "model",
     "actrisName": "air pressure"
   },
