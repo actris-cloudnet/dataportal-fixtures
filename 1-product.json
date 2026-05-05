@@ -107,6 +107,13 @@
     "experimental": true
   },
   {
+    "id": "epsilon-radar",
+    "humanReadableName": "Dissipation rate of TKE (radar)",
+    "type": ["instrument"],
+    "sourceProducts": [{ "id": "radar" }, { "id": "model" }],
+    "experimental": true
+  },
+  {
     "id": "lwc",
     "humanReadableName": "Liquid water content",
     "type": ["geophysical"],

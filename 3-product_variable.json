@@ -308,6 +308,20 @@
     "actrisName": "turbulent kinetic energy dissipation rate"
   },
   {
+    "id": "epsilon-radar-epsilon",
+    "humanReadableName": "Dissipation rate of turbulent kinetic energy",
+    "order": 0,
+    "product": "epsilon-radar",
+    "actrisName": "turbulent kinetic energy dissipation rate"
+  },
+  {
+    "id": "epsilon-radar-epsilon_error",
+    "humanReadableName": "Dissipation rate of turbulent kinetic energy error",
+    "order": 1,
+    "product": "epsilon-radar",
+    "actrisName": null
+  },
+  {
     "id": "categorize-voodoo-v",
     "humanReadableName": "Doppler velocity",
     "order": 0,
