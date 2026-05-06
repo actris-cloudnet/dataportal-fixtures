@@ -935,6 +935,7 @@
     "gaw": "PAY",
     "wigosId": "0-20008-0-PAY",
     "actrisId": 122,
+    "dvasId": "7tbf",
     "country": "Switzerland",
     "countryCode": "CH",
     "type": ["cloudnet"]
