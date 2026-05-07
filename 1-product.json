@@ -98,7 +98,7 @@
   },
   {
     "id": "epsilon-lidar",
-    "humanReadableName": "Dissipation rate of TKE (lidar)",
+    "humanReadableName": "Turbulence (lidar)",
     "type": ["instrument"],
     "sourceProducts": [
       { "id": "doppler-lidar" },
@@ -108,7 +108,7 @@
   },
   {
     "id": "epsilon-radar",
-    "humanReadableName": "Dissipation rate of TKE (radar)",
+    "humanReadableName": "Turbulence (radar)",
     "type": ["instrument"],
     "sourceProducts": [{ "id": "radar" }, { "id": "model" }],
     "experimental": true
