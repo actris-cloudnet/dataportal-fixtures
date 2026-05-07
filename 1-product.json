@@ -110,7 +110,7 @@
     "id": "epsilon-radar",
     "humanReadableName": "Dissipation rate of TKE (radar)",
     "type": ["instrument"],
-    "sourceProducts": [{ "id": "radar" }],
+    "sourceProducts": [{ "id": "radar" }, { "id": "model" }],
     "experimental": true
   },
   {
