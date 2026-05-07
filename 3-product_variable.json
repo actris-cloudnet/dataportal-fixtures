@@ -23,6 +23,7 @@
   {
     "id": "cpr-validation-echo_cpr",
     "humanReadableName": "EarthCARE CPR radar reflectivity factor",
+    "shortName": "EarthCARE CPR radar reflectivity",
     "order": 1,
     "product": "cpr-validation",
     "actrisName": null
@@ -51,6 +52,7 @@
   {
     "id": "cpr-simulation-ze_sat",
     "humanReadableName": "Convolved and integrated radar reflectivity factor",
+    "shortName": "Convolved radar reflectivity",
     "order": 0,
     "product": "cpr-simulation",
     "actrisName": null
@@ -58,6 +60,7 @@
   {
     "id": "cpr-simulation-vm_sat",
     "humanReadableName": "Convolved and integrated Doppler velocity",
+    "shortName": "Convolved Doppler velocity",
     "order": 1,
     "product": "cpr-simulation",
     "actrisName": null
@@ -65,6 +68,7 @@
   {
     "id": "cpr-simulation-vm_sat_folded",
     "humanReadableName": "Doppler velocity with noise, satellite motion error and folding",
+    "shortName": "Doppler velocity (folded)",
     "order": 2,
     "product": "cpr-simulation",
     "actrisName": null
@@ -135,6 +139,7 @@
   {
     "id": "radar-rho_cx",
     "humanReadableName": "Co-cross-channel correlation coefficient",
+    "shortName": "Co-cross correlation coefficient",
     "order": 8,
     "product": "radar",
     "actrisName": null
@@ -184,6 +189,7 @@
   {
     "id": "lidar-beta_raw",
     "humanReadableName": "Non-screened attenuated backscatter coefficient",
+    "shortName": "Non-screened backscatter",
     "order": 1,
     "product": "lidar",
     "actrisName": null
@@ -191,6 +197,7 @@
   {
     "id": "lidar-depolarisation",
     "humanReadableName": "Uncalibrated lidar volume linear depolarisation ratio",
+    "shortName": "Depolarisation ratio",
     "order": 2,
     "product": "lidar",
     "actrisName": null
@@ -198,6 +205,7 @@
   {
     "id": "lidar-depolarisation_raw",
     "humanReadableName": "Non-screened uncalibrated lidar volume linear depolarisation ratio",
+    "shortName": "Non-screened depolarisation ratio",
     "order": 3,
     "product": "lidar",
     "actrisName": null
@@ -205,6 +213,7 @@
   {
     "id": "lidar-beta_1064",
     "humanReadableName": "Attenuated backscatter coefficient at 1064 nm",
+    "shortName": "Backscatter at 1064 nm",
     "order": 4,
     "product": "lidar",
     "actrisName": null
@@ -212,6 +221,7 @@
   {
     "id": "lidar-beta_532",
     "humanReadableName": "Attenuated backscatter coefficient at 532 nm",
+    "shortName": "Backscatter at 532 nm",
     "order": 5,
     "product": "lidar",
     "actrisName": null
@@ -219,6 +229,7 @@
   {
     "id": "lidar-beta_355",
     "humanReadableName": "Attenuated backscatter coefficient at 355 nm",
+    "shortName": "Backscatter at 355 nm",
     "order": 6,
     "product": "lidar",
     "actrisName": null
@@ -226,6 +237,7 @@
   {
     "id": "lidar-depolarisation_532",
     "humanReadableName": "Lidar volume linear depolarisation ratio at 532 nm",
+    "shortName": "Depolarisation ratio at 532 nm",
     "order": 7,
     "product": "lidar",
     "actrisName": null
@@ -233,6 +245,7 @@
   {
     "id": "lidar-depolarisation_355",
     "humanReadableName": "Lidar volume linear depolarisation ratio at 355 nm",
+    "shortName": "Depolarisation ratio at 355 nm",
     "order": 8,
     "product": "lidar",
     "actrisName": null
@@ -247,6 +260,7 @@
   {
     "id": "doppler-lidar-beta_raw",
     "humanReadableName": "Non-screened attenuated backscatter coefficient",
+    "shortName": "Non-screened backscatter",
     "order": 1,
     "product": "doppler-lidar",
     "actrisName": null
@@ -254,6 +268,7 @@
   {
     "id": "doppler-lidar-depolarisation",
     "humanReadableName": "Uncalibrated lidar volume linear depolarisation ratio",
+    "shortName": "Depolarisation ratio",
     "order": 2,
     "product": "doppler-lidar",
     "actrisName": null
@@ -261,6 +276,7 @@
   {
     "id": "doppler-lidar-depolarisation_raw",
     "humanReadableName": "Non-screened uncalibrated lidar volume linear depolarisation ratio",
+    "shortName": "Non-screened depolarisation ratio",
     "order": 3,
     "product": "doppler-lidar",
     "actrisName": null
@@ -303,6 +319,7 @@
   {
     "id": "epsilon-lidar-epsilon",
     "humanReadableName": "Dissipation rate of turbulent kinetic energy",
+    "shortName": "TKE dissipation rate",
     "order": 0,
     "product": "epsilon-lidar",
     "actrisName": "turbulent kinetic energy dissipation rate"
@@ -310,6 +327,7 @@
   {
     "id": "epsilon-radar-epsilon",
     "humanReadableName": "Dissipation rate of turbulent kinetic energy",
+    "shortName": "TKE dissipation rate",
     "order": 0,
     "product": "epsilon-radar",
     "actrisName": "turbulent kinetic energy dissipation rate"
@@ -317,6 +335,7 @@
   {
     "id": "epsilon-radar-epsilon_error",
     "humanReadableName": "Dissipation rate of turbulent kinetic energy error",
+    "shortName": "TKE dissipation rate error",
     "order": 1,
     "product": "epsilon-radar",
     "actrisName": null
@@ -415,6 +434,7 @@
   {
     "id": "categorize-radar_gas_atten",
     "humanReadableName": "Two-way radar attenuation due to atmospheric gases",
+    "shortName": "Radar gas attenuation",
     "order": 11,
     "product": "categorize",
     "actrisName": null
@@ -422,6 +442,7 @@
   {
     "id": "categorize-radar_liquid_atten",
     "humanReadableName": "Approximate two-way radar attenuation due to liquid water",
+    "shortName": "Radar liquid attenuation",
     "order": 12,
     "product": "categorize",
     "actrisName": null
@@ -429,6 +450,7 @@
   {
     "id": "categorize-radar_rain_atten",
     "humanReadableName": "Approximate two-way radar attenuation due to rain",
+    "shortName": "Radar rain attenuation",
     "order": 13,
     "product": "categorize",
     "actrisName": null
@@ -436,6 +458,7 @@
   {
     "id": "categorize-radar_melting_atten",
     "humanReadableName": "Approximate two-way radar attenuation due to melting layer",
+    "shortName": "Radar melting layer attenuation",
     "order": 14,
     "product": "categorize",
     "actrisName": null
@@ -471,6 +494,7 @@
   {
     "id": "classification-detection_status",
     "humanReadableName": "Radar and lidar detection status (deprecated)",
+    "shortName": "Detection status (deprecated)",
     "order": 4,
     "product": "classification",
     "actrisName": null
@@ -541,6 +565,7 @@
   {
     "id": "drizzle-mu",
     "humanReadableName": "Drizzle droplet size distribution shape parameter",
+    "shortName": "Size distribution shape parameter",
     "order": "1",
     "product": "drizzle",
     "actrisName": null
@@ -618,6 +643,7 @@
   {
     "id": "der-der_retrieval_status",
     "humanReadableName": "Droplet effective radius retrieval status",
+    "shortName": "DER retrieval status",
     "order": 1,
     "product": "der",
     "actrisName": null
@@ -879,12 +905,14 @@
   {
     "id": "mwr-l1c-irt_0",
     "humanReadableName": "Infrared brightness temperature (channel 1)",
+    "shortName": "IR brightness temp. (channel 1)",
     "order": 14,
     "product": "mwr-l1c"
   },
   {
     "id": "mwr-l1c-irt_01",
     "humanReadableName": "Infrared brightness temperature (channel 2)",
+    "shortName": "IR brightness temp. (channel 2)",
     "order": 15,
     "product": "mwr-l1c"
   },
@@ -912,6 +940,7 @@
   {
     "id": "disdrometer-number_concentration",
     "humanReadableName": "Number of particles per diameter class",
+    "shortName": "Particles per diameter class",
     "order": 3,
     "product": "disdrometer",
     "actrisName": "raindrop number size distribution"
@@ -919,6 +948,7 @@
   {
     "id": "disdrometer-fall_velocity",
     "humanReadableName": "Average velocity of each diameter class",
+    "shortName": "Velocity per diameter class",
     "order": 4,
     "product": "disdrometer",
     "actrisName": null
@@ -1143,6 +1173,7 @@
   {
     "id": "l3-cf-error",
     "humanReadableName": "Cloud fraction: Obs vs ECMWF - difference",
+    "shortName": "Cloud fraction: Obs-ECMWF diff.",
     "order": 1,
     "product": "l3-cf",
     "actrisName": null
@@ -1157,6 +1188,7 @@
   {
     "id": "l3-lwc-error",
     "humanReadableName": "Liquid cloud: Obs vs ECMWF - difference",
+    "shortName": "Liquid cloud: Obs-ECMWF diff.",
     "order": 1,
     "product": "l3-lwc",
     "actrisName": null
