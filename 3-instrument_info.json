@@ -438,6 +438,18 @@
     "instrument": "rpg-fmcw-94"
   },
   {
+    "uuid": "1f7d5b3d-dc55-483b-8e13-debb13f42bc5",
+    "pid": "https://hdl.handle.net/21.12132/3.1f7d5b3ddc55483b",
+    "name": "FMI HALO 32",
+    "serialNumber": "32",
+    "model": "StreamLine",
+    "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/HALOPhotonicsStreamLine",
+    "type": "Doppler lidar",
+    "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/Dopplerlidar",
+    "owners": ["Finnish Meteorological Institute (FMI)"],
+    "instrument": "halo-doppler-lidar"
+  },
+  {
     "uuid": "20570e63-f7b1-496c-9ac6-12c3db46820a",
     "pid": "https://hdl.handle.net/21.12132/3.20570e63f7b1496c",
     "name": "UGR RPG-FMCW-94-DP (NEBULA)",
