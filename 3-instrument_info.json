@@ -84,6 +84,18 @@
     "instrument": "hatpro"
   },
   {
+    "uuid": "0538a535-7b74-4e17-8e99-40bcc2a2c9f4",
+    "pid": "https://hdl.handle.net/21.12132/3.0538a5357b744e17",
+    "name": "LIM LPM (RSA 5)",
+    "serialNumber": "10240046",
+    "model": "Thies Clima Laser Precipitation Monitor",
+    "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/ThiesLPM",
+    "type": "disdrometer",
+    "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/disdrometer",
+    "owners": ["Leipzig Institute for Meteorology (LIM)"],
+    "instrument": "thies-lnm"
+  },
+  {
     "uuid": "055aa99b-d53c-4163-95f2-54d8539cfe6f",
     "pid": "https://hdl.handle.net/21.12132/3.055aa99bd53c4163",
     "name": "ECoE PollyXT-CYP",
@@ -2990,6 +3002,18 @@
     "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/lidarceilometer",
     "owners": ["German Meteorological Service (DWD)"],
     "instrument": "chm15k"
+  },
+  {
+    "uuid": "cec71b56-a844-4a48-b228-68a914378af5",
+    "pid": "https://hdl.handle.net/21.12132/3.cec71b56a8444a48",
+    "name": "LAPI RPG-FMCW-94-DP (WProf)",
+    "serialNumber": "4010003",
+    "model": "RPG-FMCW-94-DP",
+    "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/RPG-FMCW-94-DP",
+    "type": "Doppler non-scanning cloud radar",
+    "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/Dopplernon-scanningcloudradar",
+    "owners": ["École Polytechnique Fédérale de Lausanne LAPI (EPFL-LAPI)"],
+    "instrument": "rpg-fmcw-94"
   },
   {
     "uuid": "d11f7644-85a5-4f79-9ade-7d55408971b8",
