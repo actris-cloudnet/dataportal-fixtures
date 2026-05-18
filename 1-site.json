@@ -1246,6 +1246,19 @@
     "type": ["hidden", "model"]
   },
   {
+    "id": "st-denis",
+    "humanReadableName": "Saint-Denis",
+    "stationName": "OPAR",
+    "latitude": -20.902,
+    "longitude": 55.485,
+    "altitude": 84,
+    "gaw": null,
+    "country": "Réunion",
+    "countryCode": "RE",
+    "countrySubdivisionCode": "FR-974",
+    "type": ["hidden", "model"]
+  },
+  {
     "id": "barcelona",
     "humanReadableName": "Barcelona",
     "latitude": 41.393,
