@@ -87,7 +87,7 @@
     "uuid": "0538a535-7b74-4e17-8e99-40bcc2a2c9f4",
     "pid": "https://hdl.handle.net/21.12132/3.0538a5357b744e17",
     "name": "LIM LPM (RSA 5)",
-    "serialNumber": "10240046",
+    "serialNumber": "3932",
     "model": "Thies Clima Laser Precipitation Monitor",
     "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/ThiesLPM",
     "type": "disdrometer",
@@ -951,7 +951,7 @@
     "type": "bioaerosol sensor",
     "typeUrl": null,
     "owners": [
-      "École Polytechnique Fédérale de Lausanne LAPI (EPFL-LAPI)",
+      "École Polytechnique Fédérale de Lausanne (EPFL)",
       "FORTH Center of Studies on Air quality and Climate Change (FORTH-C-STACC)"
     ],
     "instrument": "wibs-5"
@@ -1359,7 +1359,7 @@
     "type": "ammonia monitor",
     "typeUrl": null,
     "owners": [
-      "École Polytechnique Fédérale de Lausanne LAPI (EPFL-LAPI)",
+      "École Polytechnique Fédérale de Lausanne (EPFL)",
       "FORTH Center of Studies on Air quality and Climate Change (FORTH-C-STACC)"
     ],
     "instrument": "nh3-1700"
@@ -2291,6 +2291,18 @@
     "instrument": "pollyxt"
   },
   {
+    "uuid": "9f8e1b41-41e7-472a-b681-3c302e14f629",
+    "pid": "https://hdl.handle.net/21.12132/3.9f8e1b4141e7472a",
+    "name": "LIM WS500 (LIMMACO-Rad-WS)",
+    "serialNumber": null,
+    "model": "Lufft WS500",
+    "modelUrl": null,
+    "type": "weather station",
+    "typeUrl": null,
+    "owners": ["Leipzig Institute for Meteorology (LIM)"],
+    "instrument": "weather-station"
+  },
+  {
     "uuid": "a150e648-f868-47a5-8c70-54d2f091d961",
     "pid": "https://hdl.handle.net/21.12132/3.a150e648f86847a5",
     "name": "CNR MIRA-35S",
@@ -2519,7 +2531,7 @@
     "modelUrl": null,
     "type": "weather radar",
     "typeUrl": null,
-    "owners": ["École Polytechnique Fédérale de Lausanne LAPI (EPFL-LAPI)"],
+    "owners": ["École Polytechnique Fédérale de Lausanne (EPFL)"],
     "instrument": "xpol"
   },
   {
@@ -2616,7 +2628,7 @@
     "type": "Raman lidar",
     "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/Ramanlidar",
     "owners": [
-      "École Polytechnique Fédérale de Lausanne LAPI (EPFL-LAPI)",
+      "École Polytechnique Fédérale de Lausanne (EPFL)",
       "FORTH Center of Studies on Air quality and Climate Change (FORTH-C-STACC)",
       "National Technical University of Athens (NTUA)"
     ],
@@ -3006,13 +3018,13 @@
   {
     "uuid": "cec71b56-a844-4a48-b228-68a914378af5",
     "pid": "https://hdl.handle.net/21.12132/3.cec71b56a8444a48",
-    "name": "LAPI RPG-FMCW-94-DP (WProf)",
+    "name": "LTE RPG-FMCW-94-DP (WProf)",
     "serialNumber": "4010003",
     "model": "RPG-FMCW-94-DP",
     "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/RPG-FMCW-94-DP",
     "type": "Doppler non-scanning cloud radar",
     "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/Dopplernon-scanningcloudradar",
-    "owners": ["École Polytechnique Fédérale de Lausanne LAPI (EPFL-LAPI)"],
+    "owners": ["École Polytechnique Fédérale de Lausanne (EPFL)"],
     "instrument": "rpg-fmcw-94"
   },
   {
@@ -3347,7 +3359,7 @@
     "type": "ice nucleation particle counter",
     "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/icenucleationparticlecounter",
     "owners": [
-      "École Polytechnique Fédérale de Lausanne LAPI (EPFL-LAPI)",
+      "École Polytechnique Fédérale de Lausanne (EPFL)",
       "FORTH Center of Studies on Air quality and Climate Change (FORTH-C-STACC)"
     ],
     "instrument": "pine"
