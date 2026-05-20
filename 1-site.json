@@ -2123,7 +2123,7 @@
     "dvasId": "lpso",
     "country": "Antarctica",
     "countryCode": "AQ",
-    "type": ["campaign", "polarin"],
+    "type": ["cloudnet", "polarin"],
     "citations": [
       {
         "id": "troll_cite"
