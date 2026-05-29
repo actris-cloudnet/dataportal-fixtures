@@ -1415,7 +1415,7 @@
   {
     "uuid": "60eef0a4-4a75-42a0-aca0-3f59cfd266dc",
     "pid": "https://hdl.handle.net/21.12132/3.60eef0a44a7542a0",
-    "name": "LMU CHM 15k",
+    "name": "LMU CHM 15k (1)",
     "serialNumber": "CHX090103",
     "model": "Lufft CHM 15k",
     "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/LufftCHM15k",
@@ -1976,7 +1976,7 @@
   {
     "uuid": "8584159a-7b3a-4545-b268-18675c86dc8d",
     "pid": "https://hdl.handle.net/21.12132/3.8584159a7b3a4545",
-    "name": "LMU CHM 15k",
+    "name": "LMU CHM 15k (2)",
     "serialNumber": "CHM230134",
     "model": "Lufft CHM 15k",
     "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/LufftCHM15k",
@@ -2008,6 +2008,18 @@
     "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/lidarceilometer",
     "owners": ["Finnish Meteorological Institute (FMI)"],
     "instrument": "cl51"
+  },
+  {
+    "uuid": "87a1fe59-cbce-4b4c-aebe-82f621657dff",
+    "pid": "https://hdl.handle.net/21.12132/3.87a1fe59cbce4b4c",
+    "name": "UGR Parsivel² (2)",
+    "serialNumber": null,
+    "model": "OTT Parsivel²",
+    "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/OTTParsivel2",
+    "type": "disdrometer",
+    "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/disdrometer",
+    "owners": ["University of Granada (UGR)"],
+    "instrument": "parsivel"
   },
   {
     "uuid": "887feaf9-3e5f-4ea1-b90d-943f11f9279f",
@@ -2072,7 +2084,7 @@
   {
     "uuid": "8f31e165-45d1-4ff3-816f-35b17573a1df",
     "pid": "https://hdl.handle.net/21.12132/3.8f31e16545d14ff3",
-    "name": "UGR Parsivel²",
+    "name": "UGR Parsivel² (1)",
     "serialNumber": "45002",
     "model": "OTT Parsivel²",
     "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/OTTParsivel2",
