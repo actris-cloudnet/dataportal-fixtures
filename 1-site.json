@@ -1307,7 +1307,7 @@
   {
     "id": "warsaw",
     "humanReadableName": "Warsaw",
-    "stationName": "WOS",
+    "stationName": "RS-Lab",
     "latitude": 52.21,
     "longitude": 20.98,
     "altitude": 112,
@@ -1321,7 +1321,8 @@
       {
         "id": "warsaw_cite"
       }
-    ]
+    ],
+    "description": "<p>The Remote Sensing Laboratory (RS-Lab) is an urban measurement station in\nWarsaw, Poland hosted by Institute of Geophysics, University of Warsaw.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://www.igf.fuw.edu.pl/en/laboratories/laboratorium-pomiarow-zdalnych/\">RS-Lab home page</a></li>\n</ul>\n"
   },
   {
     "id": "rzecin",
