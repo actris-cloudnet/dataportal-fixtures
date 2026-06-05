@@ -30,5 +30,9 @@
   {
     "id": "arome_cite",
     "acknowledgements": "Météo-France for providing AROME model data."
+  },
+  {
+    "id": "metno-arome-arctic_cite",
+    "acknowledgements": "MET Norway for providing AROME-Arctic model data."
   }
 ]

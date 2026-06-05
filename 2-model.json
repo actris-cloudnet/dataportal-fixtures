@@ -192,6 +192,15 @@
     "citations": [{ "id": "dwd-icon-d2_cite" }]
   },
   {
+    "id": "arome-arctic-0-2",
+    "humanReadableName": "AROME-Arctic (0h-2h forecast)",
+    "optimumOrder": 600,
+    "sourceModel": { "id": "arome-arctic" },
+    "forecastStart": 0,
+    "forecastEnd": 2,
+    "citations": [{ "id": "metno-arome-arctic_cite" }]
+  },
+  {
     "id": "arpege",
     "humanReadableName": "ARPEGE",
     "optimumOrder": 1000
@@ -199,6 +208,11 @@
   {
     "id": "arome",
     "humanReadableName": "AROME",
+    "optimumOrder": 1000
+  },
+  {
+    "id": "arome-arctic",
+    "humanReadableName": "AROME-Arctic",
     "optimumOrder": 1000
   },
   {
