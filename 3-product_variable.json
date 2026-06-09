@@ -617,7 +617,7 @@
     "humanReadableName": "Ice effective radius",
     "order": 0,
     "product": "ier",
-    "actrisName": null
+    "actrisName": "ice particle effective radius"
   },
   {
     "id": "ier-ier_retrieval_status",
@@ -638,7 +638,7 @@
     "humanReadableName": "Droplet effective radius",
     "order": 0,
     "product": "der",
-    "actrisName": null
+    "actrisName": "liquid droplet effective radius"
   },
   {
     "id": "der-der_retrieval_status",
