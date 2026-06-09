@@ -111,7 +111,7 @@
     "humanReadableName": "Turbulence (radar)",
     "type": ["instrument"],
     "sourceProducts": [{ "id": "radar" }, { "id": "model" }],
-    "experimental": true
+    "experimental": false
   },
   {
     "id": "lwc",
