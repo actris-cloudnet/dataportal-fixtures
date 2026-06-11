@@ -2220,7 +2220,8 @@
     "gaw": null,
     "country": "Germany",
     "countryCode": "DE",
-    "type": ["cloudnet"]
+    "type": ["cloudnet"],
+    "description": "<p>Kappelrodeck is a cloud remote sensing measurement site located on the\noutskirts of the village of Kappelrodeck in the Rhine Valley, at the foot of\nthe western slopes of the Black Forest in southwestern Germany. The station is\nsituated at an altitude of approximately 200 m above mean sea level and serves\nas the home base of the KLOCX platform operated by the Karlsruhe Institute of\nTechnology (KIT). Cloud remote sensing observations at Kappelrodeck began in\n2025 and contribute to the monitoring and characterization of cloud and\natmospheric processes in a region strongly influenced by both valley and\nmountain meteorology.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://www.imkasf.kit.edu/english/Projects_4081.php\">KLOCX home page</a></li>\n</ul>\n"
   },
   {
     "id": "invercargill",
