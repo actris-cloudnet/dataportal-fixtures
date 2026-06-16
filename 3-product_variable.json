@@ -1115,16 +1115,38 @@
     "actrisName": null
   },
   {
+    "id": "l3-cf-error",
+    "humanReadableName": "Cloud fraction: Obs vs ECMWF - difference",
+    "shortName": "Cloud fraction: Obs-ECMWF diff.",
+    "order": 1,
+    "product": "l3-cf",
+    "actrisName": null
+  },
+  {
+    "id": "l3-cf-ecmwf_cf",
+    "humanReadableName": "Cloud fraction: ECMWF",
+    "order": 2,
+    "product": "l3-cf",
+    "actrisName": null
+  },
+  {
+    "id": "l3-cf-cf_V_ecmwf",
+    "humanReadableName": "Cloud fraction: Obs",
+    "order": 3,
+    "product": "l3-cf",
+    "actrisName": null
+  },
+  {
     "id": "l3-cf-model_cf",
     "humanReadableName": "Model cloud fraction",
-    "order": 1,
+    "order": 4,
     "product": "l3-cf",
     "actrisName": null
   },
   {
     "id": "l3-cf-cf_V",
     "humanReadableName": "Observed cloud fraction",
-    "order": 2,
+    "order": 5,
     "product": "l3-cf",
     "actrisName": null
   },
@@ -1136,16 +1158,37 @@
     "actrisName": null
   },
   {
+    "id": "l3-iwc-error",
+    "humanReadableName": "Ice cloud: Obs vs ECMWF - difference",
+    "order": 1,
+    "product": "l3-iwc",
+    "actrisName": null
+  },
+  {
+    "id": "l3-iwc-ecmwf_iwc",
+    "humanReadableName": "Ice water content: ECMWF",
+    "order": 2,
+    "product": "l3-iwc",
+    "actrisName": null
+  },
+  {
+    "id": "l3-iwc-iwc_ecmwf",
+    "humanReadableName": "Ice water content: Obs",
+    "order": 3,
+    "product": "l3-iwc",
+    "actrisName": null
+  },
+  {
     "id": "l3-iwc-model_iwc",
     "humanReadableName": "Model ice water content",
-    "order": 1,
+    "order": 4,
     "product": "l3-iwc",
     "actrisName": null
   },
   {
     "id": "l3-iwc-iwc",
     "humanReadableName": "Observed ice water content",
-    "order": 2,
+    "order": 5,
     "product": "l3-iwc",
     "actrisName": null
   },
@@ -1157,16 +1200,38 @@
     "actrisName": null
   },
   {
+    "id": "l3-lwc-error",
+    "humanReadableName": "Liquid cloud: Obs vs ECMWF - difference",
+    "shortName": "Liquid cloud: Obs-ECMWF diff.",
+    "order": 1,
+    "product": "l3-lwc",
+    "actrisName": null
+  },
+  {
+    "id": "l3-lwc-ecmwf_lwc",
+    "humanReadableName": "Liquid water content: ECMWF",
+    "order": 2,
+    "product": "l3-lwc",
+    "actrisName": null
+  },
+  {
+    "id": "l3-lwc-lwc_ecmwf",
+    "humanReadableName": "Liquid water content: Obs",
+    "order": 3,
+    "product": "l3-lwc",
+    "actrisName": null
+  },
+  {
     "id": "l3-lwc-model_lwc",
     "humanReadableName": "Model liquid water content",
-    "order": 1,
+    "order": 4,
     "product": "l3-lwc",
     "actrisName": null
   },
   {
     "id": "l3-lwc-lwc",
     "humanReadableName": "Observed liquid water content",
-    "order": 2,
+    "order": 5,
     "product": "l3-lwc",
     "actrisName": null
   },
@@ -1196,35 +1261,6 @@
     "humanReadableName": "Correlation coefficient",
     "order": 3,
     "product": "weather-radar",
-    "actrisName": null
-  },
-  {
-    "id": "l3-cf-error",
-    "humanReadableName": "Cloud fraction: Obs vs ECMWF - difference",
-    "shortName": "Cloud fraction: Obs-ECMWF diff.",
-    "id": "l3-lwc-model_lwc",
-    "humanReadableName": "Model liquid water content",
-    "order": 1,
-    "product": "l3-cf",
-    "actrisName": null
-  },
-  {
-    "id": "l3-iwc-error",
-    "humanReadableName": "Ice cloud: Obs vs ECMWF - difference",
-    "order": 1,
-    "product": "l3-iwc",
-    "product": "l3-lwc",
-    "actrisName": null
-  },
-  {
-    "id": "l3-lwc-error",
-    "humanReadableName": "Liquid cloud: Obs vs ECMWF - difference",
-    "shortName": "Liquid cloud: Obs-ECMWF diff.",
-    "order": 1,
-    "id": "l3-lwc-lwc",
-    "humanReadableName": "Observed liquid water content",
-    "order": 2,
-    "product": "l3-lwc",
     "actrisName": null
   }
 ]
