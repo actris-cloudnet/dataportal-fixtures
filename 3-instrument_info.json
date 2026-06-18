@@ -1947,6 +1947,18 @@
     "instrument": "rpg-fmcw-35"
   },
   {
+    "uuid": "846aeec3-dbfd-4984-a293-c100f82dbd93",
+    "pid": "https://hdl.handle.net/21.12132/3.846aeec3dbfd4984",
+    "name": "FMI HALO 34",
+    "serialNumber": "0811-34",
+    "model": "StreamLine",
+    "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/HALOPhotonicsStreamLine",
+    "type": "Doppler lidar",
+    "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/Dopplerlidar",
+    "owners": ["Finnish Meteorological Institute (FMI)"],
+    "instrument": "halo-doppler-lidar"
+  },
+  {
     "uuid": "8535b366-73a4-48ee-9247-2a4f240ab750",
     "pid": "https://hdl.handle.net/21.12132/3.8535b36673a448ee",
     "name": "TU Delft Parsivel² (PAR009)",
@@ -2763,7 +2775,7 @@
     "uuid": "c1ddaa8d-62e9-4942-b35e-600de8728873",
     "pid": "https://hdl.handle.net/21.12132/3.c1ddaa8d62e94942",
     "name": "KIT HALO",
-    "serialNumber": null,
+    "serialNumber": "290",
     "model": "StreamLine XR",
     "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/HALOPhotonicsStreamLineXR",
     "type": "Doppler lidar",
