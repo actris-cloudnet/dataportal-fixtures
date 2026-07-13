@@ -701,6 +701,14 @@
   },
   {
     "siteId": "palaiseau",
+    "productId": "lidar",
+    "instrumentInfo": {
+      "uuid": "9b914f8c-94c4-438a-9703-985ded643598"
+    },
+    "measurementDate": "2026-02-06"
+  },
+  {
+    "siteId": "palaiseau",
     "productId": "mwr-single",
     "instrumentInfo": {
       "uuid": "770aaf22-8a97-4dd6-a165-1da81c06319c"
