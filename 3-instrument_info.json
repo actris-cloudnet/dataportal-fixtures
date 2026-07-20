@@ -1911,10 +1911,10 @@
   {
     "uuid": "814e6693-acda-4ba9-bcd1-2d45d56630b6",
     "pid": "https://hdl.handle.net/21.12132/3.814e6693acda4ba9",
-    "name": "UFS MIRA-35C",
+    "name": "UFS MIRA-35",
     "serialNumber": null,
-    "model": "METEK MIRA-35C",
-    "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/MetekMIRA35C",
+    "model": "METEK MIRA-35",
+    "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/MetekMIRA35",
     "type": "Doppler non-scanning cloud radar",
     "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/Dopplernon-scanningcloudradar",
     "owners": [
@@ -2257,12 +2257,12 @@
   {
     "uuid": "9af43f93-e396-49f5-8dc1-6b67336b66e0",
     "pid": "https://hdl.handle.net/21.12132/3.9af43f93e39649f5",
-    "name": "ECoE MIRA-35",
+    "name": "ECoE MIRA-35S",
     "serialNumber": "MBR8",
-    "model": "METEK MIRA-35",
-    "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/MetekMIRA35",
-    "type": "Doppler non-scanning cloud radar",
-    "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/Dopplernon-scanningcloudradar",
+    "model": "METEK MIRA-35S",
+    "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/MetekMIRA35S",
+    "type": "Doppler scanning cloud radar",
+    "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/Dopplerscanningcloudradar",
     "owners": ["ERATOSTHENES Centre of Excellence (ECoE)"],
     "instrument": "mira-35"
   },
@@ -2501,7 +2501,7 @@
   {
     "uuid": "b14e15ec-9c9b-43fb-9ad5-79cb059f3a6e",
     "pid": "https://hdl.handle.net/21.12132/3.b14e15ec9c9b43fb",
-    "name": "IPSL CHM 15k",
+    "name": "IPSL CHM 15k (2015)",
     "serialNumber": "CHM150101",
     "model": "Lufft CHM 15k",
     "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/LufftCHM15k",
