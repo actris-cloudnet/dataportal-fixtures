@@ -939,11 +939,11 @@
   },
   {
     "id": "disdrometer-number_concentration",
-    "humanReadableName": "Number of particles per diameter class",
-    "shortName": "Particles per diameter class",
+    "humanReadableName": "Particle size distribution",
+    "shortName": "Particle size distribution",
     "order": 3,
     "product": "disdrometer",
-    "actrisName": "raindrop number size distribution"
+    "actrisName": null
   },
   {
     "id": "disdrometer-fall_velocity",
