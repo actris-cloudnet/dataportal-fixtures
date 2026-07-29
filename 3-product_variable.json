@@ -924,16 +924,23 @@
     "actrisName": null
   },
   {
+    "id": "disdrometer-rainfall_amount",
+    "humanReadableName": "Cumulative rainfall",
+    "order": 5,
+    "product": "disdrometer",
+    "actrisName": null
+  },
+  {
     "id": "disdrometer-snowfall_rate",
-    "humanReadableName": "Snowfall rate",
-    "order": 1,
+    "humanReadableName": "Liquid water equivalent snowfall rate",
+    "order": 10,
     "product": "disdrometer",
     "actrisName": null
   },
   {
     "id": "disdrometer-n_particles",
     "humanReadableName": "Number of particles",
-    "order": 2,
+    "order": 20,
     "product": "disdrometer",
     "actrisName": null
   },
@@ -941,7 +948,7 @@
     "id": "disdrometer-number_concentration",
     "humanReadableName": "Particle size distribution",
     "shortName": "Particle size distribution",
-    "order": 3,
+    "order": 30,
     "product": "disdrometer",
     "actrisName": null
   },
@@ -949,14 +956,14 @@
     "id": "disdrometer-fall_velocity",
     "humanReadableName": "Average velocity of each diameter class",
     "shortName": "Velocity per diameter class",
-    "order": 4,
+    "order": 40,
     "product": "disdrometer",
     "actrisName": null
   },
   {
     "id": "disdrometer-visibility",
     "humanReadableName": "Visibility",
-    "order": 5,
+    "order": 50,
     "product": "disdrometer",
     "actrisName": null
   },
@@ -1004,7 +1011,7 @@
   },
   {
     "id": "weather-station-rainfall_amount",
-    "humanReadableName": "Rainfall amount",
+    "humanReadableName": "Cumulative rainfall",
     "order": 6,
     "product": "weather-station",
     "actrisName": null
@@ -1039,7 +1046,7 @@
   },
   {
     "id": "rain-gauge-rainfall_amount",
-    "humanReadableName": "Total accumulated rainfall",
+    "humanReadableName": "Cumulative rainfall",
     "order": 0,
     "product": "rain-gauge",
     "actrisName": null
