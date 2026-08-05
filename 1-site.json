@@ -2114,7 +2114,7 @@
     "dvasId": "xbi0",
     "actrisId": 1,
     "country": "Austria",
-    "countryCode": "AS",
+    "countryCode": "AT",
     "type": ["campaign"]
   },
   {
@@ -2218,6 +2218,7 @@
   {
     "id": "kappelrodeck",
     "humanReadableName": "Kappelrodeck",
+    "stationName": "KLOCX",
     "latitude": 48.59729,
     "longitude": 8.10794,
     "altitude": 199,
@@ -2560,6 +2561,21 @@
     "country": "Iceland",
     "countryCode": "IS",
     "countrySubdivisionCode": null,
+    "type": ["campaign"]
+  },
+  {
+    "id": "kolsass",
+    "humanReadableName": "Kolsass",
+    "stationName": "KLOCX",
+    "latitude": 47.305341,
+    "longitude": 11.62219,
+    "altitude": 545,
+    "gaw": null,
+    "wigosId": "0-40-2-002KOL",
+    "dvasId": null,
+    "actrisId": null,
+    "country": "Austria",
+    "countryCode": "AT",
     "type": ["campaign"]
   }
 ]
