@@ -185,7 +185,7 @@
   {
     "id": "icon-d2-0-2",
     "humanReadableName": "ICON-D2 (0h-2h forecast)",
-    "optimumOrder": 500,
+    "optimumOrder": 250,
     "sourceModel": { "id": "icon-d2" },
     "forecastStart": 0,
     "forecastEnd": 2,
@@ -194,7 +194,7 @@
   {
     "id": "arome-arctic-0-2",
     "humanReadableName": "AROME-Arctic (0h-2h forecast)",
-    "optimumOrder": 600,
+    "optimumOrder": 275,
     "sourceModel": { "id": "arome-arctic" },
     "forecastStart": 0,
     "forecastEnd": 2,
