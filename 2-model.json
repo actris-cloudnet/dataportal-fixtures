@@ -12,15 +12,6 @@
     "citations": [{ "id": "fmi_cite" }]
   },
   {
-    "id": "arpege-12-23",
-    "humanReadableName": "ARPEGE (12h-23h forecast)",
-    "optimumOrder": 101,
-    "sourceModel": { "id": "arpege" },
-    "forecastStart": 12,
-    "forecastEnd": 23,
-    "citations": [{ "id": "arpege_cite" }]
-  },
-  {
     "id": "icon-iglo-12-23",
     "humanReadableName": "ICON-IGLO (12h-23h forecast)",
     "optimumOrder": 102,
@@ -93,76 +84,53 @@
     "citations": [{ "id": "fmi_cite" }]
   },
   {
-    "id": "arpege-0-11",
-    "humanReadableName": "ARPEGE (0h-11h forecast)",
+    "id": "arome",
+    "humanReadableName": "AROME forecast",
     "optimumOrder": 210,
-    "sourceModel": { "id": "arpege" },
-    "forecastStart": 0,
-    "forecastEnd": 11,
-    "citations": [{ "id": "arpege_cite" }]
-  },
-  {
-    "id": "arpege-24-35",
-    "humanReadableName": "ARPEGE (24h-35h forecast)",
-    "optimumOrder": 211,
-    "sourceModel": { "id": "arpege" },
-    "forecastStart": 24,
-    "forecastEnd": 35,
-    "citations": [{ "id": "arpege_cite" }]
-  },
-  {
-    "id": "arpege-36-47",
-    "humanReadableName": "ARPEGE (36h-47h forecast)",
-    "optimumOrder": 212,
-    "sourceModel": { "id": "arpege" },
-    "forecastStart": 36,
-    "forecastEnd": 47,
-    "citations": [{ "id": "arpege_cite" }]
-  },
-  {
-    "id": "arpege-48-59",
-    "humanReadableName": "ARPEGE (48h-59h forecast)",
-    "optimumOrder": 213,
-    "sourceModel": { "id": "arpege" },
-    "forecastStart": 48,
-    "forecastEnd": 59,
-    "citations": [{ "id": "arpege_cite" }]
-  },
-  {
-    "id": "arpege-60-71",
-    "humanReadableName": "ARPEGE (60h-71h forecast)",
-    "optimumOrder": 214,
-    "sourceModel": { "id": "arpege" },
-    "forecastStart": 60,
-    "forecastEnd": 71,
-    "citations": [{ "id": "arpege_cite" }]
-  },
-  {
-    "id": "arome-0-11",
-    "humanReadableName": "AROME (0h-11h forecast)",
-    "optimumOrder": 215,
     "sourceModel": { "id": "arome" },
     "forecastStart": 0,
-    "forecastEnd": 11,
+    "forecastEnd": 36,
     "citations": [{ "id": "arome_cite" }]
   },
   {
-    "id": "arome-12-23",
-    "humanReadableName": "AROME (12h-23h forecast)",
-    "optimumOrder": 216,
-    "sourceModel": { "id": "arome" },
-    "forecastStart": 12,
-    "forecastEnd": 23,
-    "citations": [{ "id": "arome_cite" }]
+    "id": "arome-arctic",
+    "humanReadableName": "AROME-Arctic forecast",
+    "optimumOrder": 220,
+    "sourceModel": { "id": "arome-arctic" },
+    "forecastStart": 0,
+    "forecastEnd": 66,
+    "citations": [{ "id": "metno-arome-arctic_cite" }]
   },
   {
-    "id": "arome-24-35",
-    "humanReadableName": "AROME (24h-35h forecast)",
-    "optimumOrder": 217,
-    "sourceModel": { "id": "arome" },
-    "forecastStart": 24,
-    "forecastEnd": 35,
-    "citations": [{ "id": "arome_cite" }]
+    "id": "icon-d2",
+    "humanReadableName": "ICON-D2 forecast",
+    "optimumOrder": 230,
+    "sourceModel": { "id": "icon-d2" },
+    "forecastStart": 0,
+    "forecastEnd": 48,
+    "sites": [
+      { "id": "lindenberg" },
+      { "id": "falkenberg" },
+      { "id": "hohenpeissenberg" },
+      { "id": "juelich" },
+      { "id": "cabauw" },
+      { "id": "schneefernerhaus" },
+      { "id": "hamburg" },
+      { "id": "payerne" },
+      { "id": "chilbolton" },
+      { "id": "palaiseau" },
+      { "id": "san-pietro-capofiume" }
+    ],
+    "citations": [{ "id": "dwd-icon-d2_cite" }]
+  },
+  {
+    "id": "arpege",
+    "humanReadableName": "ARPEGE forecast",
+    "optimumOrder": 240,
+    "sourceModel": { "id": "arpege" },
+    "forecastStart": 0,
+    "forecastEnd": 78,
+    "citations": [{ "id": "arpege_cite" }]
   },
   {
     "id": "ecmwf-open",
@@ -183,10 +151,91 @@
     "citations": [{ "id": "gdas_cite" }]
   },
   {
+    "id": "arpege-12-23",
+    "humanReadableName": "ARPEGE (12h-23h forecast)",
+    "optimumOrder": 1000,
+    "sourceModel": null,
+    "forecastStart": 12,
+    "forecastEnd": 23,
+    "citations": [{ "id": "arpege_cite" }]
+  },
+  {
+    "id": "arpege-0-11",
+    "humanReadableName": "ARPEGE (0h-11h forecast)",
+    "optimumOrder": 1000,
+    "sourceModel": null,
+    "forecastStart": 0,
+    "forecastEnd": 11,
+    "citations": [{ "id": "arpege_cite" }]
+  },
+  {
+    "id": "arpege-24-35",
+    "humanReadableName": "ARPEGE (24h-35h forecast)",
+    "optimumOrder": 1000,
+    "sourceModel": null,
+    "forecastStart": 24,
+    "forecastEnd": 35,
+    "citations": [{ "id": "arpege_cite" }]
+  },
+  {
+    "id": "arpege-36-47",
+    "humanReadableName": "ARPEGE (36h-47h forecast)",
+    "optimumOrder": 1000,
+    "sourceModel": null,
+    "forecastStart": 36,
+    "forecastEnd": 47,
+    "citations": [{ "id": "arpege_cite" }]
+  },
+  {
+    "id": "arpege-48-59",
+    "humanReadableName": "ARPEGE (48h-59h forecast)",
+    "optimumOrder": 1000,
+    "sourceModel": null,
+    "forecastStart": 48,
+    "forecastEnd": 59,
+    "citations": [{ "id": "arpege_cite" }]
+  },
+  {
+    "id": "arpege-60-71",
+    "humanReadableName": "ARPEGE (60h-71h forecast)",
+    "optimumOrder": 1000,
+    "sourceModel": null,
+    "forecastStart": 60,
+    "forecastEnd": 71,
+    "citations": [{ "id": "arpege_cite" }]
+  },
+  {
+    "id": "arome-0-11",
+    "humanReadableName": "AROME (0h-11h forecast)",
+    "optimumOrder": 1000,
+    "sourceModel": null,
+    "forecastStart": 0,
+    "forecastEnd": 11,
+    "citations": [{ "id": "arome_cite" }]
+  },
+  {
+    "id": "arome-12-23",
+    "humanReadableName": "AROME (12h-23h forecast)",
+    "optimumOrder": 1000,
+    "sourceModel": null,
+    "forecastStart": 12,
+    "forecastEnd": 23,
+    "citations": [{ "id": "arome_cite" }]
+  },
+  {
+    "id": "arome-24-35",
+    "humanReadableName": "AROME (24h-35h forecast)",
+    "optimumOrder": 1000,
+    "sourceModel": null,
+    "forecastStart": 24,
+    "forecastEnd": 35,
+    "citations": [{ "id": "arome_cite" }]
+  },
+  {
     "id": "icon-d2-0-2",
     "humanReadableName": "ICON-D2 (0h-2h forecast)",
-    "optimumOrder": 250,
-    "sourceModel": { "id": "icon-d2" },
+    "optimumOrder": 1000,
+    "sourceModel": null,
     "forecastStart": 0,
     "forecastEnd": 2,
     "citations": [{ "id": "dwd-icon-d2_cite" }]
@@ -194,43 +243,10 @@
   {
     "id": "arome-arctic-0-2",
     "humanReadableName": "AROME-Arctic (0h-2h forecast)",
-    "optimumOrder": 275,
-    "sourceModel": { "id": "arome-arctic" },
+    "optimumOrder": 1000,
+    "sourceModel": null,
     "forecastStart": 0,
     "forecastEnd": 2,
     "citations": [{ "id": "metno-arome-arctic_cite" }]
-  },
-  {
-    "id": "arpege",
-    "humanReadableName": "ARPEGE",
-    "optimumOrder": 1000
-  },
-  {
-    "id": "arome",
-    "humanReadableName": "AROME",
-    "optimumOrder": 1000
-  },
-  {
-    "id": "arome-arctic",
-    "humanReadableName": "AROME-Arctic",
-    "optimumOrder": 1000
-  },
-  {
-    "id": "icon-d2",
-    "humanReadableName": "ICON-D2",
-    "optimumOrder": 1000,
-    "sites": [
-      { "id": "lindenberg" },
-      { "id": "falkenberg" },
-      { "id": "hohenpeissenberg" },
-      { "id": "juelich" },
-      { "id": "cabauw" },
-      { "id": "schneefernerhaus" },
-      { "id": "hamburg" },
-      { "id": "payerne" },
-      { "id": "chilbolton" },
-      { "id": "palaiseau" },
-      { "id": "san-pietro-capofiume" }
-    ]
   }
 ]
