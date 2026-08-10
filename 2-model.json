@@ -152,7 +152,7 @@
   },
   {
     "id": "arpege-12-23",
-    "humanReadableName": "ARPEGE (12h-23h forecast)",
+    "humanReadableName": "ARPEGE (12h-23h forecast, deprecated)",
     "optimumOrder": 1000,
     "sourceModel": null,
     "forecastStart": 12,
@@ -161,7 +161,7 @@
   },
   {
     "id": "arpege-0-11",
-    "humanReadableName": "ARPEGE (0h-11h forecast)",
+    "humanReadableName": "ARPEGE (0h-11h forecast, deprecated)",
     "optimumOrder": 1000,
     "sourceModel": null,
     "forecastStart": 0,
@@ -170,7 +170,7 @@
   },
   {
     "id": "arpege-24-35",
-    "humanReadableName": "ARPEGE (24h-35h forecast)",
+    "humanReadableName": "ARPEGE (24h-35h forecast, deprecated)",
     "optimumOrder": 1000,
     "sourceModel": null,
     "forecastStart": 24,
@@ -179,7 +179,7 @@
   },
   {
     "id": "arpege-36-47",
-    "humanReadableName": "ARPEGE (36h-47h forecast)",
+    "humanReadableName": "ARPEGE (36h-47h forecast, deprecated)",
     "optimumOrder": 1000,
     "sourceModel": null,
     "forecastStart": 36,
@@ -188,7 +188,7 @@
   },
   {
     "id": "arpege-48-59",
-    "humanReadableName": "ARPEGE (48h-59h forecast)",
+    "humanReadableName": "ARPEGE (48h-59h forecast, deprecated)",
     "optimumOrder": 1000,
     "sourceModel": null,
     "forecastStart": 48,
@@ -197,7 +197,7 @@
   },
   {
     "id": "arpege-60-71",
-    "humanReadableName": "ARPEGE (60h-71h forecast)",
+    "humanReadableName": "ARPEGE (60h-71h forecast, deprecated)",
     "optimumOrder": 1000,
     "sourceModel": null,
     "forecastStart": 60,
@@ -206,7 +206,7 @@
   },
   {
     "id": "arome-0-11",
-    "humanReadableName": "AROME (0h-11h forecast)",
+    "humanReadableName": "AROME (0h-11h forecast, deprecated)",
     "optimumOrder": 1000,
     "sourceModel": null,
     "forecastStart": 0,
@@ -215,7 +215,7 @@
   },
   {
     "id": "arome-12-23",
-    "humanReadableName": "AROME (12h-23h forecast)",
+    "humanReadableName": "AROME (12h-23h forecast, deprecated)",
     "optimumOrder": 1000,
     "sourceModel": null,
     "forecastStart": 12,
@@ -224,7 +224,7 @@
   },
   {
     "id": "arome-24-35",
-    "humanReadableName": "AROME (24h-35h forecast)",
+    "humanReadableName": "AROME (24h-35h forecast, deprecated)",
     "optimumOrder": 1000,
     "sourceModel": null,
     "forecastStart": 24,
@@ -233,7 +233,7 @@
   },
   {
     "id": "icon-d2-0-2",
-    "humanReadableName": "ICON-D2 (0h-2h forecast)",
+    "humanReadableName": "ICON-D2 (0h-2h forecast, deprecated)",
     "optimumOrder": 1000,
     "sourceModel": null,
     "forecastStart": 0,
@@ -242,7 +242,7 @@
   },
   {
     "id": "arome-arctic-0-2",
-    "humanReadableName": "AROME-Arctic (0h-2h forecast)",
+    "humanReadableName": "AROME-Arctic (0h-2h forecast, deprecated)",
     "optimumOrder": 1000,
     "sourceModel": null,
     "forecastStart": 0,
