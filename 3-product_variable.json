@@ -1052,15 +1052,15 @@
     "actrisName": null
   },
   {
-    "id": "rain-gauge-rainfall_amount",
-    "humanReadableName": "Cumulative rainfall",
+    "id": "rain-gauge-rainfall_rate",
+    "humanReadableName": "Rainfall rate",
     "order": 0,
     "product": "rain-gauge",
     "actrisName": null
   },
   {
-    "id": "rain-gauge-rainfall_rate",
-    "humanReadableName": "Rainfall rate",
+    "id": "rain-gauge-rainfall_amount",
+    "humanReadableName": "Cumulative rainfall",
     "order": 1,
     "product": "rain-gauge",
     "actrisName": null
