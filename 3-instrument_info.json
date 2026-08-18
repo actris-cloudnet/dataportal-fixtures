@@ -1523,6 +1523,18 @@
     "instrument": "parsivel"
   },
   {
+    "uuid": "6ea400ba-1738-4d69-9371-4137ed2778f8",
+    "pid": "https://hdl.handle.net/21.12132/3.6ea400ba17384d69",
+    "name": "TU Delft Pluvio² L 200 RH",
+    "serialNumber": "PL2L-457120",
+    "model": "OTT Pluvio² L 200 RH",
+    "modelUrl": null,
+    "type": "weighing rain gauge",
+    "typeUrl": null,
+    "owners": ["Delft University of Technology (TU Delft)"],
+    "instrument": "pluvio"
+  },
+  {
     "uuid": "6f257fac-bdb5-49b0-ae14-673c9bb67fdf",
     "pid": "https://hdl.handle.net/21.12132/3.6f257facbdb549b0",
     "name": "FMI WRM200 (NUR)",
