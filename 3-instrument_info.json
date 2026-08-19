@@ -303,6 +303,18 @@
     "instrument": "weather-station"
   },
   {
+    "uuid": "14460726-7dd6-4e12-b19a-65dae2371d33",
+    "pid": "https://hdl.handle.net/21.12132/3.144607267dd64e12",
+    "name": "DWD Parsivel² (453155)",
+    "serialNumber": "453155",
+    "model": "OTT Parsivel²",
+    "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/OTTParsivel2",
+    "type": "disdrometer",
+    "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/disdrometer",
+    "owners": ["German Meteorological Service (DWD)"],
+    "instrument": "parsivel"
+  },
+  {
     "uuid": "156843cc-b60a-4a92-825a-23171ba94eae",
     "pid": "https://hdl.handle.net/21.12132/3.156843ccb60a4a92",
     "name": "LIM MRR-PRO (LIMRAD24)",
@@ -392,7 +404,7 @@
   {
     "uuid": "1b0966f6-3b2d-41f2-a82c-fecc58bab864",
     "pid": "https://hdl.handle.net/21.12132/3.1b0966f63b2d41f2",
-    "name": "DWD Parsivel²",
+    "name": "DWD Parsivel² (451221)",
     "serialNumber": "451221",
     "model": "OTT Parsivel²",
     "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/OTTParsivel2",
