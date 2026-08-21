@@ -6,12 +6,6 @@
     "citations": [{ "id": "ecmwf_cite" }]
   },
   {
-    "id": "harmonie-fmi-6-11",
-    "humanReadableName": "HARMONIE-AROME (6h-11h forecast)",
-    "optimumOrder": 100,
-    "citations": [{ "id": "fmi_cite" }]
-  },
-  {
     "id": "icon-iglo-12-23",
     "humanReadableName": "ICON-IGLO (12h-23h forecast)",
     "optimumOrder": 102,
@@ -66,27 +60,42 @@
     "citations": [{ "id": "dwd_cite" }]
   },
   {
-    "id": "harmonie-fmi-0-5",
-    "humanReadableName": "HARMONIE-AROME (0h-5h forecast)",
+    "id": "meps",
+    "humanReadableName": "MEPS forecast",
     "optimumOrder": 207,
-    "citations": [{ "id": "fmi_cite" }]
+    "sourceModel": { "id": "meps" },
+    "forecastStart": 0,
+    "forecastEnd": 66,
+    "citations": [{ "id": "metno-meps_cite" }]
   },
   {
-    "id": "harmonie-fmi-12-17",
-    "humanReadableName": "HARMONIE-AROME (12h-17h forecast)",
+    "id": "harmonie-fmi-6-11",
+    "humanReadableName": "HARMONIE-AROME (6h-11h forecast, deprecated)",
     "optimumOrder": 208,
     "citations": [{ "id": "fmi_cite" }]
   },
   {
-    "id": "harmonie-fmi-18-23",
-    "humanReadableName": "HARMONIE-AROME (18h-23h forecast)",
+    "id": "harmonie-fmi-0-5",
+    "humanReadableName": "HARMONIE-AROME (0h-5h forecast, deprecated)",
     "optimumOrder": 209,
+    "citations": [{ "id": "fmi_cite" }]
+  },
+  {
+    "id": "harmonie-fmi-12-17",
+    "humanReadableName": "HARMONIE-AROME (12h-17h forecast, deprecated)",
+    "optimumOrder": 210,
+    "citations": [{ "id": "fmi_cite" }]
+  },
+  {
+    "id": "harmonie-fmi-18-23",
+    "humanReadableName": "HARMONIE-AROME (18h-23h forecast, deprecated)",
+    "optimumOrder": 211,
     "citations": [{ "id": "fmi_cite" }]
   },
   {
     "id": "arome",
     "humanReadableName": "AROME forecast",
-    "optimumOrder": 210,
+    "optimumOrder": 220,
     "sourceModel": { "id": "arome" },
     "forecastStart": 0,
     "forecastEnd": 36,
@@ -95,7 +104,7 @@
   {
     "id": "arome-arctic",
     "humanReadableName": "AROME-Arctic forecast",
-    "optimumOrder": 220,
+    "optimumOrder": 230,
     "sourceModel": { "id": "arome-arctic" },
     "forecastStart": 0,
     "forecastEnd": 66,
@@ -104,7 +113,7 @@
   {
     "id": "icon-d2",
     "humanReadableName": "ICON-D2 forecast",
-    "optimumOrder": 230,
+    "optimumOrder": 240,
     "sourceModel": { "id": "icon-d2" },
     "forecastStart": 0,
     "forecastEnd": 48,
@@ -126,7 +135,7 @@
   {
     "id": "arpege",
     "humanReadableName": "ARPEGE forecast",
-    "optimumOrder": 240,
+    "optimumOrder": 250,
     "sourceModel": { "id": "arpege" },
     "forecastStart": 0,
     "forecastEnd": 78,
