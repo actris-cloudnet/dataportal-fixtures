@@ -104,6 +104,14 @@
     "measurementDate": "2020-01-01"
   },
   {
+    "siteId": "cabauw",
+    "productId": "disdrometer",
+    "instrumentInfo": {
+      "uuid": "65ecf802-19d1-4d1b-a9f5-876a4b0ed724"
+    },
+    "measurementDate": "2026-05-25"
+  },
+  {
     "siteId": "cluj",
     "productId": "disdrometer",
     "instrumentInfo": {
