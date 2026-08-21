@@ -34,5 +34,9 @@
   {
     "id": "metno-arome-arctic_cite",
     "acknowledgements": "MET Norway for providing AROME-Arctic model data."
+  },
+  {
+    "id": "metno-meps_cite",
+    "acknowledgements": "MET Norway for providing MEPS model data."
   }
 ]
