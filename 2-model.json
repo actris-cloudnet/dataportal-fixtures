@@ -7,7 +7,7 @@
   },
   {
     "id": "icon-iglo-12-23",
-    "humanReadableName": "ICON-IGLO (12h-23h forecast)",
+    "humanReadableName": "ICON-IGLO (12h-23h forecast, deprecated)",
     "optimumOrder": 102,
     "citations": [{ "id": "dwd_cite" }]
   },
@@ -31,31 +31,31 @@
   },
   {
     "id": "icon-iglo-0-11",
-    "humanReadableName": "ICON-IGLO (0h-11h forecast)",
+    "humanReadableName": "ICON-IGLO (0h-11h forecast, deprecated)",
     "optimumOrder": 202,
     "citations": [{ "id": "dwd_cite" }]
   },
   {
     "id": "icon-iglo-24-35",
-    "humanReadableName": "ICON-IGLO (24h-35h forecast)",
+    "humanReadableName": "ICON-IGLO (24h-35h forecast, deprecated)",
     "optimumOrder": 203,
     "citations": [{ "id": "dwd_cite" }]
   },
   {
     "id": "icon-iglo-36-47",
-    "humanReadableName": "ICON-IGLO (36h-47h forecast)",
+    "humanReadableName": "ICON-IGLO (36h-47h forecast, deprecated)",
     "optimumOrder": 204,
     "citations": [{ "id": "dwd_cite" }]
   },
   {
     "id": "icon-iglo-48-59",
-    "humanReadableName": "ICON-IGLO (48h-59h forecast)",
+    "humanReadableName": "ICON-IGLO (48h-59h forecast, deprecated)",
     "optimumOrder": 205,
     "citations": [{ "id": "dwd_cite" }]
   },
   {
     "id": "icon-iglo-60-71",
-    "humanReadableName": "ICON-IGLO (60h-71h forecast)",
+    "humanReadableName": "ICON-IGLO (60h-71h forecast, deprecated)",
     "optimumOrder": 206,
     "citations": [{ "id": "dwd_cite" }]
   },
