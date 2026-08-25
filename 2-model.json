@@ -152,7 +152,7 @@
   },
   {
     "id": "gdas1",
-    "humanReadableName": "Global Data Assimilation System (GDAS1)",
+    "humanReadableName": "GDAS analysis",
     "optimumOrder": 400,
     "sourceModel": { "id": "gdas1" },
     "forecastStart": 0,

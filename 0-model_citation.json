@@ -17,11 +17,11 @@
   },
   {
     "id": "fmi_cite",
-    "acknowledgements": "FMI for providing Harmonie model data."
+    "acknowledgements": "FMI for providing HARMONIE model data."
   },
   {
     "id": "gdas_cite",
-    "acknowledgements": "NCEP (National Centers for Environmental Prediction) for providing access to GDAS1 data."
+    "acknowledgements": "NCEP for providing GDAS model data."
   },
   {
     "id": "arpege_cite",
