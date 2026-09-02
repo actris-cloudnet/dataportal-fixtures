@@ -779,7 +779,7 @@
     "gaw": null,
     "country": "United States",
     "countryCode": "US",
-    "type": ["hidden", "arm"],
+    "type": ["arm"],
     "citations": [
       {
         "id": "arm_cite"
