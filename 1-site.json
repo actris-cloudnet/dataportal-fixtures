@@ -672,6 +672,7 @@
   {
     "id": "arm-graciosa",
     "humanReadableName": "Graciosa",
+    "stationName": "ENA",
     "latitude": 39.092,
     "longitude": -28.031,
     "gaw": "GRW",
@@ -686,7 +687,8 @@
       {
         "id": "arm_cite"
       }
-    ]
+    ],
+    "description": "<p>The Eastern North Atlantic (ENA) is a fixed-location atmospheric observatory of\nthe Atmospheric Radiation Measurement (ARM) User Facility located on Graciosa\nIsland.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://arm.gov/capabilities/observatories/ena\">Eastern North Atlantic home page</a></li>\n</ul>\n"
   },
   {
     "id": "arm-macquarie",
@@ -773,6 +775,7 @@
   {
     "id": "arm-nsa",
     "humanReadableName": "North Slope of Alaska",
+    "stationName": "NSA",
     "latitude": 71.323,
     "longitude": -156.609,
     "altitude": 8,
@@ -784,7 +787,8 @@
       {
         "id": "arm_cite"
       }
-    ]
+    ],
+    "description": "<p>The North Slope of Alaska (NSA) is a fixed-location atmospheric observatory of\nthe Atmospheric Radiation Measurement (ARM) User Facility.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://arm.gov/capabilities/observatories/nsa\">North Slope of Alaska home page</a></li>\n</ul>\n"
   },
   {
     "id": "arm-oliktok",
@@ -805,6 +809,7 @@
   {
     "id": "arm-sgp",
     "humanReadableName": "Southern Great Plains",
+    "stationName": "SGP",
     "latitude": 36.608,
     "longitude": -97.488,
     "gaw": "SGP",
@@ -817,7 +822,8 @@
       {
         "id": "arm_cite"
       }
-    ]
+    ],
+    "description": "<p>The Southern Great Plains (SPG) is a fixed-location atmospheric observatory of\nthe Atmospheric Radiation Measurement (ARM) User Facility.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://arm.gov/capabilities/observatories/sgp\">Southern Great Plains home page</a></li>\n</ul>\n"
   },
   {
     "id": "arm-yacanto",
