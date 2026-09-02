@@ -1276,5 +1276,19 @@
     "order": 3,
     "product": "weather-radar",
     "actrisName": null
+  },
+  {
+    "id": "iwc-weather-radar-iwc",
+    "humanReadableName": "Ice water content",
+    "order": 0,
+    "product": "iwc-weather-radar",
+    "actrisName": "ice particle mass concentration"
+  },
+  {
+    "id": "iwc-weather-radar-rainfall_rate",
+    "humanReadableName": "Rainfall rate",
+    "order": 1,
+    "product": "iwc-weather-radar",
+    "actrisName": null
   }
 ]

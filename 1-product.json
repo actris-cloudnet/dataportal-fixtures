@@ -221,5 +221,13 @@
     "type": ["instrument"],
     "experimental": true,
     "downloadable": false
+  },
+  {
+    "id": "iwc-weather-radar",
+    "humanReadableName": "Ice water content (weather radar)",
+    "type": ["instrument"],
+    "sourceProducts": [{ "id": "weather-radar" }, { "id": "model" }],
+    "experimental": true,
+    "downloadable": false
   }
 ]
