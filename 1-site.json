@@ -547,7 +547,8 @@
       {
         "id": "arm_cite"
       }
-    ]
+    ],
+    "description": "<p>The first ARM Mobile Facility (AMF1) operated near the town of Andenes on\nAndøya island, Norway from December 2019 to May 2020 as part of the Cold-Air\nOutbreaks in the Marine Boundary Layer Experiment (COMBLE) campaign.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://arm.gov/research/campaigns/amf2019comble\">COMBLE home page</a></li>\n</ul>\n"
   },
   {
     "id": "arm-ascension",
@@ -565,7 +566,8 @@
       {
         "id": "arm_cite"
       }
-    ]
+    ],
+    "description": "<p>The first ARM Mobile Facility (AMF1) operated on Ascension Island from June\n2016 to October 2017 as part of the Layered Atlantic Smoke Interactions with\nClouds (LASIC) campaign.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://arm.gov/research/campaigns/amf2016lasic\">LASIC home page</a></li>\n</ul>\n"
   },
   {
     "id": "arm-aware",
@@ -581,7 +583,8 @@
       {
         "id": "arm_cite"
       }
-    ]
+    ],
+    "description": "<p>The second ARM Mobile Facility (AMF2) operated in West Antarctica from November\n2015 to January 2017 as part of the ARM West Antarctic Radiation Experiment\n(AWARE) campaign.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://arm.gov/research/campaigns/amf2015aware\">AWARE home page</a></li>\n</ul>\n"
   },
   {
     "id": "arm-banizoumbou",
@@ -633,7 +636,8 @@
       {
         "id": "arm_cite"
       }
-    ]
+    ],
+    "description": "<p>The first ARM Mobile Facility (AMF1) operated at Cape Cod, Massachusetts from\nJuly 2012 to June 2013 as part of the Two-Column Aerosol Project (TCAP)\ncampaign.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://arm.gov/research/campaigns/aaf2012tcap\">TCAP home page</a></li>\n</ul>\n"
   },
   {
     "id": "arm-darwin",
@@ -650,7 +654,8 @@
       {
         "id": "arm_cite"
       }
-    ]
+    ],
+    "description": "<p>The third facility of the Tropical Western Pacific (TWP) Ocean site operated in\nDarwin, Australia from 2002 to 2014.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://arm.gov/capabilities/observatories/twp\">Tropical Western Pacific home page</a></li>\n</ul>\n"
   },
   {
     "id": "arm-ganges",
@@ -720,7 +725,8 @@
       {
         "id": "arm_cite"
       }
-    ]
+    ],
+    "description": "<p>The second ARM Mobile Facility (AMF2) operated on Gan Island, Maldives from\nOctober 2011 to March 2012 as part of the ARM Madden-Julian Oscillation\nInvestigation Experiment- Gan Island (AMIE-GAN) campaign.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://arm.gov/research/campaigns/amf2011amie-gan\">AMIE-GAN home page</a></li>\n</ul>\n"
   },
   {
     "id": "arm-manacapuru",
@@ -754,7 +760,8 @@
       {
         "id": "arm_cite"
       }
-    ]
+    ],
+    "description": "<p>The first ARM Mobile Facility (AMF1) operated in the Black Forest area, Germany\nfrom April 2007 to December 2007 as part of the Convective and\nOrographically-induced Precipitation Study (COPS) campaign.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://arm.gov/research/campaigns/amf2007cops\">COPS home page</a></li>\n</ul>\n"
   },
   {
     "id": "arm-niamey",
@@ -770,7 +777,8 @@
       {
         "id": "arm_cite"
       }
-    ]
+    ],
+    "description": "<p>The first ARM Mobile Facility (AMF1) operated in Niamey, Niger from January\n2006 to January 2007 as part of the RAdiative Divergence using AMF, GERB and\nAMMA STations (RADAGAST) campaign.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://arm.gov/research/campaigns/amf2006RADAGAST\">RADAGAST home page</a></li>\n</ul>\n"
   },
   {
     "id": "arm-nsa",
@@ -804,7 +812,8 @@
       {
         "id": "arm_cite"
       }
-    ]
+    ],
+    "description": "<p>The third ARM Mobile Facility (AMF3) operated at Oliktok Point on the North\nSlope of Alaska from September 2013 to June 2021.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://arm.gov/capabilities/observatories/oli\">Oliktok Point home page</a></li>\n</ul>\n"
   },
   {
     "id": "arm-sgp",
@@ -839,7 +848,8 @@
       {
         "id": "arm_cite"
       }
-    ]
+    ],
+    "description": "<p>The first ARM Mobile Facility (AMF1) operated in Cordoba, Argentina from\nSeptember 2018 to April 2019 as part of the Cloud, Aerosol, and Complex Terrain\nInteractions Aerial Campaign (CACTI-AC) campaign.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://arm.gov/research/campaigns/aaf2018CACTI-AC\">CACTI-AC home page</a></li>\n</ul>\n"
   },
   {
     "id": "summit",
@@ -855,7 +865,8 @@
       {
         "id": "summit_cite"
       }
-    ]
+    ],
+    "description": "<p>ARM instruments operated in Summit Station, Greenland from 2010 to 2018 as part\nof the Integrated Characterization of Energy, Clouds, Atmospheric state, and\nPrecipitation at Summit (ICECAPS) project.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://psl.noaa.gov/arctic/observatories/summit/\">ICECAPS home page</a></li>\n</ul>\n"
   },
   {
     "id": "hamburg",
