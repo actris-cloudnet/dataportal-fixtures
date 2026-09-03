@@ -252,6 +252,18 @@
     "instrument": "lhatpro"
   },
   {
+    "uuid": "0e6c51b7-609d-40e5-ac6e-1937511d3bb4",
+    "pid": "https://hdl.handle.net/21.12132/3.0e6c51b7609d40e5",
+    "name": "UL RPG-HATPRO-G5 (AURORA)",
+    "serialNumber": "003 0254",
+    "model": "RPG-HATPRO-G5",
+    "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/RPGHATPRO",
+    "type": "scanning microwave radiometer",
+    "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/scanningmicrowaveradiometer",
+    "owners": ["University of Leeds"],
+    "instrument": "hatpro"
+  },
+  {
     "uuid": "0edf5e9f-8568-4a81-be4b-cbc1909d2f1d",
     "pid": "https://hdl.handle.net/21.12132/3.0edf5e9f85684a81",
     "name": "FMI WRM200 (LUO)",
@@ -2399,6 +2411,18 @@
     "instrument": "hatpro"
   },
   {
+    "uuid": "a2250cb7-4d26-4827-b128-e47137221f8f",
+    "pid": "https://hdl.handle.net/21.12132/3.a2250cb74d264827",
+    "name": "UL RPG-FMCW-94-DP (AURORA)",
+    "serialNumber": "4010036",
+    "model": "RPG-FMCW-94-DP",
+    "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/RPG-FMCW-94-DP",
+    "type": "Doppler non-scanning cloud radar",
+    "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/Dopplernon-scanningcloudradar",
+    "owners": ["University of Leeds"],
+    "instrument": "rpg-fmcw-94"
+  },
+  {
     "uuid": "a3c0f804-d91e-4966-9efb-aef54b9f2cd1",
     "pid": "https://hdl.handle.net/21.12132/3.a3c0f804d91e4966",
     "name": "MeteoSwiss WLS200S",
@@ -3086,6 +3110,18 @@
     "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/Dopplernon-scanningcloudradar",
     "owners": ["École Polytechnique Fédérale de Lausanne (EPFL)"],
     "instrument": "rpg-fmcw-94"
+  },
+  {
+    "uuid": "cefdb0be-e5a6-49c3-a817-a949d9d34142",
+    "pid": "https://hdl.handle.net/21.12132/3.cefdb0bee5a649c3",
+    "name": "UL CL61 (AURORA)",
+    "serialNumber": "X1627532",
+    "model": "Vaisala CL61",
+    "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/VaisalaCL61",
+    "type": "depolarisation lidar ceilometer",
+    "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/depolarisationlidarceilometer",
+    "owners": ["University of Leeds"],
+    "instrument": "cl61d"
   },
   {
     "uuid": "d11f7644-85a5-4f79-9ade-7d55408971b8",
