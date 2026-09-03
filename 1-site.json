@@ -2260,7 +2260,7 @@
   {
     "id": "inari",
     "humanReadableName": "Inari",
-    "stationName": "Inari Saariselkä Kaunispää",
+    "stationName": "KAU",
     "latitude": 68.434,
     "longitude": 27.445,
     "altitude": 437,
@@ -2274,12 +2274,12 @@
         "id": "fmi-weather-radar_cite"
       }
     ],
-    "description": "<p>Inari is part of weather radar network of Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
+    "description": "<p>Inari (KAU) is a weather radar site located near the peak of Kaunispää fell in\nSaariselkä, Northern Finland. The site was established in 2025 as part of the\nweather radar network of the Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
   },
   {
     "id": "kankaanpaa",
     "humanReadableName": "Kankaanpää",
-    "stationName": "Kankaanpää Ylisenharju",
+    "stationName": "KAN",
     "latitude": 61.811,
     "longitude": 22.502,
     "altitude": 174,
@@ -2293,12 +2293,12 @@
         "id": "fmi-weather-radar_cite"
       }
     ],
-    "description": "<p>Kankaanpää is part of weather radar network of Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
+    "description": "<p>Kankaanpää (KAN) is a weather radar site located on Ylisenharju hill near the\ncity of Kankaanpää, Western Finland. The site was established in 2021 as part\nof the weather radar network of the Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
   },
   {
     "id": "kesalahti",
     "humanReadableName": "Kesälahti",
-    "stationName": "Kitee Kesälahti",
+    "stationName": "KES",
     "latitude": 61.907,
     "longitude": 29.798,
     "altitude": 174,
@@ -2312,12 +2312,12 @@
         "id": "fmi-weather-radar_cite"
       }
     ],
-    "description": "<p>Kesälahti is part of weather radar network of Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
+    "description": "<p>Kesälahti (KES) is a weather radar site located in Kesälahti near the city of\nKitee, Eastern Finland. The site was established in 2014 as part of the weather\nradar network of the Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
   },
   {
     "id": "anjalankoski",
     "humanReadableName": "Anjalankoski",
-    "stationName": "Kouvula Kaipiainen",
+    "stationName": "ANJ",
     "latitude": 60.904,
     "longitude": 27.108,
     "altitude": 323,
@@ -2331,12 +2331,12 @@
         "id": "fmi-weather-radar_cite"
       }
     ],
-    "description": "<p>Anjalankoski is part of weather radar network of Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
+    "description": "<p>Anjalankoski (ANJ) is a weather radar site located in Kaipiainen, Anjalankoski,\npart of the city of Kouvola, Southeast Finland. The site was established in\n1994 as part of the weather radar network of the Finnish Meteorological\nInstitute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
   },
   {
     "id": "rytky",
     "humanReadableName": "Rytky",
-    "stationName": "Kuopio Rytky",
+    "stationName": "KUO",
     "latitude": 62.863,
     "longitude": 27.381,
     "altitude": 268,
@@ -2350,12 +2350,12 @@
         "id": "fmi-weather-radar_cite"
       }
     ],
-    "description": "<p>Rytky is part of weather radar network of Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
+    "description": "<p>Rytky (KUO) is a weather radar site located in Rytky village near the city of\nKuopio, Eastern Finland. The site was established in 1995 as part of the\nweather radar network of the Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
   },
   {
     "id": "nurmes",
     "humanReadableName": "Nurmes",
-    "stationName": "Nurmes Mujejärvi Riihivaara",
+    "stationName": "NUR",
     "latitude": 63.838,
     "longitude": 28.449,
     "altitude": 294,
@@ -2369,12 +2369,12 @@
         "id": "fmi-weather-radar_cite"
       }
     ],
-    "description": "<p>Nurmes is part of weather radar network of Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
+    "description": "<p>Nurmes (NUR) is a weather radar site located on Riihivaara hill in the village\nof Mujejärvi, Nurmes, Eastern Finland. The site was established in 2019 as part\nof the weather radar network of the Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
   },
   {
     "id": "korppoo",
     "humanReadableName": "Korppoo",
-    "stationName": "Parainen Rumar",
+    "stationName": "PAR",
     "latitude": 60.128,
     "longitude": 21.643,
     "altitude": 21,
@@ -2388,12 +2388,12 @@
         "id": "fmi-weather-radar_cite"
       }
     ],
-    "description": "<p>Korppoo is part of weather radar network of Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
+    "description": "<p>Korppoo (KOR) is a weather radar site located in Rumar on Korppoo island, part\nof Parainen municipality in Archipelago Sea, Western Finland. The site was\nestablished in 1997 as part of the weather radar network of the Finnish\nMeteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
   },
   {
     "id": "petajavesi",
     "humanReadableName": "Petäjävesi",
-    "stationName": "Petäjävesi Kintaus",
+    "stationName": "PET",
     "latitude": 62.305,
     "longitude": 25.44,
     "altitude": 2671,
@@ -2407,12 +2407,12 @@
         "id": "fmi-weather-radar_cite"
       }
     ],
-    "description": "<p>Petäjävesi is part of weather radar network of Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
+    "description": "<p>Petäjävesi (PET) is a weather radar site located near the village of Kintaus in\nPetäjävesi, Central Finland. The site was established in 2015 as part of the\nweather radar network of the Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
   },
   {
     "id": "luosto",
     "humanReadableName": "Luosto",
-    "stationName": "Sodankylä Luosto",
+    "stationName": "LUO",
     "latitude": 67.139,
     "longitude": 26.897,
     "altitude": 532,
@@ -2426,12 +2426,12 @@
         "id": "fmi-weather-radar_cite"
       }
     ],
-    "description": "<p>Luosto is part of weather radar network of Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
+    "description": "<p>Luosto (LUO) is a weather radar site located near the peak of Ukko-Luosto fell\nin Sodankylä municipality, Northern Finland. The site was established in 2000\nas part of the weather radar network of the Finnish Meteorological Institute\n(FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
   },
   {
     "id": "utajarvi",
     "humanReadableName": "Utajärvi",
-    "stationName": "Utajärvi Korkiakangas",
+    "stationName": "UTA",
     "latitude": 64.775,
     "longitude": 26.319,
     "altitude": 118,
@@ -2445,12 +2445,12 @@
         "id": "fmi-weather-radar_cite"
       }
     ],
-    "description": "<p>Utajärvi is part of weather radar network of Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
+    "description": "<p>Utajärvi (UTA) is a weather radar site located in Korkiakangas, Utajärvi,\nNorthern Finland. The site was established in 1997 as part of the weather radar\nnetwork of the Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
   },
   {
     "id": "vihti",
     "humanReadableName": "Vihti",
-    "stationName": "Vihti Ylimmäinen",
+    "stationName": "VIH",
     "latitude": 60.556,
     "longitude": 24.496,
     "altitude": 148,
@@ -2464,12 +2464,12 @@
         "id": "fmi-weather-radar_cite"
       }
     ],
-    "description": "<p>Vihti is part of weather radar network of Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
+    "description": "<p>Vihti (VIH) is a weather radar site located near Ylimmäinen lake in Vihti,\nSouthern Finland. The site was established in 2021 as part of the weather radar\nnetwork of the Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
   },
   {
     "id": "vimpeli",
     "humanReadableName": "Vimpeli",
-    "stationName": "Vimpeli Lakeaharju",
+    "stationName": "VIM",
     "latitude": 63.105,
     "longitude": 23.821,
     "altitude": 198,
@@ -2483,7 +2483,7 @@
         "id": "fmi-weather-radar_cite"
       }
     ],
-    "description": "<p>Vimpeli is part of weather radar network of Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
+    "description": "<p>Vimpeli (VIM) is a weather radar site located on Lakeaharju hill in Vimpeli,\nWestern Finland. The site was established in 2005 as part of the weather radar\nnetwork of the Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
   },
   {
     "id": "icon-d2",
