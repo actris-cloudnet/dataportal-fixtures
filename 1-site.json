@@ -2550,7 +2550,8 @@
     "country": "Iceland",
     "countryCode": "IS",
     "countrySubdivisionCode": null,
-    "type": ["campaign"]
+    "type": ["campaign"],
+    "description": "<p>Snæfellsnes is a temporary campaign site on the Snæfellsnes peninsula in\nwestern Iceland, operated by <a href=\"https://www.menapia.tech/\">Menapia</a>. They are\nhosting the National Centre for Atmospheric Science and the University of Leeds\nas part of <a href=\"https://www.gamb2le.co.uk/\">GAMB²LE</a> research project. The\ndeployment is an operational trial of the AURORA, a modular, autonomous and\nArctic-hardened observatory developed to measure cloud, precipitation and\nboundary-layer processes in remote polar environments.</p>\n"
   },
   {
     "id": "kolsass",
