@@ -1751,6 +1751,20 @@
     "instrument": "chm15k"
   },
   {
+    "uuid": "760146e3-b71b-472e-b8bb-ea59e34b2d56",
+    "pid": "https://hdl.handle.net/21.12132/3.760146e3b71b472e",
+    "name": "CEREA HALO",
+    "serialNumber": "L-0226-0383",
+    "model": "StreamLine XR",
+    "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/HALOPhotonicsStreamLineXR",
+    "type": "Doppler lidar",
+    "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/Dopplerlidar",
+    "owners": [
+      "Centre d'Enseignement et de Recherche en Environnement Atmosphérique (CEREA)"
+    ],
+    "instrument": "halo-doppler-lidar"
+  },
+  {
     "uuid": "76c0d08e-7856-44e4-912b-71423d5acc9b",
     "pid": "https://hdl.handle.net/21.12132/3.76c0d08e785644e4",
     "name": "FMI Parsivel60",
