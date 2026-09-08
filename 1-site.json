@@ -2285,7 +2285,7 @@
         "id": "fmi-weather-radar_cite"
       }
     ],
-    "description": "<p>Inari (KAU) is a weather radar site located near the peak of Kaunispää fell in\nSaariselkä, Northern Finland. The site was established in 2025 as part of the\nweather radar network of the Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
+    "description": "<p>Inari (KAU) is a weather radar site located near the peak of Kaunispää fell in\nSaariselkä, Northern Finland. The site was established in 2025 as part of the\nweather radar network of the Finnish Meteorological Institute (FMI).</p>\n<p>Cloudnet only ingests weather radar data from vertical-pointing &quot;birdbath&quot;\nscans, which are done every 15 minutes to calibrate the differential\nreflectivity (ZDR). The conventional data from the weather radar, including\ncomposite from the radar network, are available from <a href=\"https://en.ilmatieteenlaitos.fi/open-data\">FMI's open\ndata</a>.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
   },
   {
     "id": "kankaanpaa",
@@ -2304,7 +2304,7 @@
         "id": "fmi-weather-radar_cite"
       }
     ],
-    "description": "<p>Kankaanpää (KAN) is a weather radar site located on Ylisenharju hill near the\ncity of Kankaanpää, Western Finland. The site was established in 2021 as part\nof the weather radar network of the Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
+    "description": "<p>Kankaanpää (KAN) is a weather radar site located on Ylisenharju hill in\nKankaanpää, Western Finland. The site was established in 2021 as part of the\nweather radar network of the Finnish Meteorological Institute (FMI).</p>\n<p>Cloudnet only ingests weather radar data from vertical-pointing &quot;birdbath&quot;\nscans, which are done every 15 minutes to calibrate the differential\nreflectivity (ZDR). The conventional data from the weather radar, including\ncomposite from the radar network, are available from <a href=\"https://en.ilmatieteenlaitos.fi/open-data\">FMI's open\ndata</a>.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
   },
   {
     "id": "kesalahti",
@@ -2323,7 +2323,7 @@
         "id": "fmi-weather-radar_cite"
       }
     ],
-    "description": "<p>Kesälahti (KES) is a weather radar site located in Kesälahti near the city of\nKitee, Eastern Finland. The site was established in 2014 as part of the weather\nradar network of the Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
+    "description": "<p>Kesälahti (KES) is a weather radar site located in Kesälahti, Kitee, Eastern\nFinland. The site was established in 2014 as part of the weather radar network\nof the Finnish Meteorological Institute (FMI).</p>\n<p>Cloudnet only ingests weather radar data from vertical-pointing &quot;birdbath&quot;\nscans, which are done every 15 minutes to calibrate the differential\nreflectivity (ZDR). The conventional data from the weather radar, including\ncomposite from the radar network, are available from <a href=\"https://en.ilmatieteenlaitos.fi/open-data\">FMI's open\ndata</a>.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
   },
   {
     "id": "anjalankoski",
@@ -2342,7 +2342,7 @@
         "id": "fmi-weather-radar_cite"
       }
     ],
-    "description": "<p>Anjalankoski (ANJ) is a weather radar site located in Kaipiainen, Anjalankoski,\npart of the city of Kouvola, Southeast Finland. The site was established in\n1994 as part of the weather radar network of the Finnish Meteorological\nInstitute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
+    "description": "<p>Anjalankoski (ANJ) is a weather radar site located in Kaipiainen, Kouvola,\nSoutheast Finland. The site was established in 1994 as part of the weather\nradar network of the Finnish Meteorological Institute (FMI).</p>\n<p>Cloudnet only ingests weather radar data from vertical-pointing &quot;birdbath&quot;\nscans, which are done every 15 minutes to calibrate the differential\nreflectivity (ZDR). The conventional data from the weather radar, including\ncomposite from the radar network, are available from <a href=\"https://en.ilmatieteenlaitos.fi/open-data\">FMI's open\ndata</a>.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
   },
   {
     "id": "rytky",
@@ -2361,7 +2361,7 @@
         "id": "fmi-weather-radar_cite"
       }
     ],
-    "description": "<p>Rytky (KUO) is a weather radar site located in Rytky village near the city of\nKuopio, Eastern Finland. The site was established in 1995 as part of the\nweather radar network of the Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
+    "description": "<p>Rytky (KUO) is a weather radar site located in Rytky, Kuopio, Eastern Finland.\nThe site was established in 1995 as part of the weather radar network of the\nFinnish Meteorological Institute (FMI).</p>\n<p>Cloudnet only ingests weather radar data from vertical-pointing &quot;birdbath&quot;\nscans, which are done every 15 minutes to calibrate the differential\nreflectivity (ZDR). The conventional data from the weather radar, including\ncomposite from the radar network, are available from <a href=\"https://en.ilmatieteenlaitos.fi/open-data\">FMI's open\ndata</a>.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
   },
   {
     "id": "nurmes",
@@ -2380,7 +2380,7 @@
         "id": "fmi-weather-radar_cite"
       }
     ],
-    "description": "<p>Nurmes (NUR) is a weather radar site located on Riihivaara hill in the village\nof Mujejärvi, Nurmes, Eastern Finland. The site was established in 2019 as part\nof the weather radar network of the Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
+    "description": "<p>Nurmes (NUR) is a weather radar site located on Riihivaara hill in Mujejärvi,\nNurmes, Eastern Finland. The site was established in 2019 as part of the\nweather radar network of the Finnish Meteorological Institute (FMI).</p>\n<p>Cloudnet only ingests weather radar data from vertical-pointing &quot;birdbath&quot;\nscans, which are done every 15 minutes to calibrate the differential\nreflectivity (ZDR). The conventional data from the weather radar, including\ncomposite from the radar network, are available from <a href=\"https://en.ilmatieteenlaitos.fi/open-data\">FMI's open\ndata</a>.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
   },
   {
     "id": "korppoo",
@@ -2399,7 +2399,7 @@
         "id": "fmi-weather-radar_cite"
       }
     ],
-    "description": "<p>Korppoo (KOR) is a weather radar site located in Rumar on Korppoo island, part\nof Parainen municipality in Archipelago Sea, Western Finland. The site was\nestablished in 1997 as part of the weather radar network of the Finnish\nMeteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
+    "description": "<p>Korppoo (KOR) is a weather radar site located in Rumar on Korppoo island,\nParainen in Archipelago Sea, Western Finland. The site was established in 1997\nas part of the weather radar network of the Finnish Meteorological Institute\n(FMI).</p>\n<p>Cloudnet only ingests weather radar data from vertical-pointing &quot;birdbath&quot;\nscans, which are done every 15 minutes to calibrate the differential\nreflectivity (ZDR). The conventional data from the weather radar, including\ncomposite from the radar network, are available from <a href=\"https://en.ilmatieteenlaitos.fi/open-data\">FMI's open\ndata</a>.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
   },
   {
     "id": "petajavesi",
@@ -2418,7 +2418,7 @@
         "id": "fmi-weather-radar_cite"
       }
     ],
-    "description": "<p>Petäjävesi (PET) is a weather radar site located near the village of Kintaus in\nPetäjävesi, Central Finland. The site was established in 2015 as part of the\nweather radar network of the Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
+    "description": "<p>Petäjävesi (PET) is a weather radar site located in Kintaus, Petäjävesi,\nCentral Finland. The site was established in 2015 as part of the weather radar\nnetwork of the Finnish Meteorological Institute (FMI).</p>\n<p>Cloudnet only ingests weather radar data from vertical-pointing &quot;birdbath&quot;\nscans, which are done every 15 minutes to calibrate the differential\nreflectivity (ZDR). The conventional data from the weather radar, including\ncomposite from the radar network, are available from <a href=\"https://en.ilmatieteenlaitos.fi/open-data\">FMI's open\ndata</a>.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
   },
   {
     "id": "luosto",
@@ -2437,7 +2437,7 @@
         "id": "fmi-weather-radar_cite"
       }
     ],
-    "description": "<p>Luosto (LUO) is a weather radar site located near the peak of Ukko-Luosto fell\nin Sodankylä municipality, Northern Finland. The site was established in 2000\nas part of the weather radar network of the Finnish Meteorological Institute\n(FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
+    "description": "<p>Luosto (LUO) is a weather radar site located near the peak of Ukko-Luosto fell\nin Sodankylä, Northern Finland. The site was established in 2000 as part of the\nweather radar network of the Finnish Meteorological Institute (FMI).</p>\n<p>Cloudnet only ingests weather radar data from vertical-pointing &quot;birdbath&quot;\nscans, which are done every 15 minutes to calibrate the differential\nreflectivity (ZDR). The conventional data from the weather radar, including\ncomposite from the radar network, are available from <a href=\"https://en.ilmatieteenlaitos.fi/open-data\">FMI's open\ndata</a>.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
   },
   {
     "id": "utajarvi",
@@ -2456,7 +2456,7 @@
         "id": "fmi-weather-radar_cite"
       }
     ],
-    "description": "<p>Utajärvi (UTA) is a weather radar site located in Korkiakangas, Utajärvi,\nNorthern Finland. The site was established in 1997 as part of the weather radar\nnetwork of the Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
+    "description": "<p>Utajärvi (UTA) is a weather radar site located in Korkiakangas, Utajärvi,\nNorthern Finland. The site was established in 1997 as part of the weather radar\nnetwork of the Finnish Meteorological Institute (FMI).</p>\n<p>Cloudnet only ingests weather radar data from vertical-pointing &quot;birdbath&quot;\nscans, which are done every 15 minutes to calibrate the differential\nreflectivity (ZDR). The conventional data from the weather radar, including\ncomposite from the radar network, are available from <a href=\"https://en.ilmatieteenlaitos.fi/open-data\">FMI's open\ndata</a>.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
   },
   {
     "id": "vihti",
@@ -2475,7 +2475,7 @@
         "id": "fmi-weather-radar_cite"
       }
     ],
-    "description": "<p>Vihti (VIH) is a weather radar site located near Ylimmäinen lake in Vihti,\nSouthern Finland. The site was established in 2021 as part of the weather radar\nnetwork of the Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
+    "description": "<p>Vihti (VIH) is a weather radar site located near Ylimmäinen lake in Vihti,\nSouthern Finland. The site was established in 2021 as part of the weather radar\nnetwork of the Finnish Meteorological Institute (FMI).</p>\n<p>Cloudnet only ingests weather radar data from vertical-pointing &quot;birdbath&quot;\nscans, which are done every 15 minutes to calibrate the differential\nreflectivity (ZDR). The conventional data from the weather radar, including\ncomposite from the radar network, are available from <a href=\"https://en.ilmatieteenlaitos.fi/open-data\">FMI's open\ndata</a>.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
   },
   {
     "id": "vimpeli",
@@ -2494,7 +2494,7 @@
         "id": "fmi-weather-radar_cite"
       }
     ],
-    "description": "<p>Vimpeli (VIM) is a weather radar site located on Lakeaharju hill in Vimpeli,\nWestern Finland. The site was established in 2005 as part of the weather radar\nnetwork of the Finnish Meteorological Institute (FMI).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
+    "description": "<p>Vimpeli (VIM) is a weather radar site located on Lakeaharju hill in Vimpeli,\nWestern Finland. The site was established in 2005 as part of the weather radar\nnetwork of the Finnish Meteorological Institute (FMI).</p>\n<p>Cloudnet only ingests weather radar data from vertical-pointing &quot;birdbath&quot;\nscans, which are done every 15 minutes to calibrate the differential\nreflectivity (ZDR). The conventional data from the weather radar, including\ncomposite from the radar network, are available from <a href=\"https://en.ilmatieteenlaitos.fi/open-data\">FMI's open\ndata</a>.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n"
   },
   {
     "id": "icon-d2",
