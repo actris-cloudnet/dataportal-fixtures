@@ -79,6 +79,13 @@
     "sourceProducts": [{ "id": "categorize" }]
   },
   {
+    "id": "cod",
+    "humanReadableName": "Cloud optical depth",
+    "experimental": true,
+    "type": ["geophysical"],
+    "sourceProducts": [{ "id": "categorize" }]
+  },
+  {
     "id": "lidar",
     "type": ["instrument"],
     "humanReadableName": "Lidar",

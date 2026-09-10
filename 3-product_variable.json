@@ -656,6 +656,34 @@
     "actrisName": null
   },
   {
+    "id": "cod-optical_depth",
+    "humanReadableName": "Cloud optical depth",
+    "order": 0,
+    "product": "cod",
+    "actrisName": null
+  },
+  {
+    "id": "cod-extinction_liquid",
+    "humanReadableName": "Visible extinction coefficient of liquid cloud",
+    "order": 1,
+    "product": "cod",
+    "actrisName": null
+  },
+  {
+    "id": "cod-extinction_ice",
+    "humanReadableName": "Visible extinction coefficient of ice cloud",
+    "order": 2,
+    "product": "cod",
+    "actrisName": null
+  },
+  {
+    "id": "cod-extinction_retrieval_status",
+    "humanReadableName": "Extinction coefficient retrieval status",
+    "order": 3,
+    "product": "cod",
+    "actrisName": null
+  },
+  {
     "id": "model-cloud_fraction",
     "humanReadableName": "Cloud fraction",
     "order": 0,
