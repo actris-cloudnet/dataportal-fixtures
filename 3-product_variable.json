@@ -660,7 +660,7 @@
     "humanReadableName": "Cloud optical depth",
     "order": 0,
     "product": "cod",
-    "actrisName": null
+    "actrisName": "cloud optical depth"
   },
   {
     "id": "cod-extinction_liquid",
