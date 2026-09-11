@@ -2581,7 +2581,8 @@
     "actrisId": null,
     "country": "Finland",
     "countryCode": "FI",
-    "type": ["cloudnet", "campaign"]
+    "type": ["cloudnet", "campaign"],
+    "description": "<p>Pallasjärvi is a campaign site near the Pallasjärvi lake, Northern Finland. It\nis one of the three Cloudnet stations operating during the 2026 Pallas Cloud\nExperiment (PaCE) campaign, alongside\n<a href=\"/site/sammaltunturinlaatas\">Sammaltunturinlaatas</a> and\n<a href=\"/site/kenttarova\">Kenttärova</a>.</p>\n"
   },
   {
     "id": "sammaltunturinlaatas",
@@ -2596,6 +2597,7 @@
     "actrisId": null,
     "country": "Finland",
     "countryCode": "FI",
-    "type": ["cloudnet", "campaign"]
+    "type": ["cloudnet", "campaign"],
+    "description": "<p>Sammaltunturinlaatas is a campaign site in the foothills of Sammaltunturi fell,\nNorthern Finland. It is one of the three Cloudnet stations operating during the\n2026 Pallas Cloud Experiment (PaCE), campaign alongside\n<a href=\"/site/pallasjarvi\">Pallasjärvi</a> and <a href=\"/site/kenttarova\">Kenttärova</a>.</p>\n"
   }
 ]
