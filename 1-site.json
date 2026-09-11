@@ -2567,5 +2567,35 @@
     "country": "Austria",
     "countryCode": "AT",
     "type": ["campaign"]
+  },
+  {
+    "id": "pallasjarvi",
+    "humanReadableName": "Pallasjärvi",
+    "stationName": null,
+    "latitude": 68.022744,
+    "longitude": 24.159142,
+    "altitude": 275,
+    "gaw": null,
+    "wigosId": null,
+    "dvasId": null,
+    "actrisId": null,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["cloudnet", "campaign"]
+  },
+  {
+    "id": "sammaltunturinlaatas",
+    "humanReadableName": "Sammaltunturinlaatas",
+    "stationName": null,
+    "latitude": 67.973063,
+    "longitude": 24.099149,
+    "altitude": 460,
+    "gaw": null,
+    "wigosId": null,
+    "dvasId": null,
+    "actrisId": null,
+    "country": "Finland",
+    "countryCode": "FI",
+    "type": ["cloudnet", "campaign"]
   }
 ]
