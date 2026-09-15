@@ -95,13 +95,13 @@
     "id": "doppler-lidar",
     "type": ["instrument"],
     "humanReadableName": "Doppler lidar",
-    "experimental": true
+    "experimental": false
   },
   {
     "id": "doppler-lidar-wind",
     "humanReadableName": "Doppler lidar wind",
     "type": ["instrument"],
-    "experimental": true
+    "experimental": false
   },
   {
     "id": "epsilon-lidar",
