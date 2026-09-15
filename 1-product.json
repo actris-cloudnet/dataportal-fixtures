@@ -196,7 +196,7 @@
     "id": "rain-gauge",
     "humanReadableName": "Rain gauge",
     "type": ["instrument"],
-    "experimental": true
+    "experimental": false
   },
   {
     "id": "rain-radar",
