@@ -107,7 +107,7 @@
     "country": "Spain",
     "countryCode": "ES",
     "type": ["cloudnet"],
-    "description": "<p>UGR station is located in the city of Granada, a medium-sized\nnon-industrialised city (&gt; 500k inhabitants, including metropolitan area)\nsurrounded by high mountains (1000 to 3398 m asl), and 50 km\nfrom the Mediterranean coast. It presents large seasonal temperature\ndifferences, low relative humidity, scarce precipitation and light winds\ninfluenced by local mountain–valley flow. The station combines long-term\nmonitoring of the vertical distribution of atmospheric aerosol with in-situ\nmeasurements for aerosol particle characterisation, as well as cloud, solar and\natmospheric radiation monitoring at different spectral ranges. It is part of\nthe Andalusian Global ObseRvatory of the Atmosphere (AGORA), consisting of\nseveral sites allowing the coverage of different atmospheric backgrounds and\ncontributing to three ACTRIS components.</p>\n<p>Remote cloud observations in Granada have been continuously performed since\n2019, when the station’s first Doppler cloud radar was installed. Since 2024\nthe station is also equipped with a dual-frequency Doppler cloud radar with\nscanning capabilities that continuously feeds data to Cloudnet. These systems\ncomplemented the microwave radiometer and ceilometer measurements initiated in\nprevious years, together with additional instrumentation (e.g. Doppler lidar,\nmeterological station, disdrometer).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://atmosphere.ugr.es/en/research/projects/pls2022\">AGORA main site</a></li>\n<li><a href=\"https://atmosphere.ugr.es/en/about/presentation/facilities/ugr-station\">UGR station site</a></li>\n</ul>\n",
+    "description": "UGR station is located in the city of Granada, a medium-sized non-industrialised city (>&nbsp;500k inhabitants, including metropolitan area) surrounded by high mountains (1000 to 3398&nbsp;m&nbsp;asl), and 50&nbsp;km from the Mediterranean coast. It presents large seasonal temperature differences, low relative humidity, scarce precipitation and light winds influenced by local mountain–valley flow. The station combines long-term monitoring of the vertical distribution of atmospheric aerosol with in-situ measurements for aerosol particle characterisation, as well as cloud, solar and atmospheric radiation monitoring at different spectral ranges. It is part of the Andalusian Global ObseRvatory of the Atmosphere (AGORA), consisting of several sites allowing the coverage of different atmospheric backgrounds and contributing to three ACTRIS components.\n\nRemote cloud observations in Granada have been continuously performed since 2019, when the station’s first Doppler cloud radar was installed. Since 2024 the station is also equipped with a dual-frequency Doppler cloud radar with scanning capabilities that continuously feeds data to Cloudnet. These systems complemented the microwave radiometer and ceilometer measurements initiated in previous years, together with additional instrumentation (e.g. Doppler lidar, meterological station, disdrometer).\n\n## Links\n\n- [AGORA main site](https://atmosphere.ugr.es/en/research/projects/pls2022)\n- [UGR station site](https://atmosphere.ugr.es/en/about/presentation/facilities/ugr-station)",
     "dvasName": "Granada",
     "actrisName": "AGORA",
     "wigosName": "University of Granada-GFAT"
@@ -127,7 +127,7 @@
     "country": "Finland",
     "countryCode": "FI",
     "type": ["cloudnet"],
-    "description": "<p>Hyytiälä is a historical forestry station in Finland, operated by the\nUniversity of Helsinki. Hyytiälä hosts the <a href=\"https://www.atm.helsinki.fi/smear/smear-ii/\">Station for Measuring\nEcosystem–Atmosphere Relations II</a>\n(SMEAR II), one of the world’s most comprehensive surface in situ\nobservation sites in a boreal forest environment. The instrumentation covers\naerosol dynamics, atmospheric chemistry, micrometeorology, weather monitoring,\ncloud remote sensing and ecophysiology of trees growing in the urban\nenvironment.</p>\n<p>The cloud remote observations in Hyytiälä started in 2012 on a campaign basis.\nIn 2014, the second <a href=\"https://www.arm.gov/capabilities/observatories/amf\">ARM Mobile Facility</a>\n(AMF2) was deployed to Hyytiälä, as a part of Biogenic Aerosols–Effects on\nClouds and Climate experiment (Petäjä et al., 2016). Since then, continuous\nobservations of cloud and precipitation are carried out at the site.</p>\n<p>The cloud profiling site is located on the lake Kuivajärvi shore. It is about\n30 m below the base of the SMEAR II mast, where most aerosol\nmeasurements are performed.</p>\n<h2>References</h2>\n<ul class=\"references\">\n<li>Petäjä et al. (2016). BAECC: A Field Campaign to Elucidate the Impact of\nBiogenic Aerosols on Clouds and Climate. <em>Bull. Amer. Meteor. Soc.</em>,\n<em>97</em>(10), 1909–1928. <a href=\"https://doi.org/10.1175/BAMS-D-14-00199.1\">https://doi.org/10.1175/BAMS-D-14-00199.1</a>.</li>\n</ul>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://www2.helsinki.fi/en/research-stations/hyytiala-forestry-field-station\">Hyytiälä home page</a></li>\n</ul>\n",
+    "description": "Hyytiälä is a historical forestry station in Finland, operated by the University of Helsinki. Hyytiälä hosts the [Station for Measuring Ecosystem–Atmosphere Relations II](https://www.atm.helsinki.fi/smear/smear-ii/) (SMEAR&nbsp;II), one of the world’s most comprehensive surface in situ observation sites in a boreal forest environment. The instrumentation covers aerosol dynamics, atmospheric chemistry, micrometeorology, weather monitoring, cloud remote sensing and ecophysiology of trees growing in the urban environment.\n\nThe cloud remote observations in Hyytiälä started in 2012 on a campaign basis. In 2014, the second [ARM Mobile Facility](https://www.arm.gov/capabilities/observatories/amf) (AMF2) was deployed to Hyytiälä, as a part of Biogenic Aerosols–Effects on Clouds and Climate experiment (Petäjä et al., 2016). Since then, continuous observations of cloud and precipitation are carried out at the site.\n\nThe cloud profiling site is located on the lake Kuivajärvi shore. It is about 30&nbsp;m below the base of the SMEAR&nbsp;II mast, where most aerosol measurements are performed.\n\n## References\n\n- Petäjä et al. (2016). BAECC: A Field Campaign to Elucidate the Impact of   Biogenic Aerosols on Clouds and Climate. _Bull. Amer. Meteor. Soc._,   _97_(10), 1909–1928. <https://doi.org/10.1175/BAMS-D-14-00199.1>.\n\n## Links\n\n- [Hyytiälä home page](https://www2.helsinki.fi/en/research-stations/hyytiala-forestry-field-station)",
     "dvasName": "Hyytiälä",
     "actrisName": "SMEAR II (Hyytiälä)",
     "wigosName": "Hyytiälä"
@@ -147,7 +147,7 @@
     "country": "Germany",
     "countryCode": "DE",
     "type": ["cloudnet"],
-    "description": "<p>The Jülich Observatory for Cloud Evolution (JOYCE) provides temporally highly\nresolved measurements to improve our understanding of the emergence,\ndevelopment and decay of clouds. The observational platform at the Research\nCentre Jülich is located in an urbanized setting surrounded by forest, within\nrural lowlands amidst two large open lignite mines and agricultural areas.</p>\n<p>The facility has been performing continuous ground-based remote sensing\nobservations since 2011. State-of-the-art active and passive remote sensing\ninstruments are used to analyse cloud and precipitation processes as well as\nthe atmospheric boundary layer vertical structure. Temperature and humidity\nprofiling measurements are carried out, as well measurements for obtaining\nhorizontal and vertical winds including turbulence. In addition, detailed\nmicro- and macrophysical properties of clouds are derived.</p>\n<p>The scientific objectives of JOYCE are to develop and test new methodologies\nfor quantifying clouds and precipitation, perform model and satellite\nevaluation and to better understand the cloud life cycle within an environment\nwith multiple, complex influences. The extensive long-term data set allows to\ncharacterize diurnal and seasonal patterns in a statistical way.</p>\n<h2>References</h2>\n<ul class=\"references\">\n<li>Löhnert et al. (2015). JOYCE: Jülich Observatory for Cloud Evolution. <em>Bull.\nAmer. Meteor. Soc.</em>, <em>96</em>(7), 1157–1174. <a href=\"https://doi.org/10.1175/BAMS-D-14-00105.1\">https://doi.org/10.1175/BAMS-D-14-00105.1</a></li>\n</ul>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://geomet.uni-koeln.de/forschung/actris/joyce\">JOYCE home page</a></li>\n</ul>\n",
+    "description": "The Jülich Observatory for Cloud Evolution (JOYCE) provides temporally highly resolved measurements to improve our understanding of the emergence, development and decay of clouds. The observational platform at the Research Centre Jülich is located in an urbanized setting surrounded by forest, within rural lowlands amidst two large open lignite mines and agricultural areas.\n\nThe facility has been performing continuous ground-based remote sensing observations since 2011. State-of-the-art active and passive remote sensing instruments are used to analyse cloud and precipitation processes as well as the atmospheric boundary layer vertical structure. Temperature and humidity profiling measurements are carried out, as well measurements for obtaining horizontal and vertical winds including turbulence. In addition, detailed micro- and macrophysical properties of clouds are derived.\n\nThe scientific objectives of JOYCE are to develop and test new methodologies for quantifying clouds and precipitation, perform model and satellite evaluation and to better understand the cloud life cycle within an environment with multiple, complex influences. The extensive long-term data set allows to characterize diurnal and seasonal patterns in a statistical way.\n\n## References\n\n- Löhnert et al. (2015). JOYCE: Jülich Observatory for Cloud Evolution. _Bull.   Amer. Meteor. Soc._, _96_(7), 1157–1174. <https://doi.org/10.1175/BAMS-D-14-00105.1>\n\n## Links\n\n- [JOYCE home page](https://geomet.uni-koeln.de/forschung/actris/joyce)",
     "dvasName": "Julich",
     "actrisName": "Jülich Observatory for Cloud Evolution (JOYCE)",
     "wigosName": "Jülich"
@@ -167,7 +167,7 @@
     "country": "Finland",
     "countryCode": "FI",
     "type": ["cloudnet", "polarin"],
-    "description": "<p>Kenttärova is a remote site in Northern Finland. It's a part of the <a href=\"https://en.ilmatieteenlaitos.fi/pallas-atmosphere-ecosystem-supersite\">Pallas\nAtmosphere-Ecosystem Supersite</a>\nhosted by the Finnish Meteorological Institute. The station was established in\n2002 and features a 20-meter-high measurement tower for studying\natmosphere–biosphere interactions above a spruce forest (Lohila et al. 2015).\nCloud remote sensing measurements in Kenttärova were first conducted as part of\nthe Pallas Cloud Experiment (PaCE) campaigns in 2015, 2017 and 2019 with\nmeasurements continuing since the 2022 campaign (Tukiainen et al. 2025).</p>\n<h2>References</h2>\n<ul class=\"references\">\n<li>Lohila et al. (2015). Preface to the special issue on integrated research of\natmosphere, ecosystems and environment at Pallas. <em>Boreal Environ. Res.</em>,\n<em>20</em>(4), 431–454. <a href=\"https://hdl.handle.net/10138/228278\">https://hdl.handle.net/10138/228278</a></li>\n<li>Tukiainen et al. (2025): Remote sensing measurements during PaCE 2022\ncampaign. <em>Earth Syst. Sci. Data</em>, 17, 3797–3806,\n<a href=\"https://doi.org/10.5194/essd-17-3797-2025\">https://doi.org/10.5194/essd-17-3797-2025</a></li>\n</ul>\n",
+    "description": "Kenttärova is a remote site in Northern Finland. It's a part of the [Pallas Atmosphere-Ecosystem Supersite](https://en.ilmatieteenlaitos.fi/pallas-atmosphere-ecosystem-supersite) hosted by the Finnish Meteorological Institute. The station was established in 2002 and features a 20-meter-high measurement tower for studying atmosphere–biosphere interactions above a spruce forest (Lohila et al. 2015). Cloud remote sensing measurements in Kenttärova were first conducted as part of the Pallas Cloud Experiment (PaCE) campaigns in 2015, 2017 and 2019 with measurements continuing since the 2022 campaign (Tukiainen et al. 2025).\n\n## References\n\n- Lohila et al. (2015). Preface to the special issue on integrated research of   atmosphere, ecosystems and environment at Pallas. _Boreal Environ. Res._,   _20_(4), 431–454. <https://hdl.handle.net/10138/228278>\n- Tukiainen et al. (2025): Remote sensing measurements during PaCE 2022   campaign. _Earth Syst. Sci. Data_, 17, 3797–3806,   <https://doi.org/10.5194/essd-17-3797-2025>",
     "dvasName": "Pallas (Kenttärova)",
     "actrisName": "Pallas Atmosphere-Ecosystem Supersite",
     "wigosName": "KITTILA KENTTAROVA"
@@ -218,7 +218,7 @@
     "country": "Germany",
     "countryCode": "DE",
     "type": ["cloudnet"],
-    "description": "<p>The Leipzig Institute for Meteorology (LIM) is located close to the\ncity centre of Leipzig on the edge of a garden area. When the\nremote sensing instruments are not being used for field experiments,\nthey are located on the roof platform of the new institute building\nat a height of 126 meters above sea level. Cloud remote sensing\nobservations began in 2020.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://www.physes.uni-leipzig.de/en/fakultaet/institute-bereiche-und-zentren/leipzig-institute-for-meteorology-lim\">LIM home page</a></li>\n</ul>\n",
+    "description": "The Leipzig Institute for Meteorology (LIM) is located close to the city centre of Leipzig on the edge of a garden area. When the remote sensing instruments are not being used for field experiments, they are located on the roof platform of the new institute building at a height of 126 meters above sea level. Cloud remote sensing observations began in 2020.\n\n## Links\n\n- [LIM home page](https://www.physes.uni-leipzig.de/en/fakultaet/institute-bereiche-und-zentren/leipzig-institute-for-meteorology-lim)",
     "dvasName": "Leipzig LIM"
   },
   {
@@ -360,7 +360,7 @@
     "country": "France",
     "countryCode": "FR",
     "type": ["cloudnet"],
-    "description": "<p>The SIRTA Atmospheric Research Observatory is one of few sites in Europe offering the instrumentation\nand the facilities to study atmospheric physico-chemical processes from the surface to the upper\ntroposphere through the boundary layer. At SIRTA, we study climate variability at regional and\ndecadal scales and evaluate the performance of atmospheric models (climate projection, weather\nforecast, chemistry-transport, etc.).</p>\n<p>SIRTA addresses the needs of four missions that span on multi-decadal time scales:</p>\n<ul>\n<li>\n<p>Atmospheric Monitoring: SIRTA carries out and provides access to long time series of\natmospheric observations necessary to improve our knowledge of atmospheric physico-chemical\nprocesses (gases, aerosols, clouds, precipitation, thermodynamics, dynamics, radiation),\nto study climate variability on decadal and regional scales, and to evaluate atmospheric models.</p>\n</li>\n<li>\n<p>Atmospheric Exploration: SIRTA hosts experimental measurement campaigns in a rich\nobservational environment, equipped with efficient logistics. It allows us to explore\ncomplex atmospheric processes, to develop methods exploiting instrumental synergies\n(tracers, in-situ series and remote sensing), to prepare future satellite observations\nand validate on-going ones, to develop new parameterizations for models, to test and qualify new instruments.</p>\n</li>\n<li>\n<p>Experimental teaching: SIRTA allows the realization of experimental work and teaching\nprojects that take place as part of atmospheric science courses (hosting of students at\nBachelor, Master and Doctorate levels).</p>\n</li>\n<li>\n<p>Metrological and radiative expertise: SIRTA hosts two expertise centers of the\nACTRIS research infrastructure which aim at\nimproving the quality of measurements, methods and data of networks of observations of\nphysical properties of clouds (<a href=\"https://ccres.aeris-data.fr/en/about_ccres/welcome/\">CCRES</a>) and the\nphysico-chemical properties of aerosols (<a href=\"https://acmcc.aeris-data.fr/\">ACMCC</a>).\nSIRTA also hosts and maintains a surface radiation budget station that contribute\nto the Baseline Surface Radiation Network (<a href=\"https://bsrn.awi.de/\">BSRN</a>).</p>\n</li>\n</ul>\n<p>The scientific perimeter of activities carried out at SIRTA includes reactive and\ngreenhouse gases, aerosols, clouds, and precipitation, radiative exchanges, heat fluxes,\natmospheric dynamics and thermodynamics. The scientific applications also concern the\nuse of these fields of expertise to study their impact on human activities such as health,\ntransport and energy (with a particular focus on solar and wind renewable energies).</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://sirta.ipsl.fr/\">SIRTA home page</a></li>\n</ul>\n",
+    "description": "The SIRTA Atmospheric Research Observatory is one of few sites in Europe offering the instrumentation and the facilities to study atmospheric physico-chemical processes from the surface to the upper troposphere through the boundary layer. At SIRTA, we study climate variability at regional and decadal scales and evaluate the performance of atmospheric models (climate projection, weather forecast, chemistry-transport, etc.).\n\nSIRTA addresses the needs of four missions that span on multi-decadal time scales:\n\n- Atmospheric Monitoring: SIRTA carries out and provides access to long time series of   atmospheric observations necessary to improve our knowledge of atmospheric physico-chemical   processes (gases, aerosols, clouds, precipitation, thermodynamics, dynamics, radiation),   to study climate variability on decadal and regional scales, and to evaluate atmospheric models.\n\n- Atmospheric Exploration: SIRTA hosts experimental measurement campaigns in a rich   observational environment, equipped with efficient logistics. It allows us to explore   complex atmospheric processes, to develop methods exploiting instrumental synergies   (tracers, in-situ series and remote sensing), to prepare future satellite observations   and validate on-going ones, to develop new parameterizations for models, to test and qualify new instruments.\n\n- Experimental teaching: SIRTA allows the realization of experimental work and teaching   projects that take place as part of atmospheric science courses (hosting of students at   Bachelor, Master and Doctorate levels).\n\n- Metrological and radiative expertise: SIRTA hosts two expertise centers of the   ACTRIS research infrastructure which aim at   improving the quality of measurements, methods and data of networks of observations of   physical properties of clouds ([CCRES](https://ccres.aeris-data.fr/en/about_ccres/welcome/)) and the   physico-chemical properties of aerosols ([ACMCC](https://acmcc.aeris-data.fr/)).   SIRTA also hosts and maintains a surface radiation budget station that contribute   to the Baseline Surface Radiation Network ([BSRN](https://bsrn.awi.de/)).\n\nThe scientific perimeter of activities carried out at SIRTA includes reactive and greenhouse gases, aerosols, clouds, and precipitation, radiative exchanges, heat fluxes, atmospheric dynamics and thermodynamics. The scientific applications also concern the use of these fields of expertise to study their impact on human activities such as health, transport and energy (with a particular focus on solar and wind renewable energies).\n\n## Links\n\n- [SIRTA home page](https://sirta.ipsl.fr/)",
     "dvasName": "SIRTA - Palaiseau",
     "actrisName": "Site Instrumental de Recherche par Télédétection Atmosphérique (SIRTA)",
     "wigosName": "SIRTA"
@@ -497,7 +497,7 @@
     "country": "Cyprus",
     "countryCode": "CY",
     "type": ["cloudnet"],
-    "description": "<p>The ERATOSTHENES Centre of Excellence in Limassol, Cyprus is the host\ninstitution of the Cyprus Atmospheric Remote Sensing Observatory (CARO)\nNational Facility (NF) designed for continuous monitoring of aerosols and\nclouds, providing crucial observations and a reference station for\ncalibration/validation of satellite missions.</p>\n<p>The CARO’s ground-based atmospheric remote sensing station consolidates\nadvanced infrastructure and high-quality instrumentation for aerosol and cloud\nremote sensing. Located in the heart of Limassol, approximately 800 meters from\nthe coastline, the station captures unique atmospheric data influenced by urban\nand coastal dynamics.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://www.eratosthenes.org.cy/departments-functional-areas/environment-climate/atmosphere/\">Limassol home page</a></li>\n</ul>\n",
+    "description": "The ERATOSTHENES Centre of Excellence in Limassol, Cyprus is the host institution of the Cyprus Atmospheric Remote Sensing Observatory (CARO) National Facility (NF) designed for continuous monitoring of aerosols and clouds, providing crucial observations and a reference station for calibration/validation of satellite missions.\n\nThe CARO’s ground-based atmospheric remote sensing station consolidates advanced infrastructure and high-quality instrumentation for aerosol and cloud remote sensing. Located in the heart of Limassol, approximately 800 meters from the coastline, the station captures unique atmospheric data influenced by urban and coastal dynamics.\n\n## Links\n\n- [Limassol home page](https://www.eratosthenes.org.cy/departments-functional-areas/environment-climate/atmosphere/)",
     "dvasName": "Limassol",
     "actrisName": "Cyprus Atmospheric Remote Sensing Observatory CARO",
     "wigosName": "TEPAK"
@@ -518,7 +518,7 @@
     "countryCode": "RE",
     "countrySubdivisionCode": "FR-974",
     "type": ["cloudnet"],
-    "description": "<p>The Maïdo Observatory is located on a 2200-meter-high summit on the western\npart of Réunion island, inside a national park. It is under the direct\ninfluence of air masses coming from the west-northwest downhill slope,\npartially covered by a dense tropical forest.</p>\n",
+    "description": "The Maïdo Observatory is located on a 2200-meter-high summit on the western part of Réunion island, inside a national park. It is under the direct influence of air masses coming from the west-northwest downhill slope, partially covered by a dense tropical forest.",
     "dvasName": "La Réunion - Maïdo atmospheric observatory",
     "actrisName": "OPAR Observatoire de Physique de l'Atmosphère à La Réunion",
     "wigosName": "La Réunion"
@@ -540,7 +540,7 @@
         "id": "punta-arenas_cite"
       }
     ],
-    "description": "<p>The LACROS observational facility was deployed in Punta Arenas, Chile at the\nsouthern tip of South America for a long-term campaign in the framework of the\nfield experiment <a href=\"https://dacapo.tropos.de/\">Dynamics, Aerosol, Clouds and Precipitation Observations in\nthe Pristine Environment of the Southern Ocean</a>\n(DACAPO-PESO), a research initiative of Leibniz Institute for Tropospheric\nResearch, Leipzig, Germany in joint collaboration with the University of\nMagallanes, Punta Arenas, Chile, and the University of Leipzig, Leipzig,\nGermany.</p>\n<p>The campaign location was in the premises of the University of Magallanes,\nPunta Arenas, Chile.</p>\n",
+    "description": "The LACROS observational facility was deployed in Punta Arenas, Chile at the southern tip of South America for a long-term campaign in the framework of the field experiment [Dynamics, Aerosol, Clouds and Precipitation Observations in the Pristine Environment of the Southern Ocean](https://dacapo.tropos.de/) (DACAPO-PESO), a research initiative of Leibniz Institute for Tropospheric Research, Leipzig, Germany in joint collaboration with the University of Magallanes, Punta Arenas, Chile, and the University of Leipzig, Leipzig, Germany.\n\nThe campaign location was in the premises of the University of Magallanes, Punta Arenas, Chile.",
     "wigosName": "Punta Arenas"
   },
   {
@@ -555,7 +555,7 @@
     "country": "Finland",
     "countryCode": "FI",
     "type": ["campaign"],
-    "description": "<p>Savilahti is a semi-urban site in Eastern Finland (Hirsikko et al., 2014). It\nis located 3 km from the town centre of Kuopio in University of Eastern\nFinland campus area and operated by the Finnish Meteorological Institute.</p>\n<h2>References</h2>\n<ul class=\"references\">\n<li>Hirsikko et al. (2014). Observing wind, aerosol particles, cloud and\nprecipitation: Finland's new ground-based remote-sensing network. <em>Atmos.\nMeas. Tech.</em>, <em>7</em>(5), 1351–1375. <a href=\"https://doi.org/10.5194/amt-7-1351-2014\">https://doi.org/10.5194/amt-7-1351-2014</a></li>\n</ul>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/kuopio-measurement-stations\">Savilahti home page</a></li>\n</ul>\n",
+    "description": "Savilahti is a semi-urban site in Eastern Finland (Hirsikko et al., 2014). It is located 3&nbsp;km from the town centre of Kuopio in University of Eastern Finland campus area and operated by the Finnish Meteorological Institute.\n\n## References\n\n- Hirsikko et al. (2014). Observing wind, aerosol particles, cloud and   precipitation: Finland's new ground-based remote-sensing network. _Atmos.   Meas. Tech._, _7_(5), 1351–1375. <https://doi.org/10.5194/amt-7-1351-2014>\n\n## Links\n\n- [Savilahti home page](https://en.ilmatieteenlaitos.fi/kuopio-measurement-stations)",
     "wigosName": "KUOPIO SAVILAHTI"
   },
   {
@@ -570,7 +570,7 @@
     "country": "Finland",
     "countryCode": "FI",
     "type": ["campaign"],
-    "description": "<p>Sodankylä is an Arctic measurement site in Northern Finland (Hirsikko et al.,\n2014). It is located 7 km from the municipality centre of Sodankylä. The\nstation is part of <a href=\"https://en.ilmatieteenlaitos.fi/sodankyla-supersite\">Sodankylä Supersite</a>\nhosted by the Finnish Meteorological Institute.</p>\n<h2>References</h2>\n<ul class=\"references\">\n<li>Hirsikko et al. (2014). Observing wind, aerosol particles, cloud and\nprecipitation: Finland's new ground-based remote-sensing network. <em>Atmos.\nMeas. Tech.</em>, <em>7</em>(5), 1351–1375. <a href=\"https://doi.org/10.5194/amt-7-1351-2014\">https://doi.org/10.5194/amt-7-1351-2014</a></li>\n</ul>\n",
+    "description": "Sodankylä is an Arctic measurement site in Northern Finland (Hirsikko et al., 2014). It is located 7&nbsp;km from the municipality centre of Sodankylä. The station is part of [Sodankylä Supersite](https://en.ilmatieteenlaitos.fi/sodankyla-supersite) hosted by the Finnish Meteorological Institute.\n\n## References\n\n- Hirsikko et al. (2014). Observing wind, aerosol particles, cloud and   precipitation: Finland's new ground-based remote-sensing network. _Atmos.   Meas. Tech._, _7_(5), 1351–1375. <https://doi.org/10.5194/amt-7-1351-2014>",
     "wigosName": "Sodankylä"
   },
   {
@@ -584,7 +584,7 @@
     "country": "Finland",
     "countryCode": "FI",
     "type": ["campaign"],
-    "description": "<p>Vehmasmäki is a rural forest site in Eastern Finland (Hirsikko et al., 2014).\nIt is located 18 km from the town centre of Kuopio and operated by the Finnish\nMeteorological Institute.</p>\n<h2>References</h2>\n<ul class=\"references\">\n<li>Hirsikko et al. (2014). Observing wind, aerosol particles, cloud and\nprecipitation: Finland's new ground-based remote-sensing network. <em>Atmos.\nMeas. Tech.</em>, <em>7</em>(5), 1351–1375. <a href=\"https://doi.org/10.5194/amt-7-1351-2014\">https://doi.org/10.5194/amt-7-1351-2014</a></li>\n</ul>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/kuopio-measurement-stations\">Vehmasmäki home page</a></li>\n</ul>\n",
+    "description": "Vehmasmäki is a rural forest site in Eastern Finland (Hirsikko et al., 2014). It is located 18&nbsp;km from the town centre of Kuopio and operated by the Finnish Meteorological Institute.\n\n## References\n\n- Hirsikko et al. (2014). Observing wind, aerosol particles, cloud and   precipitation: Finland's new ground-based remote-sensing network. _Atmos.   Meas. Tech._, _7_(5), 1351–1375. <https://doi.org/10.5194/amt-7-1351-2014>\n\n## Links\n\n- [Vehmasmäki home page](https://en.ilmatieteenlaitos.fi/kuopio-measurement-stations)",
     "dvasName": "Kuopio"
   },
   {
@@ -629,7 +629,7 @@
         "id": "arm_cite"
       }
     ],
-    "description": "<p>The first ARM Mobile Facility (AMF1) operated near the town of Andenes on\nAndøya island, Norway from December 2019 to May 2020 as part of the Cold-Air\nOutbreaks in the Marine Boundary Layer Experiment (COMBLE) campaign.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://arm.gov/research/campaigns/amf2019comble\">COMBLE home page</a></li>\n</ul>\n",
+    "description": "The first ARM Mobile Facility (AMF1) operated near the town of Andenes on Andøya island, Norway from December 2019 to May 2020 as part of the Cold-Air Outbreaks in the Marine Boundary Layer Experiment (COMBLE) campaign.\n\n## Links\n\n- [COMBLE home page](https://arm.gov/research/campaigns/amf2019comble)",
     "wigosName": "Andoya"
   },
   {
@@ -649,7 +649,7 @@
         "id": "arm_cite"
       }
     ],
-    "description": "<p>The first ARM Mobile Facility (AMF1) operated on Ascension Island from June\n2016 to October 2017 as part of the Layered Atlantic Smoke Interactions with\nClouds (LASIC) campaign.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://arm.gov/research/campaigns/amf2016lasic\">LASIC home page</a></li>\n</ul>\n",
+    "description": "The first ARM Mobile Facility (AMF1) operated on Ascension Island from June 2016 to October 2017 as part of the Layered Atlantic Smoke Interactions with Clouds (LASIC) campaign.\n\n## Links\n\n- [LASIC home page](https://arm.gov/research/campaigns/amf2016lasic)",
     "wigosName": "Ascension Island"
   },
   {
@@ -667,7 +667,7 @@
         "id": "arm_cite"
       }
     ],
-    "description": "<p>The second ARM Mobile Facility (AMF2) operated in West Antarctica from November\n2015 to January 2017 as part of the ARM West Antarctic Radiation Experiment\n(AWARE) campaign.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://arm.gov/research/campaigns/amf2015aware\">AWARE home page</a></li>\n</ul>\n"
+    "description": "The second ARM Mobile Facility (AMF2) operated in West Antarctica from November 2015 to January 2017 as part of the ARM West Antarctic Radiation Experiment (AWARE) campaign.\n\n## Links\n\n- [AWARE home page](https://arm.gov/research/campaigns/amf2015aware)"
   },
   {
     "id": "arm-banizoumbou",
@@ -723,7 +723,7 @@
         "id": "arm_cite"
       }
     ],
-    "description": "<p>The first ARM Mobile Facility (AMF1) operated at Cape Cod, Massachusetts from\nJuly 2012 to June 2013 as part of the Two-Column Aerosol Project (TCAP)\ncampaign.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://arm.gov/research/campaigns/aaf2012tcap\">TCAP home page</a></li>\n</ul>\n"
+    "description": "The first ARM Mobile Facility (AMF1) operated at Cape Cod, Massachusetts from July 2012 to June 2013 as part of the Two-Column Aerosol Project (TCAP) campaign.\n\n## Links\n\n- [TCAP home page](https://arm.gov/research/campaigns/aaf2012tcap)"
   },
   {
     "id": "arm-darwin",
@@ -741,7 +741,7 @@
         "id": "arm_cite"
       }
     ],
-    "description": "<p>The third facility of the Tropical Western Pacific (TWP) Ocean site operated in\nDarwin, Australia from 2002 to 2014.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://arm.gov/capabilities/observatories/twp\">Tropical Western Pacific home page</a></li>\n</ul>\n",
+    "description": "The third facility of the Tropical Western Pacific (TWP) Ocean site operated in Darwin, Australia from 2002 to 2014.\n\n## Links\n\n- [Tropical Western Pacific home page](https://arm.gov/capabilities/observatories/twp)",
     "wigosName": "Darwin"
   },
   {
@@ -781,7 +781,7 @@
         "id": "arm_cite"
       }
     ],
-    "description": "<p>The Eastern North Atlantic (ENA) is a fixed-location atmospheric observatory of\nthe Atmospheric Radiation Measurement (ARM) User Facility located on Graciosa\nIsland.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://arm.gov/capabilities/observatories/ena\">Eastern North Atlantic home page</a></li>\n</ul>\n",
+    "description": "The Eastern North Atlantic (ENA) is a fixed-location atmospheric observatory of the Atmospheric Radiation Measurement (ARM) User Facility located on Graciosa Island.\n\n## Links\n\n- [Eastern North Atlantic home page](https://arm.gov/capabilities/observatories/ena)",
     "dvasName": "Graciosa",
     "wigosName": "Graciosa"
   },
@@ -816,7 +816,7 @@
         "id": "arm_cite"
       }
     ],
-    "description": "<p>The second ARM Mobile Facility (AMF2) operated on Gan Island, Maldives from\nOctober 2011 to March 2012 as part of the ARM Madden-Julian Oscillation\nInvestigation Experiment- Gan Island (AMIE-GAN) campaign.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://arm.gov/research/campaigns/amf2011amie-gan\">AMIE-GAN home page</a></li>\n</ul>\n"
+    "description": "The second ARM Mobile Facility (AMF2) operated on Gan Island, Maldives from October 2011 to March 2012 as part of the ARM Madden-Julian Oscillation Investigation Experiment- Gan Island (AMIE-GAN) campaign.\n\n## Links\n\n- [AMIE-GAN home page](https://arm.gov/research/campaigns/amf2011amie-gan)"
   },
   {
     "id": "arm-manacapuru",
@@ -852,7 +852,7 @@
         "id": "arm_cite"
       }
     ],
-    "description": "<p>The first ARM Mobile Facility (AMF1) operated in the Black Forest area, Germany\nfrom April 2007 to December 2007 as part of the Convective and\nOrographically-induced Precipitation Study (COPS) campaign.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://arm.gov/research/campaigns/amf2007cops\">COPS home page</a></li>\n</ul>\n",
+    "description": "The first ARM Mobile Facility (AMF1) operated in the Black Forest area, Germany from April 2007 to December 2007 as part of the Convective and Orographically-induced Precipitation Study (COPS) campaign.\n\n## Links\n\n- [COPS home page](https://arm.gov/research/campaigns/amf2007cops)",
     "dvasName": "Murgtal"
   },
   {
@@ -870,7 +870,7 @@
         "id": "arm_cite"
       }
     ],
-    "description": "<p>The first ARM Mobile Facility (AMF1) operated in Niamey, Niger from January\n2006 to January 2007 as part of the RAdiative Divergence using AMF, GERB and\nAMMA STations (RADAGAST) campaign.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://arm.gov/research/campaigns/amf2006RADAGAST\">RADAGAST home page</a></li>\n</ul>\n"
+    "description": "The first ARM Mobile Facility (AMF1) operated in Niamey, Niger from January 2006 to January 2007 as part of the RAdiative Divergence using AMF, GERB and AMMA STations (RADAGAST) campaign.\n\n## Links\n\n- [RADAGAST home page](https://arm.gov/research/campaigns/amf2006RADAGAST)"
   },
   {
     "id": "arm-nsa",
@@ -888,7 +888,7 @@
         "id": "arm_cite"
       }
     ],
-    "description": "<p>The North Slope of Alaska (NSA) is a fixed-location atmospheric observatory of\nthe Atmospheric Radiation Measurement (ARM) User Facility.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://arm.gov/capabilities/observatories/nsa\">North Slope of Alaska home page</a></li>\n</ul>\n"
+    "description": "The North Slope of Alaska (NSA) is a fixed-location atmospheric observatory of the Atmospheric Radiation Measurement (ARM) User Facility.\n\n## Links\n\n- [North Slope of Alaska home page](https://arm.gov/capabilities/observatories/nsa)"
   },
   {
     "id": "arm-oliktok",
@@ -905,7 +905,7 @@
         "id": "arm_cite"
       }
     ],
-    "description": "<p>The third ARM Mobile Facility (AMF3) operated at Oliktok Point on the North\nSlope of Alaska from September 2013 to June 2021.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://arm.gov/capabilities/observatories/oli\">Oliktok Point home page</a></li>\n</ul>\n"
+    "description": "The third ARM Mobile Facility (AMF3) operated at Oliktok Point on the North Slope of Alaska from September 2013 to June 2021.\n\n## Links\n\n- [Oliktok Point home page](https://arm.gov/capabilities/observatories/oli)"
   },
   {
     "id": "arm-sgp",
@@ -924,7 +924,7 @@
         "id": "arm_cite"
       }
     ],
-    "description": "<p>The Southern Great Plains (SPG) is a fixed-location atmospheric observatory of\nthe Atmospheric Radiation Measurement (ARM) User Facility.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://arm.gov/capabilities/observatories/sgp\">Southern Great Plains home page</a></li>\n</ul>\n",
+    "description": "The Southern Great Plains (SPG) is a fixed-location atmospheric observatory of the Atmospheric Radiation Measurement (ARM) User Facility.\n\n## Links\n\n- [Southern Great Plains home page](https://arm.gov/capabilities/observatories/sgp)",
     "wigosName": "Southern Great Plains E13 (OK)"
   },
   {
@@ -942,7 +942,7 @@
         "id": "arm_cite"
       }
     ],
-    "description": "<p>The first ARM Mobile Facility (AMF1) operated in Cordoba, Argentina from\nSeptember 2018 to April 2019 as part of the Cloud, Aerosol, and Complex Terrain\nInteractions Aerial Campaign (CACTI-AC) campaign.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://arm.gov/research/campaigns/aaf2018CACTI-AC\">CACTI-AC home page</a></li>\n</ul>\n"
+    "description": "The first ARM Mobile Facility (AMF1) operated in Cordoba, Argentina from September 2018 to April 2019 as part of the Cloud, Aerosol, and Complex Terrain Interactions Aerial Campaign (CACTI-AC) campaign.\n\n## Links\n\n- [CACTI-AC home page](https://arm.gov/research/campaigns/aaf2018CACTI-AC)"
   },
   {
     "id": "summit",
@@ -959,7 +959,7 @@
         "id": "summit_cite"
       }
     ],
-    "description": "<p>ARM instruments operated in Summit Station, Greenland from 2010 to 2018 as part\nof the Integrated Characterization of Energy, Clouds, Atmospheric state, and\nPrecipitation at Summit (ICECAPS) project.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://psl.noaa.gov/arctic/observatories/summit/\">ICECAPS home page</a></li>\n</ul>\n"
+    "description": "ARM instruments operated in Summit Station, Greenland from 2010 to 2018 as part of the Integrated Characterization of Energy, Clouds, Atmospheric state, and Precipitation at Summit (ICECAPS) project.\n\n## Links\n\n- [ICECAPS home page](https://psl.noaa.gov/arctic/observatories/summit/)"
   },
   {
     "id": "hamburg",
@@ -1461,7 +1461,7 @@
     "country": "Poland",
     "countryCode": "PL",
     "type": ["cloudnet"],
-    "description": "<p>The Remote Sensing Laboratory (RS-Lab) is an urban measurement station in\nWarsaw, Poland hosted by Institute of Geophysics, University of Warsaw.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://www.igf.fuw.edu.pl/en/laboratories/laboratorium-pomiarow-zdalnych/\">RS-Lab home page</a></li>\n</ul>\n",
+    "description": "The Remote Sensing Laboratory (RS-Lab) is an urban measurement station in Warsaw, Poland hosted by Institute of Geophysics, University of Warsaw.\n\n## Links\n\n- [RS-Lab home page](https://www.igf.fuw.edu.pl/en/laboratories/laboratorium-pomiarow-zdalnych/)",
     "dvasName": "Warsaw",
     "actrisName": "Warsaw"
   },
@@ -2202,7 +2202,7 @@
     "country": "Antarctica",
     "countryCode": "AQ",
     "type": ["cloudnet", "polarin"],
-    "description": "<p>The Meteorological Observatory Neumayer has been part of all German research\nstations on Ekström Ice Shelf, Atka Bay, Antarctica since 1981. The first\nstation &quot;Georg von Neumayer&quot; had to be replaced by &quot;Neumayer Station&quot; in 1992,\nwhich again was replaced in 2009 by &quot;Neumayer Station III&quot;. Continuous\nlong-term atmospheric observations cover various parameters and degrees of\ncomplexity: from basis synoptical observations over BSRN surface radiation\nmeasurements, radiosoundings including in-situ ozone profiling, to remote\nsensing instrumentation.</p>\n<p>Remote sensing of cloud parameters started in 1992 with a ceilometer\nImpulsphysik LD-WH X 05. The ceilometer has been replaced by Vaisala CL31 and\nCL51 later. In 2019 a METEK Micro Rain Radar was installed. In 2023 TROPOS\nLeipzig had a full-featured Cloudnet container running at Neumayer Station for\none year. In 2024 the remote sensing capabilities of the Meteorological\nObservatory Neumayer were markedly extended by an RPG-FMCW-94 cloud radar,\nMiniMPL lidar and HALO StreamLine XR+ Doppler lidar. Finally, in 2026 a RPG\nHATPRO microwave radiometer was installed by AWI to replace the TROPOS\ninstrument that had been running there until then.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://www.awi.de/en/science/long-term-observations/atmosphere/antarctic-neumayer/meteorology.html\">Neumayer home page</a></li>\n</ul>\n",
+    "description": "The Meteorological Observatory Neumayer has been part of all German research stations on Ekström Ice Shelf, Atka Bay, Antarctica since 1981. The first station \"Georg von Neumayer\" had to be replaced by \"Neumayer Station\" in 1992, which again was replaced in 2009 by \"Neumayer Station III\". Continuous long-term atmospheric observations cover various parameters and degrees of complexity: from basis synoptical observations over BSRN surface radiation measurements, radiosoundings including in-situ ozone profiling, to remote sensing instrumentation.\n\nRemote sensing of cloud parameters started in 1992 with a ceilometer Impulsphysik LD-WH X 05. The ceilometer has been replaced by Vaisala CL31 and CL51 later. In 2019 a METEK Micro Rain Radar was installed. In 2023 TROPOS Leipzig had a full-featured Cloudnet container running at Neumayer Station for one year. In 2024 the remote sensing capabilities of the Meteorological Observatory Neumayer were markedly extended by an RPG-FMCW-94 cloud radar, MiniMPL lidar and HALO StreamLine XR+ Doppler lidar. Finally, in 2026 a RPG HATPRO microwave radiometer was installed by AWI to replace the TROPOS instrument that had been running there until then.\n\n## Links\n\n- [Neumayer home page](https://www.awi.de/en/science/long-term-observations/atmosphere/antarctic-neumayer/meteorology.html)",
     "dvasName": "Neumayer",
     "wigosName": "Neumayer"
   },
@@ -2287,7 +2287,7 @@
     "country": "Antarctica",
     "countryCode": "AQ",
     "type": ["cloudnet", "polarin"],
-    "description": "<p>Troll research station in Jutulsessen in Antarctica is the base and starting\npoint for biological, glaciological and geological field work during the summer\nseason, and is a full-year base for continuous, long-term monitoring series in\nmeteorology, radiation, atmosphere, upper atmosphere, environmental toxins and\nseismology.</p>\n<p>Troll is located around 235 km from the coast in Dronning Maud Land, a\ncentral area for Norwegian research in Antarctica. It is unusually located on\nthe slope between the coast and the interior plateau.</p>\n<p>The station is manned year round. It can accommodate six people in the\nAntarctic winter and many more in summer.</p>\n<p>Intensive cloud monitoring at the station started in the southern summer\n2024–25. Other atmospheric monitoring goes back many years.</p>\n",
+    "description": "Troll research station in Jutulsessen in Antarctica is the base and starting point for biological, glaciological and geological field work during the summer season, and is a full-year base for continuous, long-term monitoring series in meteorology, radiation, atmosphere, upper atmosphere, environmental toxins and seismology.\n\nTroll is located around 235&nbsp;km from the coast in Dronning Maud Land, a central area for Norwegian research in Antarctica. It is unusually located on the slope between the coast and the interior plateau.\n\nThe station is manned year round. It can accommodate six people in the Antarctic winter and many more in summer.\n\nIntensive cloud monitoring at the station started in the southern summer 2024–25. Other atmospheric monitoring goes back many years.",
     "dvasName": "Troll",
     "wigosName": "TROLL"
   },
@@ -2316,7 +2316,7 @@
     "country": "Brazil",
     "countryCode": "BR",
     "type": ["cloudnet"],
-    "description": "<p>The ATTO-Campina site is a permanent observational facility located in the\ncentral Amazon, approximately 4 km from the Amazon Tall Tower Observatory\n(ATTO), within the Uatumã Sustainable Development Reserve. Located 150 km from\nthe Manaus city (the Amazonas state capital), ATTO-Campina is installed in a\ncampinarana ecosystem characterized by sandy soils and relatively low\nvegetation, thus providing favorable conditions for atmospheric remote sensing\nobservations that are not feasible under the dense forest canopy at the ATTO\ntall tower site.</p>\n<p>Operational since 2020, ATTO-Campina was designed to complement the in situ\nmeasurements performed at the ATTO towers by extending observations to the full\natmospheric column, particularly focusing on cloud and precipitation processes.\nTogether, these sites form an integrated framework to investigate the complex\ninteractions between the rainforest and the atmosphere, especially those\ninvolving gas, aerosol, cloud, and precipitation dynamics in a near-pristine\ntropical environment.</p>\n<p>ATTO-Campina is equipped with a comprehensive suite of remote sensing and in\nsitu instruments that provide continuous, high-resolution measurements from the\nsurface to the upper troposphere. These include cloud and wind profiling\nradars, disdrometers for raindrop size distribution, a microwave radiometer for\ntemperature and humidity profiling, and a ceilometer for boundary layer and\ncloud base detection. Additional measurements include atmospheric electric\nfield, integrated water vapor from a photometer and a GNSS receptor, standard\nmeteorological variables, and aerosol properties such as particle size\ndistributions. A flux tower complements these observations by measuring\nexchanges of heat and moisture, longside soil temperature in different depths.\nThis diverse instrumentation enables detailed characterization of the vertical\nstructure of clouds, precipitation, and atmospheric state variables, supporting\nadvanced studies on gas–aerosol–cloud–precipitation interactions and their role\nin the Amazon climate system.</p>\n<h2>References</h2>\n<ul class=\"references\">\n<li>Cecchini et al. (2025): The ATTO-Campina site: A new observatory for tropical\nconvection and gas-aerosol-cloud-precipitation interactions in the Amazon.\n<em>Bull. Amer. Meteor. Soc.</em>, BAMS-D-24-0092.1,\n<a href=\"https://doi.org/10.1175/BAMS-D-24-0092.1\">https://doi.org/10.1175/BAMS-D-24-0092.1</a>, in press.</li>\n</ul>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://atto-campina.iag.usp.br/\">ATTO-Campina homepage</a></li>\n</ul>\n",
+    "description": "The ATTO-Campina site is a permanent observational facility located in the central Amazon, approximately 4 km from the Amazon Tall Tower Observatory (ATTO), within the Uatumã Sustainable Development Reserve. Located 150 km from the Manaus city (the Amazonas state capital), ATTO-Campina is installed in a campinarana ecosystem characterized by sandy soils and relatively low vegetation, thus providing favorable conditions for atmospheric remote sensing observations that are not feasible under the dense forest canopy at the ATTO tall tower site.\n\nOperational since 2020, ATTO-Campina was designed to complement the in situ measurements performed at the ATTO towers by extending observations to the full atmospheric column, particularly focusing on cloud and precipitation processes. Together, these sites form an integrated framework to investigate the complex interactions between the rainforest and the atmosphere, especially those involving gas, aerosol, cloud, and precipitation dynamics in a near-pristine tropical environment.\n\nATTO-Campina is equipped with a comprehensive suite of remote sensing and in situ instruments that provide continuous, high-resolution measurements from the surface to the upper troposphere. These include cloud and wind profiling radars, disdrometers for raindrop size distribution, a microwave radiometer for temperature and humidity profiling, and a ceilometer for boundary layer and cloud base detection. Additional measurements include atmospheric electric field, integrated water vapor from a photometer and a GNSS receptor, standard meteorological variables, and aerosol properties such as particle size distributions. A flux tower complements these observations by measuring exchanges of heat and moisture, longside soil temperature in different depths. This diverse instrumentation enables detailed characterization of the vertical structure of clouds, precipitation, and atmospheric state variables, supporting advanced studies on gas–aerosol–cloud–precipitation interactions and their role in the Amazon climate system.\n\n## References\n\n- Cecchini et al. (2025): The ATTO-Campina site: A new observatory for tropical   convection and gas-aerosol-cloud-precipitation interactions in the Amazon.   _Bull. Amer. Meteor. Soc._, BAMS-D-24-0092.1,   <https://doi.org/10.1175/BAMS-D-24-0092.1>, in press.\n\n## Links\n\n- [ATTO-Campina homepage](https://atto-campina.iag.usp.br/)",
     "wigosName": "ATTO - INPA"
   },
   {
@@ -2351,7 +2351,7 @@
     "dvasId": "cxhy",
     "actrisId": 39,
     "labellingStatus": "initially-accepted",
-    "description": "<p>The Moufia station is located close to the coast on the northern part of\nRéunion island. It's hosted on the campus of University of Réunion. The station\nis under the direct influence of air masses coming from the easterlies.</p>\n",
+    "description": "The Moufia station is located close to the coast on the northern part of Réunion island. It's hosted on the campus of University of Réunion. The station is under the direct influence of air masses coming from the easterlies.",
     "dvasName": "La Réunion - Saint Denis site",
     "actrisName": "OPAR Observatoire de Physique de l'Atmosphère à La Réunion"
   },
@@ -2388,7 +2388,7 @@
     "country": "Germany",
     "countryCode": "DE",
     "type": ["cloudnet"],
-    "description": "<p>Kappelrodeck is a cloud remote sensing measurement site located on the\noutskirts of the village of Kappelrodeck in the Rhine Valley, at the foot of\nthe western slopes of the Black Forest in southwestern Germany. The station is\nsituated at an altitude of approximately 200 m above mean sea level and serves\nas the home base of the KLOCX platform operated by the Karlsruhe Institute of\nTechnology (KIT). Cloud remote sensing observations at Kappelrodeck began in\n2025 and contribute to the monitoring and characterization of cloud and\natmospheric processes in a region strongly influenced by both valley and\nmountain meteorology.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://www.imkasf.kit.edu/english/Projects_4081.php\">KLOCX home page</a></li>\n</ul>\n"
+    "description": "Kappelrodeck is a cloud remote sensing measurement site located on the outskirts of the village of Kappelrodeck in the Rhine Valley, at the foot of the western slopes of the Black Forest in southwestern Germany. The station is situated at an altitude of approximately 200 m above mean sea level and serves as the home base of the KLOCX platform operated by the Karlsruhe Institute of Technology (KIT). Cloud remote sensing observations at Kappelrodeck began in 2025 and contribute to the monitoring and characterization of cloud and atmospheric processes in a region strongly influenced by both valley and mountain meteorology.\n\n## Links\n\n- [KLOCX home page](https://www.imkasf.kit.edu/english/Projects_4081.php)"
   },
   {
     "id": "invercargill",
@@ -2402,7 +2402,7 @@
     "countryCode": "NZ",
     "countrySubdivisionCode": "NZ-STL",
     "type": ["campaign"],
-    "description": "<p>At the station in Invercargill the Leipzig Aerosol and Cloud Remote\nObservations System (LACROS) of Leibniz Institute for Tropospheric Research\n(TROPOS) is being deployed from about September 2025 to March 2027. LACROS\ncomprises a full set of remote-sensing instruments for ACTRIS ARS (Aerosol\nRemote Sensing) and CRS (Cloud Remote Sensing), including 35- and 94 GHz\ncloud radars, a scanning Doppler lidar, two ceilometers (one with polarization\ncapabilities) and a Sun/Moon photometer. Unique for LACROS is the operation of\na <a href=\"https://polly.tropos.de\">PollyXT</a> multiwavelength-polarization-Raman lidar.\nFor the deployment to Invercargill, this lidar system was in addition extended\nby a detection channel for fluorescence scattering which enables to distinguish\nfluorescent smoke and other organic aerosols from inorganic ones like volcanic\nsulfates.</p>\n<p>Besides the set of instruments that provide data to the Cloudnet data portal,\nthe station is additionally equipped with the following remote-sensing and\nin-situ instrumentation:</p>\n<ul>\n<li>BSRN-compatible surface radiation station equipped with instruments for\nspectrally resolved and broadband incoming and outgoing solar and terrestrial\nradiation</li>\n<li>2-dimensional disdrometer (2DVD)</li>\n<li>Scanning Mobility Particle Sizer (SMPS) for aerosol in the size range from\n5 nm to 32 µm</li>\n<li>Cloud Condensation Nuclei counter (CCNC)</li>\n<li>Low-Volume-Sampler (LVS) for collection of 12-hourly aerosol samples for\nice-nucleating particle analysis</li>\n</ul>\n<p>The deployment of LACROS to Invercargill is done in the framework of the\n<a href=\"https://gosouth2.tropos.de\">goSouth-2 campaign</a>. goSouth-2 has the goal to\nexplore which contrasts in the properties of clouds can be discovered when\nclean and polluted air masses alternately arrive at Invercargill. Thereby, the\nclean air masses arriving to the site usually travelled several days over the\nSouthern Ocean, while air masses originating from Australia tend to be burden\nwith desert dust aerosol or biomass-burning smoke.</p>\n<p>goSouth-2 is accompanying the aircraft campaign\n<a href=\"https://halo-research.de/sience/halo-missions/current-missions/halo-south/\">HALO-South</a>\nof the High-Altitude and LOng-range research aircraft (HALO) of the German\nAerospace Centre, which provides in-situ data of aerosols and clouds from\naround New Zealand for the time frame from 6 September to 11 October 2025.</p>\n<h2>References:</h2>\n<ul>\n<li>Hofer et al. (2024): Aerosol-related effects on the occurrence of\nheterogeneous ice formation over Lauder, New Zealand ∕ Aotearoa, <em>Atmos.\nChem. Phys.</em>, <em>24</em>(2), 1265–1280, <a href=\"https://doi.org/10.5194/acp-24-1265-2024\">https://doi.org/10.5194/acp-24-1265-2024</a></li>\n<li>Radenz et al. (2021): Hemispheric contrasts in ice formation in stratiform\nmixed-phase clouds: disentangling the role of aerosol and dynamics with\nground-based remote sensing, <em>Atmos. Chem. Phys.</em>, <em>21</em>(23), 17969–17994,\n<a href=\"https://doi.org/10.5194/acp-21-17969-2021\">https://doi.org/10.5194/acp-21-17969-2021</a></li>\n</ul>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://gosouth2.tropos.de\">goSouth-2 home page</a></li>\n<li><a href=\"https://www.tropos.de/en/research/projects-infrastructures-technology/coordinated-observations-and-networks/lacros\">LACROS home page</a></li>\n</ul>\n",
+    "description": "At the station in Invercargill the Leipzig Aerosol and Cloud Remote Observations System (LACROS) of Leibniz Institute for Tropospheric Research (TROPOS) is being deployed from about September 2025 to March 2027. LACROS comprises a full set of remote-sensing instruments for ACTRIS ARS (Aerosol Remote Sensing) and CRS (Cloud Remote Sensing), including 35- and 94&nbsp;GHz cloud radars, a scanning Doppler lidar, two ceilometers (one with polarization capabilities) and a Sun/Moon photometer. Unique for LACROS is the operation of a [PollyXT](https://polly.tropos.de) multiwavelength-polarization-Raman lidar. For the deployment to Invercargill, this lidar system was in addition extended by a detection channel for fluorescence scattering which enables to distinguish fluorescent smoke and other organic aerosols from inorganic ones like volcanic sulfates.\n\nBesides the set of instruments that provide data to the Cloudnet data portal, the station is additionally equipped with the following remote-sensing and in-situ instrumentation:\n\n- BSRN-compatible surface radiation station equipped with instruments for   spectrally resolved and broadband incoming and outgoing solar and terrestrial   radiation\n- 2-dimensional disdrometer (2DVD)\n- Scanning Mobility Particle Sizer (SMPS) for aerosol in the size range from   5&nbsp;nm to 32&nbsp;µm\n- Cloud Condensation Nuclei counter (CCNC)\n- Low-Volume-Sampler (LVS) for collection of 12-hourly aerosol samples for   ice-nucleating particle analysis\n\nThe deployment of LACROS to Invercargill is done in the framework of the [goSouth-2 campaign](https://gosouth2.tropos.de). goSouth-2 has the goal to explore which contrasts in the properties of clouds can be discovered when clean and polluted air masses alternately arrive at Invercargill. Thereby, the clean air masses arriving to the site usually travelled several days over the Southern Ocean, while air masses originating from Australia tend to be burden with desert dust aerosol or biomass-burning smoke.\n\ngoSouth-2 is accompanying the aircraft campaign [HALO-South](https://halo-research.de/sience/halo-missions/current-missions/halo-south/) of the High-Altitude and LOng-range research aircraft (HALO) of the German Aerospace Centre, which provides in-situ data of aerosols and clouds from around New Zealand for the time frame from 6 September to 11 October 2025.\n\n## References:\n\n- Hofer et al. (2024): Aerosol-related effects on the occurrence of   heterogeneous ice formation over Lauder, New Zealand ∕ Aotearoa, _Atmos.   Chem. Phys._, _24_(2), 1265–1280, <https://doi.org/10.5194/acp-24-1265-2024>\n- Radenz et al. (2021): Hemispheric contrasts in ice formation in stratiform   mixed-phase clouds: disentangling the role of aerosol and dynamics with   ground-based remote sensing, _Atmos. Chem. Phys._, _21_(23), 17969–17994,   <https://doi.org/10.5194/acp-21-17969-2021>\n\n## Links\n\n- [goSouth-2 home page](https://gosouth2.tropos.de)\n- [LACROS home page](https://www.tropos.de/en/research/projects-infrastructures-technology/coordinated-observations-and-networks/lacros)",
     "wigosName": "INVERCARGILL AIRPORT"
   },
   {
@@ -2462,7 +2462,7 @@
         "id": "fmi-weather-radar_cite"
       }
     ],
-    "description": "<p>Inari (KAU) is a weather radar site located near the peak of Kaunispää fell in\nSaariselkä, Northern Finland. The site was established in 2025 as part of the\nweather radar network of the Finnish Meteorological Institute (FMI).</p>\n<p>Cloudnet only ingests weather radar data from vertical-pointing &quot;birdbath&quot;\nscans, which are done every 15 minutes to calibrate the differential\nreflectivity (ZDR). The conventional data from the weather radar, including\ncomposite from the radar network, are available from <a href=\"https://en.ilmatieteenlaitos.fi/open-data\">FMI's open\ndata</a>.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n",
+    "description": "Inari (KAU) is a weather radar site located near the peak of Kaunispää fell in Saariselkä, Northern Finland. The site was established in 2025 as part of the weather radar network of the Finnish Meteorological Institute (FMI).\n\nCloudnet only ingests weather radar data from vertical-pointing \"birdbath\" scans, which are done every 15 minutes to calibrate the differential reflectivity (ZDR). The conventional data from the weather radar, including composite from the radar network, are available from [FMI's open data](https://en.ilmatieteenlaitos.fi/open-data).\n\n## Links\n\n- [FMI radar network](https://en.ilmatieteenlaitos.fi/fmi-radar-network)",
     "wigosName": "SAARISELKA KAUNISPAA"
   },
   {
@@ -2482,7 +2482,7 @@
         "id": "fmi-weather-radar_cite"
       }
     ],
-    "description": "<p>Kankaanpää (KAN) is a weather radar site located on Ylisenharju hill in\nKankaanpää, Western Finland. The site was established in 2021 as part of the\nweather radar network of the Finnish Meteorological Institute (FMI).</p>\n<p>Cloudnet only ingests weather radar data from vertical-pointing &quot;birdbath&quot;\nscans, which are done every 15 minutes to calibrate the differential\nreflectivity (ZDR). The conventional data from the weather radar, including\ncomposite from the radar network, are available from <a href=\"https://en.ilmatieteenlaitos.fi/open-data\">FMI's open\ndata</a>.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n",
+    "description": "Kankaanpää (KAN) is a weather radar site located on Ylisenharju hill in Kankaanpää, Western Finland. The site was established in 2021 as part of the weather radar network of the Finnish Meteorological Institute (FMI).\n\nCloudnet only ingests weather radar data from vertical-pointing \"birdbath\" scans, which are done every 15 minutes to calibrate the differential reflectivity (ZDR). The conventional data from the weather radar, including composite from the radar network, are available from [FMI's open data](https://en.ilmatieteenlaitos.fi/open-data).\n\n## Links\n\n- [FMI radar network](https://en.ilmatieteenlaitos.fi/fmi-radar-network)",
     "wigosName": null
   },
   {
@@ -2502,7 +2502,7 @@
         "id": "fmi-weather-radar_cite"
       }
     ],
-    "description": "<p>Kesälahti (KES) is a weather radar site located in Kesälahti, Kitee, Eastern\nFinland. The site was established in 2014 as part of the weather radar network\nof the Finnish Meteorological Institute (FMI).</p>\n<p>Cloudnet only ingests weather radar data from vertical-pointing &quot;birdbath&quot;\nscans, which are done every 15 minutes to calibrate the differential\nreflectivity (ZDR). The conventional data from the weather radar, including\ncomposite from the radar network, are available from <a href=\"https://en.ilmatieteenlaitos.fi/open-data\">FMI's open\ndata</a>.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n",
+    "description": "Kesälahti (KES) is a weather radar site located in Kesälahti, Kitee, Eastern Finland. The site was established in 2014 as part of the weather radar network of the Finnish Meteorological Institute (FMI).\n\nCloudnet only ingests weather radar data from vertical-pointing \"birdbath\" scans, which are done every 15 minutes to calibrate the differential reflectivity (ZDR). The conventional data from the weather radar, including composite from the radar network, are available from [FMI's open data](https://en.ilmatieteenlaitos.fi/open-data).\n\n## Links\n\n- [FMI radar network](https://en.ilmatieteenlaitos.fi/fmi-radar-network)",
     "wigosName": null
   },
   {
@@ -2522,7 +2522,7 @@
         "id": "fmi-weather-radar_cite"
       }
     ],
-    "description": "<p>Anjalankoski (ANJ) is a weather radar site located in Kaipiainen, Kouvola,\nSoutheast Finland. The site was established in 1994 as part of the weather\nradar network of the Finnish Meteorological Institute (FMI).</p>\n<p>Cloudnet only ingests weather radar data from vertical-pointing &quot;birdbath&quot;\nscans, which are done every 15 minutes to calibrate the differential\nreflectivity (ZDR). The conventional data from the weather radar, including\ncomposite from the radar network, are available from <a href=\"https://en.ilmatieteenlaitos.fi/open-data\">FMI's open\ndata</a>.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n",
+    "description": "Anjalankoski (ANJ) is a weather radar site located in Kaipiainen, Kouvola, Southeast Finland. The site was established in 1994 as part of the weather radar network of the Finnish Meteorological Institute (FMI).\n\nCloudnet only ingests weather radar data from vertical-pointing \"birdbath\" scans, which are done every 15 minutes to calibrate the differential reflectivity (ZDR). The conventional data from the weather radar, including composite from the radar network, are available from [FMI's open data](https://en.ilmatieteenlaitos.fi/open-data).\n\n## Links\n\n- [FMI radar network](https://en.ilmatieteenlaitos.fi/fmi-radar-network)",
     "wigosName": "RADAR Anjalankoski"
   },
   {
@@ -2542,7 +2542,7 @@
         "id": "fmi-weather-radar_cite"
       }
     ],
-    "description": "<p>Rytky (KUO) is a weather radar site located in Rytky, Kuopio, Eastern Finland.\nThe site was established in 1995 as part of the weather radar network of the\nFinnish Meteorological Institute (FMI).</p>\n<p>Cloudnet only ingests weather radar data from vertical-pointing &quot;birdbath&quot;\nscans, which are done every 15 minutes to calibrate the differential\nreflectivity (ZDR). The conventional data from the weather radar, including\ncomposite from the radar network, are available from <a href=\"https://en.ilmatieteenlaitos.fi/open-data\">FMI's open\ndata</a>.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n",
+    "description": "Rytky (KUO) is a weather radar site located in Rytky, Kuopio, Eastern Finland. The site was established in 1995 as part of the weather radar network of the Finnish Meteorological Institute (FMI).\n\nCloudnet only ingests weather radar data from vertical-pointing \"birdbath\" scans, which are done every 15 minutes to calibrate the differential reflectivity (ZDR). The conventional data from the weather radar, including composite from the radar network, are available from [FMI's open data](https://en.ilmatieteenlaitos.fi/open-data).\n\n## Links\n\n- [FMI radar network](https://en.ilmatieteenlaitos.fi/fmi-radar-network)",
     "wigosName": "RADAR Kuopio"
   },
   {
@@ -2562,7 +2562,7 @@
         "id": "fmi-weather-radar_cite"
       }
     ],
-    "description": "<p>Nurmes (NUR) is a weather radar site located on Riihivaara hill in Mujejärvi,\nNurmes, Eastern Finland. The site was established in 2019 as part of the\nweather radar network of the Finnish Meteorological Institute (FMI).</p>\n<p>Cloudnet only ingests weather radar data from vertical-pointing &quot;birdbath&quot;\nscans, which are done every 15 minutes to calibrate the differential\nreflectivity (ZDR). The conventional data from the weather radar, including\ncomposite from the radar network, are available from <a href=\"https://en.ilmatieteenlaitos.fi/open-data\">FMI's open\ndata</a>.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n",
+    "description": "Nurmes (NUR) is a weather radar site located on Riihivaara hill in Mujejärvi, Nurmes, Eastern Finland. The site was established in 2019 as part of the weather radar network of the Finnish Meteorological Institute (FMI).\n\nCloudnet only ingests weather radar data from vertical-pointing \"birdbath\" scans, which are done every 15 minutes to calibrate the differential reflectivity (ZDR). The conventional data from the weather radar, including composite from the radar network, are available from [FMI's open data](https://en.ilmatieteenlaitos.fi/open-data).\n\n## Links\n\n- [FMI radar network](https://en.ilmatieteenlaitos.fi/fmi-radar-network)",
     "wigosName": null
   },
   {
@@ -2582,7 +2582,7 @@
         "id": "fmi-weather-radar_cite"
       }
     ],
-    "description": "<p>Korppoo (KOR) is a weather radar site located in Rumar on Korppoo island,\nParainen in Archipelago Sea, Western Finland. The site was established in 1997\nas part of the weather radar network of the Finnish Meteorological Institute\n(FMI).</p>\n<p>Cloudnet only ingests weather radar data from vertical-pointing &quot;birdbath&quot;\nscans, which are done every 15 minutes to calibrate the differential\nreflectivity (ZDR). The conventional data from the weather radar, including\ncomposite from the radar network, are available from <a href=\"https://en.ilmatieteenlaitos.fi/open-data\">FMI's open\ndata</a>.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n",
+    "description": "Korppoo (KOR) is a weather radar site located in Rumar on Korppoo island, Parainen in Archipelago Sea, Western Finland. The site was established in 1997 as part of the weather radar network of the Finnish Meteorological Institute (FMI).\n\nCloudnet only ingests weather radar data from vertical-pointing \"birdbath\" scans, which are done every 15 minutes to calibrate the differential reflectivity (ZDR). The conventional data from the weather radar, including composite from the radar network, are available from [FMI's open data](https://en.ilmatieteenlaitos.fi/open-data).\n\n## Links\n\n- [FMI radar network](https://en.ilmatieteenlaitos.fi/fmi-radar-network)",
     "wigosName": "RADAR Korpo"
   },
   {
@@ -2602,7 +2602,7 @@
         "id": "fmi-weather-radar_cite"
       }
     ],
-    "description": "<p>Petäjävesi (PET) is a weather radar site located in Kintaus, Petäjävesi,\nCentral Finland. The site was established in 2015 as part of the weather radar\nnetwork of the Finnish Meteorological Institute (FMI).</p>\n<p>Cloudnet only ingests weather radar data from vertical-pointing &quot;birdbath&quot;\nscans, which are done every 15 minutes to calibrate the differential\nreflectivity (ZDR). The conventional data from the weather radar, including\ncomposite from the radar network, are available from <a href=\"https://en.ilmatieteenlaitos.fi/open-data\">FMI's open\ndata</a>.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n",
+    "description": "Petäjävesi (PET) is a weather radar site located in Kintaus, Petäjävesi, Central Finland. The site was established in 2015 as part of the weather radar network of the Finnish Meteorological Institute (FMI).\n\nCloudnet only ingests weather radar data from vertical-pointing \"birdbath\" scans, which are done every 15 minutes to calibrate the differential reflectivity (ZDR). The conventional data from the weather radar, including composite from the radar network, are available from [FMI's open data](https://en.ilmatieteenlaitos.fi/open-data).\n\n## Links\n\n- [FMI radar network](https://en.ilmatieteenlaitos.fi/fmi-radar-network)",
     "wigosName": null
   },
   {
@@ -2622,7 +2622,7 @@
         "id": "fmi-weather-radar_cite"
       }
     ],
-    "description": "<p>Luosto (LUO) is a weather radar site located near the peak of Ukko-Luosto fell\nin Sodankylä, Northern Finland. The site was established in 2000 as part of the\nweather radar network of the Finnish Meteorological Institute (FMI).</p>\n<p>Cloudnet only ingests weather radar data from vertical-pointing &quot;birdbath&quot;\nscans, which are done every 15 minutes to calibrate the differential\nreflectivity (ZDR). The conventional data from the weather radar, including\ncomposite from the radar network, are available from <a href=\"https://en.ilmatieteenlaitos.fi/open-data\">FMI's open\ndata</a>.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n",
+    "description": "Luosto (LUO) is a weather radar site located near the peak of Ukko-Luosto fell in Sodankylä, Northern Finland. The site was established in 2000 as part of the weather radar network of the Finnish Meteorological Institute (FMI).\n\nCloudnet only ingests weather radar data from vertical-pointing \"birdbath\" scans, which are done every 15 minutes to calibrate the differential reflectivity (ZDR). The conventional data from the weather radar, including composite from the radar network, are available from [FMI's open data](https://en.ilmatieteenlaitos.fi/open-data).\n\n## Links\n\n- [FMI radar network](https://en.ilmatieteenlaitos.fi/fmi-radar-network)",
     "wigosName": "RADAR Luosto"
   },
   {
@@ -2642,7 +2642,7 @@
         "id": "fmi-weather-radar_cite"
       }
     ],
-    "description": "<p>Utajärvi (UTA) is a weather radar site located in Korkiakangas, Utajärvi,\nNorthern Finland. The site was established in 1997 as part of the weather radar\nnetwork of the Finnish Meteorological Institute (FMI).</p>\n<p>Cloudnet only ingests weather radar data from vertical-pointing &quot;birdbath&quot;\nscans, which are done every 15 minutes to calibrate the differential\nreflectivity (ZDR). The conventional data from the weather radar, including\ncomposite from the radar network, are available from <a href=\"https://en.ilmatieteenlaitos.fi/open-data\">FMI's open\ndata</a>.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n",
+    "description": "Utajärvi (UTA) is a weather radar site located in Korkiakangas, Utajärvi, Northern Finland. The site was established in 1997 as part of the weather radar network of the Finnish Meteorological Institute (FMI).\n\nCloudnet only ingests weather radar data from vertical-pointing \"birdbath\" scans, which are done every 15 minutes to calibrate the differential reflectivity (ZDR). The conventional data from the weather radar, including composite from the radar network, are available from [FMI's open data](https://en.ilmatieteenlaitos.fi/open-data).\n\n## Links\n\n- [FMI radar network](https://en.ilmatieteenlaitos.fi/fmi-radar-network)",
     "wigosName": "RADAR Utajärvi"
   },
   {
@@ -2662,7 +2662,7 @@
         "id": "fmi-weather-radar_cite"
       }
     ],
-    "description": "<p>Vihti (VIH) is a weather radar site located near Ylimmäinen lake in Vihti,\nSouthern Finland. The site was established in 2021 as part of the weather radar\nnetwork of the Finnish Meteorological Institute (FMI).</p>\n<p>Cloudnet only ingests weather radar data from vertical-pointing &quot;birdbath&quot;\nscans, which are done every 15 minutes to calibrate the differential\nreflectivity (ZDR). The conventional data from the weather radar, including\ncomposite from the radar network, are available from <a href=\"https://en.ilmatieteenlaitos.fi/open-data\">FMI's open\ndata</a>.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n",
+    "description": "Vihti (VIH) is a weather radar site located near Ylimmäinen lake in Vihti, Southern Finland. The site was established in 2021 as part of the weather radar network of the Finnish Meteorological Institute (FMI).\n\nCloudnet only ingests weather radar data from vertical-pointing \"birdbath\" scans, which are done every 15 minutes to calibrate the differential reflectivity (ZDR). The conventional data from the weather radar, including composite from the radar network, are available from [FMI's open data](https://en.ilmatieteenlaitos.fi/open-data).\n\n## Links\n\n- [FMI radar network](https://en.ilmatieteenlaitos.fi/fmi-radar-network)",
     "wigosName": null
   },
   {
@@ -2682,7 +2682,7 @@
         "id": "fmi-weather-radar_cite"
       }
     ],
-    "description": "<p>Vimpeli (VIM) is a weather radar site located on Lakeaharju hill in Vimpeli,\nWestern Finland. The site was established in 2005 as part of the weather radar\nnetwork of the Finnish Meteorological Institute (FMI).</p>\n<p>Cloudnet only ingests weather radar data from vertical-pointing &quot;birdbath&quot;\nscans, which are done every 15 minutes to calibrate the differential\nreflectivity (ZDR). The conventional data from the weather radar, including\ncomposite from the radar network, are available from <a href=\"https://en.ilmatieteenlaitos.fi/open-data\">FMI's open\ndata</a>.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://en.ilmatieteenlaitos.fi/fmi-radar-network\">FMI radar network</a></li>\n</ul>\n",
+    "description": "Vimpeli (VIM) is a weather radar site located on Lakeaharju hill in Vimpeli, Western Finland. The site was established in 2005 as part of the weather radar network of the Finnish Meteorological Institute (FMI).\n\nCloudnet only ingests weather radar data from vertical-pointing \"birdbath\" scans, which are done every 15 minutes to calibrate the differential reflectivity (ZDR). The conventional data from the weather radar, including composite from the radar network, are available from [FMI's open data](https://en.ilmatieteenlaitos.fi/open-data).\n\n## Links\n\n- [FMI radar network](https://en.ilmatieteenlaitos.fi/fmi-radar-network)",
     "wigosName": "RADAR Vimpeli"
   },
   {
@@ -2742,7 +2742,7 @@
     "countryCode": "IS",
     "countrySubdivisionCode": null,
     "type": ["campaign"],
-    "description": "<p>Snæfellsnes is a temporary campaign site on the Snæfellsnes peninsula in\nwestern Iceland, operated by <a href=\"https://www.menapia.tech/\">Menapia</a>. They are\nhosting the National Centre for Atmospheric Science and the University of Leeds\nas part of <a href=\"https://www.gamb2le.co.uk/\">GAMB²LE</a> research project. The\ndeployment is an operational trial of the AURORA, a modular, autonomous and\nArctic-hardened observatory developed to measure cloud, precipitation and\nboundary-layer processes in remote polar environments.</p>\n"
+    "description": "Snæfellsnes is a temporary campaign site on the Snæfellsnes peninsula in western Iceland, operated by [Menapia](https://www.menapia.tech/). They are hosting the National Centre for Atmospheric Science and the University of Leeds as part of [GAMB²LE](https://www.gamb2le.co.uk/) research project. The deployment is an operational trial of the AURORA, a modular, autonomous and Arctic-hardened observatory developed to measure cloud, precipitation and boundary-layer processes in remote polar environments."
   },
   {
     "id": "kolsass",
@@ -2774,7 +2774,7 @@
     "country": "Finland",
     "countryCode": "FI",
     "type": ["campaign"],
-    "description": "<p>Pallasjärvi is a campaign site near the Pallasjärvi lake, Northern Finland. It\nis one of the three Cloudnet stations operating during the 2026 Pallas Cloud\nExperiment (PaCE) campaign, alongside\n<a href=\"/site/sammaltunturinlaatas\">Sammaltunturinlaatas</a> and\n<a href=\"/site/kenttarova\">Kenttärova</a>.</p>\n"
+    "description": "Pallasjärvi is a campaign site near the Pallasjärvi lake, Northern Finland. It is one of the three Cloudnet stations operating during the 2026 Pallas Cloud Experiment (PaCE) campaign, alongside [Sammaltunturinlaatas](/site/sammaltunturinlaatas) and [Kenttärova](/site/kenttarova)."
   },
   {
     "id": "sammaltunturinlaatas",
@@ -2790,6 +2790,6 @@
     "country": "Finland",
     "countryCode": "FI",
     "type": ["campaign"],
-    "description": "<p>Sammaltunturinlaatas is a campaign site in the foothills of Sammaltunturi fell,\nNorthern Finland. It is one of the three Cloudnet stations operating during the\n2026 Pallas Cloud Experiment (PaCE) campaign, alongside\n<a href=\"/site/pallasjarvi\">Pallasjärvi</a> and <a href=\"/site/kenttarova\">Kenttärova</a>.</p>\n"
+    "description": "Sammaltunturinlaatas is a campaign site in the foothills of Sammaltunturi fell, Northern Finland. It is one of the three Cloudnet stations operating during the 2026 Pallas Cloud Experiment (PaCE) campaign, alongside [Pallasjärvi](/site/pallasjarvi) and [Kenttärova](/site/kenttarova)."
   }
 ]
