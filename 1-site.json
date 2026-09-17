@@ -70,7 +70,7 @@
     "dvasId": "5f99",
     "country": "Netherlands",
     "countryCode": "NL",
-    "type": ["campaign"],
+    "type": ["other"],
     "dvasName": "Delft"
   },
   {
@@ -260,7 +260,7 @@
     "dvasId": null,
     "country": "Netherlands",
     "countryCode": "NL",
-    "type": ["campaign"],
+    "type": ["other"],
     "wigosName": "Lutjewad"
   },
   {
@@ -572,7 +572,7 @@
     "altitude": 190,
     "country": "Finland",
     "countryCode": "FI",
-    "type": ["campaign"],
+    "type": ["other"],
     "dvasName": "Kuopio"
   },
   {
@@ -1227,7 +1227,7 @@
     "dvasId": "n7ka",
     "country": "Portugal",
     "countryCode": "PT",
-    "type": ["campaign"],
+    "type": ["other"],
     "dvasName": "Evora",
     "wigosName": "EVASO"
   },
@@ -1646,7 +1646,7 @@
     "actrisId": 27,
     "country": "Finland",
     "countryCode": "FI",
-    "type": ["campaign"],
+    "type": ["other"],
     "dvasName": "Utö",
     "actrisName": "Utö Baltic Sea",
     "wigosName": "PARAINEN UTO"
@@ -2225,7 +2225,7 @@
     "gaw": null,
     "country": "India",
     "countryCode": "IN",
-    "type": ["campaign"]
+    "type": ["other"]
   },
   {
     "id": "sonnblick",
@@ -2240,7 +2240,7 @@
     "actrisId": 1,
     "country": "Austria",
     "countryCode": "AT",
-    "type": ["campaign"],
+    "type": ["other"],
     "dvasName": "Sonnblick",
     "actrisName": "Sonnblick Observatory (SBO)",
     "wigosName": "SONNBLICK Observatory"
@@ -2271,7 +2271,7 @@
     "wigosId": "0-20008-0-VTO",
     "country": "Ireland",
     "countryCode": "IE",
-    "type": ["campaign", "ri-urbans"],
+    "type": ["other", "ri-urbans"],
     "wigosName": "Valentia"
   },
   {
@@ -2300,7 +2300,7 @@
     "actrisId": 16,
     "country": "Czechia",
     "countryCode": "CZ",
-    "type": ["campaign"],
+    "type": ["other"],
     "dvasName": "Milešovka",
     "actrisName": "Milešovka",
     "wigosName": "MILESOVKA"
@@ -2316,7 +2316,7 @@
     "country": "Réunion",
     "countryCode": "RE",
     "countrySubdivisionCode": "FR-974",
-    "type": ["campaign"],
+    "type": ["other"],
     "dvasId": "cxhy",
     "actrisId": 39,
     "labellingStatus": "initially-accepted",
