@@ -2708,7 +2708,7 @@
     "uuid": "b8d48671-eebe-45ec-96e5-73d1d68c2b15",
     "pid": "https://hdl.handle.net/21.12132/3.b8d48671eebe45ec",
     "name": "AWI HATPRO-G5",
-    "serialNumber": "0030133",
+    "serialNumber": "003 0133",
     "model": "RPG-HATPRO-G5",
     "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/RPGHATPRO",
     "type": "scanning microwave radiometer",
@@ -3422,6 +3422,18 @@
     "typeUrl": null,
     "owners": ["Federal Office of Meteorology and Climatology MeteoSwiss"],
     "instrument": "pluvio"
+  },
+  {
+    "uuid": "e37bba12-e285-492b-ab27-9c200e6956d7",
+    "pid": "https://hdl.handle.net/21.12132/3.e37bba12e285492b",
+    "name": "PULS HATPRO-G5",
+    "serialNumber": "003 0241",
+    "model": "RPG-HATPRO-G5",
+    "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/RPGHATPRO",
+    "type": "scanning microwave radiometer",
+    "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/scanningmicrowaveradiometer",
+    "owners": ["Poznań University of Life Sciences (PULS)"],
+    "instrument": "hatpro"
   },
   {
     "uuid": "e3902ab0-7566-4bf1-8d3f-0c1032d9c819",
