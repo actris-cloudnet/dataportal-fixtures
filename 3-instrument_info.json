@@ -414,6 +414,18 @@
     "instrument": "mrr-pro"
   },
   {
+    "uuid": "19d4da0a-4f15-434f-8bed-3e4ea8b8721f",
+    "pid": "https://hdl.handle.net/21.12132/3.19d4da0a4f15434f",
+    "name": "FMI CL31 B",
+    "serialNumber": "L2020616",
+    "model": "Vaisala CL31",
+    "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/VaisalaCL31",
+    "type": "lidar ceilometer",
+    "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/lidarceilometer",
+    "owners": ["Finnish Meteorological Institute (FMI)"],
+    "instrument": "cl31"
+  },
+  {
     "uuid": "1b0966f6-3b2d-41f2-a82c-fecc58bab864",
     "pid": "https://hdl.handle.net/21.12132/3.1b0966f63b2d41f2",
     "name": "DWD Parsivel² (451221)",
