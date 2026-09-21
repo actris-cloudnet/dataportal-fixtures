@@ -486,6 +486,18 @@
     "instrument": "halo-doppler-lidar"
   },
   {
+    "uuid": "201f6e5a-c8c4-4073-b355-d18cafd25bcc",
+    "pid": "https://hdl.handle.net/21.12132/3.201f6e5ac8c44073",
+    "name": "PULS Parsivel²",
+    "serialNumber": "452718",
+    "model": "OTT Parsivel²",
+    "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/OTTParsivel2",
+    "type": "disdrometer",
+    "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/disdrometer",
+    "owners": ["Poznań University of Life Sciences (PULS)"],
+    "instrument": "parsivel"
+  },
+  {
     "uuid": "20570e63-f7b1-496c-9ac6-12c3db46820a",
     "pid": "https://hdl.handle.net/21.12132/3.20570e63f7b1496c",
     "name": "UGR RPG-FMCW-94-DP (NEBULA)",
