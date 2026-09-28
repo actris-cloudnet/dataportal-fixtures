@@ -158,7 +158,7 @@
   {
     "uuid": "079cdfce-d7a7-438e-9f26-b98d0e4e0e6c",
     "pid": "https://hdl.handle.net/21.12132/3.079cdfced7a7438e",
-    "name": "DJUG CHM 15k",
+    "name": "DJUG CHM 15k (2021)",
     "serialNumber": "CHM210108",
     "model": "Lufft CHM 15k",
     "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/LufftCHM15k",
@@ -764,7 +764,7 @@
   {
     "uuid": "324507c6-ce8e-489c-9e62-01926a6b1d63",
     "pid": "https://hdl.handle.net/21.12132/3.324507c6ce8e489c",
-    "name": "UoC CHM 15k",
+    "name": "UoC CHM 15k (2012)",
     "serialNumber": "CHM120109",
     "model": "Lufft CHM 15k",
     "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/LufftCHM15k",
@@ -1463,7 +1463,7 @@
   {
     "uuid": "5ffe1a5d-f371-45cc-8f17-6473b03c5c2d",
     "pid": "https://hdl.handle.net/21.12132/3.5ffe1a5df37145cc",
-    "name": "MeteoSwiss CHM 15k",
+    "name": "MeteoSwiss CHM 15k (2020)",
     "serialNumber": "CHM200110",
     "model": "Lufft CHM 15k",
     "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/LufftCHM15k",
@@ -1475,7 +1475,7 @@
   {
     "uuid": "60eef0a4-4a75-42a0-aca0-3f59cfd266dc",
     "pid": "https://hdl.handle.net/21.12132/3.60eef0a44a7542a0",
-    "name": "LMU CHM 15k (1)",
+    "name": "LMU CHM 15k (2009)",
     "serialNumber": "CHX090103",
     "model": "Lufft CHM 15k",
     "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/LufftCHM15k",
@@ -1815,7 +1815,7 @@
   {
     "uuid": "77a75f3b-3229-4855-81e1-ce2ddad34e0e",
     "pid": "https://hdl.handle.net/21.12132/3.77a75f3b32294855",
-    "name": "UGR CHM 15k",
+    "name": "UGR CHM 15k (2017)",
     "serialNumber": "CHM170119",
     "model": "Lufft CHM 15k",
     "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/LufftCHM15k",
@@ -2074,7 +2074,7 @@
   {
     "uuid": "8584159a-7b3a-4545-b268-18675c86dc8d",
     "pid": "https://hdl.handle.net/21.12132/3.8584159a7b3a4545",
-    "name": "LMU CHM 15k (2)",
+    "name": "LMU CHM 15k (2023)",
     "serialNumber": "CHM230134",
     "model": "Lufft CHM 15k",
     "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/LufftCHM15k",
@@ -2146,7 +2146,7 @@
   {
     "uuid": "8b0a6145-7e7a-4c20-b34e-e1635ea21e03",
     "pid": "https://hdl.handle.net/21.12132/3.8b0a61457e7a4c20",
-    "name": "Met Éireann CHM 15k",
+    "name": "Met Éireann CHM 15k (2023)",
     "serialNumber": "CHM230126",
     "model": "Lufft CHM 15k",
     "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/LufftCHM15k",
@@ -2307,7 +2307,7 @@
   {
     "uuid": "982ea3f8-2c82-491b-b878-b4aeddb4058a",
     "pid": "https://hdl.handle.net/21.12132/3.982ea3f82c82491b",
-    "name": "UÉ CHM 15k",
+    "name": "UÉ CHM 15k (2023)",
     "serialNumber": "CHM230136",
     "model": "Lufft CHM 15k",
     "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/LufftCHM15k",
@@ -2343,7 +2343,7 @@
   {
     "uuid": "9b914f8c-94c4-438a-9703-985ded643598",
     "pid": "https://hdl.handle.net/21.12132/3.9b914f8c94c4438a",
-    "name": "IPSL CHM 15k (2021)",
+    "name": "IPSL CHM 15k (2020)",
     "serialNumber": "CHM200127",
     "model": "Lufft CHM 15k",
     "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/LufftCHM15k",
@@ -2487,7 +2487,7 @@
   {
     "uuid": "a5d479cd-32a1-4a88-8659-79322255e0ba",
     "pid": "https://hdl.handle.net/21.12132/3.a5d479cd32a14a88",
-    "name": "ENEA CHM 15k",
+    "name": "ENEA CHM 15k (2019)",
     "serialNumber": "CHM190157",
     "model": "Lufft CHM 15k",
     "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/LufftCHM15k",
@@ -2539,7 +2539,7 @@
   {
     "uuid": "ad36b32b-2e0a-46fc-b01e-ffb092f78bb8",
     "pid": "https://hdl.handle.net/21.12132/3.ad36b32b2e0a46fc",
-    "name": "IAC CHM 15k",
+    "name": "IAC CHM 15k (2021)",
     "serialNumber": "CHM210109",
     "model": "Lufft CHM 15k",
     "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/LufftCHM15k",
@@ -2809,7 +2809,7 @@
   {
     "uuid": "bcbb8795-0c3d-48e0-a6bf-79027b63a31d",
     "pid": "https://hdl.handle.net/21.12132/3.bcbb87950c3d48e0",
-    "name": "CNR CHM 15k",
+    "name": "CNR CHM 15k (2008)",
     "serialNumber": "CHM080085",
     "model": "Lufft CHM 15k",
     "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/LufftCHM15k",
@@ -2860,7 +2860,7 @@
   {
     "uuid": "c07f533c-d860-41f1-a030-900e01288ae5",
     "pid": "https://hdl.handle.net/21.12132/3.c07f533cd86041f1",
-    "name": "KNMI CHM 15k",
+    "name": "KNMI CHM 15k (2015)",
     "serialNumber": "CHM150118",
     "model": "Lufft CHM 15k",
     "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/LufftCHM15k",
@@ -2896,7 +2896,7 @@
   {
     "uuid": "c31cb1ea-90be-473d-8344-c8e40ad6720e",
     "pid": "https://hdl.handle.net/21.12132/3.c31cb1ea90be473d",
-    "name": "UFS CHM 15k-x",
+    "name": "UFS CHM 15k-x (2009)",
     "serialNumber": "CHX090105",
     "model": "Lufft CHM 15k-x",
     "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/LufftCHM15k-x",
@@ -2982,7 +2982,7 @@
   {
     "uuid": "c60c931f-ac9d-43f0-99af-42b7428b4eb3",
     "pid": "https://hdl.handle.net/21.12132/3.c60c931fac9d43f0",
-    "name": "INOE CHM 15k",
+    "name": "INOE CHM 15k (2017)",
     "serialNumber": "CHM170137",
     "model": "Lufft CHM 15k",
     "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/LufftCHM15k",
@@ -3128,7 +3128,7 @@
   {
     "uuid": "cdf99c53-6bd0-4146-be2a-604cf1164c30",
     "pid": "https://hdl.handle.net/21.12132/3.cdf99c536bd04146",
-    "name": "DWD CHM 15k",
+    "name": "DWD CHM 15k (2010)",
     "serialNumber": "CHM100110",
     "model": "Lufft CHM 15k",
     "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/LufftCHM15k",
@@ -3178,7 +3178,7 @@
   {
     "uuid": "d20b2f98-5a12-4a7e-b033-dc4a0970645a",
     "pid": "https://hdl.handle.net/21.12132/3.d20b2f985a124a7e",
-    "name": "MPI-M CHM 15k",
+    "name": "MPI-M CHM 15k (2017)",
     "serialNumber": "CHM170158",
     "model": "Lufft CHM 15k",
     "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/LufftCHM15k",
@@ -3190,7 +3190,7 @@
   {
     "uuid": "d257c922-19a6-4842-9df2-ab4a1f76eaf7",
     "pid": "https://hdl.handle.net/21.12132/3.d257c92219a64842",
-    "name": "DWD CHM 15k",
+    "name": "DWD CHM 15k (2006)",
     "serialNumber": "CHM060012",
     "model": "Lufft CHM 15k",
     "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/LufftCHM15k",
@@ -3252,7 +3252,7 @@
   {
     "uuid": "d6bf209b-c48b-48a4-bbfb-fed713b27832",
     "pid": "https://hdl.handle.net/21.12132/3.d6bf209bc48b48a4",
-    "name": "UBB CHM 15k",
+    "name": "UBB CHM 15k (2023)",
     "serialNumber": "CHM230128",
     "model": "Lufft CHM 15k",
     "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/LufftCHM15k",
@@ -3288,7 +3288,7 @@
   {
     "uuid": "d7b65c4b-72b6-432d-a075-0935437bf351",
     "pid": "https://hdl.handle.net/21.12132/3.d7b65c4b72b6432d",
-    "name": "ECoE CHM 15k",
+    "name": "ECoE CHM 15k (2023)",
     "serialNumber": "CHM230107",
     "model": "Lufft CHM 15k",
     "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/LufftCHM15k",
@@ -3589,7 +3589,7 @@
   {
     "uuid": "eb35ee6d-e17b-49b4-8e04-b278a797f30b",
     "pid": "https://hdl.handle.net/21.12132/3.eb35ee6de17b49b4",
-    "name": "PULS CHM 15k",
+    "name": "PULS CHM 15k (2023)",
     "serialNumber": "CHM230109",
     "model": "Lufft CHM 15k",
     "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/LufftCHM15k",
@@ -3649,7 +3649,7 @@
   {
     "uuid": "f3c16fc5-0e8a-4964-8f1a-d058dcaf1d12",
     "pid": "https://hdl.handle.net/21.12132/3.f3c16fc50e8a4964",
-    "name": "IFUSP CHM 15k",
+    "name": "IFUSP CHM 15k (2016)",
     "serialNumber": "CHM160146",
     "model": "Lufft CHM 15k",
     "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/LufftCHM15k",
