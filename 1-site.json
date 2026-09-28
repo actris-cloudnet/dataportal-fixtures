@@ -34,13 +34,15 @@
     "wigosId": "0-20008-0-CES",
     "dvasId": "oy7a",
     "actrisId": 88,
+    "icosId": "AS_CBW",
     "labellingStatus": "planned",
     "country": "Netherlands",
     "countryCode": "NL",
     "type": ["cloudnet"],
     "dvasName": "Cabauw Zijdeweg",
     "actrisName": "Ruisdael Observatory: Cabauw",
-    "wigosName": "Cesar (Cabauw)"
+    "wigosName": "Cesar (Cabauw)",
+    "icosName": "Cabauw"
   },
   {
     "id": "chilbolton",
@@ -159,6 +161,7 @@
     "wigosId": "0-20000-0-02824",
     "dvasId": "zsf3",
     "actrisId": 26,
+    "icosId": "ES_FI-Ken",
     "labellingStatus": "initially-accepted",
     "altitude": 345,
     "country": "Finland",
@@ -166,7 +169,8 @@
     "type": ["cloudnet", "polarin"],
     "dvasName": "Pallas (Kenttärova)",
     "actrisName": "Pallas Atmosphere-Ecosystem Supersite",
-    "wigosName": "KITTILA KENTTAROVA"
+    "wigosName": "KITTILA KENTTAROVA",
+    "icosName": "Kenttarova"
   },
   {
     "id": "leipzig",
@@ -303,6 +307,7 @@
     "gaw": "NOR",
     "wigosId": "0-20008-0-NOR",
     "dvasId": "d83u",
+    "icosId": "AS_NOR",
     "altitude": 46,
     "country": "Sweden",
     "countryCode": "SE",
@@ -316,7 +321,8 @@
       }
     ],
     "dvasName": "Norunda Tornet",
-    "wigosName": "Norunda"
+    "wigosName": "Norunda",
+    "icosName": "Norunda"
   },
   {
     "id": "ny-alesund",
@@ -387,12 +393,14 @@
     "gaw": "ZSF",
     "wigosId": "0-20008-0-ZSF",
     "dvasId": "ix3y",
+    "icosId": "AS_ZSF",
     "altitude": 2653,
     "country": "Germany",
     "countryCode": "DE",
     "type": ["cloudnet"],
     "dvasName": "Zugspitze-Schneefernerhaus",
-    "wigosName": "Zugspitze-Schneefernerhaus"
+    "wigosName": "Zugspitze-Schneefernerhaus",
+    "icosName": "Zugspitze"
   },
   {
     "id": "stationtest",
@@ -505,6 +513,7 @@
     "wigosId": "0-20008-0-RUN",
     "dvasId": "ka8v",
     "actrisId": 39,
+    "icosId": "AS_RUN",
     "labellingStatus": "initially-accepted",
     "altitude": 2200,
     "country": "Réunion",
@@ -513,7 +522,8 @@
     "type": ["cloudnet"],
     "dvasName": "La Réunion - Maïdo atmospheric observatory",
     "actrisName": "OPAR Observatoire de Physique de l'Atmosphère à La Réunion",
-    "wigosName": "La Réunion"
+    "wigosName": "La Réunion",
+    "icosName": "La Réunion"
   },
   {
     "id": "punta-arenas",
@@ -583,12 +593,14 @@
     "gaw": "WAO",
     "wigosId": "0-20008-0-WAO",
     "dvasId": null,
+    "icosId": "AS_WAO",
     "altitude": 50,
     "country": "United Kingdom",
     "countryCode": "GB",
     "countrySubdivisionCode": "GB-ENG",
     "type": ["campaign"],
-    "wigosName": "Weybourne Atmospheric Observatory"
+    "wigosName": "Weybourne Atmospheric Observatory",
+    "icosName": "Weybourne"
   },
   {
     "id": "soverato",
@@ -1496,13 +1508,15 @@
     "wigosId": "0-20008-0-LMP",
     "dvasId": "lp7k",
     "actrisId": 86,
+    "icosId": "AS_LMP",
     "labellingStatus": "initially-accepted",
     "country": "Italy",
     "countryCode": "IT",
     "type": ["cloudnet"],
     "dvasName": "Lampedusa",
     "actrisName": "Lampedusa",
-    "wigosName": "Lampedusa"
+    "wigosName": "Lampedusa",
+    "icosName": "Lampedusa"
   },
   {
     "id": "mindelo",
@@ -1529,9 +1543,11 @@
     "longitude": 15.081,
     "altitude": 531,
     "gaw": null,
+    "icosId": "AS_KRE",
     "country": "Czechia",
     "countryCode": "CZ",
-    "type": ["hidden", "model"]
+    "type": ["hidden", "model"],
+    "icosName": "Křešín u Pacova"
   },
   {
     "id": "kumpula",
@@ -1540,9 +1556,11 @@
     "longitude": 24.963,
     "altitude": 26,
     "gaw": null,
+    "icosId": "ES_FI-Kmp",
     "country": "Finland",
     "countryCode": "FI",
-    "type": ["hidden"]
+    "type": ["hidden"],
+    "icosName": "Kumpula"
   },
   {
     "id": "rovaniemi",
@@ -1563,10 +1581,12 @@
     "altitude": 560,
     "gaw": "PAL",
     "wigosId": "0-20008-0-PAL",
+    "icosId": "AS_PAL",
     "country": "Finland",
     "countryCode": "FI",
     "type": ["hidden"],
-    "wigosName": "Pallas"
+    "wigosName": "Pallas",
+    "icosName": "Pallas"
   },
   {
     "id": "ivalo",
@@ -1746,9 +1766,11 @@
     "longitude": -3.243,
     "altitude": 270,
     "gaw": null,
+    "icosId": "ES_UK-AMo",
     "country": "United Kingdom",
     "countryCode": "GB",
-    "type": ["hidden"]
+    "type": ["hidden"],
+    "icosName": "Auchencorth Moss"
   },
   {
     "id": "harmaja",
@@ -2115,9 +2137,11 @@
     "longitude": 8.426,
     "altitude": 110,
     "gaw": null,
+    "icosId": "AS_KIT",
     "country": "Germany",
     "countryCode": "DE",
-    "type": ["hidden"]
+    "type": ["hidden"],
+    "icosName": "Karlsruhe"
   },
   {
     "id": "hailuoto",
