@@ -616,6 +616,7 @@
   {
     "id": "arm-andoya",
     "humanReadableName": "Andøya",
+    "stationName": "ANX",
     "latitude": 69.141,
     "longitude": 15.684,
     "gaw": "ARR",
@@ -634,6 +635,7 @@
   {
     "id": "arm-ascension",
     "humanReadableName": "Ascension Island",
+    "stationName": "ASI",
     "latitude": -7.967,
     "longitude": -14.35,
     "gaw": "ASC",
@@ -653,6 +655,7 @@
   {
     "id": "arm-aware",
     "humanReadableName": "West Antarctic",
+    "stationName": "AWR",
     "latitude": -77.85,
     "longitude": 166.73,
     "gaw": null,
@@ -708,6 +711,7 @@
   {
     "id": "arm-cape-cod",
     "humanReadableName": "Cape Cod",
+    "stationName": "PVC",
     "latitude": 42.031,
     "longitude": -70.049,
     "gaw": null,
@@ -724,6 +728,7 @@
   {
     "id": "arm-darwin",
     "humanReadableName": "Darwin",
+    "stationName": "TWP",
     "latitude": -12.426,
     "longitude": 130.898,
     "gaw": "DWN",
@@ -798,6 +803,7 @@
   {
     "id": "arm-maldives",
     "humanReadableName": "Maldives",
+    "stationName": "GAN",
     "latitude": 1.978,
     "longitude": 73.396,
     "gaw": null,
@@ -832,6 +838,7 @@
   {
     "id": "arm-murgtal",
     "humanReadableName": "Murgtal",
+    "stationName": "FKB",
     "latitude": 48.54,
     "longitude": 8.397,
     "gaw": null,
@@ -850,6 +857,7 @@
   {
     "id": "arm-niamey",
     "humanReadableName": "Niamey",
+    "stationName": "NIM",
     "latitude": 13.513,
     "longitude": 2.049,
     "gaw": null,
@@ -883,6 +891,7 @@
   {
     "id": "arm-oliktok",
     "humanReadableName": "Oliktok",
+    "stationName": "OLI",
     "latitude": 70.495,
     "longitude": -149.886,
     "altitude": 2,
@@ -918,6 +927,7 @@
   {
     "id": "arm-yacanto",
     "humanReadableName": "Villa Yacanto",
+    "stationName": "COR",
     "latitude": -32.126,
     "longitude": -64.728,
     "gaw": null,
@@ -934,6 +944,7 @@
   {
     "id": "summit",
     "humanReadableName": "Summit",
+    "stationName": "SMT",
     "latitude": 72.6,
     "longitude": -38.42,
     "gaw": null,
@@ -2766,5 +2777,41 @@
     "country": "Finland",
     "countryCode": "FI",
     "type": ["campaign"]
+  },
+  {
+    "id": "arm-bankhead",
+    "humanReadableName": "Bankhead National Forest",
+    "stationName": "BNF",
+    "latitude": 34.342481,
+    "longitude": -87.338177,
+    "altitude": 293,
+    "gaw": null,
+    "wigosId": null,
+    "type": ["arm"],
+    "country": "United States",
+    "countryCode": "US",
+    "citations": [
+      {
+        "id": "arm_cite"
+      }
+    ]
+  },
+  {
+    "id": "arm-phoenix",
+    "humanReadableName": "Phoenix",
+    "stationName": "DST",
+    "latitude": 33.606726,
+    "longitude": -112.166912,
+    "altitude": 379,
+    "gaw": null,
+    "wigosId": null,
+    "type": ["arm"],
+    "country": "United States",
+    "countryCode": "US",
+    "citations": [
+      {
+        "id": "arm_cite"
+      }
+    ]
   }
 ]
