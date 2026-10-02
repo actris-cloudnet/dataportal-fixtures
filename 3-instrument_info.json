@@ -1778,7 +1778,7 @@
     "uuid": "760146e3-b71b-472e-b8bb-ea59e34b2d56",
     "pid": "https://hdl.handle.net/21.12132/3.760146e3b71b472e",
     "name": "CEREA HALO",
-    "serialNumber": "L-0226-0383",
+    "serialNumber": "L-0226-383",
     "model": "StreamLine XR",
     "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/HALOPhotonicsStreamLineXR",
     "type": "Doppler lidar",
@@ -2411,6 +2411,18 @@
     "typeUrl": null,
     "owners": ["Leipzig Institute for Meteorology (LIM)"],
     "instrument": "weather-station"
+  },
+  {
+    "uuid": "a0dac4c9-69e7-4e3e-8387-2f4bc55330d2",
+    "pid": "https://hdl.handle.net/21.12132/3.a0dac4c969e74e3e",
+    "name": "DWD LD40 (SPF)",
+    "serialNumber": "SPF",
+    "model": "Vaisala LD40",
+    "modelUrl": null,
+    "type": "lidar ceilometer",
+    "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/lidarceilometer",
+    "owners": ["German Meteorological Service (DWD)"],
+    "instrument": "ld40"
   },
   {
     "uuid": "a150e648-f868-47a5-8c70-54d2f091d961",
