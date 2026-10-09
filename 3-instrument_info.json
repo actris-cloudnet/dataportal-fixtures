@@ -1571,6 +1571,21 @@
     "instrument": "parsivel"
   },
   {
+    "uuid": "6dd7af6f-2cd8-4926-9d0f-055545c64839",
+    "pid": "https://hdl.handle.net/21.12132/3.6dd7af6f2cd84926",
+    "name": "UÉ CL61",
+    "serialNumber": "Y2231654",
+    "model": "Vaisala CL61",
+    "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/VaisalaCL61",
+    "type": "depolarisation lidar ceilometer",
+    "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/depolarisationlidarceilometer",
+    "owners": [
+      "Center for Sci-Tech Research in Earth System and Energy (CREATE)",
+      "University of Évora (UÉ)"
+    ],
+    "instrument": "cl61d"
+  },
+  {
     "uuid": "6ea400ba-1738-4d69-9371-4137ed2778f8",
     "pid": "https://hdl.handle.net/21.12132/3.6ea400ba17384d69",
     "name": "TU Delft Pluvio² L 200 RH",
