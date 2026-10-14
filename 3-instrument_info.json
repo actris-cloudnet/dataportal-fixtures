@@ -2500,6 +2500,21 @@
     "instrument": "wls200s"
   },
   {
+    "uuid": "a43eb0b4-d8e0-42fa-84a0-a60935fc8225",
+    "pid": "https://hdl.handle.net/21.12132/3.a43eb0b4d8e042fa",
+    "name": "UÉ CL31",
+    "serialNumber": "A48201",
+    "model": "Vaisala CL31",
+    "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/VaisalaCL31",
+    "type": "lidar ceilometer",
+    "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/lidarceilometer",
+    "owners": [
+      "Center for Sci-Tech Research in Earth System and Energy (CREATE)",
+      "University of Évora (UÉ)"
+    ],
+    "instrument": "cl31"
+  },
+  {
     "uuid": "a5857315-ede2-4789-8f41-7413966065f8",
     "pid": "https://hdl.handle.net/21.12132/3.a5857315ede24789",
     "name": "TROPOS Parsivel² (Mindelo)",
