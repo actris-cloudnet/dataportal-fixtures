@@ -1852,6 +1852,18 @@
     "instrument": "hatpro"
   },
   {
+    "uuid": "7974e2d7-10dd-4925-9366-d1083347131f",
+    "pid": "https://hdl.handle.net/21.12132/3.7974e2d710dd4925",
+    "name": "UoC HATPRO-G5 (ICEHAT)",
+    "serialNumber": "003 0251",
+    "model": "RPG-HATPRO-G5",
+    "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/RPGHATPRO",
+    "type": "scanning microwave radiometer",
+    "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/scanningmicrowaveradiometer",
+    "owners": ["University of Cologne (UoC)"],
+    "instrument": "hatpro"
+  },
+  {
     "uuid": "7c1c718f-6e63-439f-9981-cd1d73691922",
     "pid": "https://hdl.handle.net/21.12132/3.7c1c718f6e63439f",
     "name": "UnivAQ Vantage Vue",
