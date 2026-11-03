@@ -262,10 +262,12 @@
     "gaw": null,
     "wigosId": "0-528-0-LUT",
     "dvasId": null,
+    "icosId": "AS_LUT",
     "country": "Netherlands",
     "countryCode": "NL",
     "type": ["other"],
-    "wigosName": "Lutjewad"
+    "wigosName": "Lutjewad",
+    "icosName": "Lutjewad"
   },
   {
     "id": "mace-head",
