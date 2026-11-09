@@ -85,6 +85,11 @@
     "description": "Test that valid instrument PID exists."
   },
   {
+    "testId": "TestInterval",
+    "name": "Interval",
+    "description": "Test that sampling interval matches logging interval."
+  },
+  {
     "testId": "TestLDR",
     "name": "LDR values",
     "description": "Test that LDR values are proper."
