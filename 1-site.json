@@ -2262,7 +2262,12 @@
     "gaw": null,
     "country": "India",
     "countryCode": "IN",
-    "type": ["other"]
+    "type": ["other"],
+    "citations": [
+      {
+        "id": "chennai_cite"
+      }
+    ]
   },
   {
     "id": "sonnblick",

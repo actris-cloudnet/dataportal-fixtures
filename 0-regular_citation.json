@@ -38,5 +38,9 @@
   {
     "id": "fmi-weather-radar_cite",
     "acknowledgements": "The vertically-pointing ZDR calibration scans were provided by the weather radar team from the Finnish Meteorological Institute."
+  },
+  {
+    "id": "chennai_cite",
+    "acknowledgements": "Measurements at Chennai were carried out by the Indian Institute of Technology Madras (IIT Madras) and the Finnish Meteorological Institute (FMI) as part of the CO-ENHANCIN project funded by the Research Council of Finland (grant no. 360113)."
   }
 ]
