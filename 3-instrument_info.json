@@ -3677,6 +3677,18 @@
     "instrument": "weather-station"
   },
   {
+    "uuid": "f2cc8272-e9ef-482d-944f-bf6b5cc81e08",
+    "pid": "https://hdl.handle.net/21.12132/3.f2cc8272e9ef482d",
+    "name": "FMI HALO 54",
+    "serialNumber": null,
+    "model": "StreamLine Pro",
+    "modelUrl": "https://vocabulary.actris.nilu.no/actris_vocab/HALOPhotonicsStreamLinePro",
+    "type": "Doppler lidar",
+    "typeUrl": "https://vocabulary.actris.nilu.no/actris_vocab/Dopplerlidar",
+    "owners": ["Finnish Meteorological Institute (FMI)"],
+    "instrument": "halo-doppler-lidar"
+  },
+  {
     "uuid": "f33e53dd-dde4-4495-93f2-8f0afddf484f",
     "pid": "https://hdl.handle.net/21.12132/3.f33e53dddde44495",
     "name": "FMI CL61-B",
