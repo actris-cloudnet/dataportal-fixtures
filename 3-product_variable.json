@@ -1073,9 +1073,16 @@
     "actrisName": null
   },
   {
+    "id": "weather-station-snow_depth",
+    "humanReadableName": "Snow depth",
+    "order": 10,
+    "product": "weather-station",
+    "actrisName": null
+  },
+  {
     "id": "weather-station-visibility",
     "humanReadableName": "Visibility",
-    "order": 10,
+    "order": 11,
     "product": "weather-station",
     "actrisName": null
   },
